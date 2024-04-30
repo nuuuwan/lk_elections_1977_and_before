@@ -1,0 +1,2620 @@
+{
+  "date_str": 1970,
+  "results": [
+    {
+      "row_num": "1",
+      "electorate_name": "Colombo North",
+      "party_to_candidate": {
+        "Elephant": "V.A. Sugathadasa",
+        "Chair": "Harris Wickremetunge",
+        "Ship": "W.I.A. Corsby Fernando",
+        "Cockerel": "A.S. Jayamaha"
+      },
+      "party_to_votes": {
+        "Elephant": 20930,
+        "Chair": 13783,
+        "Ship": 164,
+        "Cockerel": 97
+      },
+      "electors": 44511,
+      "valid": 34974,
+      "rejected": 97,
+      "polled": 0
+    },
+    {
+      "row_num": "2",
+      "electorate_name": "Colombo Central",
+      "party_to_candidate": {
+        "Elephant": "R. Premadasa",
+        "Chair": "Falil Caffoor",
+        "Star": "Pieter Keuneman",
+        "Hand": "M. Haleem Ishak",
+        "Umbrella": "C. Durairajah",
+        "Bell": "M. Haroun Careem",
+        "Ship": "Poopathy Saravanamuttu",
+        "Pair of Scales": "Panangadan Raman Krishnan"
+      },
+      "party_to_votes": {
+        "Elephant": 69310,
+        "Chair": 63624,
+        "Star": 58557,
+        "Hand": 41716,
+        "Umbrella": 783,
+        "Bell": 413,
+        "Ship": 396,
+        "Pair of Scales": 307
+      },
+      "electors": 99265,
+      "valid": 235106,
+      "rejected": 5491,
+      "polled": 240597
+    },
+    {
+      "row_num": "3",
+      "electorate_name": "Borella",
+      "party_to_candidate": {
+        "Key": "Kusala Abhayawardana (Mrs.)",
+        "Elephant": "M.H. Mohamed",
+        "Pair of Scales": "M.A. Mansoor"
+      },
+      "party_to_votes": {
+        "Key": 16421,
+        "Elephant": 15829,
+        "Pair of Scales": 510
+      },
+      "electors": 42849,
+      "valid": 32760,
+      "rejected": 50,
+      "polled": 32810
+    },
+    {
+      "row_num": "4",
+      "electorate_name": "Colombo South",
+      "party_to_candidate": {
+        "Elephant": "J.R. Jayawardena",
+        "Key": "Bernard Soysa",
+        "Eye": "Ratnasabapathy Wijaya Indra",
+        "Bell": "Ariyadasa Peiris",
+        "Cockerel": "A.S. Jayamaha",
+        "Flower": "Mudalige Justin Perera",
+        "Chair": "Joseph Beling",
+        "Pair of Scales": "Yathiendradasa Manampery"
+      },
+      "party_to_votes": {
+        "Elephant": 57609,
+        "Key": 36783,
+        "Eye": 1166,
+        "Bell": 561,
+        "Cockerel": 241,
+        "Flower": 165,
+        "Chair": 164,
+        "Pair of Scales": 105
+      },
+      "electors": 66136,
+      "valid": 96794,
+      "rejected": 1134,
+      "polled": 97928
+    },
+    {
+      "row_num": "5",
+      "electorate_name": "Wattala",
+      "party_to_candidate": {
+        "Hand": "A.D.J.L. Leo",
+        "Elephant": "D. Shelton Jayasinghe"
+      },
+      "party_to_votes": {
+        "Hand": 21856,
+        "Elephant": 19667
+      },
+      "electors": 48875,
+      "valid": 41523,
+      "rejected": 106,
+      "polled": 41629
+    },
+    {
+      "row_num": "6",
+      "electorate_name": "Negombo",
+      "party_to_candidate": {
+        "Elephant": "Denzil Fernando",
+        "Hand": "Justin Fernando"
+      },
+      "party_to_votes": {
+        "Elephant": 20457,
+        "Hand": 15920
+      },
+      "electors": 44284,
+      "valid": 36377,
+      "rejected": 132,
+      "polled": 36509
+    },
+    {
+      "row_num": "7",
+      "electorate_name": "Katana",
+      "party_to_candidate": {
+        "Hand": "K.C. de Silva",
+        "Elephant": "Wijayapala Mendis"
+      },
+      "party_to_votes": {
+        "Hand": 22370,
+        "Elephant": 11589
+      },
+      "electors": 43074,
+      "valid": 33959,
+      "rejected": 155,
+      "polled": 34114
+    },
+    {
+      "row_num": "8",
+      "electorate_name": "Divulapitiya",
+      "party_to_candidate": {
+        "Hand": "Lakshman Jayakody",
+        "Elephant": "Ariyaratne Jayatilake",
+        "Bell": "Sri C.S. Dagonna"
+      },
+      "party_to_votes": {
+        "Hand": 23772,
+        "Elephant": 14601,
+        "Bell": 252
+      },
+      "electors": 44080,
+      "valid": 38625,
+      "rejected": 89,
+      "polled": 38714
+    },
+    {
+      "row_num": "9",
+      "electorate_name": "Mirigama",
+      "party_to_candidate": {
+        "Hand": "S. Obeysekere (Mrs.)",
+        "Elephant": "W.S. Karunaratne"
+      },
+      "party_to_votes": {
+        "Hand": 24872,
+        "Elephant": 19549
+      },
+      "electors": 50721,
+      "valid": 44421,
+      "rejected": 135,
+      "polled": 44556
+    },
+    {
+      "row_num": "10",
+      "electorate_name": "Minuwangoda",
+      "party_to_candidate": {
+        "Hand": "M.P. de Zoysa Siriwardena",
+        "Elephant": "Bennet Gunasekera",
+        "Bell": "Dharmasiri Wijetunga",
+        "": "Sirimavo Ratwatte Dias"
+      },
+      "party_to_votes": {
+        "Hand": 24904,
+        "Elephant": 18066,
+        "Bell": 252
+      },
+      "electors": 48875,
+      "valid": 43222,
+      "rejected": 106,
+      "polled": 43328
+    },
+    {
+      "row_num": "11",
+      "electorate_name": "",
+      "party_to_candidate": {
+        "": "Bandaranaike(Mrs.)",
+        "Elephant": "J.R.P. Suriyapperuma",
+        "Ship": "R.A.D. W. Ratnasekera"
+      },
+      "party_to_votes": {
+        "Elephant": 9889,
+        "Ship": 349
+      },
+      "electors": 48908,
+      "valid": 10238,
+      "rejected": 161,
+      "polled": 42011
+    },
+    {
+      "row_num": "12",
+      "electorate_name": "Gampaha",
+      "party_to_candidate": {
+        "Hand": "A.T. Basnayake",
+        "Elephant": "Alfred Jayawardena",
+        "Butterfly": "S.D. Bandaranayake"
+      },
+      "party_to_votes": {
+        "Hand": 26057,
+        "Elephant": 13846,
+        "Butterfly": 3485
+      },
+      "electors": 50471,
+      "valid": 43388,
+      "rejected": 108,
+      "polled": 43496
+    },
+    {
+      "row_num": "13",
+      "electorate_name": "Ja-ela",
+      "party_to_candidate": {
+        "Elephant": "Paris Perera",
+        "Hand": "Shelton Amarasekera",
+        "Lamp": "Peter Mendis"
+      },
+      "party_to_votes": {
+        "Elephant": 21657,
+        "Hand": 19762,
+        "Lamp": 2166
+      },
+      "electors": 52066,
+      "valid": 43585,
+      "rejected": 71,
+      "polled": 43656
+    },
+    {
+      "row_num": "14",
+      "electorate_name": "Mahara",
+      "party_to_candidate": {
+        "Hand": "S.K. Karunadasa Suriyaarachchi",
+        "Elephant": "Tudor Gunasekera"
+      },
+      "party_to_votes": {
+        "Hand": 27679,
+        "Elephant": 16883
+      },
+      "electors": 51464,
+      "valid": 44562,
+      "rejected": 167,
+      "polled": 44729
+    },
+    {
+      "row_num": "15",
+      "electorate_name": "Dompe",
+      "party_to_candidate": {
+        "Hand": "Filix R.D. Banddaranaike",
+        "Elephant": "G.B. Perera"
+      },
+      "party_to_votes": {
+        "Hand": 31515,
+        "Elephant": 9142
+      },
+      "electors": 48480,
+      "valid": 40657,
+      "rejected": 210,
+      "polled": 40867
+    },
+    {
+      "row_num": "16",
+      "electorate_name": "Kelaniya",
+      "party_to_candidate": {
+        "Hand": "R.S. Perera",
+        "Elephant": "A.W.A. Abhayagoonasekera",
+        "Bell": "M.D.H. de Silva"
+      },
+      "party_to_votes": {
+        "Hand": 29331,
+        "Elephant": 20992,
+        "Bell": 348
+      },
+      "electors": 59968,
+      "valid": 50671,
+      "rejected": 178,
+      "polled": 50849
+    },
+    {
+      "row_num": "17",
+      "electorate_name": "Kolonnawa",
+      "party_to_candidate": {
+        "Hand": "T.B. Illangaratne",
+        "Cart Wheel": "Kusumasiri Gunawardena(Mrs.)"
+      },
+      "party_to_votes": {
+        "Hand": 21717,
+        "Cart Wheel": 12881
+      },
+      "electors": 44771,
+      "valid": 34598,
+      "rejected": 138,
+      "polled": 34736
+    },
+    {
+      "row_num": "18",
+      "electorate_name": "Kotte",
+      "party_to_candidate": {
+        "Hand": "Stanley Tilleraratne",
+        "Elephant": "Aratchige Jinadasa Niyathapala"
+      },
+      "party_to_votes": {
+        "Hand": 32051,
+        "Elephant": 24208
+      },
+      "electors": 68383,
+      "valid": 56259,
+      "rejected": 156,
+      "polled": 56415
+    },
+    {
+      "row_num": "19",
+      "electorate_name": "Dehiwala-Mt.Lavinia",
+      "party_to_candidate": {
+        "Key": "Vivienne Goonawardene (Mrs.)",
+        "Elephant": "S.de S. Jayasinghe"
+      },
+      "party_to_votes": {
+        "Key": 29430,
+        "Elephant": 27463
+      },
+      "electors": 70236,
+      "valid": 56893,
+      "rejected": 106,
+      "polled": 56999
+    },
+    {
+      "row_num": "20",
+      "electorate_name": "Moratuwa",
+      "party_to_candidate": {
+        "Key": "Wimalasiri De Mel",
+        "Elephant": "M. Ruskin Fernando",
+        "Bell": "G.K. Nina Wijesuriya(Mrs.)"
+      },
+      "party_to_votes": {
+        "Key": 24672,
+        "Elephant": 20258,
+        "Bell": 252
+      },
+      "electors": 54188,
+      "valid": 45182,
+      "rejected": 68,
+      "polled": 45250
+    },
+    {
+      "row_num": "21",
+      "electorate_name": "Kesbewa",
+      "party_to_candidate": {
+        "Hand": "Somaweera Chandrasiri",
+        "Elephant": "Dharmasena Attygalle"
+      },
+      "party_to_votes": {
+        "Hand": 32332,
+        "Elephant": 17726
+      },
+      "electors": 62441,
+      "valid": 50058,
+      "rejected": 173,
+      "polled": 50231
+    },
+    {
+      "row_num": "22",
+      "electorate_name": "Kottawa",
+      "party_to_candidate": {
+        "Key": "Chandrapala Gunasekera",
+        "": "Jayawardhana"
+      },
+      "party_to_votes": {
+        "Key": 31662
+      },
+      "electors": 59658,
+      "valid": 31662,
+      "rejected": 115,
+      "polled": 51944
+    },
+    {
+      "row_num": "23",
+      "electorate_name": "Homagama",
+      "party_to_candidate": {
+        "Key": "Wilfred Senanayake",
+        "Elephant": "Gamini Jayasuriya",
+        "Bell": "Somapala Mayadunnage"
+      },
+      "party_to_votes": {
+        "Key": 24730,
+        "Elephant": 17471,
+        "Bell": 320
+      },
+      "electors": 47270,
+      "valid": 42521,
+      "rejected": 114,
+      "polled": 42635
+    },
+    {
+      "row_num": "24",
+      "electorate_name": "Avissawella",
+      "party_to_candidate": {
+        "Hand": "Bonnie Jayasuriya",
+        "Cart Wheel": "Philip Gunawardena",
+        "Chair": "Siripala Padukka"
+      },
+      "party_to_votes": {
+        "Hand": 19687,
+        "Cart Wheel": 17661,
+        "Chair": 2883
+      },
+      "electors": 46402,
+      "valid": 40231,
+      "rejected": 134,
+      "polled": 40365
+    },
+    {
+      "row_num": "25",
+      "electorate_name": "Horana",
+      "party_to_candidate": {
+        "Hand": "Ratnasiri Wickremanayake",
+        "Elephant": "Indradasa Hettiarachchi"
+      },
+      "party_to_votes": {
+        "Hand": 24163,
+        "Elephant": 17410
+      },
+      "electors": 45330,
+      "valid": 41573,
+      "rejected": 68,
+      "polled": 41641
+    },
+    {
+      "row_num": "26",
+      "electorate_name": "Bulathsinhala",
+      "party_to_candidate": {
+        "Key": "Mangalanath Moonasinghe",
+        "Chair": "S. de S. Ranasinghe",
+        "Cart Wheel": "Tissa Liyanage",
+        "Bell": "Siripala Hettiarachchi"
+      },
+      "party_to_votes": {
+        "Key": 18916,
+        "Chair": 8121,
+        "Cart Wheel": 2031,
+        "Bell": 133
+      },
+      "electors": 33800,
+      "valid": 29201,
+      "rejected": 90,
+      "polled": 29291
+    },
+    {
+      "row_num": "27",
+      "electorate_name": "Bandaragama",
+      "party_to_candidate": {
+        "Hand": "Herbert Wickramasinghe",
+        "Elephant": "D.C. W. Kannangaara",
+        "Bell": "P.R. Ranaraja"
+      },
+      "party_to_votes": {
+        "Hand": 27562,
+        "Elephant": 15593,
+        "Bell": 521
+      },
+      "electors": 51062,
+      "valid": 43676,
+      "rejected": 138,
+      "polled": 43814
+    },
+    {
+      "row_num": "28",
+      "electorate_name": "Panadura",
+      "party_to_candidate": {
+        "Key": "Leslie Gunawardhane",
+        "Elephant": "Cyril Salgadu",
+        "Bell": "Jayasiri Hirimuthugoda"
+      },
+      "party_to_votes": {
+        "Key": 25218,
+        "Elephant": 16622,
+        "Bell": 529
+      },
+      "electors": 50489,
+      "valid": 42369,
+      "rejected": 80,
+      "polled": 42449
+    },
+    {
+      "row_num": "29",
+      "electorate_name": "Kalutara",
+      "party_to_candidate": {
+        "Key": "Cholmondeley Goonewardene",
+        "Elephant": "V.L. Wijemanne"
+      },
+      "party_to_votes": {
+        "Key": 23696,
+        "Elephant": 17591
+      },
+      "electors": 47334,
+      "valid": 41287,
+      "rejected": 90,
+      "polled": 41377
+    },
+    {
+      "row_num": "30",
+      "electorate_name": "Beruwala",
+      "party_to_candidate": {
+        "Hand": "I.A.Abdul Cader",
+        "Elephant": "Abdul Bakeer Markar",
+        "Flower": "D.F. Galhena"
+      },
+      "party_to_votes": {
+        "Hand": 23036,
+        "Elephant": 19096,
+        "Flower": 274
+      },
+      "electors": 47987,
+      "valid": 42406,
+      "rejected": 107,
+      "polled": 42513
+    },
+    {
+      "row_num": "31",
+      "electorate_name": "Matugama",
+      "party_to_candidate": {
+        "Hand": "Dayasena T. Pasqual",
+        "Cart Wheel": "Reginald Wijegunaratne"
+      },
+      "party_to_votes": {
+        "Hand": 24718,
+        "Cart Wheel": 13998
+      },
+      "electors": 46066,
+      "valid": 38716,
+      "rejected": 115,
+      "polled": 38831
+    },
+    {
+      "row_num": "32",
+      "electorate_name": "Agalawatta",
+      "party_to_candidate": {
+        "Key": "Colvin R. de Silva",
+        "Elephant": "G.D. Mahindasoma",
+        "Bell": "A.D.P. Karunatilleke"
+      },
+      "party_to_votes": {
+        "Key": 25164,
+        "Elephant": 19978,
+        "Bell": 154
+      },
+      "electors": 51367,
+      "valid": 45296,
+      "rejected": 106,
+      "polled": 45402
+    },
+    {
+      "row_num": "33",
+      "electorate_name": "Dambulla",
+      "party_to_candidate": {
+        "Hand": "T.B. Tennakoon",
+        "Elephant": "K.W.R.M. Ekanayake"
+      },
+      "party_to_votes": {
+        "Hand": 17010,
+        "Elephant": 13123
+      },
+      "electors": 33503,
+      "valid": 30133,
+      "rejected": 126,
+      "polled": 30259
+    },
+    {
+      "row_num": "34",
+      "electorate_name": "Laggala",
+      "party_to_candidate": {
+        "Hand": "M.C. Gopallawa",
+        "Elephant": "P.G. Muthubanda",
+        "Lamp": "K.M.K. Banda",
+        "Bell": "Rambanda Wijekoon"
+      },
+      "party_to_votes": {
+        "Hand": 9166,
+        "Elephant": 5892,
+        "Lamp": 454,
+        "Bell": 150
+      },
+      "electors": 17961,
+      "valid": 15662,
+      "rejected": 113,
+      "polled": 15775
+    },
+    {
+      "row_num": "35",
+      "electorate_name": "Matale",
+      "party_to_candidate": {
+        "Hand": "Richard Udugama",
+        "Elephant": "Alick Aluvihare"
+      },
+      "party_to_votes": {
+        "Hand": 13428,
+        "Elephant": 12778
+      },
+      "electors": 30396,
+      "valid": 26206,
+      "rejected": 120,
+      "polled": 26326
+    },
+    {
+      "row_num": "36",
+      "electorate_name": "Rattota",
+      "party_to_candidate": {
+        "Hand": "S.B. Yalegama",
+        "Elephant": "C. Munaweera"
+      },
+      "party_to_votes": {
+        "Hand": 16039,
+        "Elephant": 11536
+      },
+      "electors": 31422,
+      "valid": 27575,
+      "rejected": 219,
+      "polled": 27794
+    },
+    {
+      "row_num": "37",
+      "electorate_name": "Wattegama",
+      "party_to_candidate": {
+        "Hand": "A.G. Fernando",
+        "Elephant": "P.B.A. Weerakoon",
+        "Ladder": "C. Ratnayake"
+      },
+      "party_to_votes": {
+        "Hand": 12840,
+        "Elephant": 10869,
+        "Ladder": 2598
+      },
+      "electors": 30024,
+      "valid": 26307,
+      "rejected": 90,
+      "polled": 26397
+    },
+    {
+      "row_num": "38",
+      "electorate_name": "Akurana",
+      "party_to_candidate": {
+        "Elephant": "A.C.S. Hameed",
+        "Hand": "D.G. Hemachandra Siresena",
+        "Ladder": "H.B. Ratnayake",
+        "Pair of Scales": "M.C.M. Haniffa",
+        "Bell": "Wijekoon D. Hearth"
+      },
+      "party_to_votes": {
+        "Elephant": 41103,
+        "Hand": 40984,
+        "Ladder": 21466,
+        "Pair of Scales": 5136,
+        "Bell": 561
+      },
+      "electors": 62067,
+      "valid": 109250,
+      "rejected": 1652,
+      "polled": 110902
+    },
+    {
+      "row_num": "39",
+      "electorate_name": "Galagedera",
+      "party_to_candidate": {
+        "Hand": "Thamara Ilangaratna (Mrs.)",
+        "Elephant": "W.M.G.T. Banda"
+      },
+      "party_to_votes": {
+        "Hand": 13211,
+        "Elephant": 10651
+      },
+      "electors": 26702,
+      "valid": 23862,
+      "rejected": 67,
+      "polled": 23929
+    },
+    {
+      "row_num": "40",
+      "electorate_name": "Yatinuwara",
+      "party_to_candidate": {
+        "Hand": "Hector Kobbekaduwa",
+        "Elephant": "Sunil Subasiri Abeysundara",
+        "Bell": "Cyril S. Ketakumbura"
+      },
+      "party_to_votes": {
+        "Hand": 16407,
+        "Elephant": 10914,
+        "Bell": 184
+      },
+      "electors": 31105,
+      "valid": 27505,
+      "rejected": 98,
+      "polled": 27603
+    },
+    {
+      "row_num": "41",
+      "electorate_name": "Udunuwara",
+      "party_to_candidate": {
+        "Hand": "T.B. Jayasundera",
+        "Elephant": "D.B. Wijetunga"
+      },
+      "party_to_votes": {
+        "Hand": 14386,
+        "Elephant": 13318
+      },
+      "electors": 30732,
+      "valid": 27704,
+      "rejected": 95,
+      "polled": 27799
+    },
+    {
+      "row_num": "42",
+      "electorate_name": "Kandy",
+      "party_to_candidate": {
+        "Elephant": "E.L. Senanayake",
+        "Hand": "G.B. de Silva"
+      },
+      "party_to_votes": {
+        "Elephant": 11150,
+        "Hand": 10121
+      },
+      "electors": 25809,
+      "valid": 21271,
+      "rejected": 92,
+      "polled": 21363
+    },
+    {
+      "row_num": "43",
+      "electorate_name": "Senkadagala",
+      "party_to_candidate": {
+        "Elephant": "N. Wimalasena",
+        "Hand": "Anurudha Ratwatte",
+        "Bell": "M.B.C.E. SIriwardhana"
+      },
+      "party_to_votes": {
+        "Elephant": 10917,
+        "Hand": 10592,
+        "Bell": 68
+      },
+      "electors": 25780,
+      "valid": 21577,
+      "rejected": 67,
+      "polled": 21644
+    },
+    {
+      "row_num": "44",
+      "electorate_name": "Kundasale",
+      "party_to_candidate": {
+        "Hand": "U.P.Y. Jinadasa",
+        "Elephant": "R.P. Wijesiri",
+        "Bell": "Lionel Kulatunge"
+      },
+      "party_to_votes": {
+        "Hand": 13317,
+        "Elephant": 11208,
+        "Bell": 116
+      },
+      "electors": 27297,
+      "valid": 24641,
+      "rejected": 94,
+      "polled": 24735
+    },
+    {
+      "row_num": "45",
+      "electorate_name": "Teldeniya",
+      "party_to_candidate": {
+        "Hand": "Rajapakse Kulatillake",
+        "Elephant": "Tissa Kapukotuwa",
+        "Bell": "K.B. Rambukwella"
+      },
+      "party_to_votes": {
+        "Hand": 11457,
+        "Elephant": 8038,
+        "Bell": 176
+      },
+      "electors": 21979,
+      "valid": 19671,
+      "rejected": 110,
+      "polled": 19781
+    },
+    {
+      "row_num": "46",
+      "electorate_name": "Minipe",
+      "party_to_candidate": {
+        "Hand": "H.M. Navaratna",
+        "Elephant": "B. Madugalla"
+      },
+      "party_to_votes": {
+        "Hand": 10443,
+        "Elephant": 7115
+      },
+      "electors": 19775,
+      "valid": 17558,
+      "rejected": 96,
+      "polled": 17654
+    },
+    {
+      "row_num": "47",
+      "electorate_name": "Walapane",
+      "party_to_candidate": {
+        "Hand": "T.B.M. Herath",
+        "Elephant": "R.S. Ramanayake"
+      },
+      "party_to_votes": {
+        "Hand": 12591,
+        "Elephant": 9107
+      },
+      "electors": 24453,
+      "valid": 21698,
+      "rejected": 166,
+      "polled": 21864
+    },
+    {
+      "row_num": "48",
+      "electorate_name": "Hanguranketa",
+      "party_to_candidate": {
+        "Hand": "P.B. Unantenne",
+        "Elephant": "George Abeyagoonasekera"
+      },
+      "party_to_votes": {
+        "Hand": 13889,
+        "Elephant": 10581
+      },
+      "electors": 27089,
+      "valid": 24470,
+      "rejected": 169,
+      "polled": 24639
+    },
+    {
+      "row_num": "49",
+      "electorate_name": "Hewaheta",
+      "party_to_candidate": {
+        "Hand": "P. Tennakoon",
+        "Elepnant": "M.A. Daniel Appuhamy"
+      },
+      "party_to_votes": {
+        "Hand": 13071,
+        "Elepnant": 10454
+      },
+      "electors": 26489,
+      "valid": 23525,
+      "rejected": 151,
+      "polled": 23676
+    },
+    {
+      "row_num": "50",
+      "electorate_name": "Gampaha",
+      "party_to_candidate": {
+        "Hand": "D.M. Jayaratne",
+        "Elephant": "W.P.B. Dissanayake",
+        "Flower": "Anuladasa Wanigasekera"
+      },
+      "party_to_votes": {
+        "Hand": 14463,
+        "Elephant": 13217,
+        "Flower": 150
+      },
+      "electors": 32504,
+      "valid": 27830,
+      "rejected": 130,
+      "polled": 27960
+    },
+    {
+      "row_num": "51",
+      "electorate_name": "Nawalapitiya",
+      "party_to_candidate": {
+        "Hand": "M.S. Aluthgamage",
+        "Elephant": "C. Karunaratne",
+        "Bell": "A.R.M. Abdul Cader"
+      },
+      "party_to_votes": {
+        "Hand": 16774,
+        "Elephant": 13672,
+        "Bell": 95
+      },
+      "electors": 35901,
+      "valid": 30541,
+      "rejected": 286,
+      "polled": 30827
+    },
+    {
+      "row_num": "52",
+      "electorate_name": "Kotmale",
+      "party_to_candidate": {
+        "Hand": "J.D. Weerasekera",
+        "Elephant": "D.B. Ranatunge",
+        "Bell": "O.M. Wijewardhana"
+      },
+      "party_to_votes": {
+        "Hand": 11936,
+        "Elephant": 10768,
+        "Bell": 235
+      },
+      "electors": 25953,
+      "valid": 22939,
+      "rejected": 122,
+      "polled": 23061
+    },
+    {
+      "row_num": "53",
+      "electorate_name": "Nuwara Eliya",
+      "party_to_candidate": {
+        "Elephant": "Gamini Dissanayake",
+        "Hand": "T. William Fernando",
+        "Lamp": "C.V. Velupillai"
+      },
+      "party_to_votes": {
+        "Elephant": 10887,
+        "Hand": 8810,
+        "Lamp": 170
+      },
+      "electors": 24027,
+      "valid": 19867,
+      "rejected": 143,
+      "polled": 20010
+    },
+    {
+      "row_num": "54",
+      "electorate_name": "Maskeliya",
+      "party_to_candidate": {
+        "Hand": "P.G. Ariyatillake",
+        "Elephant": "E. Wijesuriya",
+        "Umbrella": "V.K. Vellaiyen",
+        "Butterfly": "D.J. Ranaweera"
+      },
+      "party_to_votes": {
+        "Hand": 10783,
+        "Elephant": 10087,
+        "Umbrella": 1412,
+        "Butterfly": 1289
+      },
+      "electors": 27945,
+      "valid": 23571,
+      "rejected": 163,
+      "polled": 23734
+    },
+    {
+      "row_num": "55",
+      "electorate_name": "Balapitiya",
+      "party_to_candidate": {
+        "Key": "Pettagan Weerasinghe de Silva",
+        "Elephant": "R.T. de Silva",
+        "Bell": "E.M.M. Wijerama",
+        "Ship": "Jayasena Munasinghe"
+      },
+      "party_to_votes": {
+        "Key": 22659,
+        "Elephant": 14431,
+        "Bell": 951,
+        "Ship": 169
+      },
+      "electors": 45862,
+      "valid": 38210,
+      "rejected": 76,
+      "polled": 38286
+    },
+    {
+      "row_num": "56",
+      "electorate_name": "Ambalangoda",
+      "party_to_candidate": {
+        "Key": "L.C. de Silva",
+        "Elephant": "M.H. Saddhasena",
+        "Bell": "U.D. Kulasinghe"
+      },
+      "party_to_votes": {
+        "Key": 22356,
+        "Elephant": 11728,
+        "Bell": 544
+      },
+      "electors": 40103,
+      "valid": 34628,
+      "rejected": 82,
+      "polled": 34710
+    },
+    {
+      "row_num": "57",
+      "electorate_name": "Bentara-Elpitiya",
+      "party_to_candidate": {
+        "Hand": "Albert Kariyawasam",
+        "Elephant": "Rupasena Karunatillake"
+      },
+      "party_to_votes": {
+        "Hand": 29801,
+        "Elephant": 22709
+      },
+      "electors": 59022,
+      "valid": 52510,
+      "rejected": 114,
+      "polled": 52624
+    },
+    {
+      "row_num": "58",
+      "electorate_name": "Hiniduma",
+      "party_to_candidate": {
+        "Hand": "Henry William Dissanayake",
+        "Elephant": "M.S. Amarasiri",
+        "Bell": "Don Piyasena Edirisinghe"
+      },
+      "party_to_votes": {
+        "Hand": 16779,
+        "Elephant": 11092,
+        "Bell": 251
+      },
+      "electors": 32011,
+      "valid": 28122,
+      "rejected": 143,
+      "polled": 28265
+    },
+    {
+      "row_num": "59",
+      "electorate_name": "Baddegama",
+      "party_to_candidate": {
+        "Key": "Neal de Alwis",
+        "Elephant": "E.D. Wickrematilleke"
+      },
+      "party_to_votes": {
+        "Key": 22126,
+        "Elephant": 16240
+      },
+      "electors": 44391,
+      "valid": 38366,
+      "rejected": 95,
+      "polled": 38461
+    },
+    {
+      "row_num": "60",
+      "electorate_name": "Ratgama",
+      "party_to_candidate": {
+        "Star": "M.G. Mendis",
+        "Elephant": "Edwin Tillakaratne",
+        "Pair of Scales": "Hemachcndra Godage",
+        "Cockerel": "H.K. Martin Mendis Rajapakse"
+      },
+      "party_to_votes": {
+        "Star": 24644,
+        "Elephant": 13017,
+        "Pair of Scales": 152,
+        "Cockerel": 120
+      },
+      "electors": 43536,
+      "valid": 37933,
+      "rejected": 102,
+      "polled": 38035
+    },
+    {
+      "row_num": "61",
+      "electorate_name": "Akmeemana",
+      "party_to_candidate": {
+        "Hand": "Senapala Samarasekera",
+        "Elephant": "Sugathadasa Arambawalage",
+        "Bell": "Bentis Kulasinghe",
+        "Eye": "K.H. Sugathadasa"
+      },
+      "party_to_votes": {
+        "Hand": 21749,
+        "Elephant": 14388,
+        "Bell": 287,
+        "Eye": 188
+      },
+      "electors": 42678,
+      "valid": 36612,
+      "rejected": 82,
+      "polled": 36694
+    },
+    {
+      "row_num": "62",
+      "electorate_name": "Galle",
+      "party_to_candidate": {
+        "Elephant": "Wijeyananda Dahanayake",
+        "Hand": "W.D.S. Abeygunawardhana",
+        "Bell": "J..R.G. Abeywickreme"
+      },
+      "party_to_votes": {
+        "Elephant": 16940,
+        "Hand": 13138,
+        "Bell": 113
+      },
+      "electors": 37385,
+      "valid": 30191,
+      "rejected": 57,
+      "polled": 30248
+    },
+    {
+      "row_num": "63",
+      "electorate_name": "Habaraduwa",
+      "party_to_candidate": {
+        "Hand": "Prins Gunasekera",
+        "Elephant": "G.V.S. de Silva",
+        "Bell": "V. Palliyaguru"
+      },
+      "party_to_votes": {
+        "Hand": 22932,
+        "Elephant": 13260,
+        "Bell": 176
+      },
+      "electors": 42986,
+      "valid": 36368,
+      "rejected": 79,
+      "polled": 36447
+    },
+    {
+      "row_num": "64",
+      "electorate_name": "Weligama",
+      "party_to_candidate": {
+        "Hand": "Christoffel Panini Illangakoon",
+        "Elephant": "S.S. Perera"
+      },
+      "party_to_votes": {
+        "Hand": 22635,
+        "Elephant": 16224
+      },
+      "electors": 47309,
+      "valid": 38859,
+      "rejected": 107,
+      "polled": 38966
+    },
+    {
+      "row_num": "65",
+      "electorate_name": "Akuressa",
+      "party_to_candidate": {
+        "Star": "S.A. Wickremasinghe",
+        "Elephant": "V.P.A. Abeysinghe"
+      },
+      "party_to_votes": {
+        "Star": 20007,
+        "Elephant": 14466
+      },
+      "electors": 40078,
+      "valid": 34473,
+      "rejected": 107,
+      "polled": 34580
+    },
+    {
+      "row_num": "66",
+      "electorate_name": "Deniyaya",
+      "party_to_candidate": {
+        "Key": "Sumanapala Dahanayake",
+        "Elephant": "Charles Nissanka Kannangara"
+      },
+      "party_to_votes": {
+        "Key": 18760,
+        "Elephant": 12076
+      },
+      "electors": 36444,
+      "valid": 30836,
+      "rejected": 107,
+      "polled": 30943
+    },
+    {
+      "row_num": "67",
+      "electorate_name": "Hakmana",
+      "party_to_candidate": {
+        "Hand": "Roy Don Rajapakse",
+        "Elephant": "Harshanath Wanigasekera"
+      },
+      "party_to_votes": {
+        "Hand": 21699,
+        "Elephant": 12226
+      },
+      "electors": 39604,
+      "valid": 33925,
+      "rejected": 117,
+      "polled": 34042
+    },
+    {
+      "row_num": "68",
+      "electorate_name": "Kamburupitiya",
+      "party_to_candidate": {
+        "Star": "Aelian Mahanaga Nanayakkara",
+        "Elephant": "C.A. Dharmapala",
+        "Lamp": "Buddhadasa Rasaputram"
+      },
+      "party_to_votes": {
+        "Star": 21685,
+        "Elephant": 12439,
+        "Lamp": 216
+      },
+      "electors": 40548,
+      "valid": 34340,
+      "rejected": 107,
+      "polled": 34447
+    },
+    {
+      "row_num": "69",
+      "electorate_name": "Matara",
+      "party_to_candidate": {
+        "Star": "B.Y. Tudawe",
+        "Elephant": "S.K. Piyadasa",
+        "Bell": "E.P. Wijethunga"
+      },
+      "party_to_votes": {
+        "Star": 20764,
+        "Elephant": 14580,
+        "Bell": 160
+      },
+      "electors": 41751,
+      "valid": 35504,
+      "rejected": 70,
+      "polled": 35574
+    },
+    {
+      "row_num": "70",
+      "electorate_name": "Devinuwara",
+      "party_to_candidate": {
+        "Hand": "R. de Mel",
+        "Elephant": "P.P. Wickremasuriya",
+        "Bell": "H.P.D. Weerasinghe"
+      },
+      "party_to_votes": {
+        "Hand": 20798,
+        "Elephant": 14747,
+        "Bell": 263
+      },
+      "electors": 44112,
+      "valid": 35808,
+      "rejected": 52,
+      "polled": 35860
+    },
+    {
+      "row_num": "71",
+      "electorate_name": "Beliatta",
+      "party_to_candidate": {
+        "Hand": "Percy Mahendra Rajapakse",
+        "Elephant": "Ranjith K.P. Atapattu",
+        "": "Weerawarna Nilaweera"
+      },
+      "party_to_votes": {
+        "Hand": 23103,
+        "Elephant": 16477
+      },
+      "electors": 46342,
+      "valid": 39580,
+      "rejected": 163,
+      "polled": 40421
+    },
+    {
+      "row_num": "72",
+      "electorate_name": "Mulkirigala",
+      "party_to_candidate": {
+        "Hand": "George Rajapakse",
+        "Elephant": "T.D. Fransisku"
+      },
+      "party_to_votes": {
+        "Hand": 22569,
+        "Elephant": 16643
+      },
+      "electors": 45870,
+      "valid": 39212,
+      "rejected": 185,
+      "polled": 39397
+    },
+    {
+      "row_num": "73",
+      "electorate_name": "Tissamaharama",
+      "party_to_candidate": {
+        "Hand": "Edirisuriya Tennyson",
+        "Umbrella": "Rajapakse Lakshman",
+        "": "Edirisuriya",
+        "Chair": "Thassim Mohamed Riyal",
+        "Butterfly": "Weerasin Gunasekera Edmund",
+        "Bell": "Ubewarna NImal Rohana"
+      },
+      "party_to_votes": {
+        "Hand": 18576,
+        "Umbrella": 13121,
+        "Chair": 2733,
+        "Butterfly": 2269,
+        "Bell": 169
+      },
+      "electors": 51500,
+      "valid": 36868,
+      "rejected": 167,
+      "polled": 42954
+    },
+    {
+      "row_num": "74",
+      "electorate_name": "Kayts",
+      "party_to_candidate": {
+        "House": "K.P. Ratnam",
+        "Cockerel": "P. Kathiravelu",
+        "Pair of Scales": "V. Navaratnam",
+        "Bicycle": "N.T. Sivagnanam"
+      },
+      "party_to_votes": {
+        "House": 13079,
+        "Cockerel": 5013,
+        "Pair of Scales": 4758,
+        "Bicycle": 1667
+      },
+      "electors": 32015,
+      "valid": 24517,
+      "rejected": 95,
+      "polled": 24612
+    },
+    {
+      "row_num": "75",
+      "electorate_name": "Vaddukoddai",
+      "party_to_candidate": {
+        "Bicycle": "A. Thiagarajah",
+        "House": "A. Amirthalingam"
+      },
+      "party_to_votes": {
+        "Bicycle": 14359,
+        "House": 13634
+      },
+      "electors": 35812,
+      "valid": 27993,
+      "rejected": 181,
+      "polled": 28174
+    },
+    {
+      "row_num": "76",
+      "electorate_name": "Kankesanthurai",
+      "party_to_candidate": {
+        "House": "S.J.V. Chelvanayakam",
+        "Star": "V. Ponnampalam",
+        "Cockerel": "C. Suntharalingam",
+        "Bicycle": "T. Thirunavakkarasu"
+      },
+      "party_to_votes": {
+        "House": 13520,
+        "Star": 8164,
+        "Cockerel": 5788,
+        "Bicycle": 3051
+      },
+      "electors": 37804,
+      "valid": 30523,
+      "rejected": 140,
+      "polled": 30663
+    },
+    {
+      "row_num": "77",
+      "electorate_name": "Uduvil",
+      "party_to_candidate": {
+        "House": "V. Dharmalingam",
+        "Bicycle": "N. Sivanason",
+        "Pair of Scales": "Kumaraswami Vinodhan",
+        "Key": "V. Karalasingham",
+        "Umbrella": "P.V.M.K.M. Sinnathurai"
+      },
+      "party_to_votes": {
+        "House": 14120,
+        "Bicycle": 11656,
+        "Pair of Scales": 1362,
+        "Key": 1264,
+        "Umbrella": 254
+      },
+      "electors": 36690,
+      "valid": 28656,
+      "rejected": 119,
+      "polled": 28775
+    },
+    {
+      "row_num": "78",
+      "electorate_name": "Jaffna",
+      "party_to_candidate": {
+        "House": "C.X. Martyn",
+        "Umbrella": "A.T. Durayappah",
+        "Bicycle": "G.G. Ponnambalam"
+      },
+      "party_to_votes": {
+        "House": 8848,
+        "Umbrella": 8792,
+        "Bicycle": 7222
+      },
+      "electors": 31214,
+      "valid": 24862,
+      "rejected": 76,
+      "polled": 24938
+    },
+    {
+      "row_num": "79",
+      "electorate_name": "Nallur",
+      "party_to_candidate": {
+        "Bicycle": "C. Arulampalam",
+        "House": "E.M.V. Naganathan",
+        "Pair of Scales": "A. Ratnam",
+        "Key": "V. Satchithanandam",
+        "Cockerel": "C. Thanabalasingham",
+        "Umbrella": "S. Srinivasan"
+      },
+      "party_to_votes": {
+        "Bicycle": 13116,
+        "House": 12508,
+        "Pair of Scales": 1593,
+        "Key": 484,
+        "Cockerel": 223,
+        "Umbrella": 114
+      },
+      "electors": 35747,
+      "valid": 28038,
+      "rejected": 92,
+      "polled": 28130
+    },
+    {
+      "row_num": "80",
+      "electorate_name": "Kopay",
+      "party_to_candidate": {
+        "House": "S. Kathiravelupillai",
+        "Bicycle": "T. Gunaratnam",
+        "Pair of Scales": "M.S. Kanagasundaram",
+        "Hand": "M. Thurairajah"
+      },
+      "party_to_votes": {
+        "House": 16428,
+        "Bicycle": 11288,
+        "Pair of Scales": 983,
+        "Hand": 713
+      },
+      "electors": 37464,
+      "valid": 29412,
+      "rejected": 189,
+      "polled": 29601
+    },
+    {
+      "row_num": "81",
+      "electorate_name": "Udupiddy",
+      "party_to_candidate": {
+        "House": "K. Jeyakkody",
+        "Bicycle": "M. Sivasithamparam",
+        "Star": "P. Kumaraswamy",
+        "Pair of Scales": "K. Pillainar",
+        "Key": "R.R. Dharmaratnam",
+        "Umbrella": "S. Sundaram"
+      },
+      "party_to_votes": {
+        "House": 12918,
+        "Bicycle": 11662,
+        "Star": 1149,
+        "Pair of Scales": 724,
+        "Key": 712,
+        "Umbrella": 591
+      },
+      "electors": 34741,
+      "valid": 27756,
+      "rejected": 179,
+      "polled": 27935
+    },
+    {
+      "row_num": "82",
+      "electorate_name": "Point Pedro",
+      "party_to_candidate": {
+        "House": "K. Thurairatnam",
+        "Bicycle": "N. Nadarajah",
+        "Pair of Scales": "P. Kanagarasa",
+        "Cockerel": "A. Visagaratnam"
+      },
+      "party_to_votes": {
+        "House": 9217,
+        "Bicycle": 8902,
+        "Pair of Scales": 579,
+        "Cockerel": 305
+      },
+      "electors": 24006,
+      "valid": 19003,
+      "rejected": 86,
+      "polled": 19089
+    },
+    {
+      "row_num": "83",
+      "electorate_name": "Chavakachcheri",
+      "party_to_candidate": {
+        "House": "V.N. Navaratnam",
+        "Bicycle": "V. Cumaraswamy"
+      },
+      "party_to_votes": {
+        "House": 15473,
+        "Bicycle": 12921
+      },
+      "electors": 33072,
+      "valid": 28394,
+      "rejected": 84,
+      "polled": 28478
+    },
+    {
+      "row_num": "84",
+      "electorate_name": "Kilinochchi",
+      "party_to_candidate": {
+        "Bicycle": "V. Ananthasangare",
+        "House": "M. Alalasundaram",
+        "Pair of Scales": "K.A. Jerome",
+        "Eye": "A. Shivasunderam",
+        "Key": "K. Kanagaratnam"
+      },
+      "party_to_votes": {
+        "Bicycle": 9049,
+        "House": 8392,
+        "Pair of Scales": 253,
+        "Eye": 196,
+        "Key": 139
+      },
+      "electors": 23793,
+      "valid": 18029,
+      "rejected": 60,
+      "polled": 18089
+    },
+    {
+      "row_num": "85",
+      "electorate_name": "Mannar",
+      "party_to_candidate": {
+        "House": "V.A. Alegacone",
+        "Elephant": "S.A. Raheem",
+        "Hand": "N.M. Abdul Cader"
+      },
+      "party_to_votes": {
+        "House": 10697,
+        "Elephant": 10628,
+        "Hand": 513
+      },
+      "electors": 25441,
+      "valid": 21838,
+      "rejected": 127,
+      "polled": 21965
+    },
+    {
+      "row_num": "86",
+      "electorate_name": "Vavuniya",
+      "party_to_candidate": {
+        "House": "X.M. Sellathambu",
+        "Bicycle": "T. Sivasithambaram",
+        "Star": "S. Pathmanathan",
+        "Pair of Scales": "S.M.K. Subasinghe",
+        "Tree": "A.D.A. Seneviratne"
+      },
+      "party_to_votes": {
+        "House": 10947,
+        "Bicycle": 10674,
+        "Star": 3120,
+        "Pair of Scales": 584,
+        "Tree": 137
+      },
+      "electors": 31650,
+      "valid": 25462,
+      "rejected": 116,
+      "polled": 25578
+    },
+    {
+      "row_num": "87",
+      "electorate_name": "Trincomalee",
+      "party_to_candidate": {
+        "House": "B. Neminathan",
+        "Hand": "S.M.A. C. Jamaldeen",
+        "Elephant": "R. Navaratnarajah",
+        "Bell": "R.G.Senanayake"
+      },
+      "party_to_votes": {
+        "House": 12395,
+        "Hand": 8346,
+        "Elephant": 5703,
+        "Bell": 601
+      },
+      "electors": 35445,
+      "valid": 27045,
+      "rejected": 108,
+      "polled": 27153
+    },
+    {
+      "row_num": "88",
+      "electorate_name": "Mutur",
+      "party_to_candidate": {
+        "Hand": "A.L. Abdul Majeed",
+        "House": "A. Thangathurai",
+        "Ladder": "H.D.L. Leelaratne",
+        "Elephant": "M.E.H.M. Ali",
+        "Lamp": "B.G. Sirisena"
+      },
+      "party_to_votes": {
+        "Hand": 22727,
+        "House": 19787,
+        "Ladder": 18698,
+        "Elephant": 15018,
+        "Lamp": 253
+      },
+      "electors": 44176,
+      "valid": 76483,
+      "rejected": 705,
+      "polled": 77188
+    },
+    {
+      "row_num": "89",
+      "electorate_name": "Kalkudah",
+      "party_to_candidate": {
+        "Elephant": "K.W. Devanayagam",
+        "House": "P. Manicavasagam",
+        "Pair of Scales": "S. Sivagnanam",
+        "Umbrella": "S.S. Gabriel",
+        "Hand": "A.M. Abdul Caffoor"
+      },
+      "party_to_votes": {
+        "Elephant": 11205,
+        "House": 8420,
+        "Pair of Scales": 1660,
+        "Umbrella": 557,
+        "Hand": 331
+      },
+      "electors": 26670,
+      "valid": 22173,
+      "rejected": 120,
+      "polled": 22293
+    },
+    {
+      "row_num": "90",
+      "electorate_name": "Batticaloa",
+      "party_to_candidate": {
+        "House": "C. Rajadurai",
+        "Lamp": "P.R. Selvanayagam",
+        "Elephant": "A.H. Macan Markar",
+        "Hand": "M.A.C.A. Rahuman",
+        "Cockerel": "S.J. Arasaratnam",
+        "Pair of Scales": "T. Francis Xavier"
+      },
+      "party_to_votes": {
+        "House": 27661,
+        "Lamp": 23082,
+        "Elephant": 17015,
+        "Hand": 14805,
+        "Cockerel": 624,
+        "Pair of Scales": 196
+      },
+      "electors": 51524,
+      "valid": 83383,
+      "rejected": 1298,
+      "polled": 84681
+    },
+    {
+      "row_num": "91",
+      "electorate_name": "Amparai",
+      "party_to_candidate": {
+        "Hand": "S. Somaratne",
+        "Elephant": "P. Dayaratne",
+        "Chair": "Y.S. Minoris"
+      },
+      "party_to_votes": {
+        "Hand": 18570,
+        "Elephant": 14194,
+        "Chair": 414
+      },
+      "electors": 42029,
+      "valid": 33178,
+      "rejected": 220,
+      "polled": 33398
+    },
+    {
+      "row_num": "92",
+      "electorate_name": "Paddirippu",
+      "party_to_candidate": {
+        "Elephant": "S. Thambirajah",
+        "House": "S.M. Rasamanickam"
+      },
+      "party_to_votes": {
+        "Elephant": 13370,
+        "House": 12723
+      },
+      "electors": 28992,
+      "valid": 26093,
+      "rejected": 129,
+      "polled": 26222
+    },
+    {
+      "row_num": "93",
+      "electorate_name": "Kalmunai",
+      "party_to_candidate": {
+        "Hand": "M.C. Ahamed",
+        "Elephant": "A.R. Munsoor",
+        "House": "A. Udumalebbe"
+      },
+      "party_to_votes": {
+        "Hand": 8779,
+        "Elephant": 7827,
+        "House": 4960
+      },
+      "electors": 24693,
+      "valid": 21566,
+      "rejected": 107,
+      "polled": 21673
+    },
+    {
+      "row_num": "94",
+      "electorate_name": "Nintavur",
+      "party_to_candidate": {
+        "Elephant": "M.M. Mustapha",
+        "Radio": "M.I.M. Abdul Majeed",
+        "Hand": "I.H. Mohamed Cassim"
+      },
+      "party_to_votes": {
+        "Elephant": 13481,
+        "Radio": 13406,
+        "Hand": 556
+      },
+      "electors": 29718,
+      "valid": 27443,
+      "rejected": 84,
+      "polled": 27527
+    },
+    {
+      "row_num": "95",
+      "electorate_name": "Pottuvil",
+      "party_to_candidate": {
+        "Elephant": "M.A. Abdul Majeed",
+        "Cockerel": "Tharumalingam Nadarajah",
+        "Hand": "M.I. Abdul Jabbar"
+      },
+      "party_to_votes": {
+        "Elephant": 10610,
+        "Cockerel": 9335,
+        "Hand": 5209
+      },
+      "electors": 28282,
+      "valid": 25154,
+      "rejected": 155,
+      "polled": 25309
+    },
+    {
+      "row_num": "96",
+      "electorate_name": "Puttalam",
+      "party_to_candidate": {
+        "Hand": "S.M. Asenkudhoos",
+        "Elephant": "M.H.M. Naina Marikkar",
+        "Chair": "T. Don Augustine",
+        "Cockerel": "Chellappah Saravanamuttu"
+      },
+      "party_to_votes": {
+        "Hand": 10995,
+        "Elephant": 10892,
+        "Chair": 2209,
+        "Cockerel": 131
+      },
+      "electors": 29858,
+      "valid": 24227,
+      "rejected": 122,
+      "polled": 24349
+    },
+    {
+      "row_num": "97",
+      "electorate_name": "Nikaweratiya",
+      "party_to_candidate": {
+        "Flower": "M. Tennekoon",
+        "Elephant": "H.B. Wanninayake",
+        "Chair": "D.R.M. Panditha Koralage",
+        "Lamp": "K.D. Albert",
+        "Umbrella": "Kavisena Herath",
+        "Butterfly": "O.N. Wanduragala"
+      },
+      "party_to_votes": {
+        "Flower": 24163,
+        "Elephant": 17891,
+        "Chair": 1633,
+        "Lamp": 755,
+        "Umbrella": 682,
+        "Butterfly": 612
+      },
+      "electors": 54634,
+      "valid": 45736,
+      "rejected": 134,
+      "polled": 45870
+    },
+    {
+      "row_num": "98",
+      "electorate_name": "Yapahuwa",
+      "party_to_candidate": {
+        "Hand": "Tissa. R. Balalle",
+        "Elephant": "U.B. Wanninayake",
+        "Bell": "H.M.P.K. B. Herath"
+      },
+      "party_to_votes": {
+        "Hand": 20179,
+        "Elephant": 16248,
+        "Bell": 359
+      },
+      "electors": 42171,
+      "valid": 36786,
+      "rejected": 117,
+      "polled": 36903
+    },
+    {
+      "row_num": "99",
+      "electorate_name": "Hiriyala",
+      "party_to_candidate": {
+        "Elephant": "S.B. Herat",
+        "Hand": "B. Ivor Palipane",
+        "Umbrella": "Mohanlal Goonetilleke"
+      },
+      "party_to_votes": {
+        "Elephant": 17652,
+        "Hand": 9691,
+        "Umbrella": 8716
+      },
+      "electors": 42731,
+      "valid": 36059,
+      "rejected": 129,
+      "polled": 36188
+    },
+    {
+      "row_num": "100",
+      "electorate_name": "Wariyapola",
+      "party_to_candidate": {
+        "Hand": "M.A.J. Wijesinghe",
+        "Elephant": "D.M. Tilakaratne Bandara",
+        "Bell": "Ariyadasa Sikurajapati"
+      },
+      "party_to_votes": {
+        "Hand": 22304,
+        "Elephant": 14686,
+        "Bell": 223
+      },
+      "electors": 42490,
+      "valid": 37213,
+      "rejected": 104,
+      "polled": 37317
+    },
+    {
+      "row_num": "101",
+      "electorate_name": "Bingiriya",
+      "party_to_candidate": {
+        "Hand": "L.B. Jayasena",
+        "Elephant": "J.L. Sirisena",
+        "Bell": "Allan Edward Fernando"
+      },
+      "party_to_votes": {
+        "Hand": 22633,
+        "Elephant": 14087,
+        "Bell": 240
+      },
+      "electors": 41716,
+      "valid": 36960,
+      "rejected": 110,
+      "polled": 37070
+    },
+    {
+      "row_num": "102",
+      "electorate_name": "Chilaw",
+      "party_to_candidate": {
+        "Hand": "S.D.R. Jayaratne",
+        "Elephant": "Shirly Corea"
+      },
+      "party_to_votes": {
+        "Hand": 23203,
+        "Elephant": 18419
+      },
+      "electors": 49184,
+      "valid": 41622,
+      "rejected": 180,
+      "polled": 41802
+    },
+    {
+      "row_num": "103",
+      "electorate_name": "Nattandiya",
+      "party_to_candidate": {
+        "Hand": "Protus Tissera",
+        "Elephant": "Hugh Fernando",
+        "Bell": "W. George Fernando"
+      },
+      "party_to_votes": {
+        "Hand": 16437,
+        "Elephant": 14987,
+        "Bell": 131
+      },
+      "electors": 35496,
+      "valid": 31555,
+      "rejected": 62,
+      "polled": 31617
+    },
+    {
+      "row_num": "104",
+      "electorate_name": "Wennappuwa",
+      "party_to_candidate": {
+        "Hand": "Augustheenu Fonseka",
+        "Elephant": "Festus Perera"
+      },
+      "party_to_votes": {
+        "Hand": 19073,
+        "Elephant": 15731
+      },
+      "electors": 39522,
+      "valid": 34804,
+      "rejected": 126,
+      "polled": 34930
+    },
+    {
+      "row_num": "105",
+      "electorate_name": "Katugampola",
+      "party_to_candidate": {
+        "Hand": "T.B. Subasinghe",
+        "Elephant": "Leelananda Weerasinghe",
+        "Chair": "K.B. Dharmadasa"
+      },
+      "party_to_votes": {
+        "Hand": 20497,
+        "Elephant": 14672,
+        "Chair": 413
+      },
+      "electors": 40370,
+      "valid": 35582,
+      "rejected": 150,
+      "polled": 35732
+    },
+    {
+      "row_num": "106",
+      "electorate_name": "Kuliyapitiya",
+      "party_to_candidate": {
+        "Hand": "G.W. Samarasinghe",
+        "Elephant": "I.M.R.A. Iriyagolle"
+      },
+      "party_to_votes": {
+        "Hand": 19963,
+        "Elephant": 18055
+      },
+      "electors": 42974,
+      "valid": 38018,
+      "rejected": 136,
+      "polled": 38154
+    },
+    {
+      "row_num": "107",
+      "electorate_name": "Dambadeniya",
+      "party_to_candidate": {
+        "Hand": "P.B. Wettewa",
+        "Elephant": "U.B. Wijekoon",
+        "Bell": "R.G. Senanayake"
+      },
+      "party_to_votes": {
+        "Hand": 18705,
+        "Elephant": 12191,
+        "Bell": 6017
+      },
+      "electors": 41960,
+      "valid": 36913,
+      "rejected": 135,
+      "polled": 37048
+    },
+    {
+      "row_num": "108",
+      "electorate_name": "Polgahawela",
+      "party_to_candidate": {
+        "Hand": "M. Herat",
+        "Elephant": "M.D. Banda"
+      },
+      "party_to_votes": {
+        "Hand": 16243,
+        "Elephant": 11358
+      },
+      "electors": 31044,
+      "valid": 27601,
+      "rejected": 95,
+      "polled": 27696
+    },
+    {
+      "row_num": "109",
+      "electorate_name": "Kurunegala",
+      "party_to_candidate": {
+        "Hand": "P. Wijesinghe",
+        "Elephant": "D.B. Welagedera",
+        "Bell": "R.M.P.R. Lionel Kehelwatugoda"
+      },
+      "party_to_votes": {
+        "Hand": 16672,
+        "Elephant": 14008,
+        "Bell": 94
+      },
+      "electors": 36663,
+      "valid": 30774,
+      "rejected": 125,
+      "polled": 30899
+    },
+    {
+      "row_num": "110",
+      "electorate_name": "Mawatagama",
+      "party_to_candidate": {
+        "Hand": "D.P. Wickramasinghe",
+        "Elephant": "Herath Ekanayake"
+      },
+      "party_to_votes": {
+        "Hand": 16608,
+        "Elephant": 12112
+      },
+      "electors": 32562,
+      "valid": 28720,
+      "rejected": 88,
+      "polled": 28808
+    },
+    {
+      "row_num": "111",
+      "electorate_name": "Dodangaslanda",
+      "party_to_candidate": {
+        "Hand": "S.Wijewardena",
+        "Elephant": "S.W. Alawathuwala",
+        "Bell": "C.A. Mathew"
+      },
+      "party_to_votes": {
+        "Hand": 16991,
+        "Elephant": 13818,
+        "Bell": 383
+      },
+      "electors": 35891,
+      "valid": 31192,
+      "rejected": 149,
+      "polled": 31341
+    },
+    {
+      "row_num": "112",
+      "electorate_name": "Anuradhapura",
+      "party_to_candidate": {
+        "Hand": "K.B. Ratnayake",
+        "Elephant": "K.D.M.C. Bandara",
+        "Flower": "M.H.Y. Ariyapala",
+        "Bell": "G.A.W. Alwis"
+      },
+      "party_to_votes": {
+        "Hand": 16438,
+        "Elephant": 9779,
+        "Flower": 62,
+        "Bell": 61
+      },
+      "electors": 32809,
+      "valid": 26340,
+      "rejected": 104,
+      "polled": 26444
+    },
+    {
+      "row_num": "113",
+      "electorate_name": "Medawachchiya",
+      "party_to_candidate": {
+        "Hand": "Maithripala Senanayake",
+        "Elephant": "D.M. Ariyadasa",
+        "Bell": "W.S. Abhayasinghe"
+      },
+      "party_to_votes": {
+        "Hand": 17094,
+        "Elephant": 7496,
+        "Bell": 135
+      },
+      "electors": 29245,
+      "valid": 24725,
+      "rejected": 177,
+      "polled": 24902
+    },
+    {
+      "row_num": "114",
+      "electorate_name": "Horowpathana",
+      "party_to_candidate": {
+        "Hand": "T.B. Herath",
+        "Elephant": "E.L.B. Hurulle"
+      },
+      "party_to_votes": {
+        "Hand": 11668,
+        "Elephant": 9096
+      },
+      "electors": 23682,
+      "valid": 20764,
+      "rejected": 103,
+      "polled": 20867
+    },
+    {
+      "row_num": "115",
+      "electorate_name": "Mihintale",
+      "party_to_candidate": {
+        "Hand": "Pathiraja Tennakoon",
+        "Elephant": "W.A.P. Ariyadasa",
+        "Ship": "M.W.K. Pandula"
+      },
+      "party_to_votes": {
+        "Hand": 9432,
+        "Elephant": 5989,
+        "Ship": 126
+      },
+      "electors": 18188,
+      "valid": 15547,
+      "rejected": 45,
+      "polled": 15592
+    },
+    {
+      "row_num": "116",
+      "electorate_name": "Kalawewa",
+      "party_to_candidate": {
+        "Hand": "R.B. Ratnamalala",
+        "Elephant": "A.M.S. Adikari"
+      },
+      "party_to_votes": {
+        "Hand": 12883,
+        "Elephant": 9050
+      },
+      "electors": 25629,
+      "valid": 21933,
+      "rejected": 111,
+      "polled": 22044
+    },
+    {
+      "row_num": "117",
+      "electorate_name": "Kekirawa",
+      "party_to_candidate": {
+        "Hand": "A.M. Jinadasa",
+        "Elephant": "S.B. Lenawa",
+        "Bell": "R.D.B. Jayasundara",
+        "Lamp": "E.M. Tikiri Banda Ekanayake"
+      },
+      "party_to_votes": {
+        "Hand": 9328,
+        "Elephant": 7312,
+        "Bell": 750,
+        "Lamp": 410
+      },
+      "electors": 20761,
+      "valid": 17800,
+      "rejected": 83,
+      "polled": 17883
+    },
+    {
+      "row_num": "118",
+      "electorate_name": "Minneriya",
+      "party_to_candidate": {
+        "Hand": "Ratna Deshapriya Senanayake",
+        "Elephant": "C.P. de Silva"
+      },
+      "party_to_votes": {
+        "Hand": 15705,
+        "Elephant": 13197
+      },
+      "electors": 34551,
+      "valid": 28902,
+      "rejected": 118,
+      "polled": 29020
+    },
+    {
+      "row_num": "119",
+      "electorate_name": "Polonnaruwa",
+      "party_to_candidate": {
+        "Hand": "K.A. Leelaratna Wijesinghe",
+        "Elephant": "Merril de Silva"
+      },
+      "party_to_votes": {
+        "Hand": 11927,
+        "Elephant": 10802
+      },
+      "electors": 27452,
+      "valid": 22729,
+      "rejected": 78,
+      "polled": 22807
+    },
+    {
+      "row_num": "120",
+      "electorate_name": "Mahiyangana",
+      "party_to_candidate": {
+        "Hand": "D.D.E. Wickremaratne",
+        "Elephant": "C.P.J. Seneviratne",
+        "Chair": "L.R.M.G. Ratnayake"
+      },
+      "party_to_votes": {
+        "Hand": 11886,
+        "Elephant": 9330,
+        "Chair": 219
+      },
+      "electors": 26811,
+      "valid": 21435,
+      "rejected": 183,
+      "polled": 21618
+    },
+    {
+      "row_num": "121",
+      "electorate_name": "Bibile",
+      "party_to_candidate": {
+        "Hand": "A. M. Jayawardena",
+        "Elephant": "R.M. Dharmadasa Banda"
+      },
+      "party_to_votes": {
+        "Hand": 11807,
+        "Elephant": 8864
+      },
+      "electors": 24624,
+      "valid": 20671,
+      "rejected": 140,
+      "polled": 20811
+    },
+    {
+      "row_num": "122",
+      "electorate_name": "Passara",
+      "party_to_candidate": {
+        "Hand": "S.A.S. Somapala",
+        "Elephant": "Lilian Peiris(Mrs.)",
+        "Bell": "Pin Siri Fernando",
+        "Sweing Machine": "Ratnam Kumaravel"
+      },
+      "party_to_votes": {
+        "Hand": 8382,
+        "Elephant": 5798,
+        "Bell": 176,
+        "Sweing Machine": 114
+      },
+      "electors": 16461,
+      "valid": 14470,
+      "rejected": 122,
+      "polled": 14592
+    },
+    {
+      "row_num": "123",
+      "electorate_name": "Badulla",
+      "party_to_candidate": {
+        "Hand": "B.A. Heen Bandara",
+        "Elephant": "J. Hennayake"
+      },
+      "party_to_votes": {
+        "Hand": 12288,
+        "Elephant": 8700
+      },
+      "electors": 25411,
+      "valid": 20988,
+      "rejected": 101,
+      "polled": 21089
+    },
+    {
+      "row_num": "124",
+      "electorate_name": "Soranatota",
+      "party_to_candidate": {
+        "Hand": "K.Y.M. Wijeratne Banda",
+        "Elephant": "R.M. Abeykoon",
+        "Umbrella": "S.B. Ekanayake"
+      },
+      "party_to_votes": {
+        "Hand": 9995,
+        "Elephant": 6689,
+        "Umbrella": 1619
+      },
+      "electors": 21443,
+      "valid": 18303,
+      "rejected": 145,
+      "polled": 18448
+    },
+    {
+      "row_num": "125",
+      "electorate_name": "Uva Paranagama",
+      "party_to_candidate": {
+        "Hand": "W.M.R.S.B. Delungahawatta",
+        "Elephant": "R.M. Karunaratne",
+        "Umbrella": "R.M.G. Samaranayake",
+        "Bell": "W.D. Jothiratne'",
+        "Chair": "E.B. Dimbulana",
+        "Lamp": "D.M. Appuhamy"
+      },
+      "party_to_votes": {
+        "Hand": 9245,
+        "Elephant": 7530,
+        "Umbrella": 2143,
+        "Bell": 249,
+        "Chair": 245,
+        "Lamp": 210
+      },
+      "electors": 22384,
+      "valid": 19622,
+      "rejected": 88,
+      "polled": 19710
+    },
+    {
+      "row_num": "126",
+      "electorate_name": "Welimada",
+      "party_to_candidate": {
+        "Uncontested": "R.M. Bandara"
+      },
+      "party_to_votes": {},
+      "electors": 23504,
+      "valid": 0,
+      "rejected": 0,
+      "polled": 0
+    },
+    {
+      "row_num": "127",
+      "electorate_name": "Bandarawela",
+      "party_to_candidate": {
+        "Hand": "R.M. Appuhamy",
+        "Elephant": "R.M. Appuhamy",
+        "Lamp": "J.G. Gunasekera"
+      },
+      "party_to_votes": {
+        "Hand": 11509,
+        "Elephant": 8569,
+        "Lamp": 132
+      },
+      "electors": 22912,
+      "valid": 20210,
+      "rejected": 79,
+      "polled": 20289
+    },
+    {
+      "row_num": "128",
+      "electorate_name": "Haputale",
+      "party_to_candidate": {
+        "Hand": "W.P.G. Ariyadasa",
+        "Elephant": "W.G.M. Jayawickreme"
+      },
+      "party_to_votes": {
+        "Hand": 8339,
+        "Elephant": 6896
+      },
+      "electors": 17821,
+      "valid": 15235,
+      "rejected": 92,
+      "polled": 15327
+    },
+    {
+      "row_num": "129",
+      "electorate_name": "Moneragla",
+      "party_to_candidate": {
+        "Hand": "Rajah Welegama",
+        "Elephant": "A.B. Talagune",
+        "Ship": "B.A.L. Wijewardhana"
+      },
+      "party_to_votes": {
+        "Hand": 17342,
+        "Elephant": 10435,
+        "Ship": 468
+      },
+      "electors": 35446,
+      "valid": 28245,
+      "rejected": 247,
+      "polled": 28492
+    },
+    {
+      "row_num": "130",
+      "electorate_name": "Dedigama",
+      "party_to_candidate": {
+        "Elephant": "Dudley Shelton Senanayake",
+        "Hand": "Dharmasiri Alwis Senanayake"
+      },
+      "party_to_votes": {
+        "Elephant": 19513,
+        "Hand": 18446
+      },
+      "electors": 41595,
+      "valid": 37959,
+      "rejected": 89,
+      "polled": 38048
+    },
+    {
+      "row_num": "131",
+      "electorate_name": "Galigamuwa",
+      "party_to_candidate": {
+        "Hand": "B.A.P.B. Balasuriya",
+        "Elephant": "I. Wimala Kannangara (Mrs.)",
+        "Bell": "P.R. Navaratne"
+      },
+      "party_to_votes": {
+        "Hand": 17370,
+        "Elephant": 12702,
+        "Bell": 297
+      },
+      "electors": 34407,
+      "valid": 30369,
+      "rejected": 114,
+      "polled": 30483
+    },
+    {
+      "row_num": "132",
+      "electorate_name": "Kegalle",
+      "party_to_candidate": {
+        "Hand": "P.B.G. Kalugalla",
+        "Elephant": "N.A. Seneviratne",
+        "Bell": "M. Athurupana"
+      },
+      "party_to_votes": {
+        "Hand": 21009,
+        "Elephant": 11977,
+        "Bell": 239
+      },
+      "electors": 38206,
+      "valid": 33225,
+      "rejected": 56,
+      "polled": 33281
+    },
+    {
+      "row_num": "133",
+      "electorate_name": "Rambukkana",
+      "party_to_candidate": {
+        "Hand": "W.A.A. Sirisena",
+        "Elephant": "N.H.A.M. Karunaratne"
+      },
+      "party_to_votes": {
+        "Hand": 18582,
+        "Elephant": 14383
+      },
+      "electors": 37240,
+      "valid": 32965,
+      "rejected": 131,
+      "polled": 33096
+    },
+    {
+      "row_num": "134",
+      "electorate_name": "Mawanella",
+      "party_to_candidate": {
+        "Hand": "P.R. Ratnayake",
+        "Elephant": "C.R. Beligammana",
+        "Bell": "M.I.M. Maujoud"
+      },
+      "party_to_votes": {
+        "Hand": 19242,
+        "Elephant": 14504,
+        "Bell": 475
+      },
+      "electors": 38938,
+      "valid": 34221,
+      "rejected": 142,
+      "polled": 34363
+    },
+    {
+      "row_num": "135",
+      "electorate_name": "Yatiyantota",
+      "party_to_candidate": {
+        "Key": "N.M. Perera",
+        "Elephant": "G.L. Kotalawala"
+      },
+      "party_to_votes": {
+        "Key": 17520,
+        "Elephant": 13531
+      },
+      "electors": 34938,
+      "valid": 31051,
+      "rejected": 86,
+      "polled": 31137
+    },
+    {
+      "row_num": "136",
+      "electorate_name": "Ruwanwella",
+      "party_to_candidate": {
+        "Key": "Seneviratne Athauda",
+        "Elephant": "P. Imbulana"
+      },
+      "party_to_votes": {
+        "Key": 17377,
+        "Elephant": 14441
+      },
+      "electors": 35268,
+      "valid": 31818,
+      "rejected": 78,
+      "polled": 31896
+    },
+    {
+      "row_num": "137",
+      "electorate_name": "Dehiowita",
+      "party_to_candidate": {
+        "Key": "D.P.R. Weerasekera",
+        "Elephant": "M.S. Themis",
+        "Bell": "T.H. Fernando (Mrs.)"
+      },
+      "party_to_votes": {
+        "Key": 17091,
+        "Elephant": 12884,
+        "Bell": 355
+      },
+      "electors": 34941,
+      "valid": 30330,
+      "rejected": 153,
+      "polled": 30483
+    },
+    {
+      "row_num": "138",
+      "electorate_name": "Kiriella",
+      "party_to_candidate": {
+        "Key": "Vasudeva Nanayakkara",
+        "Elephant": "Leonard Kiriella",
+        "Chair": "A.E. B. Kiriella",
+        "Bell": "Arthur Daundasekera"
+      },
+      "party_to_votes": {
+        "Key": 19158,
+        "Elephant": 12975,
+        "Chair": 300,
+        "Bell": 153
+      },
+      "electors": 36789,
+      "valid": 32586,
+      "rejected": 39,
+      "polled": 32625
+    },
+    {
+      "row_num": "139",
+      "electorate_name": "Ratnapura",
+      "party_to_candidate": {
+        "Hand": "Nanda Ellawala",
+        "Elephant": "P.B. Wijesundara",
+        "Chair": "K.V. Dharmadasa",
+        "Bell": "K.T. Manis Singho"
+      },
+      "party_to_votes": {
+        "Hand": 22633,
+        "Elephant": 12002,
+        "Chair": 190,
+        "Bell": 159
+      },
+      "electors": 42004,
+      "valid": 34984,
+      "rejected": 83,
+      "polled": 35067
+    },
+    {
+      "row_num": "140",
+      "electorate_name": "Pelmadulla",
+      "party_to_candidate": {
+        "Hand": "Dharmadasa Wanniarachchi",
+        "Elephant": "P. Pelendagama"
+      },
+      "party_to_votes": {
+        "Hand": 15544,
+        "Elephant": 9571
+      },
+      "electors": 28970,
+      "valid": 25115,
+      "rejected": 100,
+      "polled": 25215
+    },
+    {
+      "row_num": "141",
+      "electorate_name": "Balangoda",
+      "party_to_candidate": {
+        "Hand": "Mallika Ratwatte (Mrs.)",
+        "Elephant": "M. Sita Seneviratne (Mrs.)",
+        "Eye": "S. Srikandam",
+        "Chair": "B. Delgoda"
+      },
+      "party_to_votes": {
+        "Hand": 18808,
+        "Elephant": 11619,
+        "Eye": 222,
+        "Chair": 176
+      },
+      "electors": 34715,
+      "valid": 30825,
+      "rejected": 80,
+      "polled": 30905
+    },
+    {
+      "row_num": "142",
+      "electorate_name": "Rakwana",
+      "party_to_candidate": {
+        "Hand": "V.T.G. Karunaratne",
+        "Elephant": "H. Kularatne"
+      },
+      "party_to_votes": {
+        "Hand": 14455,
+        "Elephant": 11270
+      },
+      "electors": 28974,
+      "valid": 25725,
+      "rejected": 95,
+      "polled": 25820
+    },
+    {
+      "row_num": "143",
+      "electorate_name": "Nivitigala",
+      "party_to_candidate": {
+        "Hand": "Piyadasa Harischandra",
+        "Elephant": "Alfred L. Amarasekera",
+        "Bell": "D.M.S. Dharmatillake (Mrs.)"
+      },
+      "party_to_votes": {
+        "Hand": 20614,
+        "Elephant": 9461,
+        "Bell": 368
+      },
+      "electors": 34989,
+      "valid": 30443,
+      "rejected": 169,
+      "polled": 30612
+    },
+    {
+      "row_num": "144",
+      "electorate_name": "Kalawana",
+      "party_to_candidate": {
+        "Star": "Sarath Muttetuwegama",
+        "Elephant": "Abeyratne Pilapitiya",
+        "Bell": "P. Soma Mathew (Mrs.)"
+      },
+      "party_to_votes": {
+        "Star": 11109,
+        "Elephant": 6314,
+        "Bell": 85
+      },
+      "electors": 19302,
+      "valid": 17508,
+      "rejected": 38,
+      "polled": 17546
+    },
+    {
+      "row_num": "145",
+      "electorate_name": "Kolonna",
+      "party_to_candidate": {
+        "Key": "P.O. Wimalanaga",
+        "Elephant": "C. Nanda Mathew",
+        "Lamp": "S.D. Wanigatilleke"
+      },
+      "party_to_votes": {
+        "Key": 16886,
+        "Elephant": 9778,
+        "Lamp": 454
+      },
+      "electors": 33118,
+      "valid": 27118,
+      "rejected": 136,
+      "polled": 27254
+    }
+  ]
+}
