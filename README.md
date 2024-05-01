@@ -23,7 +23,7 @@
 | 2 | 01B | Colombo Central |  LP/ACTC | `Bicycle` | A.E. Goonasinha | 23,470 |
 | 3 | 01A | Colombo South | 🔴 LSSP | `Key` | R. A. de Mel | 6,452 |
 | 4 |  | Wellawatta-Galkissa | 🔴 LSSP | `Key` | Colvin R. de Silva | 11,606 |
-| 5 |  | Ja-ela | 🔵 SLFP | `Hand` | D.P. Jayasuriya | 11,133 |
+| 5 | 02I | Ja-ela | 🔵 SLFP | `Hand` | D.P. Jayasuriya | 11,133 |
 | 6 | 02B | Negombo | ⚪ Ind. | `Butterfly` | H. de Z. Siriwardena | 10,174 |
 | 7 | 02E | Mirigama | 🟢 UNP | `Elephant` | D.S. Senanayake | 26,762 |
 | 8 | 02H | Gampaha | 🔵 SLFP | `Hand` | D.D. Karunaratne | 11,786 |
@@ -118,7 +118,7 @@ Note: Some electorates are multi-member, and elect more than one candidate.
 | 2 | 01B | Colombo Central |  UNP/ACTC | `Umbrella` | Keuneman, Pieter | 32,346 |
 | 3 | 01A | Colombo South | 🟢 UNP | `Elephant` | Jayawardena T.F. | 10,918 |
 | 4 |  | Wellawatte-Galkissa | 🟢 UNP | `Elephant` | Jayasinghe S. de S. | 16,388 |
-| 5 |  | Ja-ela | 🔴 CP | `Star` | Jayasuriya D.P. | 18,212 |
+| 5 | 02I | Ja-ela | 🔴 CP | `Star` | Jayasuriya D.P. | 18,212 |
 | 6 | 02B | Negombo | 🔵 SLFP | `Hand` | Abeysinghe A.N. D.A. | 22,721 |
 | 7 | 02E | Mirigama | 🔵 SLFP | `Hand` | Amaratunga, John Edmund | 27,447 |
 | 8 | 02H | Gampaha |  UNP/ACTC | `Umbrella` | Bandaranayake, S. Dias | 19,417 |
@@ -214,7 +214,7 @@ Note: Some electorates are multi-member, and elect more than one candidate.
 | 2 | 01B | Colombo Central | 🔴 CP | `Star` | P.G.B. Keuneman | 45,296 |
 | 3 | 01A | Colombo South | 🔴 LSSP | `Key` | Bernard Soysa | 14,199 |
 | 4 |  | Wellawatta-Galkissa | 🔴 LSSP | `Key` | Colvin R. de Silva | 16,782 |
-| 5 |  | Ja-ela | 🔵 SLFP | `Hand` | Stanley de Soysa | 24,381 |
+| 5 | 02I | Ja-ela | 🔵 SLFP | `Hand` | Stanley de Soysa | 24,381 |
 | 6 | 02B | Negombo | 🔴 LSSP | `Key` | Hector Fernando | 20,892 |
 | 7 | 02E | Mirigama | 🔵 SLFP | `Hand` | Vimala Wijewardene (Mrs) | 36,193 |
 | 8 | 02H | Gampaha | 🔵 SLFP | `Hand` | S.D. Bandaranayake | 34,898 |
@@ -318,7 +318,7 @@ Note: Some electorates are multi-member, and elect more than one candidate.
 | 10 | 02F | Minuwangoda | 🔵 SLFP | `Hand` | M.P. de Z. Siriwardena | 11,565 |
 | 11 | 02G | Attanagalla | 🔵 SLFP | `Hand` | J.P. Obeysekera | 20,985 |
 | 12 | 02H | Gampaha | ⚪ Ind. | `Butterfly` | S.D. Bandaranayake | 9,565 |
-| 13 |  | Ja-ela | 🟢 UNP | `Elephant` | Paris Perera | 11,960 |
+| 13 | 02I | Ja-ela | 🟢 UNP | `Elephant` | Paris Perera | 11,960 |
 | 14 | 02J | Mahara | 🔵 SLFP | `Hand` | S.K.K. Suriarachchi | 15,098 |
 | 15 | 02K | Dompe | 🔵 SLFP | `Hand` | Felix R. Dias | 16,227 |
 | 16 | 02M | Kelaniya | 🟢 UNP | `Elephant` | J.R. Jayawardane | 10,827 |
@@ -470,7 +470,7 @@ Note: Some electorates are multi-member, and elect more than one candidate.
 | 10 | 02F | Minuwangoda | 🔵 SLFP | `Hand` | M.P. de Z. Siriwardena | 16,327 |
 | 11 | 02G | Attanagalla | 🔵 SLFP | `Hand` | J.P. Obeysekera | 22,491 |
 | 12 | 02H | Gampaha | 🔵 SLFP | `Hand` | S.D. Bandaranayake | 16,842 |
-| 13 |  | Ja-ela | 🟢 UNP | `Elephant` | Paris Perera | 13,622 |
+| 13 | 02I | Ja-ela | 🟢 UNP | `Elephant` | Paris Perera | 13,622 |
 | 14 | 02J | Mahara | 🔵 SLFP | `Hand` | S.K.K. Suriarachchi | 17,791 |
 | 15 | 02K | Dompe | 🔵 SLFP | `Hand` | F.R. Dias Bandaranaike | 20,787 |
 | 16 | 02M | Kelaniya | 🔵 SLFP | `Hand` | R.S. Perera | 15,801 |
@@ -622,7 +622,7 @@ Note: Some electorates are multi-member, and elect more than one candidate.
 | 10 | 02F | Minuwangoda | 🔵 SLFP | `Hand` | M.P. de Z. Siriwardena | 19,095 |
 | 11 | 02G | Attanagalla | 🔵 SLFP | `Hand` | Sirimavo Dias Bandaranaike | 26,150 |
 | 12 | 02H | Gampaha | 🔵 SLFP | `Hand` | S.D. Bandaranayake | 21,114 |
-| 13 |  | Ja-ela | 🟢 UNP | `Elephant` | Paris Perera | 21,867 |
+| 13 | 02I | Ja-ela | 🟢 UNP | `Elephant` | Paris Perera | 21,867 |
 | 14 | 02J | Mahara | 🔵 SLFP | `Hand` | S.K.K. Suriarachchi | 20,573 |
 | 15 | 02K | Dompe | 🔵 SLFP | `Hand` | Felix R. Dias Bandaranaike | 26,051 |
 | 16 | 02M | Kelaniya | 🔵 SLFP | `Hand` | R.S. Perera | 20,147 |
@@ -774,7 +774,7 @@ Note: Some electorates are multi-member, and elect more than one candidate.
 | 10 | 02F | Minuwangoda | 🔵 SLFP | `Hand` | M.P. de Zoysa Siriwardena | 24,904 |
 | 11 |  | Bandaranaike(Mrs.) | 🟢 UNP | `Elephant` | J.R.P. Suriyapperuma | 9,889 |
 | 12 | 02H | Gampaha | 🔵 SLFP | `Hand` | A.T. Basnayake | 26,057 |
-| 13 |  | Ja-ela | 🟢 UNP | `Elephant` | Paris Perera | 21,657 |
+| 13 | 02I | Ja-ela | 🟢 UNP | `Elephant` | Paris Perera | 21,657 |
 | 14 | 02J | Mahara | 🔵 SLFP | `Hand` | S.K. Karunadasa Suriyaarachchi | 27,679 |
 | 15 | 02K | Dompe | 🔵 SLFP | `Hand` | Filix R.D. Banddaranaike | 31,515 |
 | 16 | 02M | Kelaniya | 🔵 SLFP | `Hand` | R.S. Perera | 29,331 |
@@ -929,7 +929,7 @@ Note: Some electorates are multi-member, and elect more than one candidate.
 | 13 | 02F | Minuwangoda | 🟢 UNP | `Elephant` | Bennet Gunasekera | 29,315 |
 | 14 | 02G | Attanagalla | 🔵 SLFP | `Hand` | Sirimavo Ratwatte Dias | 30,226 |
 | 15 | 02H | Gampaha | 🔵 SLFP | `Hand` | S.D.Bandaranayake | 26,338 |
-| 16 |  | Ja-ela | 🟢 UNP | `Elephant` | Joseph Michael Perera | 31,054 |
+| 16 | 02I | Ja-ela | 🟢 UNP | `Elephant` | Joseph Michael Perera | 31,054 |
 | 17 | 02J | Mahara | 🟢 UNP | `Elephant` | Tudor Gunasekera | 25,016 |
 | 18 | 02K | Dompe | 🟢 UNP | `Elephant` | Sarathchandra Rajakaruna | 26,050 |
 | 19 | 02L | Biyagama | 🟢 UNP | `Elephant` | Ranil Wickremasinghe | 22,045 |
@@ -1049,7 +1049,7 @@ Note: Some electorates are multi-member, and elect more than one candidate.
 | 133 | 19B | Viyaluwa | 🟢 UNP | `Elephant` | Weerawanni Samaraweera | 9,084 |
 | 134 | 19C | Passara | 🟢 UNP | `Elephant` | W.M. Karunaratne | 10,451 |
 | 135 | 19D | Badulla | 🟢 UNP | `Elephant` | D. Vincent Perera | 10,490 |
-| 136 |  | Hali-ela | 🟢 UNP | `Elephant` | R.M. Abeykoon | 12,846 |
+| 136 | 19E | Hali-ela | 🟢 UNP | `Elephant` | R.M. Abeykoon | 12,846 |
 | 137 | 19F | Uva-paranagama | 🟢 UNP | `Elephant` | R.M. Karunaratne | 15,108 |
 | 138 | 19G | Welimada | 🟢 UNP | `Elephant` | Percy Samaraweera | 16,314 |
 | 139 | 19H | Bandarawela | 🟢 UNP | `Elephant` | R.M.Apphamy | 14,106 |
