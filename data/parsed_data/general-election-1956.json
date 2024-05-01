@@ -1778,7 +1778,7 @@
     {
       "row_num": 59,
       "electorate_name": "Pottuvil",
-      "pd_id": "-",
+      "pd_id": "EC-13D",
       "single_results": [
         {
           "candidate": "M.M. Mustapha",
@@ -2419,7 +2419,7 @@
     {
       "row_num": 82,
       "electorate_name": "Kegalla",
-      "pd_id": "-",
+      "pd_id": "EC-22C",
       "single_results": [
         {
           "candidate": "P.B.G. Kalugalla",
@@ -2672,14 +2672,12 @@
     "PD not found for Ambalangoda-Balapitiya",
     "PD not found for Udugama",
     "PD not found for Hambantota",
-    "PD not found for Pottuvil",
     "PD not found for Dandagamuwa",
     "PD not found for Anuradhapura",
     "PD not found for Horawupotana",
     "PD not found for Alutnuwara",
     "[electors < polled] 35607 < 45104",
     "PD not found for Buttala",
-    "PD not found for Kegalla",
     "[summary.valid != results-valid] 29271 != 30584",
     "PD not found for Kiriella",
     "[electors < polled] 64273 < 89846"

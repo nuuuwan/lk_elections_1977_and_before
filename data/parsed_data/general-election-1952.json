@@ -1970,7 +1970,7 @@
     {
       "row_num": 59,
       "electorate_name": "Pottuvil",
-      "pd_id": "-",
+      "pd_id": "EC-13D",
       "single_results": [
         {
           "candidate": "Ebrahim Hadjiar, M.M.",
@@ -2990,7 +2990,6 @@
     "PD not found for Ambalangoda-Balapitiya",
     "PD not found for Udugama",
     "PD not found for Hambantota",
-    "PD not found for Pottuvil",
     "PD not found for Dandagamuwa",
     "[summary.valid != results-valid] 25834 != 20807",
     "PD not found for Anuradhapura",

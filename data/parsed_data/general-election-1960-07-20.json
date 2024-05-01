@@ -3900,7 +3900,7 @@
     {
       "row_num": 135,
       "electorate_name": "Yatiyamtota",
-      "pd_id": "-",
+      "pd_id": "EC-22G",
       "single_results": [
         {
           "candidate": "N.M. Perera",
@@ -4266,7 +4266,6 @@
     "PD not found for Nintavur",
     "PD not found for Anuradhapura",
     "PD not found for Soranatota",
-    "PD not found for Yatiyamtota",
     "PD not found for Dehiowita",
     "PD not found for Kiriella"
   ]

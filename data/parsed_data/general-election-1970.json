@@ -2966,7 +2966,7 @@
     {
       "row_num": 95,
       "electorate_name": "Pottuvil",
-      "pd_id": "-",
+      "pd_id": "EC-13D",
       "single_results": [
         {
           "candidate": "M.A. Abdul Majeed",
@@ -4527,7 +4527,6 @@
     "[electors < polled] 44176 < 77188",
     "[electors < polled] 51524 < 84681",
     "PD not found for Nintavur",
-    "PD not found for Pottuvil",
     "PD not found for Anuradhapura",
     "PD not found for Soranatota",
     "votes 0 <= 0",

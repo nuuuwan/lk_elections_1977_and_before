@@ -360,7 +360,7 @@
     {
       "row_num": 9,
       "electorate_name": "Negambo",
-      "pd_id": "-",
+      "pd_id": "EC-02B",
       "single_results": [
         {
           "candidate": "N. Denzil Fernando",
@@ -2707,7 +2707,7 @@
     {
       "row_num": 64,
       "electorate_name": "Rathgma",
-      "pd_id": "-",
+      "pd_id": "EC-07G",
       "single_results": [
         {
           "candidate": "Edwin Thilakaratne",
@@ -3385,7 +3385,7 @@
     {
       "row_num": 82,
       "electorate_name": "Manipai",
-      "pd_id": "-",
+      "pd_id": "EC-10D",
       "single_results": [
         {
           "candidate": "V. Dharmalingam",
@@ -3790,7 +3790,7 @@
     {
       "row_num": 91,
       "electorate_name": "Mulativu",
-      "pd_id": "-",
+      "pd_id": "EC-11C",
       "single_results": [
         {
           "candidate": "X.M.Sellathambu",
@@ -6585,7 +6585,6 @@
   "errors": [
     "[electors < polled] 106403 < 265796",
     "[summary.valid != results-valid] 32028 != 31940",
-    "PD not found for Negambo",
     "[summary.valid != results-valid] 43230 != 43330",
     "[summary.valid != results-valid] 51191 != 50124",
     "[summary.valid != results-valid] 38336 != 38335",
@@ -6596,14 +6595,11 @@
     "[electors < polled] 54799 < 97036",
     "[electors < polled] 69295 < 123790",
     "[electors < polled] 64407 < 163533",
-    "PD not found for Rathgma",
     "PD not found for Waddukkodai",
-    "PD not found for Manipai",
     "PD not found for Kopai",
     "PD not found for Udduppidi",
     "[summary.valid != results-valid] 23231 != 23291",
     "[summary.valid != results-valid] 28701 != 31701",
-    "PD not found for Mulativu",
     "[summary.valid != results-valid] 19596 != 745146",
     "[electors < polled] 63039 < 109509",
     "[electors < polled] 49691 < 89871",

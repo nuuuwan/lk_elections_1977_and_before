@@ -2246,7 +2246,7 @@
     {
       "row_num": 59,
       "electorate_name": "Pottuvil",
-      "pd_id": "-",
+      "pd_id": "EC-13D",
       "single_results": [
         {
           "candidate": "M. M. Ibrahim",
@@ -3240,7 +3240,7 @@
     {
       "row_num": 88,
       "electorate_name": "Niwitigala",
-      "pd_id": "-",
+      "pd_id": "EC-21F",
       "single_results": [
         {
           "candidate": "D. F. Hettiarachchi.",
@@ -3337,7 +3337,6 @@
     "PD not found for Udugama",
     "PD not found for Hambantota",
     "PD not found for Kopai",
-    "PD not found for Pottuvil",
     "PD not found for Dandagamuwa",
     "PD not found for Anuradhapura",
     "PD not found for Horawupotana",
@@ -3345,7 +3344,6 @@
     "[electors < polled] 43396 < 54005",
     "PD not found for Buttala",
     "PD not found for Dehiowita",
-    "PD not found for Kiriella",
-    "PD not found for Niwitigala"
+    "PD not found for Kiriella"
   ]
 }
