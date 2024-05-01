@@ -20,7 +20,7 @@
 | # | Electorate | Party | Party Symbol | Winning* Candidate | Votes |
 |---:|:---|:---|:---|:---|---:|
 | 1 | Colombo North | 🟢 UNP | Umbrella | George R. de Silva | 7,501 |
-| 2 | Colombo Central | 🔴 LP | Bicycle | A.E. Goonasinha | 23,470 |
+| 2 | Colombo Central |  LP/ACTC | Bicycle | A.E. Goonasinha | 23,470 |
 | 3 | Colombo South | 🔴 LSSP | Key | R. A. de Mel | 6,452 |
 | 4 | Wellawatta-Galkissa | 🔴 LSSP | Key | Colvin R. de Silva | 11,606 |
 | 5 | Ja-ela | 🔵 SLFP | Hand | D.P. Jayasuriya | 11,133 |
@@ -65,17 +65,17 @@
 | 44 | Kayts | 🟢 UNP | Pair Of Scales | A. Thambiyah | 5,552 |
 | 45 | Vaddukkoddai | 🟢 UNP | Elephant | K. Kanagaratnam | 11,721 |
 | 46 | Kankesanturai | 🔴 LSSP | Key | S.J.V. Chelvanayakam | 12,126 |
-| 47 | Jaffna | 🔴 LP | Bicycle | G. G. Ponnambalam | 14,324 |
+| 47 | Jaffna |  LP/ACTC | Bicycle | G. G. Ponnambalam | 14,324 |
 | 48 | Kopai | 🟢 UNP | Elephant | C. Vanniasingam | 9,619 |
 | 49 | Point Pedro | 🟢 UNP | Pair Of Scales | T. Ramalingam | 10,396 |
 | 50 | Chavakachcheri | 🟢 UNP | Pair Of Scales | V. Kumarasamy | 11,813 |
 | 51 | Mannar | 🔴 LSSP | Key | C. Sittampalam | 5,877 |
-| 52 | Vavuniya |  ? | Tree | C. Suntharalingam | 4,026 |
-| 53 | Trincomalee |  ? | House | S. Sivapalam | 5,252 |
+| 52 | Vavuniya | ⚪ Independent | Tree | C. Suntharalingam | 4,026 |
+| 53 | Trincomalee |  ITAK | House | S. Sivapalam | 5,252 |
 | 54 | Mutur | 🟢 UNP | Elephant | A.R.A.M. Abubucker | 3,480 |
 | 55 | Kalkuldah | 🔵 SLFP | Hand | V. Nalliah | 5,559 |
-| 56 | Batticaloa |  ? | Tree | Ahamed lebbe Sinnalebbe | 4,740 |
-| 57 | Paddiruppu |  ? | Bird | S.U. Ethiramanasingham | 5,672 |
+| 56 | Batticaloa | ⚪ Independent | Tree | Ahamed lebbe Sinnalebbe | 4,740 |
+| 57 | Paddiruppu | ⚪ Independent | Bird | S.U. Ethiramanasingham | 5,672 |
 | 58 | Kalmunai | 🔴 LSSP | Key | M.S. Kariapper | 6,886 |
 | 59 | Pottuvil | 🟢 UNP | Pair Of Scales | M. M. Ibrahim | 7,407 |
 | 61 | Nikaweratiya | 🟢 UNP | Elephant | K. Herat | 7,316 |
@@ -86,7 +86,7 @@
 | 66 | Dandagamuwa | 🟢 UNP | Umbrella | I. M. R. A. Iriyagolla | 9,355 |
 | 67 | Bingiriya | 🔴 LSSP | Chair | T. B. Subasinghe | 10,410 |
 | 68 | Chilaw | 🟢 UNP | Elephant | J. J. Fernando | 6,270 |
-| 69 | Nattandiya | 🔴 LP | Bicycle | Albert F. Peries | 11,036 |
+| 69 | Nattandiya |  LP/ACTC | Bicycle | Albert F. Peries | 11,036 |
 | 70 | Medawachchiya | 🔵 SLFP | Hand | M. Senanayake | 3,283 |
 | 71 | Anuradhapura | 🔵 SLFP | Hand | P.B. Bulankulame | 5,016 |
 | 72 | Kalawewa | 🟢 UNP | Elephant | S. H. Mahadiulwewa | 4,621 |
@@ -101,12 +101,12 @@
 | 81 | Mawanella | 🟢 UNP | Umbrella | H. L. Ratwatte | 9,442 |
 | 82 | Kegalle | 🟢 UNP | Elephant | N. H. Keerthiratne | 14,550 |
 | 83 | Dedigama | 🔵 SLFP | Hand | Dudley Senanayake | 20,170 |
-| 84 | Ruwanwella |  ? | House | N. M. Perera | 10,065 |
+| 84 | Ruwanwella |  ITAK | House | N. M. Perera | 10,065 |
 | 85 | Dehiowita | 🔴 LSSP | Chair | Reginald Perera | 6,387 |
 | 86 | Kiriella | 🟢 UNP | Umbrella | Florence Senanayake(Mrs.) | 5,535 |
 | 87 | Ratnapura |  ? | Cup | C.E. Attygalle | 6,603 |
 | 88 | Niwitigala | 🟢 UNP | Elephant | D. F. Hettiarachchi. | 5,626 |
-| 89 | Balangoda |  ? | House | A. F. Molamure | 23,076 |
+| 89 | Balangoda |  ITAK | House | A. F. Molamure | 23,076 |
 
 Note: Some electorates are multi-member, and elect more than one candidate.
 
@@ -138,14 +138,14 @@ Note: Some electorates are multi-member, and elect more than one candidate.
 | 22 | Wattegama | 🟢 UNP | Elephant | Ratnayake, A. | 14,264 |
 | 23 | Kadugannawa | 🟢 UNP | Umbrella | Nugawela, E.A. | 30,503 |
 | 24 | Kandy |  ? | Wheel | Senanayake, E.L. | 11,349 |
-| 25 | Galaha |  ? | House | Panabokke, Theodore Braybrooke | 10,962 |
-| 26 | Gampola |  ? | House | De Silva, M.W.R. | 7,950 |
+| 25 | Galaha |  ITAK | House | Panabokke, Theodore Braybrooke | 10,962 |
+| 26 | Gampola |  ITAK | House | De Silva, M.W.R. | 7,950 |
 | 27 | Maturata | 🟢 UNP | Umbrella | Banda, M.D. | 15,333 |
 | 28 | Nuwara-Eliya | 🔴 CP | Star | Sumanatilaka, P.P. | 3,852 |
 | 29 | Talawakele | 🔴 CP | Star | De Mel, H.E.P. | 1,198 |
 | 30 | Kotagala | 🔵 SLFP | Hand | Unamboowe, U.B. | 2,711 |
 | 31 | Nawalapitiya | 🔴 CP | Star | Jayatilaka, Robert Edward | 4,955 |
-| 32 | Maskeliya |  ? | House | Silva P.H.C. | 3,415 |
+| 32 | Maskeliya |  ITAK | House | Silva P.H.C. | 3,415 |
 | 33 | Ambalangoda-Balapitiya | 🔴 BSP | Lamp | De Zoysa, Ian | 37,901 |
 | 34 | Baddegama | 🔵 SLFP | Hand | Abeywickrema, Henry | 15,304 |
 | 35 | Udugama | 🟢 UNP | Umbrella | De Alwis, William Neal | 11,181 |
@@ -158,7 +158,7 @@ Note: Some electorates are multi-member, and elect more than one candidate.
 | 42 | Beliatta | 🟢 UNP | Umbrella | Rajapaksa D.A. | 17,382 |
 | 43 | Hambantota | 🔴 LSSP | Key | Edirisuriya, Charles | 14,494 |
 | 44 | Kayts | 🟢 UNP | Elephant | Thambiayah, Alfred | 9,517 |
-| 45 | Vaddukoddai | 🔴 LP | Bicycle | Veerasingam, V. | 5,687 |
+| 45 | Vaddukoddai |  LP/ACTC | Bicycle | Veerasingam, V. | 5,687 |
 | 46 | Kankesanturai | 🔴 LSSP | Key | Natesan, Subbaiya | 15,337 |
 | 47 | Jaffna | 🟢 UNP | Umbrella | Ponnambalam, G.G. | 12,726 |
 | 48 | Kopay | 🔴 LSSP | Key | Vanniasingam, C. | 9,410 |
@@ -166,7 +166,7 @@ Note: Some electorates are multi-member, and elect more than one candidate.
 | 50 | Chavakachcheri | 🟢 UNP | Pair Of Scales | Kumarasamy V. | 14,801 |
 | 51 | Mannar | 🔴 LSSP | Key | Sittampalam, Cathiravelu | 5,876 |
 | 52 | Vavuniya | 🔴 CP | Star | Suntharalingam, C. | 6,019 |
-| 53 | Trincomalee |  ? | House | Rajavarothiam, N.R. | 4,450 |
+| 53 | Trincomalee |  ITAK | House | Rajavarothiam, N.R. | 4,450 |
 | 54 | Mutur | 🟢 UNP | Pair Of Scales | Mohamed Ali, M.E.H. | 6,050 |
 | 55 | Kalkudah | 🟢 UNP | Umbrella | Nalliah, V. | 7,559 |
 | 56 | Batticaloa | 🟢 UNP | Elephant | Kadramer R.B. | 11,420 |
@@ -182,7 +182,7 @@ Note: Some electorates are multi-member, and elect more than one candidate.
 | 66 | Dandagamuwa | 🟢 UNP | Umbrella | Iriyagolla, I.M.R.A. | 16,581 |
 | 67 | Bingiriya | 🔴 LSSP | Chair | Subasinghe, T.B. | 16,426 |
 | 68 | Chilaw | 🟢 UNP | Elephant | Corea, S. G. Shirley | 10,260 |
-| 69 | Nattandiya | 🔴 LP | Bicycle | Peries, Albert F. | 14,593 |
+| 69 | Nattandiya |  LP/ACTC | Bicycle | Peries, Albert F. | 14,593 |
 | 70 | Medawachchiya | 🔵 SLFP | Hand | Senanayake , Maithripala | 8,112 |
 | 71 | Anuradhapura | 🔵 SLFP | Hand | Bulankulame, Punchi Banda | 6,280 |
 | 72 | Kalawewa | 🟢 UNP | Elephant | Mahadiulwewa S.H. | 5,674 |
@@ -197,7 +197,7 @@ Note: Some electorates are multi-member, and elect more than one candidate.
 | 81 | Mawanella | 🔵 SLFP | Hand | Beligammana, C.R. | 14,225 |
 | 82 | Kegalle | 🔴 CP | Star | Keerthiratna, N.H. | 16,443 |
 | 83 | Dedigama | 🟢 UNP | Elephant | Senanayake, Dudley | 21,206 |
-| 84 | Ruwanwella |  ? | House | Perera N.M. | 10,601 |
+| 84 | Ruwanwella |  ITAK | House | Perera N.M. | 10,601 |
 | 85 | Dehiowita | 🔴 CP | Star | Samarakkody, Edmund | 8,848 |
 | 86 | Kiriella | 🔴 LSSP | Chair | Kiriella, A.E.B. | 9,978 |
 | 87 | Ratnapura | 🟢 UNP | Elephant | Attygalle, Cyril Eugene | 11,191 |
@@ -253,22 +253,22 @@ Note: Some electorates are multi-member, and elect more than one candidate.
 | 41 | Deniyaya | 🔵 SLFP | Hand | S.W.D. Ratnayake | 16,170 |
 | 42 | Beliatta | 🔵 SLFP | Hand | D. A. Rajapaksa | 26,215 |
 | 43 | Hambantota | 🔵 SLFP | Hand | Lakshman Rajapaksa | 20,931 |
-| 44 | Kayts |  ? | House | V. A. Kandiah | 16,308 |
-| 45 | Vaddukkoddai |  ? | House | A. Amirthalingam | 14,937 |
-| 46 | Kankesanthurai |  ? | House | S.J.V. Chelvanayakam | 14,855 |
-| 47 | Jaffna | 🔴 LP | Bicycle | G. G. Ponnambalam | 8,914 |
-| 48 | Kopay |  ? | House | C. Vanniasingam | 12,804 |
+| 44 | Kayts |  ITAK | House | V. A. Kandiah | 16,308 |
+| 45 | Vaddukkoddai |  ITAK | House | A. Amirthalingam | 14,937 |
+| 46 | Kankesanthurai |  ITAK | House | S.J.V. Chelvanayakam | 14,855 |
+| 47 | Jaffna |  LP/ACTC | Bicycle | G. G. Ponnambalam | 8,914 |
+| 48 | Kopay |  ITAK | House | C. Vanniasingam | 12,804 |
 | 49 | Point Pedro | 🔴 CP | Star | P. Kandiah | 14,381 |
-| 50 | Chavakachcheri |  ? | House | V.N. Navaratnam | 15,952 |
-| 51 | Mannar |  ? | House | V.A. Alegacone | 6,726 |
-| 52 | Vavuniya |  ? | Tree | C. Suntharalingam | 6,853 |
-| 53 | Trincomalee |  ? | House | R. N. Rajavarothiam | 7,048 |
+| 50 | Chavakachcheri |  ITAK | House | V.N. Navaratnam | 15,952 |
+| 51 | Mannar |  ITAK | House | V.A. Alegacone | 6,726 |
+| 52 | Vavuniya | ⚪ Independent | Tree | C. Suntharalingam | 6,853 |
+| 53 | Trincomalee |  ITAK | House | R. N. Rajavarothiam | 7,048 |
 | 54 | Mutur | 🟢 UNP | Pair Of Scales | M.E.H. Mohamed Ali | 10,549 |
 | 55 | Kalkudah | 🟢 UNP | Umbrella | A.H. Macan Markar | 6,719 |
-| 56 | Batticaloa |  ? | House | C. Rajadurai | 9,300 |
+| 56 | Batticaloa |  ITAK | House | C. Rajadurai | 9,300 |
 | 57 | Paddiruppu | 🔴 BSP | Lamp | U.S. Ethirmanasingham | 9,528 |
-| 58 | Kalmunai |  ? | House | M.S. Kariapper | 9,464 |
-| 59 | Pottuvil |  ? | House | M.M. Mustapha | 8,355 |
+| 58 | Kalmunai |  ITAK | House | M.S. Kariapper | 9,464 |
+| 59 | Pottuvil |  ITAK | House | M.M. Mustapha | 8,355 |
 | 60 | Puttalam | 🟠 CIC | Cart Wheel | H. Sheikh Ismail | 6,524 |
 | 61 | Nikaweratiya | 🔵 SLFP | Hand | M. Tennakoon | 15,914 |
 | 62 | Dodangaslanda | 🟢 UNP | Elephant | Sir John Kotalawala | 20,286 |
@@ -379,25 +379,25 @@ Note: Some electorates are multi-member, and elect more than one candidate.
 | 71 | Beliatta | 🟢 UNP | Elephant | D.P. Atapattu | 14,379 |
 | 72 | Mulkirigala | 🟠 CIC | Cart Wheel | George Rajapakse | 13,533 |
 | 73 | Tissamaharama | 🟠 CIC | Cart Wheel | Lakshman Rajapakse | 10,665 |
-| 74 | Kayts |  ? | House | V. A. Kandiah | 10,820 |
-| 75 | Vaddukkoddai |  ? | House | A. Amirthalingam | 11,524 |
-| 76 | Kankesanturai |  ? | House | S.J.V. Chelvanayakam | 13,545 |
-| 77 | Uduvil |  ? | House | Visuvanathar Tharmalingam | 9,033 |
+| 74 | Kayts |  ITAK | House | V. A. Kandiah | 10,820 |
+| 75 | Vaddukkoddai |  ITAK | House | A. Amirthalingam | 11,524 |
+| 76 | Kankesanturai |  ITAK | House | S.J.V. Chelvanayakam | 13,545 |
+| 77 | Uduvil |  ITAK | House | Visuvanathar Tharmalingam | 9,033 |
 | 78 | Jaffna |  ? | Sun | A.T. Durayappah | 6,201 |
-| 79 | Nallur |  ? | House | E.M.V. Naganathan | 9,651 |
-| 80 | Kopai |  ? | House | M. Balasundaram | 10,279 |
-| 81 | Uduppiddi | 🔴 LP | Bicycle | M. Sivasithamparam | 7,365 |
-| 82 | Point Pedro |  ? | House | K. Thurairatnam | 5,679 |
-| 83 | Chavakachcheri |  ? | House | V.N. Navaratnam | 13,907 |
-| 84 | Kilinochchi |  ? | House | A. Sivasunderam | 3,741 |
-| 85 | Mannar |  ? | House | V.A. Alegacone | 6,463 |
+| 79 | Nallur |  ITAK | House | E.M.V. Naganathan | 9,651 |
+| 80 | Kopai |  ITAK | House | M. Balasundaram | 10,279 |
+| 81 | Uduppiddi |  LP/ACTC | Bicycle | M. Sivasithamparam | 7,365 |
+| 82 | Point Pedro |  ITAK | House | K. Thurairatnam | 5,679 |
+| 83 | Chavakachcheri |  ITAK | House | V.N. Navaratnam | 13,907 |
+| 84 | Kilinochchi |  ITAK | House | A. Sivasunderam | 3,741 |
+| 85 | Mannar |  ITAK | House | V.A. Alegacone | 6,463 |
 | 86 | Vavuniya |  ? | Sun | T. Sivasithamparam | 5,370 |
-| 87 | Trincomalee |  ? | House | N.R. Rajavarothiam | 8,872 |
-| 88 | Mutur |  ? | House | T. Ahambaram | 10,685 |
-| 89 | Kalkudah |  ? | House | P. Manicavasagam | 7,318 |
-| 90 | Batticaloa |  ? | House | C. Rajadurai | 28,309 |
+| 87 | Trincomalee |  ITAK | House | N.R. Rajavarothiam | 8,872 |
+| 88 | Mutur |  ITAK | House | T. Ahambaram | 10,685 |
+| 89 | Kalkudah |  ITAK | House | P. Manicavasagam | 7,318 |
+| 90 | Batticaloa |  ITAK | House | C. Rajadurai | 28,309 |
 | 91 | Amparai | 🔵 SLFP | Hand | Wijayabahu Wijayasinha | 4,237 |
-| 92 | Paddiruppu |  ? | House | S.M.Rasamanickam | 10,799 |
+| 92 | Paddiruppu |  ITAK | House | S.M.Rasamanickam | 10,799 |
 | 93 | Kalmunai | 🟢 UNP | Umbrella | M.S. Kariapper | 5,743 |
 | 94 | Nintavur |  ? | Radio | M.I.M. Abdul Majeed | 10,017 |
 | 95 | Pottuvil |  CWC | Cockerel | M.A. Abdul Majeed | 9,874 |
@@ -531,26 +531,26 @@ Note: Some electorates are multi-member, and elect more than one candidate.
 | 71 | Beliatta | 🔵 SLFP | Hand | D.A. Rajapaksa | 15,121 |
 | 72 | Mulkirigala | 🔵 SLFP | Hand | George Rajapakse | 17,317 |
 | 73 | Tissamaharama | 🟠 CIC | Cart Wheel | Lakshman Rajapaksa | 12,551 |
-| 74 | Kayts |  ? | House | V.A. Kandiah | 12,110 |
-| 75 | Vaddukkoddai |  ? | House | A. Amirthalingam | 13,454 |
-| 76 | Kankesanturai |  ? | House | S.J.V. Chelvanayakam | 15,668 |
-| 77 | Uduvil |  ? | House | V. Dharmalingam | 11,475 |
-| 78 | Jaffna | 🔴 LP | Bicycle | A.T. Durayappah | 6,313 |
-| 79 | Nallur |  ? | House | E.M.V. Naganathan | 11,728 |
-| 80 | Kopay |  ? | House | M. Balasunderam | 12,088 |
-| 81 | Uduppiddi | 🔴 LP | Bicycle | M. Sivasithamparam | 9,080 |
-| 82 | Point Pedro |  ? | House | K. Thurairatnam | 8,226 |
-| 83 | Chavakachcheri |  ? | House | V.N. Navaratnam | 14,799 |
-| 84 | Kilinochchi |  ? | House | A. Shivasunderam | 5,338 |
-| 85 | Mannar |  ? | House | V.A. Alegacone | 7,307 |
-| 86 | Vavuniya | 🔴 LP | Bicycle | T. Sivasithamparam | 7,393 |
-| 87 | Trincomalee |  ? | House | U.R. Rajavarothiam | 8,649 |
-| 88 | Mutur |  ? | House | T. Ahambaram | 13,304 |
-| 89 | Kalkudah |  ? | House | P. Manicavasagam | 7,605 |
-| 90 | Batticaloa |  ? | House | C. Rajadurai | 29,853 |
+| 74 | Kayts |  ITAK | House | V.A. Kandiah | 12,110 |
+| 75 | Vaddukkoddai |  ITAK | House | A. Amirthalingam | 13,454 |
+| 76 | Kankesanturai |  ITAK | House | S.J.V. Chelvanayakam | 15,668 |
+| 77 | Uduvil |  ITAK | House | V. Dharmalingam | 11,475 |
+| 78 | Jaffna |  LP/ACTC | Bicycle | A.T. Durayappah | 6,313 |
+| 79 | Nallur |  ITAK | House | E.M.V. Naganathan | 11,728 |
+| 80 | Kopay |  ITAK | House | M. Balasunderam | 12,088 |
+| 81 | Uduppiddi |  LP/ACTC | Bicycle | M. Sivasithamparam | 9,080 |
+| 82 | Point Pedro |  ITAK | House | K. Thurairatnam | 8,226 |
+| 83 | Chavakachcheri |  ITAK | House | V.N. Navaratnam | 14,799 |
+| 84 | Kilinochchi |  ITAK | House | A. Shivasunderam | 5,338 |
+| 85 | Mannar |  ITAK | House | V.A. Alegacone | 7,307 |
+| 86 | Vavuniya |  LP/ACTC | Bicycle | T. Sivasithamparam | 7,393 |
+| 87 | Trincomalee |  ITAK | House | U.R. Rajavarothiam | 8,649 |
+| 88 | Mutur |  ITAK | House | T. Ahambaram | 13,304 |
+| 89 | Kalkudah |  ITAK | House | P. Manicavasagam | 7,605 |
+| 90 | Batticaloa |  ITAK | House | C. Rajadurai | 29,853 |
 | 91 | Amparai | 🔵 SLFP | Hand | Indrasena Soysa | 5,710 |
-| 92 | Paddirippu |  ? | House | S.M. Rasamanickam | 10,948 |
-| 93 | Kalmunai |  ? | House | M.C. Ahamed | 7,616 |
+| 92 | Paddirippu |  ITAK | House | S.M. Rasamanickam | 10,948 |
+| 93 | Kalmunai |  ITAK | House | M.C. Ahamed | 7,616 |
 | 94 | Nintavur |  CWC | Cockerel | M.I.M. Abdul Majeed | 12,115 |
 | 95 | Potuvil |  ? | Radio | M.A. Abdul Majeed | 11,591 |
 | 96 | Puttalam | 🟢 UNP | Elephant | M.H.M. Naina Marikar | 7,063 |
@@ -683,25 +683,25 @@ Note: Some electorates are multi-member, and elect more than one candidate.
 | 71 | Beliatta | 🟢 UNP | Elephant | D.P. Atapattu | 20,735 |
 | 72 | Mulkirigala | 🔵 SLFP | Hand | George Rajapaksa | 18,245 |
 | 73 | Tissamaharama | 🔵 SLFP | Hand | Charles Edirisuriya | 14,295 |
-| 74 | Kayts |  ? | House | V. Navaratnam | 13,558 |
-| 75 | Vaddukoddai |  ? | House | A. Amirthalingam | 15,498 |
-| 76 | Kankesanturai |  ? | House | S.J.V. Chelvanayakam | 14,735 |
-| 77 | Uduvil |  ? | House | V. Dharmalingam | 11,638 |
-| 78 | Jaffna | 🔴 LP | Bicycle | G.G. Ponnambalam | 9,350 |
-| 79 | Nallur |  ? | House | E.M.V. Naganathan | 10,301 |
-| 80 | Kopai |  ? | House | S. Kathiravelupillai | 12,339 |
-| 81 | Udduppiddi | 🔴 LP | Bicycle | M. Sivasithamparam | 12,009 |
-| 82 | Point Pedro |  ? | House | K. Thurairatnam | 7,564 |
-| 83 | Chavakachcheri |  ? | House | V.N. Navaratnam | 16,316 |
-| 84 | Killinochchi |  ? | House | K.P. Ratnam | 5,922 |
-| 85 | Mannar |  ? | House | V.A. Alagacone | 6,896 |
-| 86 | Vavuniya | 🔴 LP | Bicycle | T. Sivasithamparam | 7,265 |
-| 87 | Trincomalee |  ? | House | S.M.. Manickarajah | 9,651 |
-| 88 | Mutur |  ? | House | M.E.H. Mohamedali | 20,237 |
+| 74 | Kayts |  ITAK | House | V. Navaratnam | 13,558 |
+| 75 | Vaddukoddai |  ITAK | House | A. Amirthalingam | 15,498 |
+| 76 | Kankesanturai |  ITAK | House | S.J.V. Chelvanayakam | 14,735 |
+| 77 | Uduvil |  ITAK | House | V. Dharmalingam | 11,638 |
+| 78 | Jaffna |  LP/ACTC | Bicycle | G.G. Ponnambalam | 9,350 |
+| 79 | Nallur |  ITAK | House | E.M.V. Naganathan | 10,301 |
+| 80 | Kopai |  ITAK | House | S. Kathiravelupillai | 12,339 |
+| 81 | Udduppiddi |  LP/ACTC | Bicycle | M. Sivasithamparam | 12,009 |
+| 82 | Point Pedro |  ITAK | House | K. Thurairatnam | 7,564 |
+| 83 | Chavakachcheri |  ITAK | House | V.N. Navaratnam | 16,316 |
+| 84 | Killinochchi |  ITAK | House | K.P. Ratnam | 5,922 |
+| 85 | Mannar |  ITAK | House | V.A. Alagacone | 6,896 |
+| 86 | Vavuniya |  LP/ACTC | Bicycle | T. Sivasithamparam | 7,265 |
+| 87 | Trincomalee |  ITAK | House | S.M.. Manickarajah | 9,651 |
+| 88 | Mutur |  ITAK | House | M.E.H. Mohamedali | 20,237 |
 | 89 | Kalkudah | 🟢 UNP | Elephant | K.W. Devanayagam | 6,566 |
-| 90 | Batticaloa |  ? | House | C. Rajadurai | 29,023 |
+| 90 | Batticaloa |  ITAK | House | C. Rajadurai | 29,023 |
 | 91 | Amparai | 🔵 SLFP | Hand | Senerath Somaratne | 10,077 |
-| 92 | Paddiruppu |  ? | House | S.M. Rasamanickam | 11,270 |
+| 92 | Paddiruppu |  ITAK | House | S.M. Rasamanickam | 11,270 |
 | 93 | Kalmunai | 🟢 UNP | Umbrella | M.S. Kariapper | 6,726 |
 | 94 | Nintavur | 🟢 UNP | Elephant | M.M. Mustapha | 13,789 |
 | 95 | Potuvil |  ? | Radio | M.A. Abdul Majeed | 6,768 |
@@ -835,23 +835,23 @@ Note: Some electorates are multi-member, and elect more than one candidate.
 | 71 | Beliatta | 🔵 SLFP | Hand | Percy Mahendra Rajapakse | 23,103 |
 | 72 | Mulkirigala | 🔵 SLFP | Hand | George Rajapakse | 22,569 |
 | 73 | Tissamaharama | 🔵 SLFP | Hand | Edirisuriya Tennyson | 18,576 |
-| 74 | Kayts |  ? | House | K.P. Ratnam | 13,079 |
-| 75 | Vaddukoddai | 🔴 LP | Bicycle | A. Thiagarajah | 14,359 |
-| 76 | Kankesanthurai |  ? | House | S.J.V. Chelvanayakam | 13,520 |
-| 77 | Uduvil |  ? | House | V. Dharmalingam | 14,120 |
-| 78 | Jaffna |  ? | House | C.X. Martyn | 8,848 |
-| 79 | Nallur | 🔴 LP | Bicycle | C. Arulampalam | 13,116 |
-| 80 | Kopay |  ? | House | S. Kathiravelupillai | 16,428 |
-| 81 | Udupiddy |  ? | House | K. Jeyakkody | 12,918 |
-| 82 | Point Pedro |  ? | House | K. Thurairatnam | 9,217 |
-| 83 | Chavakachcheri |  ? | House | V.N. Navaratnam | 15,473 |
-| 84 | Kilinochchi | 🔴 LP | Bicycle | V. Ananthasangare | 9,049 |
-| 85 | Mannar |  ? | House | V.A. Alegacone | 10,697 |
-| 86 | Vavuniya |  ? | House | X.M. Sellathambu | 10,947 |
-| 87 | Trincomalee |  ? | House | B. Neminathan | 12,395 |
+| 74 | Kayts |  ITAK | House | K.P. Ratnam | 13,079 |
+| 75 | Vaddukoddai |  LP/ACTC | Bicycle | A. Thiagarajah | 14,359 |
+| 76 | Kankesanthurai |  ITAK | House | S.J.V. Chelvanayakam | 13,520 |
+| 77 | Uduvil |  ITAK | House | V. Dharmalingam | 14,120 |
+| 78 | Jaffna |  ITAK | House | C.X. Martyn | 8,848 |
+| 79 | Nallur |  LP/ACTC | Bicycle | C. Arulampalam | 13,116 |
+| 80 | Kopay |  ITAK | House | S. Kathiravelupillai | 16,428 |
+| 81 | Udupiddy |  ITAK | House | K. Jeyakkody | 12,918 |
+| 82 | Point Pedro |  ITAK | House | K. Thurairatnam | 9,217 |
+| 83 | Chavakachcheri |  ITAK | House | V.N. Navaratnam | 15,473 |
+| 84 | Kilinochchi |  LP/ACTC | Bicycle | V. Ananthasangare | 9,049 |
+| 85 | Mannar |  ITAK | House | V.A. Alegacone | 10,697 |
+| 86 | Vavuniya |  ITAK | House | X.M. Sellathambu | 10,947 |
+| 87 | Trincomalee |  ITAK | House | B. Neminathan | 12,395 |
 | 88 | Mutur | 🔵 SLFP | Hand | A.L. Abdul Majeed | 22,727 |
 | 89 | Kalkudah | 🟢 UNP | Elephant | K.W. Devanayagam | 11,205 |
-| 90 | Batticaloa |  ? | House | C. Rajadurai | 27,661 |
+| 90 | Batticaloa |  ITAK | House | C. Rajadurai | 27,661 |
 | 91 | Amparai | 🔵 SLFP | Hand | S. Somaratne | 18,570 |
 | 92 | Paddirippu | 🟢 UNP | Elephant | S. Thambirajah | 13,370 |
 | 93 | Kalmunai | 🔵 SLFP | Hand | M.C. Ahamed | 8,779 |
