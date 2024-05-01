@@ -1,5 +1,6 @@
 class Party:
-    UNKNOWN = 'unknown'
+    UNKNOWN = '?'
+    INDEPENDENT = 'Independent'
     SYMBOL_TO_PARTY = {
         'Aeroplane': UNKNOWN,
         'Bell': UNKNOWN,
@@ -7,7 +8,7 @@ class Party:
         'Bird': UNKNOWN,
         'Book': UNKNOWN,
         'Bus': UNKNOWN,
-        'Butterfly': UNKNOWN,
+        'Butterfly': INDEPENDENT,
         'Cart Wheel': 'CIC',
         'Chair': UNKNOWN,
         'Clock': UNKNOWN,
@@ -43,4 +44,12 @@ class Party:
         'Uncontested': UNKNOWN,
         'Wheel': UNKNOWN,
         'Window': UNKNOWN,
+    }
+
+    PARTY_TO_EMOJI = {
+        'UNP': '🟢',
+        'SLFP': '🔵',
+        'CIC': '🟠',
+        'LSSP': '🔴',
+        'BSP': '🔴',
     }

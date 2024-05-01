@@ -26,7 +26,7 @@ class ReadMe:
             winning_single_result = result.single_results[0]
             
             table_lines.append(
-                f'| {result.row_num} | {result.electorate_name} | {winning_single_result.party_code} | {winning_single_result.party_symbol} | {winning_single_result.candidate} | {winning_single_result.votes:,} |'
+                f'| {result.row_num} | {result.electorate_name} | {winning_single_result.party_emoji_and_code} | {winning_single_result.party_symbol} | {winning_single_result.candidate} | {winning_single_result.votes:,} |'
             )
         table_lines.append('')
         lines += table_lines
