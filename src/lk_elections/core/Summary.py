@@ -8,7 +8,6 @@ class Summary:
     rejected: int
     valid: int
 
-
     def to_dict(self):
         return dict(
             electors=self.electors,

@@ -59,11 +59,13 @@ class Parser1947:
 
     @staticmethod
     def parse_result_first_row(first_row):
-
-        # Fix row_num-electorate_name merging issue 
-        if not is_int(first_row[0]):        
+        # Fix row_num-electorate_name merging issue
+        if not is_int(first_row[0]):
             first_row_tokens = first_row[0].split(' ')
-            first_row = [first_row_tokens[0], ' '.join(first_row_tokens[1:])] + first_row[1:]
+            first_row = [
+                first_row_tokens[0],
+                ' '.join(first_row_tokens[1:]),
+            ] + first_row[1:]
 
         row_num, electorate_name = first_row[:2]
         rejected, polled, electors = [parse_int(x) for x in first_row[-3:]]
@@ -114,9 +116,10 @@ class Parser1947:
 
         single_results = [first_single_result] + [
             single_result
-            for single_result in  [
-            Parser1947.parse_single_result(row) for row in result_rows[1:]
-            ] if single_result is not None
+            for single_result in [
+                Parser1947.parse_single_result(row) for row in result_rows[1:]
+            ]
+            if single_result is not None
         ]
 
         result = ResultFPTP(

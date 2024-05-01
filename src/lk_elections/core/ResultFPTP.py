@@ -11,12 +11,13 @@ class ResultFPTP:
     single_results: list[SingleResultFPTP]
     summary: Summary
 
-
     def to_dict(self):
-
         return dict(
             row_num=self.row_num,
             electorate_name=self.electorate_name,
-            single_results=[single_result.to_dict() for single_result in self.single_results],
+            single_results=[
+                single_result.to_dict()
+                for single_result in self.single_results
+            ],
             summary=self.summary.to_dict(),
         )

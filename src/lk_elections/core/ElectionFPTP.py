@@ -13,7 +13,6 @@ class ElectionFPTP:
     date_str: str
     results: list[ResultFPTP]
 
-
     def to_dict(self):
         return dict(
             date_str=self.date_str,
