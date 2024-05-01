@@ -193,7 +193,7 @@
     {
       "row_num": 4,
       "electorate_name": "Colombo South",
-      "pd_id": "EC-01A",
+      "pd_id": "-",
       "single_results": [
         {
           "candidate": "Edmund Samarawickrema",
@@ -4079,7 +4079,7 @@
     {
       "row_num": 80,
       "electorate_name": "Kopai",
-      "pd_id": "EC-10E",
+      "pd_id": "-",
       "single_results": [
         {
           "candidate": "M. Balasundaram",
@@ -4128,7 +4128,7 @@
     {
       "row_num": 81,
       "electorate_name": "Uduppiddi",
-      "pd_id": "EC-10F",
+      "pd_id": "-",
       "single_results": [
         {
           "candidate": "M. Sivasithamparam",
@@ -4694,7 +4694,7 @@
     {
       "row_num": 95,
       "electorate_name": "Pottuvil",
-      "pd_id": "EC-13D",
+      "pd_id": "-",
       "single_results": [
         {
           "candidate": "M.A. Abdul Majeed",
@@ -5569,7 +5569,7 @@
     {
       "row_num": 112,
       "electorate_name": "Anuradhapura",
-      "pd_id": "EC-17C",
+      "pd_id": "-",
       "single_results": [
         {
           "candidate": "Sirimewan Godage",
@@ -5943,7 +5943,7 @@
     {
       "row_num": 120,
       "electorate_name": "Mahiyangane",
-      "pd_id": "EC-19A",
+      "pd_id": "-",
       "single_results": [
         {
           "candidate": "C.P.J. Seneviratne",
@@ -7279,6 +7279,7 @@
     "[electors < polled] 74922 < 178735",
     "[summary.valid != results-valid] 20557 != 28081",
     "[electors < polled] 42367 < 60758",
+    "PD not found for Colombo South",
     "[summary.valid != results-valid] 27199 != 27899",
     "PD not found for Dehiwela Mt. Lavinia",
     "PD not found for Kottawa",
@@ -7291,9 +7292,14 @@
     "PD not found for Maskeliya",
     "PD not found for Uduvil",
     "[summary.valid != results-valid] 19551 != 19601",
+    "PD not found for Kopai",
+    "PD not found for Uduppiddi",
     "[electors < polled] 28520 < 41127",
     "[electors < polled] 37832 < 60408",
     "PD not found for Nintavur",
+    "PD not found for Pottuvil",
+    "PD not found for Anuradhapura",
+    "PD not found for Mahiyangane",
     "PD not found for Soranatota",
     "PD not found for Dehiowita",
     "PD not found for Kiriella"

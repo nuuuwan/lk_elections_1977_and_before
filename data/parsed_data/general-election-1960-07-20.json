@@ -103,7 +103,7 @@
     {
       "row_num": 4,
       "electorate_name": "Colombo South",
-      "pd_id": "EC-01A",
+      "pd_id": "-",
       "single_results": [
         {
           "candidate": "J.R. Jayewardene",
@@ -2400,7 +2400,7 @@
     {
       "row_num": 81,
       "electorate_name": "Uduppiddi",
-      "pd_id": "EC-10F",
+      "pd_id": "-",
       "single_results": [
         {
           "candidate": "M. Sivasithamparam",
@@ -3277,7 +3277,7 @@
     {
       "row_num": 112,
       "electorate_name": "Anuradhapura",
-      "pd_id": "EC-17C",
+      "pd_id": "-",
       "single_results": [
         {
           "candidate": "Sirimewan Godage",
@@ -3900,7 +3900,7 @@
     {
       "row_num": 135,
       "electorate_name": "Yatiyamtota",
-      "pd_id": "EC-22G",
+      "pd_id": "-",
       "single_results": [
         {
           "candidate": "N.M. Perera",
@@ -4248,6 +4248,7 @@
   "errors": [
     "[electors < polled] 74922 < 179584",
     "[electors < polled] 42367 < 61416",
+    "PD not found for Colombo South",
     "PD not found for Dehiwala-Mt. Lavinia",
     "PD not found for Kottawa",
     "PD not found for Wattegama",
@@ -4259,10 +4260,13 @@
     "PD not found for Maskeliya",
     "[summary.valid != results-valid] 18670 != 18660",
     "PD not found for Uduvil",
+    "PD not found for Uduppiddi",
     "[electors < polled] 28520 < 46742",
     "[electors < polled] 37832 < 57622",
     "PD not found for Nintavur",
+    "PD not found for Anuradhapura",
     "PD not found for Soranatota",
+    "PD not found for Yatiyamtota",
     "PD not found for Dehiowita",
     "PD not found for Kiriella"
   ]

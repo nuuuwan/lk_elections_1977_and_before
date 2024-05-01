@@ -96,7 +96,7 @@
     {
       "row_num": 3,
       "electorate_name": "Colombo South",
-      "pd_id": "EC-01A",
+      "pd_id": "-",
       "single_results": [
         {
           "candidate": "Bernard Soysa",
@@ -1778,7 +1778,7 @@
     {
       "row_num": 59,
       "electorate_name": "Pottuvil",
-      "pd_id": "EC-13D",
+      "pd_id": "-",
       "single_results": [
         {
           "candidate": "M.M. Mustapha",
@@ -2096,7 +2096,7 @@
     {
       "row_num": 71,
       "electorate_name": "Anuradhapura",
-      "pd_id": "EC-17C",
+      "pd_id": "-",
       "single_results": [
         {
           "candidate": "Sirimewan Godage",
@@ -2152,7 +2152,7 @@
     {
       "row_num": 73,
       "electorate_name": "Horawupotana",
-      "pd_id": "EC-17B",
+      "pd_id": "-",
       "single_results": [
         {
           "candidate": "E.L.B. Hurulle",
@@ -2363,7 +2363,7 @@
     {
       "row_num": 80,
       "electorate_name": "Buttala",
-      "pd_id": "EC-16A",
+      "pd_id": "-",
       "single_results": [
         {
           "candidate": "W.G.M. Albert Silva",
@@ -2419,7 +2419,7 @@
     {
       "row_num": 82,
       "electorate_name": "Kegalla",
-      "pd_id": "EC-22C",
+      "pd_id": "-",
       "single_results": [
         {
           "candidate": "P.B.G. Kalugalla",
@@ -2655,6 +2655,7 @@
   ],
   "errors": [
     "[electors < polled] 70022 < 151838",
+    "PD not found for Colombo South",
     "PD not found for Wellawatta-Galkissa",
     "PD not found for Minipe",
     "PD not found for Wattegama",
@@ -2671,9 +2672,14 @@
     "PD not found for Ambalangoda-Balapitiya",
     "PD not found for Udugama",
     "PD not found for Hambantota",
+    "PD not found for Pottuvil",
     "PD not found for Dandagamuwa",
+    "PD not found for Anuradhapura",
+    "PD not found for Horawupotana",
     "PD not found for Alutnuwara",
     "[electors < polled] 35607 < 45104",
+    "PD not found for Buttala",
+    "PD not found for Kegalla",
     "[summary.valid != results-valid] 29271 != 30584",
     "PD not found for Kiriella",
     "[electors < polled] 64273 < 89846"

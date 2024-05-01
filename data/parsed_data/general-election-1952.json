@@ -96,7 +96,7 @@
     {
       "row_num": 3,
       "electorate_name": "Colombo South",
-      "pd_id": "EC-01A",
+      "pd_id": "-",
       "single_results": [
         {
           "candidate": "Jayawardena T.F.",
@@ -1970,7 +1970,7 @@
     {
       "row_num": 59,
       "electorate_name": "Pottuvil",
-      "pd_id": "EC-13D",
+      "pd_id": "-",
       "single_results": [
         {
           "candidate": "Ebrahim Hadjiar, M.M.",
@@ -2306,7 +2306,7 @@
     {
       "row_num": 71,
       "electorate_name": "Anuradhapura",
-      "pd_id": "EC-17C",
+      "pd_id": "-",
       "single_results": [
         {
           "candidate": "Bulankulame, Punchi Banda",
@@ -2669,7 +2669,7 @@
     {
       "row_num": 80,
       "electorate_name": "Buttala",
-      "pd_id": "EC-16A",
+      "pd_id": "-",
       "single_results": [
         {
           "candidate": "Fernando, W. Leo",
@@ -2973,6 +2973,7 @@
   ],
   "errors": [
     "[electors < polled] 58400 < 122788",
+    "PD not found for Colombo South",
     "PD not found for Wellawatte-Galkissa",
     "PD not found for Minipe",
     "PD not found for Wattegama",
@@ -2989,10 +2990,13 @@
     "PD not found for Ambalangoda-Balapitiya",
     "PD not found for Udugama",
     "PD not found for Hambantota",
+    "PD not found for Pottuvil",
     "PD not found for Dandagamuwa",
     "[summary.valid != results-valid] 25834 != 20807",
+    "PD not found for Anuradhapura",
     "PD not found for Alutnuwara",
     "[electors < polled] 28151 < 39753",
+    "PD not found for Buttala",
     "PD not found for Dehiowita",
     "PD not found for Kiriella",
     "[electors < polled] 56096 < 76573"

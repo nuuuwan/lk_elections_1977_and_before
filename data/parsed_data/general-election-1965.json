@@ -145,7 +145,7 @@
     {
       "row_num": 4,
       "electorate_name": "Colombo South",
-      "pd_id": "EC-01A",
+      "pd_id": "-",
       "single_results": [
         {
           "candidate": "J.R. Jayawardene",
@@ -2579,7 +2579,7 @@
     {
       "row_num": 80,
       "electorate_name": "Kopai",
-      "pd_id": "EC-10E",
+      "pd_id": "-",
       "single_results": [
         {
           "candidate": "S. Kathiravelupillai",
@@ -3727,7 +3727,7 @@
     {
       "row_num": 112,
       "electorate_name": "Anuradhapura",
-      "pd_id": "EC-17C",
+      "pd_id": "-",
       "single_results": [
         {
           "candidate": "K.B. Ratnayake",
@@ -4854,6 +4854,7 @@
   "errors": [
     "[electors < polled] 93468 < 221446",
     "votes 0 <= 0",
+    "PD not found for Colombo South",
     "[summary.valid != results-valid] 39152 != 39149",
     "PD not found for Dehiwala-Mt. Lavinia",
     "PD not found for Kottawa",
@@ -4866,10 +4867,12 @@
     "PD not found for Maskeliya",
     "PD not found for Uduvil",
     "[summary.valid != results-valid] 22866 != 22870",
+    "PD not found for Kopai",
     "PD not found for Udduppiddi",
     "[electors < polled] 38516 < 58129",
     "[electors < polled] 45078 < 67882",
     "PD not found for Nintavur",
+    "PD not found for Anuradhapura",
     "PD not found for Soranatota",
     "PD not found for Dehiowita",
     "PD not found for Kiriella"

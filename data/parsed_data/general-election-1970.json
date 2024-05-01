@@ -127,7 +127,7 @@
     {
       "row_num": 4,
       "electorate_name": "Colombo South",
-      "pd_id": "EC-01A",
+      "pd_id": "-",
       "single_results": [
         {
           "candidate": "J.R. Jayawardena",
@@ -2966,7 +2966,7 @@
     {
       "row_num": 95,
       "electorate_name": "Pottuvil",
-      "pd_id": "EC-13D",
+      "pd_id": "-",
       "single_results": [
         {
           "candidate": "M.A. Abdul Majeed",
@@ -3487,7 +3487,7 @@
     {
       "row_num": 112,
       "electorate_name": "Anuradhapura",
-      "pd_id": "EC-17C",
+      "pd_id": "-",
       "single_results": [
         {
           "candidate": "K.B. Ratnayake",
@@ -3996,7 +3996,7 @@
     {
       "row_num": 129,
       "electorate_name": "Moneragla",
-      "pd_id": "EC-20B",
+      "pd_id": "-",
       "single_results": [
         {
           "candidate": "Rajah Welegama",
@@ -4507,6 +4507,7 @@
     "[summary.valid != results-valid] -20833 != 14044",
     "[electors < polled] 99265 < 240597",
     "[electors < polled] 66136 < 97928",
+    "PD not found for Colombo South",
     "[summary.valid != results-valid] 43222 != 74834",
     "PD not found for Bandaranaike(Mrs.)",
     "[summary.valid != results-valid] 41850 != 10238",
@@ -4526,8 +4527,11 @@
     "[electors < polled] 44176 < 77188",
     "[electors < polled] 51524 < 84681",
     "PD not found for Nintavur",
+    "PD not found for Pottuvil",
+    "PD not found for Anuradhapura",
     "PD not found for Soranatota",
     "votes 0 <= 0",
+    "PD not found for Moneragla",
     "PD not found for Dehiowita",
     "PD not found for Kiriella"
   ]

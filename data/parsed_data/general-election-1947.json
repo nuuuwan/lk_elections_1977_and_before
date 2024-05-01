@@ -150,7 +150,7 @@
     {
       "row_num": 3,
       "electorate_name": "Colombo South",
-      "pd_id": "EC-01A",
+      "pd_id": "-",
       "single_results": [
         {
           "candidate": "R. A. de Mel",
@@ -1887,7 +1887,7 @@
     {
       "row_num": 48,
       "electorate_name": "Kopai",
-      "pd_id": "EC-10E",
+      "pd_id": "-",
       "single_results": [
         {
           "candidate": "C. Vanniasingam",
@@ -2246,7 +2246,7 @@
     {
       "row_num": 59,
       "electorate_name": "Pottuvil",
-      "pd_id": "EC-13D",
+      "pd_id": "-",
       "single_results": [
         {
           "candidate": "M. M. Ibrahim",
@@ -2611,7 +2611,7 @@
     {
       "row_num": 71,
       "electorate_name": "Anuradhapura",
-      "pd_id": "EC-17C",
+      "pd_id": "-",
       "single_results": [
         {
           "candidate": "P.B. Bulankulame",
@@ -2667,7 +2667,7 @@
     {
       "row_num": 73,
       "electorate_name": "Horawupotana",
-      "pd_id": "EC-17B",
+      "pd_id": "-",
       "single_results": [
         {
           "candidate": "T.B. Poholiyadde",
@@ -2944,7 +2944,7 @@
     {
       "row_num": 80,
       "electorate_name": "Buttala",
-      "pd_id": "EC-16A",
+      "pd_id": "-",
       "single_results": [
         {
           "candidate": "W. Leo Fernando",
@@ -3240,7 +3240,7 @@
     {
       "row_num": 88,
       "electorate_name": "Niwitigala",
-      "pd_id": "EC-21F",
+      "pd_id": "-",
       "single_results": [
         {
           "candidate": "D. F. Hettiarachchi.",
@@ -3320,6 +3320,7 @@
   ],
   "errors": [
     "[electors < polled] 55994 < 102772",
+    "PD not found for Colombo South",
     "PD not found for Wellawatta-Galkissa",
     "PD not found for Minipe",
     "PD not found for Wattegama",
@@ -3335,10 +3336,16 @@
     "PD not found for Ambalangoda - Balapitiya",
     "PD not found for Udugama",
     "PD not found for Hambantota",
+    "PD not found for Kopai",
+    "PD not found for Pottuvil",
     "PD not found for Dandagamuwa",
+    "PD not found for Anuradhapura",
+    "PD not found for Horawupotana",
     "PD not found for Alutnuwara",
     "[electors < polled] 43396 < 54005",
+    "PD not found for Buttala",
     "PD not found for Dehiowita",
-    "PD not found for Kiriella"
+    "PD not found for Kiriella",
+    "PD not found for Niwitigala"
   ]
 }
