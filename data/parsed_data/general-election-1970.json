@@ -4,6 +4,7 @@
     {
       "row_num": 1,
       "electorate_name": "Colombo North",
+      "pd_id": "EC-01A",
       "single_results": [
         {
           "candidate": "Harris Wickremetunge",
@@ -34,6 +35,7 @@
     {
       "row_num": 2,
       "electorate_name": "Colombo Central",
+      "pd_id": "EC-01B",
       "single_results": [
         {
           "candidate": "R. Premadasa",
@@ -94,6 +96,7 @@
     {
       "row_num": 3,
       "electorate_name": "Borella",
+      "pd_id": "EC-01C",
       "single_results": [
         {
           "candidate": "Kusala Abhayawardana (Mrs.)",
@@ -124,6 +127,7 @@
     {
       "row_num": 4,
       "electorate_name": "Colombo South",
+      "pd_id": "EC-01A",
       "single_results": [
         {
           "candidate": "J.R. Jayawardena",
@@ -184,6 +188,7 @@
     {
       "row_num": 5,
       "electorate_name": "Wattala",
+      "pd_id": "EC-02A",
       "single_results": [
         {
           "candidate": "A.D.J.L. Leo",
@@ -208,6 +213,7 @@
     {
       "row_num": 6,
       "electorate_name": "Negombo",
+      "pd_id": "EC-02B",
       "single_results": [
         {
           "candidate": "Denzil Fernando",
@@ -232,6 +238,7 @@
     {
       "row_num": 7,
       "electorate_name": "Katana",
+      "pd_id": "EC-02C",
       "single_results": [
         {
           "candidate": "K.C. de Silva",
@@ -256,6 +263,7 @@
     {
       "row_num": 8,
       "electorate_name": "Divulapitiya",
+      "pd_id": "EC-02D",
       "single_results": [
         {
           "candidate": "Lakshman Jayakody",
@@ -286,6 +294,7 @@
     {
       "row_num": 9,
       "electorate_name": "Mirigama",
+      "pd_id": "EC-02E",
       "single_results": [
         {
           "candidate": "S. Obeysekere (Mrs.)",
@@ -310,6 +319,7 @@
     {
       "row_num": 10,
       "electorate_name": "Minuwangoda",
+      "pd_id": "EC-02F",
       "single_results": [
         {
           "candidate": "M.P. de Zoysa Siriwardena",
@@ -346,6 +356,7 @@
     {
       "row_num": 11,
       "electorate_name": "Bandaranaike(Mrs.)",
+      "pd_id": null,
       "single_results": [
         {
           "candidate": "J.R.P. Suriyapperuma",
@@ -370,6 +381,7 @@
     {
       "row_num": 12,
       "electorate_name": "Gampaha",
+      "pd_id": "EC-02H",
       "single_results": [
         {
           "candidate": "A.T. Basnayake",
@@ -400,6 +412,7 @@
     {
       "row_num": 13,
       "electorate_name": "Ja-ela",
+      "pd_id": null,
       "single_results": [
         {
           "candidate": "Paris Perera",
@@ -430,6 +443,7 @@
     {
       "row_num": 14,
       "electorate_name": "Mahara",
+      "pd_id": "EC-02J",
       "single_results": [
         {
           "candidate": "S.K. Karunadasa Suriyaarachchi",
@@ -454,6 +468,7 @@
     {
       "row_num": 15,
       "electorate_name": "Dompe",
+      "pd_id": "EC-02K",
       "single_results": [
         {
           "candidate": "Filix R.D. Banddaranaike",
@@ -478,6 +493,7 @@
     {
       "row_num": 16,
       "electorate_name": "Kelaniya",
+      "pd_id": "EC-02M",
       "single_results": [
         {
           "candidate": "R.S. Perera",
@@ -508,6 +524,7 @@
     {
       "row_num": 17,
       "electorate_name": "Kolonnawa",
+      "pd_id": "EC-01H",
       "single_results": [
         {
           "candidate": "T.B. Illangaratne",
@@ -532,6 +549,7 @@
     {
       "row_num": 18,
       "electorate_name": "Kotte",
+      "pd_id": "EC-01I",
       "single_results": [
         {
           "candidate": "Stanley Tilleraratne",
@@ -556,6 +574,7 @@
     {
       "row_num": 19,
       "electorate_name": "Dehiwala-Mt.Lavinia",
+      "pd_id": null,
       "single_results": [
         {
           "candidate": "Vivienne Goonawardene (Mrs.)",
@@ -580,6 +599,7 @@
     {
       "row_num": 20,
       "electorate_name": "Moratuwa",
+      "pd_id": "EC-01O",
       "single_results": [
         {
           "candidate": "Wimalasiri De Mel",
@@ -610,6 +630,7 @@
     {
       "row_num": 21,
       "electorate_name": "Kesbewa",
+      "pd_id": "EC-01N",
       "single_results": [
         {
           "candidate": "Somaweera Chandrasiri",
@@ -634,6 +655,7 @@
     {
       "row_num": 22,
       "electorate_name": "Kottawa",
+      "pd_id": null,
       "single_results": [
         {
           "candidate": "Chandrapala Gunasekera",
@@ -652,6 +674,7 @@
     {
       "row_num": 23,
       "electorate_name": "Homagama",
+      "pd_id": "EC-01L",
       "single_results": [
         {
           "candidate": "Wilfred Senanayake",
@@ -682,6 +705,7 @@
     {
       "row_num": 24,
       "electorate_name": "Avissawella",
+      "pd_id": "EC-01K",
       "single_results": [
         {
           "candidate": "Bonnie Jayasuriya",
@@ -712,6 +736,7 @@
     {
       "row_num": 25,
       "electorate_name": "Horana",
+      "pd_id": "EC-03C",
       "single_results": [
         {
           "candidate": "Ratnasiri Wickremanayake",
@@ -736,6 +761,7 @@
     {
       "row_num": 26,
       "electorate_name": "Bulathsinhala",
+      "pd_id": "EC-03D",
       "single_results": [
         {
           "candidate": "Mangalanath Moonasinghe",
@@ -772,6 +798,7 @@
     {
       "row_num": 27,
       "electorate_name": "Bandaragama",
+      "pd_id": "EC-03B",
       "single_results": [
         {
           "candidate": "Herbert Wickramasinghe",
@@ -802,6 +829,7 @@
     {
       "row_num": 28,
       "electorate_name": "Panadura",
+      "pd_id": "EC-03A",
       "single_results": [
         {
           "candidate": "Leslie Gunawardhane",
@@ -832,6 +860,7 @@
     {
       "row_num": 29,
       "electorate_name": "Kalutara",
+      "pd_id": "EC-03F",
       "single_results": [
         {
           "candidate": "Cholmondeley Goonewardene",
@@ -856,6 +885,7 @@
     {
       "row_num": 30,
       "electorate_name": "Beruwala",
+      "pd_id": "EC-03G",
       "single_results": [
         {
           "candidate": "I.A.Abdul Cader",
@@ -886,6 +916,7 @@
     {
       "row_num": 31,
       "electorate_name": "Matugama",
+      "pd_id": "EC-03E",
       "single_results": [
         {
           "candidate": "Dayasena T. Pasqual",
@@ -910,6 +941,7 @@
     {
       "row_num": 32,
       "electorate_name": "Agalawatta",
+      "pd_id": "EC-03H",
       "single_results": [
         {
           "candidate": "Colvin R. de Silva",
@@ -940,6 +972,7 @@
     {
       "row_num": 33,
       "electorate_name": "Dambulla",
+      "pd_id": "EC-05A",
       "single_results": [
         {
           "candidate": "T.B. Tennakoon",
@@ -964,6 +997,7 @@
     {
       "row_num": 34,
       "electorate_name": "Laggala",
+      "pd_id": "EC-05B",
       "single_results": [
         {
           "candidate": "M.C. Gopallawa",
@@ -1000,6 +1034,7 @@
     {
       "row_num": 35,
       "electorate_name": "Matale",
+      "pd_id": "EC-05C",
       "single_results": [
         {
           "candidate": "Richard Udugama",
@@ -1024,6 +1059,7 @@
     {
       "row_num": 36,
       "electorate_name": "Rattota",
+      "pd_id": "EC-05D",
       "single_results": [
         {
           "candidate": "S.B. Yalegama",
@@ -1048,6 +1084,7 @@
     {
       "row_num": 37,
       "electorate_name": "Wattegama",
+      "pd_id": null,
       "single_results": [
         {
           "candidate": "A.G. Fernando",
@@ -1078,6 +1115,7 @@
     {
       "row_num": 38,
       "electorate_name": "Akurana",
+      "pd_id": null,
       "single_results": [
         {
           "candidate": "A.C.S. Hameed",
@@ -1120,6 +1158,7 @@
     {
       "row_num": 39,
       "electorate_name": "Galagedera",
+      "pd_id": "EC-04A",
       "single_results": [
         {
           "candidate": "Thamara Ilangaratna (Mrs.)",
@@ -1144,6 +1183,7 @@
     {
       "row_num": 40,
       "electorate_name": "Yatinuwara",
+      "pd_id": "EC-04J",
       "single_results": [
         {
           "candidate": "Hector Kobbekaduwa",
@@ -1174,6 +1214,7 @@
     {
       "row_num": 41,
       "electorate_name": "Udunuwara",
+      "pd_id": "EC-04K",
       "single_results": [
         {
           "candidate": "T.B. Jayasundera",
@@ -1198,6 +1239,7 @@
     {
       "row_num": 42,
       "electorate_name": "Kandy",
+      "pd_id": null,
       "single_results": [
         {
           "candidate": "E.L. Senanayake",
@@ -1222,6 +1264,7 @@
     {
       "row_num": 43,
       "electorate_name": "Senkadagala",
+      "pd_id": "EC-04H",
       "single_results": [
         {
           "candidate": "N. Wimalasena",
@@ -1252,6 +1295,7 @@
     {
       "row_num": 44,
       "electorate_name": "Kundasale",
+      "pd_id": "EC-04F",
       "single_results": [
         {
           "candidate": "U.P.Y. Jinadasa",
@@ -1282,6 +1326,7 @@
     {
       "row_num": 45,
       "electorate_name": "Teldeniya",
+      "pd_id": "EC-04E",
       "single_results": [
         {
           "candidate": "Rajapakse Kulatillake",
@@ -1312,6 +1357,7 @@
     {
       "row_num": 46,
       "electorate_name": "Minipe",
+      "pd_id": null,
       "single_results": [
         {
           "candidate": "H.M. Navaratna",
@@ -1336,6 +1382,7 @@
     {
       "row_num": 47,
       "electorate_name": "Walapane",
+      "pd_id": "EC-06D",
       "single_results": [
         {
           "candidate": "T.B.M. Herath",
@@ -1360,6 +1407,7 @@
     {
       "row_num": 48,
       "electorate_name": "Hanguranketa",
+      "pd_id": "EC-06C",
       "single_results": [
         {
           "candidate": "P.B. Unantenne",
@@ -1384,6 +1432,7 @@
     {
       "row_num": 49,
       "electorate_name": "Hewaheta",
+      "pd_id": "EC-04G",
       "single_results": [
         {
           "candidate": "P. Tennakoon",
@@ -1408,6 +1457,7 @@
     {
       "row_num": 50,
       "electorate_name": "Gampaha",
+      "pd_id": "EC-02H",
       "single_results": [
         {
           "candidate": "D.M. Jayaratne",
@@ -1438,6 +1488,7 @@
     {
       "row_num": 51,
       "electorate_name": "Nawalapitiya",
+      "pd_id": "EC-04M",
       "single_results": [
         {
           "candidate": "M.S. Aluthgamage",
@@ -1468,6 +1519,7 @@
     {
       "row_num": 52,
       "electorate_name": "Kotmale",
+      "pd_id": "EC-06B",
       "single_results": [
         {
           "candidate": "J.D. Weerasekera",
@@ -1498,6 +1550,7 @@
     {
       "row_num": 53,
       "electorate_name": "Nuwara Eliya",
+      "pd_id": null,
       "single_results": [
         {
           "candidate": "Gamini Dissanayake",
@@ -1528,6 +1581,7 @@
     {
       "row_num": 54,
       "electorate_name": "Maskeliya",
+      "pd_id": null,
       "single_results": [
         {
           "candidate": "P.G. Ariyatillake",
@@ -1564,6 +1618,7 @@
     {
       "row_num": 55,
       "electorate_name": "Balapitiya",
+      "pd_id": "EC-07A",
       "single_results": [
         {
           "candidate": "Pettagan Weerasinghe de Silva",
@@ -1600,6 +1655,7 @@
     {
       "row_num": 56,
       "electorate_name": "Ambalangoda",
+      "pd_id": "EC-07B",
       "single_results": [
         {
           "candidate": "L.C. de Silva",
@@ -1630,6 +1686,7 @@
     {
       "row_num": 57,
       "electorate_name": "Bentara-Elpitiya",
+      "pd_id": "EC-07D",
       "single_results": [
         {
           "candidate": "Albert Kariyawasam",
@@ -1654,6 +1711,7 @@
     {
       "row_num": 58,
       "electorate_name": "Hiniduma",
+      "pd_id": "EC-07E",
       "single_results": [
         {
           "candidate": "Henry William Dissanayake",
@@ -1684,6 +1742,7 @@
     {
       "row_num": 59,
       "electorate_name": "Baddegama",
+      "pd_id": "EC-07F",
       "single_results": [
         {
           "candidate": "Neal de Alwis",
@@ -1708,6 +1767,7 @@
     {
       "row_num": 60,
       "electorate_name": "Ratgama",
+      "pd_id": "EC-07G",
       "single_results": [
         {
           "candidate": "M.G. Mendis",
@@ -1744,6 +1804,7 @@
     {
       "row_num": 61,
       "electorate_name": "Akmeemana",
+      "pd_id": "EC-07I",
       "single_results": [
         {
           "candidate": "Senapala Samarasekera",
@@ -1780,6 +1841,7 @@
     {
       "row_num": 62,
       "electorate_name": "Galle",
+      "pd_id": "EC-07H",
       "single_results": [
         {
           "candidate": "Wijeyananda Dahanayake",
@@ -1810,6 +1872,7 @@
     {
       "row_num": 63,
       "electorate_name": "Habaraduwa",
+      "pd_id": "EC-07J",
       "single_results": [
         {
           "candidate": "Prins Gunasekera",
@@ -1840,6 +1903,7 @@
     {
       "row_num": 64,
       "electorate_name": "Weligama",
+      "pd_id": "EC-08G",
       "single_results": [
         {
           "candidate": "Christoffel Panini Illangakoon",
@@ -1864,6 +1928,7 @@
     {
       "row_num": 65,
       "electorate_name": "Akuressa",
+      "pd_id": "EC-08C",
       "single_results": [
         {
           "candidate": "S.A. Wickremasinghe",
@@ -1888,6 +1953,7 @@
     {
       "row_num": 66,
       "electorate_name": "Deniyaya",
+      "pd_id": "EC-08A",
       "single_results": [
         {
           "candidate": "Sumanapala Dahanayake",
@@ -1912,6 +1978,7 @@
     {
       "row_num": 67,
       "electorate_name": "Hakmana",
+      "pd_id": "EC-08B",
       "single_results": [
         {
           "candidate": "Roy Don Rajapakse",
@@ -1936,6 +2003,7 @@
     {
       "row_num": 68,
       "electorate_name": "Kamburupitiya",
+      "pd_id": "EC-08D",
       "single_results": [
         {
           "candidate": "Aelian Mahanaga Nanayakkara",
@@ -1966,6 +2034,7 @@
     {
       "row_num": 69,
       "electorate_name": "Matara",
+      "pd_id": "EC-08F",
       "single_results": [
         {
           "candidate": "B.Y. Tudawe",
@@ -1996,6 +2065,7 @@
     {
       "row_num": 70,
       "electorate_name": "Devinuwara",
+      "pd_id": "EC-08E",
       "single_results": [
         {
           "candidate": "R. de Mel",
@@ -2026,6 +2096,7 @@
     {
       "row_num": 71,
       "electorate_name": "Beliatta",
+      "pd_id": "EC-09B",
       "single_results": [
         {
           "candidate": "Percy Mahendra Rajapakse",
@@ -2050,6 +2121,7 @@
     {
       "row_num": 72,
       "electorate_name": "Mulkirigala",
+      "pd_id": "EC-09A",
       "single_results": [
         {
           "candidate": "George Rajapakse",
@@ -2074,6 +2146,7 @@
     {
       "row_num": 73,
       "electorate_name": "Tissamaharama",
+      "pd_id": "EC-09D",
       "single_results": [
         {
           "candidate": "Edirisuriya Tennyson",
@@ -2116,6 +2189,7 @@
     {
       "row_num": 74,
       "electorate_name": "Kayts",
+      "pd_id": "EC-10A",
       "single_results": [
         {
           "candidate": "K.P. Ratnam",
@@ -2152,6 +2226,7 @@
     {
       "row_num": 75,
       "electorate_name": "Vaddukoddai",
+      "pd_id": "EC-10B",
       "single_results": [
         {
           "candidate": "A. Thiagarajah",
@@ -2176,6 +2251,7 @@
     {
       "row_num": 76,
       "electorate_name": "Kankesanthurai",
+      "pd_id": "EC-10C",
       "single_results": [
         {
           "candidate": "S.J.V. Chelvanayakam",
@@ -2212,6 +2288,7 @@
     {
       "row_num": 77,
       "electorate_name": "Uduvil",
+      "pd_id": null,
       "single_results": [
         {
           "candidate": "V. Dharmalingam",
@@ -2254,6 +2331,7 @@
     {
       "row_num": 78,
       "electorate_name": "Jaffna",
+      "pd_id": "EC-10J",
       "single_results": [
         {
           "candidate": "C.X. Martyn",
@@ -2284,6 +2362,7 @@
     {
       "row_num": 79,
       "electorate_name": "Nallur",
+      "pd_id": "EC-10I",
       "single_results": [
         {
           "candidate": "C. Arulampalam",
@@ -2332,6 +2411,7 @@
     {
       "row_num": 80,
       "electorate_name": "Kopay",
+      "pd_id": "EC-10E",
       "single_results": [
         {
           "candidate": "S. Kathiravelupillai",
@@ -2368,6 +2448,7 @@
     {
       "row_num": 81,
       "electorate_name": "Udupiddy",
+      "pd_id": "EC-10F",
       "single_results": [
         {
           "candidate": "K. Jeyakkody",
@@ -2416,6 +2497,7 @@
     {
       "row_num": 82,
       "electorate_name": "Point Pedro",
+      "pd_id": "EC-10G",
       "single_results": [
         {
           "candidate": "K. Thurairatnam",
@@ -2452,6 +2534,7 @@
     {
       "row_num": 83,
       "electorate_name": "Chavakachcheri",
+      "pd_id": "EC-10H",
       "single_results": [
         {
           "candidate": "V.N. Navaratnam",
@@ -2476,6 +2559,7 @@
     {
       "row_num": 84,
       "electorate_name": "Kilinochchi",
+      "pd_id": "EC-10K",
       "single_results": [
         {
           "candidate": "V. Ananthasangare",
@@ -2518,6 +2602,7 @@
     {
       "row_num": 85,
       "electorate_name": "Mannar",
+      "pd_id": "EC-11A",
       "single_results": [
         {
           "candidate": "V.A. Alegacone",
@@ -2548,6 +2633,7 @@
     {
       "row_num": 86,
       "electorate_name": "Vavuniya",
+      "pd_id": "EC-11B",
       "single_results": [
         {
           "candidate": "X.M. Sellathambu",
@@ -2590,6 +2676,7 @@
     {
       "row_num": 87,
       "electorate_name": "Trincomalee",
+      "pd_id": "EC-14B",
       "single_results": [
         {
           "candidate": "B. Neminathan",
@@ -2626,6 +2713,7 @@
     {
       "row_num": 88,
       "electorate_name": "Mutur",
+      "pd_id": "EC-14C",
       "single_results": [
         {
           "candidate": "A.L. Abdul Majeed",
@@ -2668,6 +2756,7 @@
     {
       "row_num": 89,
       "electorate_name": "Kalkudah",
+      "pd_id": "EC-12A",
       "single_results": [
         {
           "candidate": "K.W. Devanayagam",
@@ -2710,6 +2799,7 @@
     {
       "row_num": 90,
       "electorate_name": "Batticaloa",
+      "pd_id": "EC-12B",
       "single_results": [
         {
           "candidate": "C. Rajadurai",
@@ -2758,6 +2848,7 @@
     {
       "row_num": 91,
       "electorate_name": "Amparai",
+      "pd_id": "EC-13A",
       "single_results": [
         {
           "candidate": "S. Somaratne",
@@ -2788,6 +2879,7 @@
     {
       "row_num": 92,
       "electorate_name": "Paddirippu",
+      "pd_id": "EC-12C",
       "single_results": [
         {
           "candidate": "S. Thambirajah",
@@ -2812,6 +2904,7 @@
     {
       "row_num": 93,
       "electorate_name": "Kalmunai",
+      "pd_id": "EC-13C",
       "single_results": [
         {
           "candidate": "M.C. Ahamed",
@@ -2842,6 +2935,7 @@
     {
       "row_num": 94,
       "electorate_name": "Nintavur",
+      "pd_id": null,
       "single_results": [
         {
           "candidate": "M.M. Mustapha",
@@ -2872,6 +2966,7 @@
     {
       "row_num": 95,
       "electorate_name": "Pottuvil",
+      "pd_id": "EC-13D",
       "single_results": [
         {
           "candidate": "M.A. Abdul Majeed",
@@ -2902,6 +2997,7 @@
     {
       "row_num": 96,
       "electorate_name": "Puttalam",
+      "pd_id": "EC-16A",
       "single_results": [
         {
           "candidate": "S.M. Asenkudhoos",
@@ -2938,6 +3034,7 @@
     {
       "row_num": 97,
       "electorate_name": "Nikaweratiya",
+      "pd_id": "EC-15B",
       "single_results": [
         {
           "candidate": "M. Tennekoon",
@@ -2986,6 +3083,7 @@
     {
       "row_num": 98,
       "electorate_name": "Yapahuwa",
+      "pd_id": "EC-15C",
       "single_results": [
         {
           "candidate": "Tissa. R. Balalle",
@@ -3016,6 +3114,7 @@
     {
       "row_num": 99,
       "electorate_name": "Hiriyala",
+      "pd_id": "EC-15D",
       "single_results": [
         {
           "candidate": "S.B. Herat",
@@ -3046,6 +3145,7 @@
     {
       "row_num": 100,
       "electorate_name": "Wariyapola",
+      "pd_id": "EC-15E",
       "single_results": [
         {
           "candidate": "M.A.J. Wijesinghe",
@@ -3076,6 +3176,7 @@
     {
       "row_num": 101,
       "electorate_name": "Bingiriya",
+      "pd_id": "EC-15G",
       "single_results": [
         {
           "candidate": "L.B. Jayasena",
@@ -3106,6 +3207,7 @@
     {
       "row_num": 102,
       "electorate_name": "Chilaw",
+      "pd_id": "EC-16C",
       "single_results": [
         {
           "candidate": "S.D.R. Jayaratne",
@@ -3130,6 +3232,7 @@
     {
       "row_num": 103,
       "electorate_name": "Nattandiya",
+      "pd_id": "EC-16D",
       "single_results": [
         {
           "candidate": "Protus Tissera",
@@ -3160,6 +3263,7 @@
     {
       "row_num": 104,
       "electorate_name": "Wennappuwa",
+      "pd_id": "EC-16E",
       "single_results": [
         {
           "candidate": "Augustheenu Fonseka",
@@ -3184,6 +3288,7 @@
     {
       "row_num": 105,
       "electorate_name": "Katugampola",
+      "pd_id": "EC-15H",
       "single_results": [
         {
           "candidate": "T.B. Subasinghe",
@@ -3214,6 +3319,7 @@
     {
       "row_num": 106,
       "electorate_name": "Kuliyapitiya",
+      "pd_id": "EC-15I",
       "single_results": [
         {
           "candidate": "G.W. Samarasinghe",
@@ -3238,6 +3344,7 @@
     {
       "row_num": 107,
       "electorate_name": "Dambadeniya",
+      "pd_id": "EC-15J",
       "single_results": [
         {
           "candidate": "P.B. Wettewa",
@@ -3268,6 +3375,7 @@
     {
       "row_num": 108,
       "electorate_name": "Polgahawela",
+      "pd_id": "EC-15K",
       "single_results": [
         {
           "candidate": "M. Herat",
@@ -3292,6 +3400,7 @@
     {
       "row_num": 109,
       "electorate_name": "Kurunegala",
+      "pd_id": "EC-15L",
       "single_results": [
         {
           "candidate": "P. Wijesinghe",
@@ -3322,6 +3431,7 @@
     {
       "row_num": 110,
       "electorate_name": "Mawatagama",
+      "pd_id": "EC-15M",
       "single_results": [
         {
           "candidate": "D.P. Wickramasinghe",
@@ -3346,6 +3456,7 @@
     {
       "row_num": 111,
       "electorate_name": "Dodangaslanda",
+      "pd_id": "EC-15N",
       "single_results": [
         {
           "candidate": "S.Wijewardena",
@@ -3376,6 +3487,7 @@
     {
       "row_num": 112,
       "electorate_name": "Anuradhapura",
+      "pd_id": "EC-17C",
       "single_results": [
         {
           "candidate": "K.B. Ratnayake",
@@ -3412,6 +3524,7 @@
     {
       "row_num": 113,
       "electorate_name": "Medawachchiya",
+      "pd_id": "EC-17A",
       "single_results": [
         {
           "candidate": "Maithripala Senanayake",
@@ -3442,6 +3555,7 @@
     {
       "row_num": 114,
       "electorate_name": "Horowpathana",
+      "pd_id": "EC-17B",
       "single_results": [
         {
           "candidate": "T.B. Herath",
@@ -3466,6 +3580,7 @@
     {
       "row_num": 115,
       "electorate_name": "Mihintale",
+      "pd_id": "EC-17F",
       "single_results": [
         {
           "candidate": "Pathiraja Tennakoon",
@@ -3496,6 +3611,7 @@
     {
       "row_num": 116,
       "electorate_name": "Kalawewa",
+      "pd_id": "EC-17E",
       "single_results": [
         {
           "candidate": "R.B. Ratnamalala",
@@ -3520,6 +3636,7 @@
     {
       "row_num": 117,
       "electorate_name": "Kekirawa",
+      "pd_id": "EC-17G",
       "single_results": [
         {
           "candidate": "A.M. Jinadasa",
@@ -3556,6 +3673,7 @@
     {
       "row_num": 118,
       "electorate_name": "Minneriya",
+      "pd_id": "EC-18A",
       "single_results": [
         {
           "candidate": "Ratna Deshapriya Senanayake",
@@ -3580,6 +3698,7 @@
     {
       "row_num": 119,
       "electorate_name": "Polonnaruwa",
+      "pd_id": "EC-18C",
       "single_results": [
         {
           "candidate": "K.A. Leelaratna Wijesinghe",
@@ -3604,6 +3723,7 @@
     {
       "row_num": 120,
       "electorate_name": "Mahiyangana",
+      "pd_id": "EC-19A",
       "single_results": [
         {
           "candidate": "D.D.E. Wickremaratne",
@@ -3634,6 +3754,7 @@
     {
       "row_num": 121,
       "electorate_name": "Bibile",
+      "pd_id": "EC-20A",
       "single_results": [
         {
           "candidate": "A. M. Jayawardena",
@@ -3658,6 +3779,7 @@
     {
       "row_num": 122,
       "electorate_name": "Passara",
+      "pd_id": "EC-19C",
       "single_results": [
         {
           "candidate": "S.A.S. Somapala",
@@ -3694,6 +3816,7 @@
     {
       "row_num": 123,
       "electorate_name": "Badulla",
+      "pd_id": "EC-19D",
       "single_results": [
         {
           "candidate": "B.A. Heen Bandara",
@@ -3718,6 +3841,7 @@
     {
       "row_num": 124,
       "electorate_name": "Soranatota",
+      "pd_id": null,
       "single_results": [
         {
           "candidate": "K.Y.M. Wijeratne Banda",
@@ -3748,6 +3872,7 @@
     {
       "row_num": 125,
       "electorate_name": "Uva Paranagama",
+      "pd_id": "EC-19F",
       "single_results": [
         {
           "candidate": "W.M.R.S.B. Delungahawatta",
@@ -3796,6 +3921,7 @@
     {
       "row_num": 126,
       "electorate_name": "Welimada",
+      "pd_id": "EC-19G",
       "single_results": [
         {
           "candidate": "R.M. Bandara",
@@ -3814,6 +3940,7 @@
     {
       "row_num": 127,
       "electorate_name": "Bandarawela",
+      "pd_id": "EC-19H",
       "single_results": [
         {
           "candidate": "R.M. Appuhamy",
@@ -3844,6 +3971,7 @@
     {
       "row_num": 128,
       "electorate_name": "Haputale",
+      "pd_id": "EC-19I",
       "single_results": [
         {
           "candidate": "W.P.G. Ariyadasa",
@@ -3868,6 +3996,7 @@
     {
       "row_num": 129,
       "electorate_name": "Moneragla",
+      "pd_id": "EC-20B",
       "single_results": [
         {
           "candidate": "Rajah Welegama",
@@ -3898,6 +4027,7 @@
     {
       "row_num": 130,
       "electorate_name": "Dedigama",
+      "pd_id": "EC-22A",
       "single_results": [
         {
           "candidate": "Dudley Shelton Senanayake",
@@ -3922,6 +4052,7 @@
     {
       "row_num": 131,
       "electorate_name": "Galigamuwa",
+      "pd_id": "EC-22B",
       "single_results": [
         {
           "candidate": "B.A.P.B. Balasuriya",
@@ -3952,6 +4083,7 @@
     {
       "row_num": 132,
       "electorate_name": "Kegalle",
+      "pd_id": "EC-22C",
       "single_results": [
         {
           "candidate": "P.B.G. Kalugalla",
@@ -3982,6 +4114,7 @@
     {
       "row_num": 133,
       "electorate_name": "Rambukkana",
+      "pd_id": "EC-22D",
       "single_results": [
         {
           "candidate": "W.A.A. Sirisena",
@@ -4006,6 +4139,7 @@
     {
       "row_num": 134,
       "electorate_name": "Mawanella",
+      "pd_id": "EC-22E",
       "single_results": [
         {
           "candidate": "P.R. Ratnayake",
@@ -4036,6 +4170,7 @@
     {
       "row_num": 135,
       "electorate_name": "Yatiyantota",
+      "pd_id": "EC-22G",
       "single_results": [
         {
           "candidate": "N.M. Perera",
@@ -4060,6 +4195,7 @@
     {
       "row_num": 136,
       "electorate_name": "Ruwanwella",
+      "pd_id": "EC-22H",
       "single_results": [
         {
           "candidate": "Seneviratne Athauda",
@@ -4084,6 +4220,7 @@
     {
       "row_num": 137,
       "electorate_name": "Dehiowita",
+      "pd_id": null,
       "single_results": [
         {
           "candidate": "D.P.R. Weerasekera",
@@ -4114,6 +4251,7 @@
     {
       "row_num": 138,
       "electorate_name": "Kiriella",
+      "pd_id": null,
       "single_results": [
         {
           "candidate": "Vasudeva Nanayakkara",
@@ -4150,6 +4288,7 @@
     {
       "row_num": 139,
       "electorate_name": "Ratnapura",
+      "pd_id": "EC-21B",
       "single_results": [
         {
           "candidate": "Nanda Ellawala",
@@ -4186,6 +4325,7 @@
     {
       "row_num": 140,
       "electorate_name": "Pelmadulla",
+      "pd_id": "EC-21C",
       "single_results": [
         {
           "candidate": "Dharmadasa Wanniarachchi",
@@ -4210,6 +4350,7 @@
     {
       "row_num": 141,
       "electorate_name": "Balangoda",
+      "pd_id": "EC-21D",
       "single_results": [
         {
           "candidate": "Mallika Ratwatte (Mrs.)",
@@ -4246,6 +4387,7 @@
     {
       "row_num": 142,
       "electorate_name": "Rakwana",
+      "pd_id": "EC-21E",
       "single_results": [
         {
           "candidate": "V.T.G. Karunaratne",
@@ -4270,6 +4412,7 @@
     {
       "row_num": 143,
       "electorate_name": "Nivitigala",
+      "pd_id": "EC-21F",
       "single_results": [
         {
           "candidate": "Piyadasa Harischandra",
@@ -4300,6 +4443,7 @@
     {
       "row_num": 144,
       "electorate_name": "Kalawana",
+      "pd_id": "EC-21G",
       "single_results": [
         {
           "candidate": "Sarath Muttetuwegama",
@@ -4330,6 +4474,7 @@
     {
       "row_num": 145,
       "electorate_name": "Kolonna",
+      "pd_id": "EC-21H",
       "single_results": [
         {
           "candidate": "P.O. Wimalanaga",
@@ -4363,13 +4508,28 @@
     "[electors < polled] 99265 < 240597",
     "[electors < polled] 66136 < 97928",
     "[summary.valid != results-valid] 43222 != 74834",
+    "PD not found for Bandaranaike(Mrs.)",
     "[summary.valid != results-valid] 41850 != 10238",
+    "PD not found for Ja-ela",
+    "PD not found for Dehiwala-Mt.Lavinia",
+    "PD not found for Kottawa",
     "[summary.valid != results-valid] 51829 != 31662",
+    "PD not found for Wattegama",
     "[electors < polled] 62067 < 110902",
+    "PD not found for Akurana",
+    "PD not found for Kandy",
+    "PD not found for Minipe",
+    "PD not found for Nuwara Eliya",
+    "PD not found for Maskeliya",
     "[summary.valid != results-valid] 40258 != 39580",
     "[summary.valid != results-valid] 42787 != 36868",
+    "PD not found for Uduvil",
     "[electors < polled] 44176 < 77188",
     "[electors < polled] 51524 < 84681",
-    "votes 0 <= 0"
+    "PD not found for Nintavur",
+    "PD not found for Soranatota",
+    "votes 0 <= 0",
+    "PD not found for Dehiowita",
+    "PD not found for Kiriella"
   ]
 }

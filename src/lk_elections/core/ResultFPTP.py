@@ -1,5 +1,5 @@
 from dataclasses import dataclass
-
+from gig import Ent, EntType
 from lk_elections.core.SingleResultFPTP import SingleResultFPTP
 from lk_elections.core.Summary import Summary
 from lk_elections.core.Validatable import Validatable
@@ -12,10 +12,18 @@ class ResultFPTP(Validatable):
     single_results: list[SingleResultFPTP]
     summary: Summary
 
+    @property 
+    def pd_id(self):
+        pd_list = Ent.list_from_name_fuzzy(self.electorate_name, EntType.PD)
+        if not pd_list:
+            return None
+        return pd_list[0].id
+    
     def to_dict(self):
         return dict(
             row_num=self.row_num,
             electorate_name=self.electorate_name,
+            pd_id=self.pd_id,
             single_results=[
                 single_result.to_dict()
                 for single_result in self.single_results
@@ -34,6 +42,9 @@ class ResultFPTP(Validatable):
         for single_result in self.single_results:
             errors += single_result.validate()
         errors += self.summary.validate()
+
+        if self.pd_id is None:
+            errors.append(f"PD not found for {self.electorate_name}")
 
         exp_valid = sum(
             single_result.votes for single_result in self.single_results

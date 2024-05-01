@@ -17,8 +17,8 @@ class ReadMe:
     def get_lines_for_election_result(election):
         lines = [f'### {election.date_str}', '']
         table_lines = [
-            '| # | Electorate | Party | Party Symbol | Winning* Candidate | Votes |',
-            '|---:|:---|:---|:---|:---|---:|',
+            '| # | PD_ID | Electorate | Party | Party Symbol | Winning* Candidate | Votes |',
+            '|---:|:---|:---|:---|:---|:---|---:|',
         ]
         for result in election.results:
             if not result.single_results:
