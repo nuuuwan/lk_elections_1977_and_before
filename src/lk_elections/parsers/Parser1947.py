@@ -30,11 +30,14 @@ def is_int(x):
 
 def clean(s):
     s = re.sub(r'\s+', ' ', s).strip()
+    s = s.lower().title()
     for before, after in [
         ['U:mbrella', 'Umbrella'],
         ['Housse', 'House'],
-        ['Cart wheel', 'Cart Wheel'],
         ['Pair if Scakes', 'Pair of Scales'],
+        ['Chai', 'Chair'],
+        ['Chairr', 'Chair'],
+        ['Pine-Apple', 'Pineapple'],
     ]:
         s = s.replace(before, after)
     return s
@@ -102,7 +105,10 @@ class Parser1947:
 
     @staticmethod
     def parse_single_result(row):
-        # log.debug(f'parse_single_result: {row}')
+        log.debug(f'parse_single_result: {row}')
+
+        if len(row) < 3:
+            return None
 
         candidate = " ".join(row[:-2])
         party_symbol = clean(row[-2])

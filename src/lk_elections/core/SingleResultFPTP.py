@@ -25,13 +25,14 @@ class SingleResultFPTP(Validatable):
         'Key',
         'Lamp',
         'Omnibus',
-        'Pair of Scales',
-        'Pair of Spectacles',
+        'Pair Of Scales',
+        'Pair Of Spectacles',
         'Pineapple',
         'Spoon',
         'Star',
         'Tree',
         'Umbrella',
+        'Wheel',
     ]
 
     def to_dict(self):
