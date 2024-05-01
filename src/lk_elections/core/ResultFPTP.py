@@ -1,13 +1,10 @@
 from dataclasses import dataclass
-
+from lk_elections.core.SingleResultFPTP import SingleResultFPTP
+from lk_elections.core.Summary import Summary
 
 @dataclass
 class ResultFPTP:
     row_num: int
     electorate_name: str
-    party_to_candidate: dict[str, str]
-    party_to_votes: dict[str, int]
-    electors: int
-    valid: int
-    rejected: int
-    polled: int
+    single_results: list[SingleResultFPTP]
+    summary: Summary
