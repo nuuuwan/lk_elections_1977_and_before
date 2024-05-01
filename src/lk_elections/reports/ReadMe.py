@@ -33,7 +33,7 @@ class ReadMe:
             '',
         ])
 
-        return lines + table_lines
+        return lines 
 
     @property
     def lines_elections_results(self):
