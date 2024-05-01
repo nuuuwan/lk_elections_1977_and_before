@@ -163,11 +163,11 @@
       }
     },
     {
-      "row_num": "4 Wellawatta-Galkissa",
-      "electorate_name": "Colvin R. de Silva",
+      "row_num": "4",
+      "electorate_name": "Wellawatta-Galkissa",
       "single_results": [
         {
-          "candidate": "",
+          "candidate": "Colvin R. de Silva",
           "party_symbol": "Key",
           "votes": 11606
         },
@@ -269,11 +269,11 @@
       }
     },
     {
-      "row_num": "7 Mirigama",
-      "electorate_name": "D.S. Senanayake",
+      "row_num": "7",
+      "electorate_name": "Mirigama",
       "single_results": [
         {
-          "candidate": "",
+          "candidate": "D.S. Senanayake",
           "party_symbol": "Elephant",
           "votes": 26762
         },
@@ -360,11 +360,11 @@
       }
     },
     {
-      "row_num": "10 Kelaniya",
-      "electorate_name": "J.R. Jayawardena",
+      "row_num": "10",
+      "electorate_name": "Kelaniya",
       "single_results": [
         {
-          "candidate": "",
+          "candidate": "J.R. Jayawardena",
           "party_symbol": "Elephant",
           "votes": 17246
         },
@@ -382,11 +382,11 @@
       }
     },
     {
-      "row_num": "11 Avissawella",
-      "electorate_name": "Philip Gunawardena",
+      "row_num": "11",
+      "electorate_name": "Avissawella",
       "single_results": [
         {
-          "candidate": "",
+          "candidate": "Philip Gunawardena",
           "party_symbol": "Hand",
           "votes": 17598
         },
@@ -404,11 +404,11 @@
       }
     },
     {
-      "row_num": "12 Kotte",
-      "electorate_name": "R. Gunawardena",
+      "row_num": "12",
+      "electorate_name": "Kotte",
       "single_results": [
         {
-          "candidate": "",
+          "candidate": "R. Gunawardena",
           "party_symbol": "Elephant",
           "votes": 11955
         },
@@ -441,11 +441,11 @@
       }
     },
     {
-      "row_num": "13 Horana",
-      "electorate_name": "A.P. Jayasuriya",
+      "row_num": "13",
+      "electorate_name": "Horana",
       "single_results": [
         {
-          "candidate": "",
+          "candidate": "A.P. Jayasuriya",
           "party_symbol": "Elephant",
           "votes": 15828
         },
@@ -468,11 +468,11 @@
       }
     },
     {
-      "row_num": "14 Moratuwa",
-      "electorate_name": "S. Chandrasiri",
+      "row_num": "14",
+      "electorate_name": "Moratuwa",
       "single_results": [
         {
-          "candidate": "",
+          "candidate": "S. Chandrasiri",
           "party_symbol": "Hand",
           "votes": 13464
         },
@@ -542,11 +542,11 @@
       }
     },
     {
-      "row_num": "16 Kalutara",
-      "electorate_name": "C. Gunawardena",
+      "row_num": "16",
+      "electorate_name": "Kalutara",
       "single_results": [
         {
-          "candidate": "",
+          "candidate": "C. Gunawardena",
           "party_symbol": "Key",
           "votes": 13797
         },
@@ -574,11 +574,11 @@
       }
     },
     {
-      "row_num": "17 Matugama",
-      "electorate_name": "Wilmot A. Perera",
+      "row_num": "17",
+      "electorate_name": "Matugama",
       "single_results": [
         {
-          "candidate": "",
+          "candidate": "Wilmot A. Perera",
           "party_symbol": "Elephant",
           "votes": 19753
         },
@@ -601,11 +601,11 @@
       }
     },
     {
-      "row_num": "18 Agalawatte",
-      "electorate_name": "S. A. Silva",
+      "row_num": "18",
+      "electorate_name": "Agalawatte",
       "single_results": [
         {
-          "candidate": "",
+          "candidate": "S. A. Silva",
           "party_symbol": "Chair",
           "votes": 4135
         },
@@ -643,11 +643,11 @@
       }
     },
     {
-      "row_num": "19 Dambulla",
-      "electorate_name": "H.B. Tenne",
+      "row_num": "19",
+      "electorate_name": "Dambulla",
       "single_results": [
         {
-          "candidate": "",
+          "candidate": "H.B. Tenne",
           "party_symbol": "Elephant",
           "votes": 6846
         },
@@ -670,11 +670,11 @@
       }
     },
     {
-      "row_num": "20 Matale",
-      "electorate_name": "V.T. Nanayakkara",
+      "row_num": "20",
+      "electorate_name": "Matale",
       "single_results": [
         {
-          "candidate": "",
+          "candidate": "V.T. Nanayakkara",
           "party_symbol": "Eye",
           "votes": 11530
         },
@@ -697,11 +697,11 @@
       }
     },
     {
-      "row_num": "21 Minipe",
-      "electorate_name": "H.B. Rambukwella",
+      "row_num": "21",
+      "electorate_name": "Minipe",
       "single_results": [
         {
-          "candidate": "",
+          "candidate": "H.B. Rambukwella",
           "party_symbol": "Elephant",
           "votes": 12290
         },
@@ -724,11 +724,11 @@
       }
     },
     {
-      "row_num": "22 Wattegama",
-      "electorate_name": "A. Ratnayake",
+      "row_num": "22",
+      "electorate_name": "Wattegama",
       "single_results": [
         {
-          "candidate": "",
+          "candidate": "A. Ratnayake",
           "party_symbol": "Elephant",
           "votes": 14788
         },
@@ -746,11 +746,11 @@
       }
     },
     {
-      "row_num": "23 Kadugannawa",
-      "electorate_name": "E.A. Nugawela",
+      "row_num": "23",
+      "electorate_name": "Kadugannawa",
       "single_results": [
         {
-          "candidate": "",
+          "candidate": "E.A. Nugawela",
           "party_symbol": "Pair of  Scales",
           "votes": 26147
         },
@@ -808,11 +808,11 @@
       }
     },
     {
-      "row_num": "24 Kandy",
-      "electorate_name": "George E. de Silva",
+      "row_num": "24",
+      "electorate_name": "Kandy",
       "single_results": [
         {
-          "candidate": "",
+          "candidate": "George E. de Silva",
           "party_symbol": "Elephant",
           "votes": 7942
         },
@@ -840,11 +840,11 @@
       }
     },
     {
-      "row_num": "25 Galaha",
-      "electorate_name": "T.B. Panabokke",
+      "row_num": "25",
+      "electorate_name": "Galaha",
       "single_results": [
         {
-          "candidate": "",
+          "candidate": "T.B. Panabokke",
           "party_symbol": "Pair of  Scales",
           "votes": 7638
         },
@@ -882,11 +882,11 @@
       }
     },
     {
-      "row_num": "26 Gampola",
-      "electorate_name": "R.S.S. Gunawardena",
+      "row_num": "26",
+      "electorate_name": "Gampola",
       "single_results": [
         {
-          "candidate": "",
+          "candidate": "R.S.S. Gunawardena",
           "party_symbol": "Hand",
           "votes": 10434
         },
@@ -904,11 +904,11 @@
       }
     },
     {
-      "row_num": "27 Maturata",
-      "electorate_name": "M.D. Banda",
+      "row_num": "27",
+      "electorate_name": "Maturata",
       "single_results": [
         {
-          "candidate": "",
+          "candidate": "M.D. Banda",
           "party_symbol": "Star",
           "votes": 12438
         },
@@ -946,11 +946,11 @@
       }
     },
     {
-      "row_num": "28 Nuwara Eliya",
-      "electorate_name": "V.E.K.R.S. Thondaman",
+      "row_num": "28",
+      "electorate_name": "Nuwara Eliya",
       "single_results": [
         {
-          "candidate": "",
+          "candidate": "V.E.K.R.S. Thondaman",
           "party_symbol": "Star",
           "votes": 9386
         },
@@ -973,11 +973,11 @@
       }
     },
     {
-      "row_num": "29 Talawakelle",
-      "electorate_name": "C.V. Velupillay",
+      "row_num": "29",
+      "electorate_name": "Talawakelle",
       "single_results": [
         {
-          "candidate": "",
+          "candidate": "C.V. Velupillay",
           "party_symbol": "Hand",
           "votes": 10645
         },
@@ -1005,11 +1005,11 @@
       }
     },
     {
-      "row_num": "30 Kotagala",
-      "electorate_name": "K. Kumaravelu",
+      "row_num": "30",
+      "electorate_name": "Kotagala",
       "single_results": [
         {
-          "candidate": "",
+          "candidate": "K. Kumaravelu",
           "party_symbol": "Elephant",
           "votes": 6722
         },
@@ -1042,11 +1042,11 @@
       }
     },
     {
-      "row_num": "31 Nawalapitiya",
-      "electorate_name": "K. Rajalingam",
+      "row_num": "31",
+      "electorate_name": "Nawalapitiya",
       "single_results": [
         {
-          "candidate": "",
+          "candidate": "K. Rajalingam",
           "party_symbol": "Cart Wheel",
           "votes": 7933
         },
@@ -1074,11 +1074,11 @@
       }
     },
     {
-      "row_num": "32 Maskeliya",
-      "electorate_name": "G.R. Motha",
+      "row_num": "32",
+      "electorate_name": "Maskeliya",
       "single_results": [
         {
-          "candidate": "",
+          "candidate": "G.R. Motha",
           "party_symbol": "Pair of  Spectacles",
           "votes": 9086
         },
@@ -1106,11 +1106,11 @@
       }
     },
     {
-      "row_num": "33 Ambalangoda - Balapitiya",
-      "electorate_name": "P. H. William de Silva",
+      "row_num": "33",
+      "electorate_name": "Ambalangoda - Balapitiya",
       "single_results": [
         {
-          "candidate": "",
+          "candidate": "P. H. William de Silva",
           "party_symbol": "Umbrella",
           "votes": 37650
         },
@@ -1158,11 +1158,11 @@
       }
     },
     {
-      "row_num": "34 Baddegama",
-      "electorate_name": "Simon Abeywickrema",
+      "row_num": "34",
+      "electorate_name": "Baddegama",
       "single_results": [
         {
-          "candidate": "",
+          "candidate": "Simon Abeywickrema",
           "party_symbol": "Star",
           "votes": 11899
         },
@@ -1190,11 +1190,11 @@
       }
     },
     {
-      "row_num": "35 Udugama",
-      "electorate_name": "D. S. Gunasekera",
+      "row_num": "35",
+      "electorate_name": "Udugama",
       "single_results": [
         {
-          "candidate": "",
+          "candidate": "D. S. Gunasekera",
           "party_symbol": "Star",
           "votes": 8957
         },
@@ -1237,11 +1237,11 @@
       }
     },
     {
-      "row_num": "36 Galle",
-      "electorate_name": "W. Dahanayake",
+      "row_num": "36",
+      "electorate_name": "Galle",
       "single_results": [
         {
-          "candidate": "",
+          "candidate": "W. Dahanayake",
           "party_symbol": "Star",
           "votes": 16588
         },
@@ -1259,11 +1259,11 @@
       }
     },
     {
-      "row_num": "37 Weligama",
-      "electorate_name": "Montague Jayawickrama",
+      "row_num": "37",
+      "electorate_name": "Weligama",
       "single_results": [
         {
-          "candidate": "",
+          "candidate": "Montague Jayawickrama",
           "party_symbol": "Umbrella",
           "votes": 11255
         },
@@ -1296,11 +1296,11 @@
       }
     },
     {
-      "row_num": "38 Akuressa",
-      "electorate_name": "W. Wickremasinghe",
+      "row_num": "38",
+      "electorate_name": "Akuressa",
       "single_results": [
         {
-          "candidate": "",
+          "candidate": "W. Wickremasinghe",
           "party_symbol": "Elephant",
           "votes": 13458
         },
@@ -1323,11 +1323,11 @@
       }
     },
     {
-      "row_num": "39 Matara",
-      "electorate_name": "H.D. Abeygoonawardena",
+      "row_num": "39",
+      "electorate_name": "Matara",
       "single_results": [
         {
-          "candidate": "",
+          "candidate": "H.D. Abeygoonawardena",
           "party_symbol": "Pineapple",
           "votes": 11970
         },
@@ -1355,11 +1355,11 @@
       }
     },
     {
-      "row_num": "40 Hakmana",
-      "electorate_name": "P. Kumarasiri",
+      "row_num": "40",
+      "electorate_name": "Hakmana",
       "single_results": [
         {
-          "candidate": "",
+          "candidate": "P. Kumarasiri",
           "party_symbol": "Hand",
           "votes": 9958
         },
@@ -1397,11 +1397,11 @@
       }
     },
     {
-      "row_num": "41 Deniyaya",
-      "electorate_name": "Victor Ratnayaka",
+      "row_num": "41",
+      "electorate_name": "Deniyaya",
       "single_results": [
         {
-          "candidate": "",
+          "candidate": "Victor Ratnayaka",
           "party_symbol": "Pair of Scales",
           "votes": 4510
         },
@@ -1434,11 +1434,11 @@
       }
     },
     {
-      "row_num": "42 Beliatta",
-      "electorate_name": "D. A. Rajapaksa",
+      "row_num": "42",
+      "electorate_name": "Beliatta",
       "single_results": [
         {
-          "candidate": "",
+          "candidate": "D. A. Rajapaksa",
           "party_symbol": "Hand",
           "votes": 14007
         },
@@ -1471,11 +1471,11 @@
       }
     },
     {
-      "row_num": "43 Hambantota",
-      "electorate_name": "L. Rajapaksa",
+      "row_num": "43",
+      "electorate_name": "Hambantota",
       "single_results": [
         {
-          "candidate": "",
+          "candidate": "L. Rajapaksa",
           "party_symbol": "Star",
           "votes": 8740
         },
@@ -1498,11 +1498,11 @@
       }
     },
     {
-      "row_num": "44 Kayts",
-      "electorate_name": "A. Thambiyah",
+      "row_num": "44",
+      "electorate_name": "Kayts",
       "single_results": [
         {
-          "candidate": "",
+          "candidate": "A. Thambiyah",
           "party_symbol": "Pair of Scales",
           "votes": 5552
         },
@@ -1535,11 +1535,11 @@
       }
     },
     {
-      "row_num": "45 Vaddukkoddai",
-      "electorate_name": "K. Kanagaratnam",
+      "row_num": "45",
+      "electorate_name": "Vaddukkoddai",
       "single_results": [
         {
-          "candidate": "",
+          "candidate": "K. Kanagaratnam",
           "party_symbol": "Elephant",
           "votes": 11721
         },
@@ -1577,11 +1577,11 @@
       }
     },
     {
-      "row_num": "46 Kankesanturai",
-      "electorate_name": "S.J.V. Chelvanayakam",
+      "row_num": "46",
+      "electorate_name": "Kankesanturai",
       "single_results": [
         {
-          "candidate": "",
+          "candidate": "S.J.V. Chelvanayakam",
           "party_symbol": "Key",
           "votes": 12126
         },
@@ -1626,11 +1626,11 @@
       }
     },
     {
-      "row_num": "48 Kopai",
-      "electorate_name": "C. Vanniasingam",
+      "row_num": "48",
+      "electorate_name": "Kopai",
       "single_results": [
         {
-          "candidate": "",
+          "candidate": "C. Vanniasingam",
           "party_symbol": "Elephant",
           "votes": 9619
         },
@@ -1685,11 +1685,11 @@
       }
     },
     {
-      "row_num": "50 Chavakachcheri",
-      "electorate_name": "V. Kumarasamy",
+      "row_num": "50",
+      "electorate_name": "Chavakachcheri",
       "single_results": [
         {
-          "candidate": "",
+          "candidate": "V. Kumarasamy",
           "party_symbol": "Pair of Scales",
           "votes": 11813
         },
@@ -1707,11 +1707,11 @@
       }
     },
     {
-      "row_num": "51 Mannar",
-      "electorate_name": "C. Sittampalam",
+      "row_num": "51",
+      "electorate_name": "Mannar",
       "single_results": [
         {
-          "candidate": "",
+          "candidate": "C. Sittampalam",
           "party_symbol": "Key",
           "votes": 5877
         },
@@ -1734,11 +1734,11 @@
       }
     },
     {
-      "row_num": "52 Vavuniya",
-      "electorate_name": "C. Suntharalingam",
+      "row_num": "52",
+      "electorate_name": "Vavuniya",
       "single_results": [
         {
-          "candidate": "",
+          "candidate": "C. Suntharalingam",
           "party_symbol": "Tree",
           "votes": 4026
         },
@@ -1756,11 +1756,11 @@
       }
     },
     {
-      "row_num": "53 Trincomalee",
-      "electorate_name": "S. Sivapalam",
+      "row_num": "53",
+      "electorate_name": "Trincomalee",
       "single_results": [
         {
-          "candidate": "",
+          "candidate": "S. Sivapalam",
           "party_symbol": "House",
           "votes": 5252
         },
@@ -1783,11 +1783,11 @@
       }
     },
     {
-      "row_num": "54 Mutur",
-      "electorate_name": "A.R.A.M. Abubucker",
+      "row_num": "54",
+      "electorate_name": "Mutur",
       "single_results": [
         {
-          "candidate": "",
+          "candidate": "A.R.A.M. Abubucker",
           "party_symbol": "Elephant",
           "votes": 3480
         },
@@ -1815,11 +1815,11 @@
       }
     },
     {
-      "row_num": "55 Kalkuldah",
-      "electorate_name": "V. Nalliah",
+      "row_num": "55",
+      "electorate_name": "Kalkuldah",
       "single_results": [
         {
-          "candidate": "",
+          "candidate": "V. Nalliah",
           "party_symbol": "Hand",
           "votes": 5559
         },
@@ -1847,11 +1847,11 @@
       }
     },
     {
-      "row_num": "56 Batticaloa",
-      "electorate_name": "Ahamed lebbe Sinnalebbe",
+      "row_num": "56",
+      "electorate_name": "Batticaloa",
       "single_results": [
         {
-          "candidate": "",
+          "candidate": "Ahamed lebbe Sinnalebbe",
           "party_symbol": "Tree",
           "votes": 4740
         },
@@ -1911,11 +1911,11 @@
       }
     },
     {
-      "row_num": "58 Kalmunai",
-      "electorate_name": "M.S. Kariapper",
+      "row_num": "58",
+      "electorate_name": "Kalmunai",
       "single_results": [
         {
-          "candidate": "",
+          "candidate": "M.S. Kariapper",
           "party_symbol": "Key",
           "votes": 6886
         },
@@ -1960,11 +1960,11 @@
       }
     },
     {
-      "row_num": "61 Nikaweratiya",
-      "electorate_name": "K. Herat",
+      "row_num": "61",
+      "electorate_name": "Nikaweratiya",
       "single_results": [
         {
-          "candidate": "",
+          "candidate": "K. Herat",
           "party_symbol": "Elephant",
           "votes": 7316
         },
@@ -1982,11 +1982,11 @@
       }
     },
     {
-      "row_num": "62 Dodangaslanda",
-      "electorate_name": "J.L. Kotelawala",
+      "row_num": "62",
+      "electorate_name": "Dodangaslanda",
       "single_results": [
         {
-          "candidate": "",
+          "candidate": "J.L. Kotelawala",
           "party_symbol": "Elephant",
           "votes": 17548
         },
@@ -2004,11 +2004,11 @@
       }
     },
     {
-      "row_num": "63 Kurunegala",
-      "electorate_name": "H. Sri Nissanka",
+      "row_num": "63",
+      "electorate_name": "Kurunegala",
       "single_results": [
         {
-          "candidate": "",
+          "candidate": "H. Sri Nissanka",
           "party_symbol": "Umbrella",
           "votes": 10188
         },
@@ -2031,11 +2031,11 @@
       }
     },
     {
-      "row_num": "64 Dambadeniya",
-      "electorate_name": "R.G. Senanayake",
+      "row_num": "64",
+      "electorate_name": "Dambadeniya",
       "single_results": [
         {
-          "candidate": "",
+          "candidate": "R.G. Senanayake",
           "party_symbol": "Umbrella",
           "votes": 11705
         },
@@ -2053,11 +2053,11 @@
       }
     },
     {
-      "row_num": "65 Wariyapola",
-      "electorate_name": "Ivan Dassanayake",
+      "row_num": "65",
+      "electorate_name": "Wariyapola",
       "single_results": [
         {
-          "candidate": "",
+          "candidate": "Ivan Dassanayake",
           "party_symbol": "Key",
           "votes": 12063
         },
@@ -2085,11 +2085,11 @@
       }
     },
     {
-      "row_num": "66 Dandagamuwa",
-      "electorate_name": "I. M. R. A. Iriyagolla",
+      "row_num": "66",
+      "electorate_name": "Dandagamuwa",
       "single_results": [
         {
-          "candidate": "",
+          "candidate": "I. M. R. A. Iriyagolla",
           "party_symbol": "Umbrella",
           "votes": 9355
         },
@@ -2112,11 +2112,11 @@
       }
     },
     {
-      "row_num": "67 Bingiriya",
-      "electorate_name": "T. B. Subasinghe",
+      "row_num": "67",
+      "electorate_name": "Bingiriya",
       "single_results": [
         {
-          "candidate": "",
+          "candidate": "T. B. Subasinghe",
           "party_symbol": "Chair",
           "votes": 10410
         },
@@ -2149,11 +2149,11 @@
       }
     },
     {
-      "row_num": "68 Chilaw",
-      "electorate_name": "J. J. Fernando",
+      "row_num": "68",
+      "electorate_name": "Chilaw",
       "single_results": [
         {
-          "candidate": "",
+          "candidate": "J. J. Fernando",
           "party_symbol": "Elephant",
           "votes": 6270
         },
@@ -2186,11 +2186,11 @@
       }
     },
     {
-      "row_num": "69 Nattandiya",
-      "electorate_name": "Albert F. Peries",
+      "row_num": "69",
+      "electorate_name": "Nattandiya",
       "single_results": [
         {
-          "candidate": "",
+          "candidate": "Albert F. Peries",
           "party_symbol": "Bicycle",
           "votes": 11036
         },
@@ -2213,11 +2213,11 @@
       }
     },
     {
-      "row_num": "70 Medawachchiya",
-      "electorate_name": "M. Senanayake",
+      "row_num": "70",
+      "electorate_name": "Medawachchiya",
       "single_results": [
         {
-          "candidate": "",
+          "candidate": "M. Senanayake",
           "party_symbol": "Hand",
           "votes": 3283
         },
@@ -2245,11 +2245,11 @@
       }
     },
     {
-      "row_num": "71 Anuradhapura",
-      "electorate_name": "P.B. Bulankulame",
+      "row_num": "71",
+      "electorate_name": "Anuradhapura",
       "single_results": [
         {
-          "candidate": "",
+          "candidate": "P.B. Bulankulame",
           "party_symbol": "Hand",
           "votes": 5016
         },
@@ -2272,11 +2272,11 @@
       }
     },
     {
-      "row_num": "72 Kalawewa",
-      "electorate_name": "S. H. Mahadiulwewa",
+      "row_num": "72",
+      "electorate_name": "Kalawewa",
       "single_results": [
         {
-          "candidate": "",
+          "candidate": "S. H. Mahadiulwewa",
           "party_symbol": "Elephant",
           "votes": 4621
         },
@@ -2294,11 +2294,11 @@
       }
     },
     {
-      "row_num": "73 Horawupotana",
-      "electorate_name": "T.B. Poholiyadde",
+      "row_num": "73",
+      "electorate_name": "Horawupotana",
       "single_results": [
         {
-          "candidate": "",
+          "candidate": "T.B. Poholiyadde",
           "party_symbol": "Elephant",
           "votes": 3399
         },
@@ -2368,11 +2368,11 @@
       }
     },
     {
-      "row_num": "75 Alutnuwara",
-      "electorate_name": "D. Ramanujam",
+      "row_num": "75",
+      "electorate_name": "Alutnuwara",
       "single_results": [
         {
-          "candidate": "",
+          "candidate": "D. Ramanujam",
           "party_symbol": "Lamp",
           "votes": 2772
         },
@@ -2410,11 +2410,11 @@
       }
     },
     {
-      "row_num": "76 Badulla",
-      "electorate_name": "S.M. Subbaiah",
+      "row_num": "76",
+      "electorate_name": "Badulla",
       "single_results": [
         {
-          "candidate": "",
+          "candidate": "S.M. Subbaiah",
           "party_symbol": "Cart Wheel",
           "votes": 27121
         },
@@ -2442,11 +2442,11 @@
       }
     },
     {
-      "row_num": "77 Bandarawela",
-      "electorate_name": "K. V. Nadarajah",
+      "row_num": "77",
+      "electorate_name": "Bandarawela",
       "single_results": [
         {
-          "candidate": "",
+          "candidate": "K. V. Nadarajah",
           "party_symbol": "Hand",
           "votes": 5092
         },
@@ -2469,11 +2469,11 @@
       }
     },
     {
-      "row_num": "78 Welimada",
-      "electorate_name": "K. D. Sugathadasa",
+      "row_num": "78",
+      "electorate_name": "Welimada",
       "single_results": [
         {
-          "candidate": "",
+          "candidate": "K. D. Sugathadasa",
           "party_symbol": "Cart Wheel",
           "votes": 4242
         },
@@ -2496,11 +2496,11 @@
       }
     },
     {
-      "row_num": "79 Haputale",
-      "electorate_name": "J. A. Rambukpota",
+      "row_num": "79",
+      "electorate_name": "Haputale",
       "single_results": [
         {
-          "candidate": "",
+          "candidate": "J. A. Rambukpota",
           "party_symbol": "Key",
           "votes": 2124
         },
@@ -2533,11 +2533,11 @@
       }
     },
     {
-      "row_num": "80 Buttala",
-      "electorate_name": "W. Leo Fernando",
+      "row_num": "80",
+      "electorate_name": "Buttala",
       "single_results": [
         {
-          "candidate": "",
+          "candidate": "W. Leo Fernando",
           "party_symbol": "Umbrella",
           "votes": 6903
         },
@@ -2560,11 +2560,11 @@
       }
     },
     {
-      "row_num": "81 Mawanella",
-      "electorate_name": "H. L. Ratwatte",
+      "row_num": "81",
+      "electorate_name": "Mawanella",
       "single_results": [
         {
-          "candidate": "",
+          "candidate": "H. L. Ratwatte",
           "party_symbol": "Umbrella",
           "votes": 9442
         },
@@ -2592,11 +2592,11 @@
       }
     },
     {
-      "row_num": "82 Kegalle",
-      "electorate_name": "N. H. Keerthiratne",
+      "row_num": "82",
+      "electorate_name": "Kegalle",
       "single_results": [
         {
-          "candidate": "",
+          "candidate": "N. H. Keerthiratne",
           "party_symbol": "Elephant",
           "votes": 14550
         },
@@ -2614,11 +2614,11 @@
       }
     },
     {
-      "row_num": "83 Dedigama",
-      "electorate_name": "Dudley Senanayake",
+      "row_num": "83",
+      "electorate_name": "Dedigama",
       "single_results": [
         {
-          "candidate": "",
+          "candidate": "Dudley Senanayake",
           "party_symbol": "Hand",
           "votes": 20170
         },
@@ -2636,11 +2636,11 @@
       }
     },
     {
-      "row_num": "84 Ruwanwella",
-      "electorate_name": "N. M. Perera",
+      "row_num": "84",
+      "electorate_name": "Ruwanwella",
       "single_results": [
         {
-          "candidate": "",
+          "candidate": "N. M. Perera",
           "party_symbol": "House",
           "votes": 10065
         },
@@ -2663,11 +2663,11 @@
       }
     },
     {
-      "row_num": "85 Dehiowita",
-      "electorate_name": "Reginald Perera",
+      "row_num": "85",
+      "electorate_name": "Dehiowita",
       "single_results": [
         {
-          "candidate": "",
+          "candidate": "Reginald Perera",
           "party_symbol": "Chair",
           "votes": 6387
         },
@@ -2705,11 +2705,11 @@
       }
     },
     {
-      "row_num": "86 Kiriella",
-      "electorate_name": "Florence Senanayake(Mrs.)",
+      "row_num": "86",
+      "electorate_name": "Kiriella",
       "single_results": [
         {
-          "candidate": "",
+          "candidate": "Florence Senanayake(Mrs.)",
           "party_symbol": "Umbrella",
           "votes": 5535
         },
@@ -2747,11 +2747,11 @@
       }
     },
     {
-      "row_num": "87 Ratnapura",
-      "electorate_name": "C.E. Attygalle",
+      "row_num": "87",
+      "electorate_name": "Ratnapura",
       "single_results": [
         {
-          "candidate": "",
+          "candidate": "C.E. Attygalle",
           "party_symbol": "Cup",
           "votes": 6603
         },
@@ -2789,11 +2789,11 @@
       }
     },
     {
-      "row_num": "88 Niwitigala",
-      "electorate_name": "D. F. Hettiarachchi.",
+      "row_num": "88",
+      "electorate_name": "Niwitigala",
       "single_results": [
         {
-          "candidate": "",
+          "candidate": "D. F. Hettiarachchi.",
           "party_symbol": "Elephant",
           "votes": 5626
         },
@@ -2821,11 +2821,11 @@
       }
     },
     {
-      "row_num": "89 Balangoda",
-      "electorate_name": "A. F. Molamure",
+      "row_num": "89",
+      "electorate_name": "Balangoda",
       "single_results": [
         {
-          "candidate": "",
+          "candidate": "A. F. Molamure",
           "party_symbol": "Housse",
           "votes": 23076
         },
