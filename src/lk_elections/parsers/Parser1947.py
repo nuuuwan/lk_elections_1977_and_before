@@ -30,16 +30,21 @@ def is_int(x):
 
 def clean(s):
     s = re.sub(r'\s+', ' ', s).strip()
+    s = re.sub(r'[^a-zA-Z ]', '', s)
     s = s.lower().title()
     for before, after in [
         ['Cart Wheet', 'Cart Wheel'],
         ['Chai', 'Chair'],
         ['Chairr', 'Chair'],
+        ['Coclerel', 'Cockerel'],
         ['Housse', 'House'],
+        ['Pair Of Scaless', 'Pair Of Scales'],
         ['Pair if Scakes', 'Pair Of Scales'],
         ['Pair Of Scacles', 'Pair Of Scales'],
         ['Pine-Apple', 'Pineapple'],
-        ['U:mbrella', 'Umbrella'],
+        ['Winnow', 'Window'],
+        ['Sweing Machine', 'Sewing Machine'],
+
     ]:
         s = s.replace(before, after)
     return s

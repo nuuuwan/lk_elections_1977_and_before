@@ -35,6 +35,29 @@ class SingleResultFPTP(Validatable):
         'Tree',
         'Umbrella',
         'Wheel',
+
+
+
+'Ladder',
+'Ship',
+'Table',
+'Pot',
+'Cockerel',
+'Tumbler',
+'Window',
+'Sewing Machine',
+'Bell',
+'Orange',
+'Book',
+'Sun',
+
+'Key',
+'Mortar',
+'Rabbit',
+'Radio Set',
+'Saw',
+
+        
     ]
 
     def to_dict(self):
