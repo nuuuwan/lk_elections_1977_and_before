@@ -9,7 +9,6 @@ class Int:
         return int(x)
 
     def isinstance(x):
-        
         try:
             Int.parse(x)
 
