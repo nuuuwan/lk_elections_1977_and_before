@@ -16,15 +16,22 @@ class ReadMe:
     def get_lines_for_election_result(election):
         lines =[f'### {election.date_str}', '']
         table_lines = [
-            '| # | Electorate | Party | Candidate | Votes |',
+            '| # | Electorate | Party Symbol | Winning* Candidate | Votes |',
             '|---:|:---|:---|:---|---:|',
         ]
         for result in election.results:
             winning_single_result = result.single_results[0]
             table_lines.append(
-                f'| {result.row_num} | {result.electorate_name} | {winning_single_result.party_symbol} | {winning_single_result.candidate} | {winning_single_result.votes} |'
+                f'| {result.row_num} | {result.electorate_name} | {winning_single_result.party_symbol} | {winning_single_result.candidate} | {winning_single_result.votes:,} |'
             )
         table_lines.append('')
+        lines += table_lines
+        lines.extend([
+       
+            'Note: Some electorates are multi-member, and elect more than one candidate.',
+            '',
+        ])
+
         return lines + table_lines
 
     @property
