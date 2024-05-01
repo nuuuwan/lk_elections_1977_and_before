@@ -10,7 +10,6 @@ class SingleResultFPTP(Validatable):
     votes: int
 
     KNOWN_PARTY_SYMBOLS = [
-
         'Bicycle',
         'Bird',
         'Butterfly',
@@ -33,8 +32,6 @@ class SingleResultFPTP(Validatable):
         'Star',
         'Tree',
         'Umbrella',
-
-
     ]
 
     def to_dict(self):
@@ -43,7 +40,6 @@ class SingleResultFPTP(Validatable):
             party_symbol=self.party_symbol,
             votes=self.votes,
         )
-
 
     def validate(self, context=None):
         MIN_VOTES = 10

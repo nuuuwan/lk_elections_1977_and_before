@@ -35,9 +35,13 @@ class ResultFPTP(Validatable):
             errors += single_result.validate()
         errors += self.summary.validate()
 
-        exp_valid = sum(single_result.votes for single_result in self.single_results)
+        exp_valid = sum(
+            single_result.votes for single_result in self.single_results
+        )
         if self.summary.valid != exp_valid:
-            errors.append('[summary.valid != results-valid]' + f"{self.summary.valid} != {exp_valid}")
-
+            errors.append(
+                '[summary.valid != results-valid]'
+                + f"{self.summary.valid} != {exp_valid}"
+            )
 
         return errors

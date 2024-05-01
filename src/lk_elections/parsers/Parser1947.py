@@ -27,6 +27,7 @@ def is_int(x):
     except BaseException:
         return False
 
+
 def clean(s):
     s = re.sub(r'\s+', ' ', s).strip()
     for before, after in [
@@ -34,10 +35,11 @@ def clean(s):
         ['Housse', 'House'],
         ['Cart wheel', 'Cart Wheel'],
         ['Pair if Scakes', 'Pair of Scales'],
-        
     ]:
         s = s.replace(before, after)
     return s
+
+
 class Parser1947:
     def __init__(self, id):
         self.id = id
