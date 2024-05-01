@@ -14,7 +14,7 @@ class ResultFPTP(Validatable):
 
     @property 
     def pd_id(self):
-        pd_list = Ent.list_from_name_fuzzy(self.electorate_name, EntType.PD, None, 1, 0.7)
+        pd_list = Ent.list_from_name_fuzzy(self.electorate_name, EntType.PD)
         if not pd_list:
             return '-'
         return pd_list[0].id
