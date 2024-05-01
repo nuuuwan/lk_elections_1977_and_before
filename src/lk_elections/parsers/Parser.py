@@ -1,5 +1,6 @@
 import os
 import re
+
 from utils import Log
 
 from lk_elections.core import ElectionFPTP
@@ -14,6 +15,7 @@ class Parser:
     @property
     def pdf_path(self):
         return os.path.join(
+            'data',
             'original_pdfs',
             f'general-election-{self.id}.pdf',
         )
@@ -25,6 +27,7 @@ class Parser:
             results=self.results,
         )
         election.save()
+
     def clean(s):
         s = re.sub(r'\s+', ' ', s).strip()
         s = re.sub(r'[^a-zA-Z ]', '', s)
@@ -37,8 +40,8 @@ class Parser:
             ['Coclerel', 'Cockerel'],
             ['Elepaht', 'Elephant'],
             ['Elepant', 'Elephant'],
-            ['Elephnt', 'Elephant'], 
-            ['Elepnant', 'Elephant'],           
+            ['Elephnt', 'Elephant'],
+            ['Elepnant', 'Elephant'],
             ['Housse', 'House'],
             ['Lader', 'Ladder'],
             ['Omni Bus', 'Bus'],

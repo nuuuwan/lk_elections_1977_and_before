@@ -70,9 +70,17 @@ class SingleResultFPTP(Validatable):
 
         if self.party_symbol not in SingleResultFPTP.KNOWN_PARTY_SYMBOLS:
             errors.append(f"unknown party_symbol {self.party_symbol}")
-     
+
         MIN_NAME_LEN = 5
         if len(self.candidate) < MIN_NAME_LEN:
             errors.append(f"candidate name too short: {self.candidate}")
 
         return errors
+
+    @staticmethod
+    def from_dict(single_result_data):
+        return SingleResultFPTP(
+            candidate=single_result_data['candidate'],
+            party_symbol=single_result_data['party_symbol'],
+            votes=single_result_data['votes'],
+        )

@@ -33,3 +33,12 @@ class Summary(Validatable):
             )
 
         return errors
+
+    @staticmethod
+    def from_dict(summary_data):
+        return Summary(
+            electors=summary_data['electors'],
+            polled=summary_data['polled'],
+            rejected=summary_data['rejected'],
+            valid=summary_data['valid'],
+        )

@@ -1,5 +1,3 @@
-import re
-
 import camelot
 from utils import Log
 
@@ -10,12 +8,12 @@ from utils_future import Int
 log = Log('Parser1947')
 
 
-
-
 class Parser1947(Parser):
     @property
     def result_rows_list(self):
-        tables = camelot.read_pdf(self.pdf_path, pages='all', flavor='stream', edge_tol=1)
+        tables = camelot.read_pdf(
+            self.pdf_path, pages='all', flavor='stream', edge_tol=1
+        )
         result_rows_list = []
         current_result_rows = []
         for table in tables:

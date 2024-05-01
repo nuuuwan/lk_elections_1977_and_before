@@ -45,3 +45,15 @@ class ResultFPTP(Validatable):
             )
 
         return errors
+
+    @staticmethod
+    def from_dict(result_data):
+        return ResultFPTP(
+            row_num=result_data['row_num'],
+            electorate_name=result_data['electorate_name'],
+            single_results=[
+                SingleResultFPTP.from_dict(single_result_data)
+                for single_result_data in result_data['single_results']
+            ],
+            summary=Summary.from_dict(result_data['summary']),
+        )
