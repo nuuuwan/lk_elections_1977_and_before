@@ -49,7 +49,7 @@
         },
         {
           "candidate": "Sir Razik Fareed",
-          "party_code": "UNP",
+          "party_code": "UNP/ACTC",
           "party_symbol": "Umbrella",
           "votes": 26512
         },
@@ -61,7 +61,7 @@
         },
         {
           "candidate": "M.C. M. Kaleel",
-          "party_code": "CIC",
+          "party_code": "CIC/MEP",
           "party_symbol": "Cart Wheel",
           "votes": 20338
         },
@@ -79,7 +79,7 @@
         },
         {
           "candidate": "A. Ally Mohamood",
-          "party_code": "?",
+          "party_code": "UNP",
           "party_symbol": "Flower",
           "votes": 501
         }
@@ -235,7 +235,7 @@
         },
         {
           "candidate": "A.A. Stanley Dias",
-          "party_code": "UNP",
+          "party_code": "Independent",
           "party_symbol": "Pair Of Scales",
           "votes": 375
         }
@@ -265,7 +265,7 @@
         },
         {
           "candidate": "H.W.P. Lokeshvara",
-          "party_code": "CIC",
+          "party_code": "CIC/MEP",
           "party_symbol": "Cart Wheel",
           "votes": 772
         }
@@ -295,7 +295,7 @@
         },
         {
           "candidate": "I. Tinsi",
-          "party_code": "UNP",
+          "party_code": "UNP/ACTC",
           "party_symbol": "Umbrella",
           "votes": 621
         }
@@ -313,7 +313,7 @@
       "single_results": [
         {
           "candidate": "R.G. Senanayake",
-          "party_code": "UNP",
+          "party_code": "UNP/ACTC",
           "party_symbol": "Umbrella",
           "votes": 37023
         },
@@ -331,7 +331,7 @@
         },
         {
           "candidate": "S.A.D.S. Gunawardena",
-          "party_code": "CIC",
+          "party_code": "CIC/MEP",
           "party_symbol": "Cart Wheel",
           "votes": 158
         }
@@ -445,7 +445,7 @@
         },
         {
           "candidate": "Chandrasiri Somaweera",
-          "party_code": "?",
+          "party_code": "UNP",
           "party_symbol": "Flower",
           "votes": 6559
         },
@@ -541,13 +541,13 @@
         },
         {
           "candidate": "R.A. Reginald  Perera",
-          "party_code": "CIC",
+          "party_code": "CIC/MEP",
           "party_symbol": "Cart Wheel",
           "votes": 3920
         },
         {
           "candidate": "W.M. Bibile Fonseka",
-          "party_code": "UNP",
+          "party_code": "UNP/ACTC",
           "party_symbol": "Umbrella",
           "votes": 289
         }
@@ -577,7 +577,7 @@
         },
         {
           "candidate": "V.D. Chandrasinghe",
-          "party_code": "CIC",
+          "party_code": "CIC/MEP",
           "party_symbol": "Cart Wheel",
           "votes": 1066
         },
@@ -703,7 +703,7 @@
         },
         {
           "candidate": "L.S . Jinasena",
-          "party_code": "UNP",
+          "party_code": "UNP/ACTC",
           "party_symbol": "Umbrella",
           "votes": 27488
         },
@@ -715,13 +715,13 @@
         },
         {
           "candidate": "D.B. Wijetunga",
-          "party_code": "UNP",
+          "party_code": "Independent",
           "party_symbol": "Pair Of Scales",
           "votes": 5903
         },
         {
           "candidate": "P.R.M.H. Banda Nikatenne",
-          "party_code": "CIC",
+          "party_code": "CIC/MEP",
           "party_symbol": "Cart Wheel",
           "votes": 1237
         }
@@ -799,13 +799,13 @@
         },
         {
           "candidate": "R.D.A.de Lanerolle",
-          "party_code": "UNP",
+          "party_code": "UNP/ACTC",
           "party_symbol": "Umbrella",
           "votes": 859
         },
         {
           "candidate": "Illangan Pelige Rajapakse",
-          "party_code": "CIC",
+          "party_code": "CIC/MEP",
           "party_symbol": "Cart Wheel",
           "votes": 208
         }
@@ -991,7 +991,7 @@
         },
         {
           "candidate": "P.H. William de Silva",
-          "party_code": "CIC",
+          "party_code": "CIC/MEP",
           "party_symbol": "Cart Wheel",
           "votes": 43769
         },
@@ -1003,7 +1003,7 @@
         },
         {
           "candidate": "Sommie Ranasinghe",
-          "party_code": "UNP",
+          "party_code": "UNP/ACTC",
           "party_symbol": "Umbrella",
           "votes": 12811
         },
@@ -1039,7 +1039,7 @@
         },
         {
           "candidate": "M.C.B. de Silva",
-          "party_code": "UNP",
+          "party_code": "UNP/ACTC",
           "party_symbol": "Umbrella",
           "votes": 3397
         }
@@ -1069,7 +1069,7 @@
         },
         {
           "candidate": "E.D. WIckramatilleke",
-          "party_code": "UNP",
+          "party_code": "UNP/ACTC",
           "party_symbol": "Umbrella",
           "votes": 5875
         },
@@ -1303,7 +1303,7 @@
         },
         {
           "candidate": "A.L. Thambiayah",
-          "party_code": "UNP",
+          "party_code": "Independent",
           "party_symbol": "Pair Of Scales",
           "votes": 6599
         }
@@ -1351,7 +1351,7 @@
         },
         {
           "candidate": "S. Natesan",
-          "party_code": "UNP",
+          "party_code": "UNP/ACTC",
           "party_symbol": "Umbrella",
           "votes": 8188
         },
@@ -1417,7 +1417,7 @@
         },
         {
           "candidate": "C. Arulampalam",
-          "party_code": "UNP",
+          "party_code": "UNP/ACTC",
           "party_symbol": "Umbrella",
           "votes": 10983
         }
@@ -1441,7 +1441,7 @@
         },
         {
           "candidate": "M. Sivasithamparam",
-          "party_code": "UNP",
+          "party_code": "UNP/ACTC",
           "party_symbol": "Umbrella",
           "votes": 8064
         },
@@ -1471,7 +1471,7 @@
         },
         {
           "candidate": "V. Kumaraswamy",
-          "party_code": "UNP",
+          "party_code": "Independent",
           "party_symbol": "Pair Of Scales",
           "votes": 8677
         }
@@ -1495,7 +1495,7 @@
         },
         {
           "candidate": "Sir K. Vaithianathan",
-          "party_code": "UNP",
+          "party_code": "UNP/ACTC",
           "party_symbol": "Umbrella",
           "votes": 4857
         },
@@ -1525,7 +1525,7 @@
         },
         {
           "candidate": "P. Tharmalingam",
-          "party_code": "CIC",
+          "party_code": "CIC/MEP",
           "party_symbol": "Cart Wheel",
           "votes": 1856
         }
@@ -1549,7 +1549,7 @@
         },
         {
           "candidate": "J.A. Muthuthanthirige",
-          "party_code": "UNP",
+          "party_code": "UNP/ACTC",
           "party_symbol": "Umbrella",
           "votes": 2965
         },
@@ -1573,7 +1573,7 @@
       "single_results": [
         {
           "candidate": "M.E.H. Mohamed Ali",
-          "party_code": "UNP",
+          "party_code": "Independent",
           "party_symbol": "Pair Of Scales",
           "votes": 10549
         },
@@ -1597,13 +1597,13 @@
       "single_results": [
         {
           "candidate": "A.H. Macan Markar",
-          "party_code": "UNP",
+          "party_code": "UNP/ACTC",
           "party_symbol": "Umbrella",
           "votes": 6719
         },
         {
           "candidate": "V. Nalliah",
-          "party_code": "UNP",
+          "party_code": "Independent",
           "party_symbol": "Pair Of Scales",
           "votes": 4625
         },
@@ -1645,7 +1645,7 @@
         },
         {
           "candidate": "R.B. Kadramer",
-          "party_code": "UNP",
+          "party_code": "Independent",
           "party_symbol": "Pair Of Scales",
           "votes": 1296
         },
@@ -1735,7 +1735,7 @@
         },
         {
           "candidate": "M.F Abdul Jawad",
-          "party_code": "UNP",
+          "party_code": "UNP/ACTC",
           "party_symbol": "Umbrella",
           "votes": 2944
         }
@@ -1753,7 +1753,7 @@
       "single_results": [
         {
           "candidate": "H. Sheikh Ismail",
-          "party_code": "CIC",
+          "party_code": "CIC/MEP",
           "party_symbol": "Cart Wheel",
           "votes": 6524
         },
@@ -1861,7 +1861,7 @@
       "single_results": [
         {
           "candidate": "R.G. Senanayake",
-          "party_code": "UNP",
+          "party_code": "UNP/ACTC",
           "party_symbol": "Umbrella",
           "votes": 26414
         },
@@ -1981,7 +1981,7 @@
       "single_results": [
         {
           "candidate": "W.I. Hugh Fernando",
-          "party_code": "?",
+          "party_code": "UNP",
           "party_symbol": "Flower",
           "votes": 17607
         },
@@ -2179,13 +2179,13 @@
         },
         {
           "candidate": "S.B. Ekanayake",
-          "party_code": "UNP",
+          "party_code": "UNP/ACTC",
           "party_symbol": "Umbrella",
           "votes": 6736
         },
         {
           "candidate": "K.V. Don Sugathadasa",
-          "party_code": "CIC",
+          "party_code": "CIC/MEP",
           "party_symbol": "Cart Wheel",
           "votes": 1301
         }
@@ -2215,7 +2215,7 @@
         },
         {
           "candidate": "G.H. Kotalawela",
-          "party_code": "CIC",
+          "party_code": "CIC/MEP",
           "party_symbol": "Cart Wheel",
           "votes": 1278
         }
@@ -2245,7 +2245,7 @@
         },
         {
           "candidate": "M.D. Perera",
-          "party_code": "CIC",
+          "party_code": "CIC/MEP",
           "party_symbol": "Cart Wheel",
           "votes": 770
         }
@@ -2323,7 +2323,7 @@
         },
         {
           "candidate": "M.S. Mohideen",
-          "party_code": "CIC",
+          "party_code": "CIC/MEP",
           "party_symbol": "Cart Wheel",
           "votes": 200
         }
@@ -2377,7 +2377,7 @@
         },
         {
           "candidate": "W.A. Munasinghe",
-          "party_code": "UNP",
+          "party_code": "UNP/ACTC",
           "party_symbol": "Umbrella",
           "votes": 191
         }
