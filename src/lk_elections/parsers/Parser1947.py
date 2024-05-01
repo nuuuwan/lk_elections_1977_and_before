@@ -4,8 +4,12 @@ import re
 import camelot
 from utils import Log
 
-from lk_elections.core import (ElectionFPTP, ResultFPTP, SingleResultFPTP,
-                               Summary)
+from lk_elections.core import (
+    ElectionFPTP,
+    ResultFPTP,
+    SingleResultFPTP,
+    Summary,
+)
 
 log = Log('Parser1947')
 
@@ -44,7 +48,6 @@ def clean(s):
         ['Pine-Apple', 'Pineapple'],
         ['Winnow', 'Window'],
         ['Sweing Machine', 'Sewing Machine'],
-
     ]:
         s = s.replace(before, after)
     return s
