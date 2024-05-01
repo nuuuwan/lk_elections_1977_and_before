@@ -52,6 +52,7 @@ class SingleResultFPTP(Validatable):
         'Umbrella',
         'Wheel',
         'Window',
+        'Uncontested',
     ]
 
     def to_dict(self):

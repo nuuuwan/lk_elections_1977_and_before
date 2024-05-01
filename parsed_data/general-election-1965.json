@@ -2,7 +2,7 @@
   "date_str": 1965,
   "results": [
     {
-      "row_num": "1",
+      "row_num": 1,
       "electorate_name": "Colombo North",
       "single_results": [
         {
@@ -29,7 +29,7 @@
       }
     },
     {
-      "row_num": "2",
+      "row_num": 2,
       "electorate_name": "Colombo Central",
       "single_results": [
         {
@@ -79,7 +79,7 @@
         },
         {
           "candidate": "R.H. Jayasekera",
-          "party_symbol": "Pair of Scales",
+          "party_symbol": "Pair Of Scales",
           "votes": 268
         }
       ],
@@ -91,7 +91,7 @@
       }
     },
     {
-      "row_num": "3",
+      "row_num": 3,
       "electorate_name": "Borella",
       "single_results": [
         {
@@ -123,9 +123,15 @@
       }
     },
     {
-      "row_num": "4",
+      "row_num": 4,
       "electorate_name": "Colombo South",
-      "single_results": [],
+      "single_results": [
+        {
+          "candidate": "J.R. Jayawardene",
+          "party_symbol": "Uncontested",
+          "votes": 0
+        }
+      ],
       "summary": {
         "electors": 57403,
         "polled": 0,
@@ -134,7 +140,7 @@
       }
     },
     {
-      "row_num": "5",
+      "row_num": 5,
       "electorate_name": "Wattala",
       "single_results": [
         {
@@ -161,7 +167,7 @@
       }
     },
     {
-      "row_num": "6",
+      "row_num": 6,
       "electorate_name": "Negombo",
       "single_results": [
         {
@@ -183,7 +189,7 @@
       }
     },
     {
-      "row_num": "7",
+      "row_num": 7,
       "electorate_name": "Katana",
       "single_results": [
         {
@@ -210,7 +216,7 @@
       }
     },
     {
-      "row_num": "8",
+      "row_num": 8,
       "electorate_name": "Divulapitiya",
       "single_results": [
         {
@@ -242,7 +248,7 @@
       }
     },
     {
-      "row_num": "9",
+      "row_num": 9,
       "electorate_name": "Mirigama",
       "single_results": [
         {
@@ -279,7 +285,7 @@
       }
     },
     {
-      "row_num": "10",
+      "row_num": 10,
       "electorate_name": "Minuwangoda",
       "single_results": [
         {
@@ -326,7 +332,7 @@
       }
     },
     {
-      "row_num": "11",
+      "row_num": 11,
       "electorate_name": "Attanagalla",
       "single_results": [
         {
@@ -358,7 +364,7 @@
       }
     },
     {
-      "row_num": "12",
+      "row_num": 12,
       "electorate_name": "Gampaha",
       "single_results": [
         {
@@ -385,7 +391,7 @@
       }
     },
     {
-      "row_num": "13",
+      "row_num": 13,
       "electorate_name": "Ja-ela",
       "single_results": [
         {
@@ -407,7 +413,7 @@
       }
     },
     {
-      "row_num": "14",
+      "row_num": 14,
       "electorate_name": "Mahara",
       "single_results": [
         {
@@ -434,7 +440,7 @@
       }
     },
     {
-      "row_num": "15",
+      "row_num": 15,
       "electorate_name": "Dompe",
       "single_results": [
         {
@@ -461,7 +467,7 @@
       }
     },
     {
-      "row_num": "16",
+      "row_num": 16,
       "electorate_name": "Kelaniya",
       "single_results": [
         {
@@ -488,7 +494,7 @@
       }
     },
     {
-      "row_num": "17",
+      "row_num": 17,
       "electorate_name": "Kolonnawa",
       "single_results": [
         {
@@ -508,7 +514,7 @@
         },
         {
           "candidate": "D.P.M. Pathirana",
-          "party_symbol": "Pair of Scales",
+          "party_symbol": "Pair Of Scales",
           "votes": 102
         },
         {
@@ -530,7 +536,7 @@
       }
     },
     {
-      "row_num": "18",
+      "row_num": 18,
       "electorate_name": "Kotte",
       "single_results": [
         {
@@ -562,7 +568,7 @@
       }
     },
     {
-      "row_num": "19",
+      "row_num": 19,
       "electorate_name": "Dehiwala-Mt. Lavinia",
       "single_results": [
         {
@@ -589,7 +595,7 @@
       }
     },
     {
-      "row_num": "20",
+      "row_num": 20,
       "electorate_name": "Moratuwa",
       "single_results": [
         {
@@ -616,7 +622,7 @@
       }
     },
     {
-      "row_num": "21",
+      "row_num": 21,
       "electorate_name": "Kesbewa",
       "single_results": [
         {
@@ -643,7 +649,7 @@
       }
     },
     {
-      "row_num": "22",
+      "row_num": 22,
       "electorate_name": "Kottawa",
       "single_results": [
         {
@@ -670,7 +676,7 @@
       }
     },
     {
-      "row_num": "23",
+      "row_num": 23,
       "electorate_name": "Homagama",
       "single_results": [
         {
@@ -697,7 +703,7 @@
       }
     },
     {
-      "row_num": "24",
+      "row_num": 24,
       "electorate_name": "Awissawella",
       "single_results": [
         {
@@ -719,7 +725,7 @@
       }
     },
     {
-      "row_num": "25",
+      "row_num": 25,
       "electorate_name": "Horana",
       "single_results": [
         {
@@ -746,7 +752,7 @@
       }
     },
     {
-      "row_num": "26",
+      "row_num": 26,
       "electorate_name": "Bulathsinhala",
       "single_results": [
         {
@@ -788,7 +794,7 @@
       }
     },
     {
-      "row_num": "27",
+      "row_num": 27,
       "electorate_name": "Bandaragama",
       "single_results": [
         {
@@ -815,7 +821,7 @@
       }
     },
     {
-      "row_num": "28",
+      "row_num": 28,
       "electorate_name": "Panadura",
       "single_results": [
         {
@@ -837,7 +843,7 @@
       }
     },
     {
-      "row_num": "29",
+      "row_num": 29,
       "electorate_name": "Kalutara",
       "single_results": [
         {
@@ -864,7 +870,7 @@
       }
     },
     {
-      "row_num": "30",
+      "row_num": 30,
       "electorate_name": "Beruwala",
       "single_results": [
         {
@@ -896,7 +902,7 @@
       }
     },
     {
-      "row_num": "31",
+      "row_num": 31,
       "electorate_name": "Matugama",
       "single_results": [
         {
@@ -928,7 +934,7 @@
       }
     },
     {
-      "row_num": "32",
+      "row_num": 32,
       "electorate_name": "Agalawatte",
       "single_results": [
         {
@@ -950,7 +956,7 @@
       }
     },
     {
-      "row_num": "33",
+      "row_num": 33,
       "electorate_name": "Dambulla",
       "single_results": [
         {
@@ -977,7 +983,7 @@
       }
     },
     {
-      "row_num": "34",
+      "row_num": 34,
       "electorate_name": "Laggala",
       "single_results": [
         {
@@ -1009,7 +1015,7 @@
       }
     },
     {
-      "row_num": "35",
+      "row_num": 35,
       "electorate_name": "Matale",
       "single_results": [
         {
@@ -1031,7 +1037,7 @@
       }
     },
     {
-      "row_num": "36",
+      "row_num": 36,
       "electorate_name": "Rattota",
       "single_results": [
         {
@@ -1058,7 +1064,7 @@
       }
     },
     {
-      "row_num": "37",
+      "row_num": 37,
       "electorate_name": "Wattegama",
       "single_results": [
         {
@@ -1085,7 +1091,7 @@
       }
     },
     {
-      "row_num": "38",
+      "row_num": 38,
       "electorate_name": "Akurana",
       "single_results": [
         {
@@ -1100,7 +1106,7 @@
         },
         {
           "candidate": "H.B. Ratnayake",
-          "party_symbol": "Pair of Scales",
+          "party_symbol": "Pair Of Scales",
           "votes": 16916
         },
         {
@@ -1122,7 +1128,7 @@
       }
     },
     {
-      "row_num": "39",
+      "row_num": 39,
       "electorate_name": "Galagedara",
       "single_results": [
         {
@@ -1154,7 +1160,7 @@
       }
     },
     {
-      "row_num": "40",
+      "row_num": 40,
       "electorate_name": "Yatinuwara",
       "single_results": [
         {
@@ -1181,7 +1187,7 @@
       }
     },
     {
-      "row_num": "41",
+      "row_num": 41,
       "electorate_name": "Udunuwara",
       "single_results": [
         {
@@ -1203,7 +1209,7 @@
       }
     },
     {
-      "row_num": "42",
+      "row_num": 42,
       "electorate_name": "Kandy",
       "single_results": [
         {
@@ -1225,7 +1231,7 @@
       }
     },
     {
-      "row_num": "43",
+      "row_num": 43,
       "electorate_name": "Senkadagala",
       "single_results": [
         {
@@ -1252,7 +1258,7 @@
       }
     },
     {
-      "row_num": "44",
+      "row_num": 44,
       "electorate_name": "Kundasale",
       "single_results": [
         {
@@ -1279,7 +1285,7 @@
       }
     },
     {
-      "row_num": "45",
+      "row_num": 45,
       "electorate_name": "Teldeniya",
       "single_results": [
         {
@@ -1301,7 +1307,7 @@
       }
     },
     {
-      "row_num": "46",
+      "row_num": 46,
       "electorate_name": "Minipe",
       "single_results": [
         {
@@ -1333,7 +1339,7 @@
       }
     },
     {
-      "row_num": "47",
+      "row_num": 47,
       "electorate_name": "Walapane",
       "single_results": [
         {
@@ -1360,7 +1366,7 @@
       }
     },
     {
-      "row_num": "48",
+      "row_num": 48,
       "electorate_name": "Hanguranketa",
       "single_results": [
         {
@@ -1387,7 +1393,7 @@
       }
     },
     {
-      "row_num": "49",
+      "row_num": 49,
       "electorate_name": "Hewaheta",
       "single_results": [
         {
@@ -1409,7 +1415,7 @@
       }
     },
     {
-      "row_num": "50",
+      "row_num": 50,
       "electorate_name": "Gampola",
       "single_results": [
         {
@@ -1424,7 +1430,7 @@
         },
         {
           "candidate": "N.K. Punchirala",
-          "party_symbol": "Pair of Scales",
+          "party_symbol": "Pair Of Scales",
           "votes": 283
         },
         {
@@ -1441,7 +1447,7 @@
       }
     },
     {
-      "row_num": "51",
+      "row_num": 51,
       "electorate_name": "Nawalapitiya",
       "single_results": [
         {
@@ -1468,7 +1474,7 @@
       }
     },
     {
-      "row_num": "52",
+      "row_num": 52,
       "electorate_name": "Kotmale",
       "single_results": [
         {
@@ -1495,7 +1501,7 @@
       }
     },
     {
-      "row_num": "53",
+      "row_num": 53,
       "electorate_name": "Nuwara-Eliya",
       "single_results": [
         {
@@ -1522,7 +1528,7 @@
       }
     },
     {
-      "row_num": "54",
+      "row_num": 54,
       "electorate_name": "Maskeliya",
       "single_results": [
         {
@@ -1549,7 +1555,7 @@
       }
     },
     {
-      "row_num": "55",
+      "row_num": 55,
       "electorate_name": "Balapitiya",
       "single_results": [
         {
@@ -1581,7 +1587,7 @@
       }
     },
     {
-      "row_num": "56",
+      "row_num": 56,
       "electorate_name": "Ambalangoda",
       "single_results": [
         {
@@ -1603,7 +1609,7 @@
       }
     },
     {
-      "row_num": "57",
+      "row_num": 57,
       "electorate_name": "Bentara-Elpitiya",
       "single_results": [
         {
@@ -1630,7 +1636,7 @@
       }
     },
     {
-      "row_num": "58",
+      "row_num": 58,
       "electorate_name": "Hiniduma",
       "single_results": [
         {
@@ -1657,7 +1663,7 @@
       }
     },
     {
-      "row_num": "59",
+      "row_num": 59,
       "electorate_name": "Baddegama",
       "single_results": [
         {
@@ -1689,7 +1695,7 @@
       }
     },
     {
-      "row_num": "60",
+      "row_num": 60,
       "electorate_name": "Ratgama",
       "single_results": [
         {
@@ -1716,7 +1722,7 @@
       }
     },
     {
-      "row_num": "61",
+      "row_num": 61,
       "electorate_name": "Akmeemana",
       "single_results": [
         {
@@ -1753,7 +1759,7 @@
       }
     },
     {
-      "row_num": "62",
+      "row_num": 62,
       "electorate_name": "Galle",
       "single_results": [
         {
@@ -1775,7 +1781,7 @@
       }
     },
     {
-      "row_num": "63",
+      "row_num": 63,
       "electorate_name": "Habaraduwa",
       "single_results": [
         {
@@ -1802,7 +1808,7 @@
       }
     },
     {
-      "row_num": "64",
+      "row_num": 64,
       "electorate_name": "Weligama",
       "single_results": [
         {
@@ -1824,7 +1830,7 @@
       }
     },
     {
-      "row_num": "65",
+      "row_num": 65,
       "electorate_name": "Akuressa",
       "single_results": [
         {
@@ -1851,7 +1857,7 @@
       }
     },
     {
-      "row_num": "66",
+      "row_num": 66,
       "electorate_name": "Deniyaya",
       "single_results": [
         {
@@ -1878,7 +1884,7 @@
       }
     },
     {
-      "row_num": "67",
+      "row_num": 67,
       "electorate_name": "Hakmana",
       "single_results": [
         {
@@ -1910,7 +1916,7 @@
       }
     },
     {
-      "row_num": "68",
+      "row_num": 68,
       "electorate_name": "Kamburupitiya",
       "single_results": [
         {
@@ -1932,7 +1938,7 @@
       }
     },
     {
-      "row_num": "69",
+      "row_num": 69,
       "electorate_name": "Matara",
       "single_results": [
         {
@@ -1954,7 +1960,7 @@
       }
     },
     {
-      "row_num": "70",
+      "row_num": 70,
       "electorate_name": "Devinuwara",
       "single_results": [
         {
@@ -1991,7 +1997,7 @@
       }
     },
     {
-      "row_num": "71",
+      "row_num": 71,
       "electorate_name": "Beliatta",
       "single_results": [
         {
@@ -2013,7 +2019,7 @@
       }
     },
     {
-      "row_num": "72",
+      "row_num": 72,
       "electorate_name": "Mulkirigala",
       "single_results": [
         {
@@ -2035,7 +2041,7 @@
       }
     },
     {
-      "row_num": "73",
+      "row_num": 73,
       "electorate_name": "Tissamaharama",
       "single_results": [
         {
@@ -2062,7 +2068,7 @@
       }
     },
     {
-      "row_num": "74",
+      "row_num": 74,
       "electorate_name": "Kayts",
       "single_results": [
         {
@@ -2084,7 +2090,7 @@
       }
     },
     {
-      "row_num": "75",
+      "row_num": 75,
       "electorate_name": "Vaddukoddai",
       "single_results": [
         {
@@ -2116,7 +2122,7 @@
       }
     },
     {
-      "row_num": "76",
+      "row_num": 76,
       "electorate_name": "Kankesanturai",
       "single_results": [
         {
@@ -2153,7 +2159,7 @@
       }
     },
     {
-      "row_num": "77",
+      "row_num": 77,
       "electorate_name": "Uduvil",
       "single_results": [
         {
@@ -2180,7 +2186,7 @@
       }
     },
     {
-      "row_num": "78",
+      "row_num": 78,
       "electorate_name": "Jaffna",
       "single_results": [
         {
@@ -2195,7 +2201,7 @@
         },
         {
           "candidate": "Alfred  T. Duryappah",
-          "party_symbol": "Pair of Scales",
+          "party_symbol": "Pair Of Scales",
           "votes": 5918
         }
       ],
@@ -2207,7 +2213,7 @@
       }
     },
     {
-      "row_num": "79",
+      "row_num": 79,
       "electorate_name": "Nallur",
       "single_results": [
         {
@@ -2234,7 +2240,7 @@
       }
     },
     {
-      "row_num": "80",
+      "row_num": 80,
       "electorate_name": "Kopai",
       "single_results": [
         {
@@ -2266,7 +2272,7 @@
       }
     },
     {
-      "row_num": "81",
+      "row_num": 81,
       "electorate_name": "Udduppiddi",
       "single_results": [
         {
@@ -2293,7 +2299,7 @@
       }
     },
     {
-      "row_num": "82",
+      "row_num": 82,
       "electorate_name": "Point Pedro",
       "single_results": [
         {
@@ -2320,7 +2326,7 @@
       }
     },
     {
-      "row_num": "83",
+      "row_num": 83,
       "electorate_name": "Chavakachcheri",
       "single_results": [
         {
@@ -2342,7 +2348,7 @@
       }
     },
     {
-      "row_num": "84",
+      "row_num": 84,
       "electorate_name": "Killinochchi",
       "single_results": [
         {
@@ -2367,7 +2373,7 @@
         },
         {
           "candidate": "K. Selvanayagam",
-          "party_symbol": "Pair of Scales",
+          "party_symbol": "Pair Of Scales",
           "votes": 390
         },
         {
@@ -2389,7 +2395,7 @@
       }
     },
     {
-      "row_num": "85",
+      "row_num": 85,
       "electorate_name": "Mannar",
       "single_results": [
         {
@@ -2404,7 +2410,7 @@
         },
         {
           "candidate": "Sabamalai  John Mark",
-          "party_symbol": "Pair of Spectacles",
+          "party_symbol": "Pair Of Spectacles",
           "votes": 4514
         }
       ],
@@ -2416,7 +2422,7 @@
       }
     },
     {
-      "row_num": "86",
+      "row_num": 86,
       "electorate_name": "Vavuniya",
       "single_results": [
         {
@@ -2451,7 +2457,7 @@
         },
         {
           "candidate": "S. Sirinivasan",
-          "party_symbol": "Pair of Scales",
+          "party_symbol": "Pair Of Scales",
           "votes": 231
         }
       ],
@@ -2463,7 +2469,7 @@
       }
     },
     {
-      "row_num": "87",
+      "row_num": 87,
       "electorate_name": "Trincomalee",
       "single_results": [
         {
@@ -2490,7 +2496,7 @@
       }
     },
     {
-      "row_num": "88",
+      "row_num": 88,
       "electorate_name": "Mutur",
       "single_results": [
         {
@@ -2532,7 +2538,7 @@
       }
     },
     {
-      "row_num": "89",
+      "row_num": 89,
       "electorate_name": "Kalkudah",
       "single_results": [
         {
@@ -2569,7 +2575,7 @@
       }
     },
     {
-      "row_num": "90",
+      "row_num": 90,
       "electorate_name": "Batticaloa",
       "single_results": [
         {
@@ -2616,7 +2622,7 @@
       }
     },
     {
-      "row_num": "91",
+      "row_num": 91,
       "electorate_name": "Amparai",
       "single_results": [
         {
@@ -2643,7 +2649,7 @@
       }
     },
     {
-      "row_num": "92",
+      "row_num": 92,
       "electorate_name": "Paddiruppu",
       "single_results": [
         {
@@ -2670,7 +2676,7 @@
       }
     },
     {
-      "row_num": "93",
+      "row_num": 93,
       "electorate_name": "Kalmunai",
       "single_results": [
         {
@@ -2702,7 +2708,7 @@
       }
     },
     {
-      "row_num": "94",
+      "row_num": 94,
       "electorate_name": "Nintavur",
       "single_results": [
         {
@@ -2724,7 +2730,7 @@
       }
     },
     {
-      "row_num": "95",
+      "row_num": 95,
       "electorate_name": "Potuvil",
       "single_results": [
         {
@@ -2739,7 +2745,7 @@
         },
         {
           "candidate": "Y.M. Mustapha",
-          "party_symbol": "Pair of Scales",
+          "party_symbol": "Pair Of Scales",
           "votes": 3217
         },
         {
@@ -2766,7 +2772,7 @@
       }
     },
     {
-      "row_num": "96",
+      "row_num": 96,
       "electorate_name": "Puttalam",
       "single_results": [
         {
@@ -2788,7 +2794,7 @@
       }
     },
     {
-      "row_num": "97",
+      "row_num": 97,
       "electorate_name": "Nikaveratiya",
       "single_results": [
         {
@@ -2803,7 +2809,7 @@
         },
         {
           "candidate": "R.B. Tennakoon",
-          "party_symbol": "Pair of Scales",
+          "party_symbol": "Pair Of Scales",
           "votes": 623
         },
         {
@@ -2820,7 +2826,7 @@
       }
     },
     {
-      "row_num": "98",
+      "row_num": 98,
       "electorate_name": "Yapahuwa",
       "single_results": [
         {
@@ -2835,7 +2841,7 @@
         },
         {
           "candidate": "N.W. Abeywardena",
-          "party_symbol": "Pair of Scales",
+          "party_symbol": "Pair Of Scales",
           "votes": 1244
         },
         {
@@ -2852,7 +2858,7 @@
       }
     },
     {
-      "row_num": "99",
+      "row_num": 99,
       "electorate_name": "Hiriyala",
       "single_results": [
         {
@@ -2879,7 +2885,7 @@
       }
     },
     {
-      "row_num": "100",
+      "row_num": 100,
       "electorate_name": "Wariyapola",
       "single_results": [
         {
@@ -2911,7 +2917,7 @@
       }
     },
     {
-      "row_num": "101",
+      "row_num": 101,
       "electorate_name": "Bingiriya",
       "single_results": [
         {
@@ -2943,7 +2949,7 @@
       }
     },
     {
-      "row_num": "102",
+      "row_num": 102,
       "electorate_name": "Chilaw",
       "single_results": [
         {
@@ -2975,7 +2981,7 @@
       }
     },
     {
-      "row_num": "103",
+      "row_num": 103,
       "electorate_name": "Nattandiya",
       "single_results": [
         {
@@ -3002,7 +3008,7 @@
       }
     },
     {
-      "row_num": "104",
+      "row_num": 104,
       "electorate_name": "Wennappuwa",
       "single_results": [
         {
@@ -3029,7 +3035,7 @@
       }
     },
     {
-      "row_num": "105",
+      "row_num": 105,
       "electorate_name": "Katugampola",
       "single_results": [
         {
@@ -3051,7 +3057,7 @@
       }
     },
     {
-      "row_num": "106",
+      "row_num": 106,
       "electorate_name": "Kuliyapitiya",
       "single_results": [
         {
@@ -3078,7 +3084,7 @@
       }
     },
     {
-      "row_num": "107",
+      "row_num": 107,
       "electorate_name": "Dambadeniya",
       "single_results": [
         {
@@ -3110,7 +3116,7 @@
       }
     },
     {
-      "row_num": "108",
+      "row_num": 108,
       "electorate_name": "Polgahawela",
       "single_results": [
         {
@@ -3137,7 +3143,7 @@
       }
     },
     {
-      "row_num": "109",
+      "row_num": 109,
       "electorate_name": "Kurunegala",
       "single_results": [
         {
@@ -3169,7 +3175,7 @@
       }
     },
     {
-      "row_num": "110",
+      "row_num": 110,
       "electorate_name": "Mawatagama",
       "single_results": [
         {
@@ -3201,7 +3207,7 @@
       }
     },
     {
-      "row_num": "111",
+      "row_num": 111,
       "electorate_name": "Dodangaslanda",
       "single_results": [
         {
@@ -3228,7 +3234,7 @@
       }
     },
     {
-      "row_num": "112",
+      "row_num": 112,
       "electorate_name": "Anuradhapura",
       "single_results": [
         {
@@ -3255,7 +3261,7 @@
       }
     },
     {
-      "row_num": "113",
+      "row_num": 113,
       "electorate_name": "Medawachchiya",
       "single_results": [
         {
@@ -3287,7 +3293,7 @@
       }
     },
     {
-      "row_num": "114",
+      "row_num": 114,
       "electorate_name": "Horowupotana",
       "single_results": [
         {
@@ -3309,7 +3315,7 @@
       }
     },
     {
-      "row_num": "115",
+      "row_num": 115,
       "electorate_name": "Mihintale",
       "single_results": [
         {
@@ -3336,7 +3342,7 @@
       }
     },
     {
-      "row_num": "116",
+      "row_num": 116,
       "electorate_name": "Kalawewa",
       "single_results": [
         {
@@ -3368,7 +3374,7 @@
       }
     },
     {
-      "row_num": "117",
+      "row_num": 117,
       "electorate_name": "Kekirawa",
       "single_results": [
         {
@@ -3395,7 +3401,7 @@
       }
     },
     {
-      "row_num": "118",
+      "row_num": 118,
       "electorate_name": "Minneriya",
       "single_results": [
         {
@@ -3417,7 +3423,7 @@
       }
     },
     {
-      "row_num": "119",
+      "row_num": 119,
       "electorate_name": "Polonnaruwa",
       "single_results": [
         {
@@ -3444,7 +3450,7 @@
       }
     },
     {
-      "row_num": "120",
+      "row_num": 120,
       "electorate_name": "Mahiyangana",
       "single_results": [
         {
@@ -3471,7 +3477,7 @@
       }
     },
     {
-      "row_num": "121",
+      "row_num": 121,
       "electorate_name": "Bibile",
       "single_results": [
         {
@@ -3493,7 +3499,7 @@
       }
     },
     {
-      "row_num": "122",
+      "row_num": 122,
       "electorate_name": "Passara",
       "single_results": [
         {
@@ -3515,7 +3521,7 @@
       }
     },
     {
-      "row_num": "123",
+      "row_num": 123,
       "electorate_name": "Badulla",
       "single_results": [
         {
@@ -3542,7 +3548,7 @@
       }
     },
     {
-      "row_num": "124",
+      "row_num": 124,
       "electorate_name": "Soranatota",
       "single_results": [
         {
@@ -3584,7 +3590,7 @@
       }
     },
     {
-      "row_num": "125",
+      "row_num": 125,
       "electorate_name": "Uva-Paranagama",
       "single_results": [
         {
@@ -3611,7 +3617,7 @@
       }
     },
     {
-      "row_num": "126",
+      "row_num": 126,
       "electorate_name": "Welimada",
       "single_results": [
         {
@@ -3633,7 +3639,7 @@
       }
     },
     {
-      "row_num": "127",
+      "row_num": 127,
       "electorate_name": "Bandarawela",
       "single_results": [
         {
@@ -3660,7 +3666,7 @@
       }
     },
     {
-      "row_num": "128",
+      "row_num": 128,
       "electorate_name": "Haputale",
       "single_results": [
         {
@@ -3692,7 +3698,7 @@
       }
     },
     {
-      "row_num": "129",
+      "row_num": 129,
       "electorate_name": "Monaragala",
       "single_results": [
         {
@@ -3729,7 +3735,7 @@
       }
     },
     {
-      "row_num": "130",
+      "row_num": 130,
       "electorate_name": "Dedigama",
       "single_results": [
         {
@@ -3751,7 +3757,7 @@
       }
     },
     {
-      "row_num": "131",
+      "row_num": 131,
       "electorate_name": "Galigamuwa",
       "single_results": [
         {
@@ -3778,7 +3784,7 @@
       }
     },
     {
-      "row_num": "132",
+      "row_num": 132,
       "electorate_name": "Kegalle",
       "single_results": [
         {
@@ -3800,7 +3806,7 @@
       }
     },
     {
-      "row_num": "133",
+      "row_num": 133,
       "electorate_name": "Rambukkana",
       "single_results": [
         {
@@ -3827,7 +3833,7 @@
       }
     },
     {
-      "row_num": "134",
+      "row_num": 134,
       "electorate_name": "Mawanella",
       "single_results": [
         {
@@ -3854,7 +3860,7 @@
       }
     },
     {
-      "row_num": "135",
+      "row_num": 135,
       "electorate_name": "Yatiyantota",
       "single_results": [
         {
@@ -3881,7 +3887,7 @@
       }
     },
     {
-      "row_num": "136",
+      "row_num": 136,
       "electorate_name": "Ruwanwella",
       "single_results": [
         {
@@ -3903,7 +3909,7 @@
       }
     },
     {
-      "row_num": "137",
+      "row_num": 137,
       "electorate_name": "Dehiowita",
       "single_results": [
         {
@@ -3935,7 +3941,7 @@
       }
     },
     {
-      "row_num": "138",
+      "row_num": 138,
       "electorate_name": "Kiriella",
       "single_results": [
         {
@@ -3967,7 +3973,7 @@
       }
     },
     {
-      "row_num": "139",
+      "row_num": 139,
       "electorate_name": "Ratnapura",
       "single_results": [
         {
@@ -3992,7 +3998,7 @@
         },
         {
           "candidate": "Siripala Weerawardhana",
-          "party_symbol": "Pair of Scales",
+          "party_symbol": "Pair Of Scales",
           "votes": 68
         }
       ],
@@ -4004,7 +4010,7 @@
       }
     },
     {
-      "row_num": "140",
+      "row_num": 140,
       "electorate_name": "Pelmadulla",
       "single_results": [
         {
@@ -4036,7 +4042,7 @@
       }
     },
     {
-      "row_num": "141",
+      "row_num": 141,
       "electorate_name": "Balangoda",
       "single_results": [
         {
@@ -4068,7 +4074,7 @@
       }
     },
     {
-      "row_num": "142",
+      "row_num": 142,
       "electorate_name": "Rakwana",
       "single_results": [
         {
@@ -4105,7 +4111,7 @@
       }
     },
     {
-      "row_num": "143",
+      "row_num": 143,
       "electorate_name": "Nivitigala",
       "single_results": [
         {
@@ -4137,7 +4143,7 @@
       }
     },
     {
-      "row_num": "144",
+      "row_num": 144,
       "electorate_name": "Kalawana",
       "single_results": [
         {
@@ -4174,7 +4180,7 @@
       }
     },
     {
-      "row_num": "145",
+      "row_num": 145,
       "electorate_name": "Kolonna",
       "single_results": [
         {
@@ -4205,5 +4211,14 @@
         "valid": 17415
       }
     }
+  ],
+  "errors": [
+    "[electors < polled] 93468 < 221446",
+    "votes 0 <= 0",
+    "[summary.valid != results-valid]39152 != 39149",
+    "[electors < polled] 54950 < 96535",
+    "[summary.valid != results-valid]22866 != 22870",
+    "[electors < polled] 38516 < 58129",
+    "[electors < polled] 45078 < 67882"
   ]
 }
