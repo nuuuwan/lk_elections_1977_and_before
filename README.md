@@ -3,7 +3,7 @@
 ## Elections
 
 | Election | n(Results) | Data | Souce |
-|:----|---:|:---|
+|:----|---:|:---|:---|
 | 1947 | 88 | [data/parsed_data/general-election-1947.json](data/parsed_data/general-election-1947.json) | [data/original_pdfs/general-election-1947.pdf](data/original_pdfs/general-election-1947.pdf) |
 | 1952 | 89 | [data/parsed_data/general-election-1952.json](data/parsed_data/general-election-1952.json) | [data/original_pdfs/general-election-1952.pdf](data/original_pdfs/general-election-1952.pdf) |
 | 1956 | 93 | [data/parsed_data/general-election-1956.json](data/parsed_data/general-election-1956.json) | [data/original_pdfs/general-election-1956.pdf](data/original_pdfs/general-election-1956.pdf) |

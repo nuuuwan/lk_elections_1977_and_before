@@ -48,7 +48,7 @@ class ReadMe:
 
         table_lines = [
             '| Election | n(Results) | Data | Souce |',
-            '|:----|---:|:---|',
+            '|:----|---:|:---|:---|',
         ]
         for election in self.elections:
             parser = Parser(election.date_str)
