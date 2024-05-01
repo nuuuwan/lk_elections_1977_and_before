@@ -2,4 +2,4 @@
 
 from lk_elections.core import (ElectionFPTP, ResultFPTP, SingleResultFPTP,
                                Summary, Validatable)
-from lk_elections.parsers import Parser1947
+from lk_elections.parsers import Parser, Parser1947

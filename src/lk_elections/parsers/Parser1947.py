@@ -1,4 +1,3 @@
-import os
 import re
 
 import camelot
@@ -6,26 +5,10 @@ from utils import Log
 
 from lk_elections.core import (ElectionFPTP, ResultFPTP, SingleResultFPTP,
                                Summary)
+from lk_elections.parsers.Parser import Parser
+from utils_future import Int
 
 log = Log('Parser1947')
-
-
-def parse_int(x):
-    x = str(x)
-    if x == '-':
-        return 0
-    if x == '':
-        return 0
-    x = x.replace(',', '')
-    return int(x)
-
-
-def is_int(x):
-    try:
-        parse_int(x)
-        return True
-    except BaseException:
-        return False
 
 
 def clean(s):
@@ -52,17 +35,7 @@ def clean(s):
     return s
 
 
-class Parser1947:
-    def __init__(self, id):
-        self.id = id
-
-    @property
-    def pdf_path(self):
-        return os.path.join(
-            'original_pdfs',
-            f'general-election-{self.id}.pdf',
-        )
-
+class Parser1947(Parser):
     @property
     def result_rows_list(self):
         tables = camelot.read_pdf(self.pdf_path, pages='all', flavor='stream')
@@ -74,7 +47,7 @@ class Parser1947:
                 valid_cells = [cell for cell in row if cell != ""]
 
                 first_token = valid_cells[0].split(' ')[0]
-                if is_int(first_token):
+                if Int.isinstance(first_token):
                     result_rows_list.append(current_result_rows)
                     current_result_rows = []
                 current_result_rows.append(valid_cells)
@@ -87,7 +60,7 @@ class Parser1947:
     def parse_result_first_row(first_row):
         # log.debug(f'parse_result_first_row: {first_row}')
         # Fix row_num-electorate_name merging issue
-        if not is_int(first_row[0]):
+        if not Int.isinstance(first_row[0]):
             first_row_tokens = first_row[0].split(' ')
             first_row = [
                 first_row_tokens[0],
@@ -95,17 +68,17 @@ class Parser1947:
             ] + first_row[1:]
 
         row_num, electorate_name = first_row[:2]
-        row_num = parse_int(row_num)
+        row_num = Int.parse(row_num)
 
         if 'Uncontested' in first_row:
             rejected, polled = [0, 0]
-            electors = parse_int(first_row[-1])
+            electors = Int.parse(first_row[-1])
             first_single_result = Parser1947.parse_single_result(
                 [first_row[2], 'Uncontested', '0']
             )
         else:
             rejected, polled, electors = [
-                parse_int(x) for x in first_row[-3:]
+                Int.parse(x) for x in first_row[-3:]
             ]
             first_single_result = Parser1947.parse_single_result(
                 first_row[2:-3]
@@ -133,9 +106,9 @@ class Parser1947:
         candidate = " ".join(row[:-2])
         party_symbol = clean(row[-2])
 
-        if not is_int(row[-1]):
+        if not Int.isinstance(row[-1]):
             return None
-        votes = parse_int(row[-1])
+        votes = Int.parse(row[-1])
 
         return SingleResultFPTP(
             candidate,
