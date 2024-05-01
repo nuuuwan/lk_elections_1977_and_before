@@ -22,7 +22,7 @@ class ReadMe:
         ]
         for election in self.elections:
             table_lines.append(
-                f'| {election.date_str} | {len(election.results)} | [{election.data_path_linux}](../{election.data_path_linux}) |'
+                f'| {election.date_str} | {len(election.results)} | [{election.data_path_linux}]({election.data_path_linux}) |'
             )
         table_lines.append('')
         return lines + table_lines
