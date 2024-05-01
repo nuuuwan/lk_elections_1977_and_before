@@ -10,8 +10,10 @@ class SingleResultFPTP(Validatable):
     votes: int
 
     KNOWN_PARTY_SYMBOLS = [
+        'Aeroplane',
         'Bicycle',
         'Bird',
+        'Bus',
         'Butterfly',
         'Cart Wheel',
         'Chair',

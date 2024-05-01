@@ -2,9 +2,10 @@ from lk_elections import Parser1947
 
 
 def main():
-    for id in [1947, 1952, 1956, '1960-03-19', '1960-07-20', 1965, 1970][1:2]:
+    for id in [1947, 1952, 1956, '1960-03-19', '1960-07-20', 1965, 1970][2:]:
         p = Parser1947(id)
         p.parse()
+        break
 
 
 

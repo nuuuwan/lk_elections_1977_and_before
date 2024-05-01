@@ -32,12 +32,14 @@ def clean(s):
     s = re.sub(r'\s+', ' ', s).strip()
     s = s.lower().title()
     for before, after in [
-        ['U:mbrella', 'Umbrella'],
-        ['Housse', 'House'],
-        ['Pair if Scakes', 'Pair of Scales'],
+        ['Cart Wheet', 'Cart Wheel'],
         ['Chai', 'Chair'],
         ['Chairr', 'Chair'],
+        ['Housse', 'House'],
+        ['Pair if Scakes', 'Pair Of Scales'],
+        ['Pair Of Scacles', 'Pair Of Scales'],
         ['Pine-Apple', 'Pineapple'],
+        ['U:mbrella', 'Umbrella'],
     ]:
         s = s.replace(before, after)
     return s
