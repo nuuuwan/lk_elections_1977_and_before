@@ -74,6 +74,6 @@ class SingleResultFPTP(Validatable):
 
         MIN_NAME_LEN = 5
         if len(self.candidate) < MIN_NAME_LEN:
-            errors.append(f"c: {self.candidate}")
+            errors.append(f"candidate name too short: {self.candidate}")
 
         return errors
