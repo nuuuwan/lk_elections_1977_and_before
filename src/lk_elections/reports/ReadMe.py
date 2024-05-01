@@ -3,6 +3,7 @@ from functools import cached_property
 from utils import File, Log
 
 from lk_elections.core import ElectionFPTP
+from lk_elections.parsers import Parser
 
 log = Log('ReadMe')
 
@@ -46,12 +47,13 @@ class ReadMe:
         lines = ['## Elections', '']
 
         table_lines = [
-            '| Election | n(Results) | Data |',
+            '| Election | n(Results) | Data | Souce |',
             '|:----|---:|:---|',
         ]
         for election in self.elections:
+            parser = Parser(election.date_str)
             table_lines.append(
-                f'| {election.date_str} | {len(election.results)} | [{election.data_path_linux}]({election.data_path_linux}) |'
+                f'| {election.date_str} | {len(election.results)} | [{election.data_path_linux}]({election.data_path_linux}) | [{parser.pdf_path_linux}]({parser.pdf_path_linux}) |'
             )
         table_lines.append('')
         return lines + table_lines 

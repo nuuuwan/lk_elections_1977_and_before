@@ -19,6 +19,10 @@ class Parser:
             'original_pdfs',
             f'general-election-{self.id}.pdf',
         )
+    
+    @property
+    def pdf_path_linux(self):
+        return self.pdf_path.replace('\\', '/')
 
     def parse(self):
         log.info(f'Parsing {self.id}...')
