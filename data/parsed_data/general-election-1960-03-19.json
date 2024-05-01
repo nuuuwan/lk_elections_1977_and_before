@@ -37,7 +37,7 @@
         },
         {
           "candidate": "K.J.S.A. Fernando",
-          "party_code": "Independent",
+          "party_code": "Ind.",
           "party_symbol": "Eye",
           "votes": 52
         }
@@ -97,13 +97,13 @@
         },
         {
           "candidate": "Abdul Aziz",
-          "party_code": "Independent",
+          "party_code": "Ind.",
           "party_symbol": "Tree",
           "votes": 4635
         },
         {
           "candidate": "D.J. S. Paranayapa",
-          "party_code": "BSP",
+          "party_code": "BSP/UNP",
           "party_symbol": "Lamp",
           "votes": 414
         },
@@ -115,7 +115,7 @@
         },
         {
           "candidate": "Cecil Wickremasinghe",
-          "party_code": "Independent",
+          "party_code": "Ind.",
           "party_symbol": "Eye",
           "votes": 397
         },
@@ -175,7 +175,7 @@
         },
         {
           "candidate": "B.H.S. Jayawardena",
-          "party_code": "Independent",
+          "party_code": "Ind.",
           "party_symbol": "Eye",
           "votes": 7656
         }
@@ -241,13 +241,13 @@
         },
         {
           "candidate": "S.R. Yapa",
-          "party_code": "Independent",
+          "party_code": "Ind.",
           "party_symbol": "Eye",
           "votes": 185
         },
         {
           "candidate": "Mahinda Weerapure",
-          "party_code": "BSP",
+          "party_code": "BSP/UNP",
           "party_symbol": "Lamp",
           "votes": 178
         },
@@ -313,7 +313,7 @@
         },
         {
           "candidate": "K.G. Jayaweera",
-          "party_code": "BSP",
+          "party_code": "BSP/UNP",
           "party_symbol": "Lamp",
           "votes": 147
         }
@@ -445,13 +445,13 @@
         },
         {
           "candidate": "V. Nanayakkara",
-          "party_code": "Independent",
+          "party_code": "Ind.",
           "party_symbol": "Eye",
           "votes": 274
         },
         {
           "candidate": "A.P. Jothipala",
-          "party_code": "Independent",
+          "party_code": "Ind.",
           "party_symbol": "Pair Of Scales",
           "votes": 221
         }
@@ -529,13 +529,13 @@
         },
         {
           "candidate": "D.D. Jayasuriya",
-          "party_code": "Independent",
+          "party_code": "Ind.",
           "party_symbol": "Eye",
           "votes": 266
         },
         {
           "candidate": "M.D. Ariyasinghe",
-          "party_code": "Independent",
+          "party_code": "Ind.",
           "party_symbol": "Butterfly",
           "votes": 184
         }
@@ -571,7 +571,7 @@
         },
         {
           "candidate": "Mahanama Wickremasinghe",
-          "party_code": "?",
+          "party_code": "PUF",
           "party_symbol": "Orange",
           "votes": 254
         }
@@ -589,7 +589,7 @@
       "single_results": [
         {
           "candidate": "S.D. Bandaranayake",
-          "party_code": "Independent",
+          "party_code": "Ind.",
           "party_symbol": "Butterfly",
           "votes": 9565
         },
@@ -625,13 +625,13 @@
         },
         {
           "candidate": "Cyrus W. Surendra",
-          "party_code": "BSP",
+          "party_code": "BSP/UNP",
           "party_symbol": "Lamp",
           "votes": 106
         },
         {
           "candidate": "P.R. Karunanayake",
-          "party_code": "Independent",
+          "party_code": "Ind.",
           "party_symbol": "Eye",
           "votes": 76
         }
@@ -721,13 +721,13 @@
         },
         {
           "candidate": "R.A.. Rupasinghe",
-          "party_code": "BSP",
+          "party_code": "BSP/UNP",
           "party_symbol": "Lamp",
           "votes": 186
         },
         {
           "candidate": "D.R. Jayamanne",
-          "party_code": "Independent",
+          "party_code": "Ind.",
           "party_symbol": "Pair Of Scales",
           "votes": 147
         },
@@ -781,7 +781,7 @@
         },
         {
           "candidate": "I.D. Tinsy",
-          "party_code": "Independent",
+          "party_code": "Ind.",
           "party_symbol": "Eye",
           "votes": 1082
         },
@@ -829,13 +829,13 @@
         },
         {
           "candidate": "D.V. Algama",
-          "party_code": "Independent",
+          "party_code": "Ind.",
           "party_symbol": "Pair Of Scales",
           "votes": 284
         },
         {
           "candidate": "H.H.P. Saratha Kumar",
-          "party_code": "BSP",
+          "party_code": "BSP/UNP",
           "party_symbol": "Lamp",
           "votes": 187
         }
@@ -877,7 +877,7 @@
         },
         {
           "candidate": "Ariyasena Liyanage",
-          "party_code": "Independent",
+          "party_code": "Ind.",
           "party_symbol": "Eye",
           "votes": 132
         },
@@ -889,7 +889,7 @@
         },
         {
           "candidate": "Oliver Alahakoon",
-          "party_code": "Independent",
+          "party_code": "Ind.",
           "party_symbol": "Pair Of Scales",
           "votes": 63
         }
@@ -1003,7 +1003,7 @@
         },
         {
           "candidate": "Nina Wijesuriya (Mrs.)",
-          "party_code": "BSP",
+          "party_code": "BSP/UNP",
           "party_symbol": "Lamp",
           "votes": 2137
         },
@@ -1039,7 +1039,7 @@
         },
         {
           "candidate": "Vinnie de Silva",
-          "party_code": "Independent",
+          "party_code": "Ind.",
           "party_symbol": "Pair Of Scales",
           "votes": 65
         }
@@ -1375,7 +1375,7 @@
         },
         {
           "candidate": "Sirisoma Jayasinghe",
-          "party_code": "BSP",
+          "party_code": "BSP/UNP",
           "party_symbol": "Lamp",
           "votes": 302
         }
@@ -1483,7 +1483,7 @@
         },
         {
           "candidate": "P. Musiniel de Silva",
-          "party_code": "Independent",
+          "party_code": "Ind.",
           "party_symbol": "Eye",
           "votes": 404
         },
@@ -1531,13 +1531,13 @@
         },
         {
           "candidate": "M.G.N.. de S. Gunawardena",
-          "party_code": "BSP",
+          "party_code": "BSP/UNP",
           "party_symbol": "Lamp",
           "votes": 320
         },
         {
           "candidate": "Udaya Jayatileke",
-          "party_code": "Independent",
+          "party_code": "Ind.",
           "party_symbol": "Eye",
           "votes": 265
         }
@@ -1585,7 +1585,7 @@
         },
         {
           "candidate": "Upatissa Goonewardena",
-          "party_code": "Independent",
+          "party_code": "Ind.",
           "party_symbol": "Eye",
           "votes": 223
         }
@@ -1621,7 +1621,7 @@
         },
         {
           "candidate": "L.D.Banda",
-          "party_code": "BSP",
+          "party_code": "BSP/UNP",
           "party_symbol": "Lamp",
           "votes": 527
         },
@@ -1639,7 +1639,7 @@
         },
         {
           "candidate": "H. Ariyasena",
-          "party_code": "Independent",
+          "party_code": "Ind.",
           "party_symbol": "Eye",
           "votes": 231
         },
@@ -1693,7 +1693,7 @@
         },
         {
           "candidate": "Alfred Somaratne",
-          "party_code": "Independent",
+          "party_code": "Ind.",
           "party_symbol": "Eye",
           "votes": 399
         },
@@ -1825,7 +1825,7 @@
         },
         {
           "candidate": "Charles Amunugama",
-          "party_code": "Independent",
+          "party_code": "Ind.",
           "party_symbol": "Eye",
           "votes": 319
         },
@@ -1927,7 +1927,7 @@
         },
         {
           "candidate": "K. Ratmalsinghe",
-          "party_code": "Independent",
+          "party_code": "Ind.",
           "party_symbol": "Eye",
           "votes": 979
         }
@@ -2173,7 +2173,7 @@
         },
         {
           "candidate": "C.B. Dehigama",
-          "party_code": "Independent",
+          "party_code": "Ind.",
           "party_symbol": "Eye",
           "votes": 872
         },
@@ -2239,7 +2239,7 @@
         },
         {
           "candidate": "A.W.H.D. Wijeyawardana",
-          "party_code": "Independent",
+          "party_code": "Ind.",
           "party_symbol": "Eye",
           "votes": 558
         },
@@ -2257,7 +2257,7 @@
         },
         {
           "candidate": "Eardley Sooriyaarachchi",
-          "party_code": "BSP",
+          "party_code": "BSP/UNP",
           "party_symbol": "Lamp",
           "votes": 243
         }
@@ -2353,7 +2353,7 @@
         },
         {
           "candidate": "W.G. Ratnayake",
-          "party_code": "Independent",
+          "party_code": "Ind.",
           "party_symbol": "Tree",
           "votes": 525
         },
@@ -2365,7 +2365,7 @@
         },
         {
           "candidate": "D.D. Senanayake",
-          "party_code": "?",
+          "party_code": "PUF",
           "party_symbol": "Orange",
           "votes": 86
         }
@@ -2467,7 +2467,7 @@
         },
         {
           "candidate": "Indrapala Bulathsinghala",
-          "party_code": "Independent",
+          "party_code": "Ind.",
           "party_symbol": "Eye",
           "votes": 157
         }
@@ -2527,7 +2527,7 @@
         },
         {
           "candidate": "M.T.B. Ratnayake",
-          "party_code": "Independent",
+          "party_code": "Ind.",
           "party_symbol": "Eye",
           "votes": 80
         }
@@ -2647,13 +2647,13 @@
         },
         {
           "candidate": "S. Thondaman",
-          "party_code": "Independent",
+          "party_code": "Ind.",
           "party_symbol": "Tree",
           "votes": 1940
         },
         {
           "candidate": "E. Wanigasekera",
-          "party_code": "Independent",
+          "party_code": "Ind.",
           "party_symbol": "Pair Of Scales",
           "votes": 1100
         },
@@ -2719,7 +2719,7 @@
         },
         {
           "candidate": "V.K. Vellayan",
-          "party_code": "Independent",
+          "party_code": "Ind.",
           "party_symbol": "Tree",
           "votes": 1349
         },
@@ -2749,7 +2749,7 @@
         },
         {
           "candidate": "P.P. Pillai",
-          "party_code": "Independent",
+          "party_code": "Ind.",
           "party_symbol": "Pair Of Scales",
           "votes": 79
         }
@@ -2797,7 +2797,7 @@
         },
         {
           "candidate": "Wijayananda Lokusuriya",
-          "party_code": "BSP",
+          "party_code": "BSP/UNP",
           "party_symbol": "Lamp",
           "votes": 525
         },
@@ -2845,7 +2845,7 @@
         },
         {
           "candidate": "Eddie Fernando",
-          "party_code": "Independent",
+          "party_code": "Ind.",
           "party_symbol": "Pair Of Scales",
           "votes": 3348
         },
@@ -2857,7 +2857,7 @@
         },
         {
           "candidate": "M.H.E. Ariyapala",
-          "party_code": "Independent",
+          "party_code": "Ind.",
           "party_symbol": "Eye",
           "votes": 154
         }
@@ -2929,13 +2929,13 @@
         },
         {
           "candidate": "D.K. Mahavithana",
-          "party_code": "BSP",
+          "party_code": "BSP/UNP",
           "party_symbol": "Lamp",
           "votes": 192
         },
         {
           "candidate": "P.A. Dharmasena Wijeratne",
-          "party_code": "Independent",
+          "party_code": "Ind.",
           "party_symbol": "Eye",
           "votes": 180
         }
@@ -3055,7 +3055,7 @@
         },
         {
           "candidate": "K.M.G. Stephen Hapugoda",
-          "party_code": "Independent",
+          "party_code": "Ind.",
           "party_symbol": "Pair Of Scales",
           "votes": 769
         },
@@ -3205,7 +3205,7 @@
         },
         {
           "candidate": "A.M. Ismail",
-          "party_code": "Independent",
+          "party_code": "Ind.",
           "party_symbol": "Eye",
           "votes": 139
         }
@@ -3259,7 +3259,7 @@
         },
         {
           "candidate": "P. Malalgoda",
-          "party_code": "Independent",
+          "party_code": "Ind.",
           "party_symbol": "Eye",
           "votes": 591
         },
@@ -3307,13 +3307,13 @@
         },
         {
           "candidate": "G.P.J. Nanayakkara",
-          "party_code": "Independent",
+          "party_code": "Ind.",
           "party_symbol": "Eye",
           "votes": 271
         },
         {
           "candidate": "A.G. Piyasinghe",
-          "party_code": "Independent",
+          "party_code": "Ind.",
           "party_symbol": "Pair Of Scales",
           "votes": 128
         }
@@ -3505,7 +3505,7 @@
         },
         {
           "candidate": "Dayananda Kumarapperuma",
-          "party_code": "Independent",
+          "party_code": "Ind.",
           "party_symbol": "Eye",
           "votes": 204
         }
@@ -3625,7 +3625,7 @@
         },
         {
           "candidate": "Karunadasa Wickremanayaka",
-          "party_code": "BSP",
+          "party_code": "BSP/UNP",
           "party_symbol": "Lamp",
           "votes": 125
         }
@@ -3667,7 +3667,7 @@
         },
         {
           "candidate": "J.M.M. Bandara",
-          "party_code": "?",
+          "party_code": "Ind.",
           "party_symbol": "Radio",
           "votes": 632
         },
@@ -3721,7 +3721,7 @@
         },
         {
           "candidate": "Piyadasa Weeraratne",
-          "party_code": "Independent",
+          "party_code": "Ind.",
           "party_symbol": "Pair Of Scales",
           "votes": 2108
         },
@@ -3745,7 +3745,7 @@
         },
         {
           "candidate": "E.G. Wijesinghe",
-          "party_code": "Independent",
+          "party_code": "Ind.",
           "party_symbol": "Eye",
           "votes": 291
         }
@@ -4255,7 +4255,7 @@
         },
         {
           "candidate": "P. Muthiah",
-          "party_code": "?",
+          "party_code": "PUF",
           "party_symbol": "Orange",
           "votes": 1469
         },
@@ -4483,7 +4483,7 @@
         },
         {
           "candidate": "Indradasa Samaranayake",
-          "party_code": "?",
+          "party_code": "PUF",
           "party_symbol": "Orange",
           "votes": 80
         }
@@ -4567,7 +4567,7 @@
       "single_results": [
         {
           "candidate": "M.I.M. Abdul Majeed",
-          "party_code": "?",
+          "party_code": "Ind.",
           "party_symbol": "Radio",
           "votes": 10017
         },
@@ -4837,7 +4837,7 @@
         },
         {
           "candidate": "M.P.H.J. WIjayawardhana",
-          "party_code": "Independent",
+          "party_code": "Ind.",
           "party_symbol": "Eye",
           "votes": 261
         }
@@ -4885,7 +4885,7 @@
         },
         {
           "candidate": "H.A.M.P. Appuhamy",
-          "party_code": "Independent",
+          "party_code": "Ind.",
           "party_symbol": "Eye",
           "votes": 464
         },
@@ -4945,7 +4945,7 @@
         },
         {
           "candidate": "H.D.S. Jayasekera",
-          "party_code": "Independent",
+          "party_code": "Ind.",
           "party_symbol": "Pair Of Scales",
           "votes": 313
         }
@@ -4981,7 +4981,7 @@
         },
         {
           "candidate": "H.A. Senanayake",
-          "party_code": "Independent",
+          "party_code": "Ind.",
           "party_symbol": "Pair Of Scales",
           "votes": 635
         },
@@ -4993,13 +4993,13 @@
         },
         {
           "candidate": "D.W. Abeyakoon",
-          "party_code": "BSP",
+          "party_code": "BSP/UNP",
           "party_symbol": "Lamp",
           "votes": 160
         },
         {
           "candidate": "W. George Fernando",
-          "party_code": "Independent",
+          "party_code": "Ind.",
           "party_symbol": "Eye",
           "votes": 110
         }
@@ -5035,7 +5035,7 @@
         },
         {
           "candidate": "N.M. Asurasena",
-          "party_code": "BSP",
+          "party_code": "BSP/UNP",
           "party_symbol": "Lamp",
           "votes": 420
         },
@@ -5059,7 +5059,7 @@
         },
         {
           "candidate": "Antony Fernando",
-          "party_code": "Independent",
+          "party_code": "Ind.",
           "party_symbol": "Pair Of Scales",
           "votes": 102
         }
@@ -5095,7 +5095,7 @@
         },
         {
           "candidate": "K.B. Herat",
-          "party_code": "Independent",
+          "party_code": "Ind.",
           "party_symbol": "Eye",
           "votes": 2166
         },
@@ -5119,7 +5119,7 @@
       "single_results": [
         {
           "candidate": "I.M.R.A. Iriyagolle",
-          "party_code": "Independent",
+          "party_code": "Ind.",
           "party_symbol": "Eye",
           "votes": 8257
         },
@@ -5143,13 +5143,13 @@
         },
         {
           "candidate": "R.B. Herat",
-          "party_code": "Independent",
+          "party_code": "Ind.",
           "party_symbol": "Pair Of Scales",
           "votes": 656
         },
         {
           "candidate": "D. Samaradiwakara",
-          "party_code": "BSP",
+          "party_code": "BSP/UNP",
           "party_symbol": "Lamp",
           "votes": 449
         }
@@ -5197,19 +5197,19 @@
         },
         {
           "candidate": "W.M. Punchi Nilame",
-          "party_code": "Independent",
+          "party_code": "Ind.",
           "party_symbol": "Pair Of Scales",
           "votes": 362
         },
         {
           "candidate": "T.B. Kaluhendiwela",
-          "party_code": "BSP",
+          "party_code": "BSP/UNP",
           "party_symbol": "Lamp",
           "votes": 271
         },
         {
           "candidate": "D.B. Tevarapperuma",
-          "party_code": "Independent",
+          "party_code": "Ind.",
           "party_symbol": "Eye",
           "votes": 256
         },
@@ -5269,7 +5269,7 @@
         },
         {
           "candidate": "Albert Galapatti",
-          "party_code": "Independent",
+          "party_code": "Ind.",
           "party_symbol": "Pair Of Scales",
           "votes": 407
         },
@@ -5287,7 +5287,7 @@
         },
         {
           "candidate": "P.B. Amarasinghe",
-          "party_code": "Independent",
+          "party_code": "Ind.",
           "party_symbol": "Eye",
           "votes": 111
         }
@@ -5341,7 +5341,7 @@
         },
         {
           "candidate": "S.B.G. Abeyaratne  Bandara",
-          "party_code": "Independent",
+          "party_code": "Ind.",
           "party_symbol": "Eye",
           "votes": 184
         }
@@ -5401,7 +5401,7 @@
         },
         {
           "candidate": "D.S. Handunge",
-          "party_code": "Independent",
+          "party_code": "Ind.",
           "party_symbol": "Eye",
           "votes": 258
         }
@@ -5479,7 +5479,7 @@
         },
         {
           "candidate": "J.A. Herath Banda",
-          "party_code": "?",
+          "party_code": "PUF",
           "party_symbol": "Orange",
           "votes": 646
         },
@@ -5497,13 +5497,13 @@
         },
         {
           "candidate": "D.M.Kumarasinghe",
-          "party_code": "BSP",
+          "party_code": "BSP/UNP",
           "party_symbol": "Lamp",
           "votes": 118
         },
         {
           "candidate": "W.B. Amunugama",
-          "party_code": "Independent",
+          "party_code": "Ind.",
           "party_symbol": "Pair Of Scales",
           "votes": 74
         }
@@ -5575,7 +5575,7 @@
         },
         {
           "candidate": "A.L.H. Jayasuriya",
-          "party_code": "Independent",
+          "party_code": "Ind.",
           "party_symbol": "Eye",
           "votes": 259
         },
@@ -5809,7 +5809,7 @@
         },
         {
           "candidate": "Y.W. Peiris",
-          "party_code": "BSP",
+          "party_code": "BSP/UNP",
           "party_symbol": "Lamp",
           "votes": 107
         }
@@ -6055,7 +6055,7 @@
         },
         {
           "candidate": "Weerawanni Jinadasa",
-          "party_code": "Independent",
+          "party_code": "Ind.",
           "party_symbol": "Pair Of Scales",
           "votes": 103
         }
@@ -6073,7 +6073,7 @@
       "single_results": [
         {
           "candidate": "Kusuma Rajaratne (Mrs.)",
-          "party_code": "?",
+          "party_code": "NLF",
           "party_symbol": "Aeroplane",
           "votes": 4662
         },
@@ -6133,7 +6133,7 @@
       "single_results": [
         {
           "candidate": "K.M.P. Rajaratne",
-          "party_code": "?",
+          "party_code": "NLF",
           "party_symbol": "Aeroplane",
           "votes": 6539
         },
@@ -6163,7 +6163,7 @@
         },
         {
           "candidate": "B. Gabriel Perera",
-          "party_code": "Independent",
+          "party_code": "Ind.",
           "party_symbol": "Pair Of Scales",
           "votes": 159
         },
@@ -6217,7 +6217,7 @@
         },
         {
           "candidate": "T.M. Gunasekera",
-          "party_code": "Independent",
+          "party_code": "Ind.",
           "party_symbol": "Eye",
           "votes": 192
         },
@@ -6265,7 +6265,7 @@
         },
         {
           "candidate": "M. Arunasalam",
-          "party_code": "Independent",
+          "party_code": "Ind.",
           "party_symbol": "Tree",
           "votes": 428
         },
@@ -6319,7 +6319,7 @@
         },
         {
           "candidate": "R.A. Tilakaratne",
-          "party_code": "BSP",
+          "party_code": "BSP/UNP",
           "party_symbol": "Lamp",
           "votes": 363
         },
@@ -6427,7 +6427,7 @@
         },
         {
           "candidate": "E.D.B. Lekamge",
-          "party_code": "Independent",
+          "party_code": "Ind.",
           "party_symbol": "Eye",
           "votes": 188
         },
@@ -6475,7 +6475,7 @@
         },
         {
           "candidate": "Herbert Vithanage",
-          "party_code": "BSP",
+          "party_code": "BSP/UNP",
           "party_symbol": "Lamp",
           "votes": 182
         },
@@ -6487,7 +6487,7 @@
         },
         {
           "candidate": "K.A. Vincent Perera",
-          "party_code": "Independent",
+          "party_code": "Ind.",
           "party_symbol": "Pair Of Scales",
           "votes": 144
         }
@@ -6523,7 +6523,7 @@
         },
         {
           "candidate": "M.R.U. Banda",
-          "party_code": "?",
+          "party_code": "PUF",
           "party_symbol": "Orange",
           "votes": 598
         },
@@ -6535,7 +6535,7 @@
         },
         {
           "candidate": "P.R. Ratnayake",
-          "party_code": "Independent",
+          "party_code": "Ind.",
           "party_symbol": "Pair Of Scales",
           "votes": 471
         }
@@ -6559,7 +6559,7 @@
         },
         {
           "candidate": "C.R. Beligammana",
-          "party_code": "BSP",
+          "party_code": "BSP/UNP",
           "party_symbol": "Lamp",
           "votes": 5925
         },
@@ -6583,7 +6583,7 @@
         },
         {
           "candidate": "N.R.B. Daswatte",
-          "party_code": "Independent",
+          "party_code": "Ind.",
           "party_symbol": "Pair Of Scales",
           "votes": 527
         },
@@ -6955,7 +6955,7 @@
         },
         {
           "candidate": "Warnakulage Leelaratne",
-          "party_code": "BSP",
+          "party_code": "BSP/UNP",
           "party_symbol": "Lamp",
           "votes": 251
         },
@@ -7021,7 +7021,7 @@
         },
         {
           "candidate": "C.C. Tissera",
-          "party_code": "?",
+          "party_code": "PUF",
           "party_symbol": "Orange",
           "votes": 172
         }
@@ -7063,7 +7063,7 @@
         },
         {
           "candidate": "O.T.M. Podibandara",
-          "party_code": "Independent",
+          "party_code": "Ind.",
           "party_symbol": "Eye",
           "votes": 905
         },
@@ -7111,7 +7111,7 @@
         },
         {
           "candidate": "K.G. Rupasena",
-          "party_code": "Independent",
+          "party_code": "Ind.",
           "party_symbol": "Eye",
           "votes": 785
         },

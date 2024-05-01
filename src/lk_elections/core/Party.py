@@ -1,6 +1,6 @@
 class Party:
     UNKNOWN = '?'
-    INDEPENDENT = 'Independent'
+    INDEPENDENT = 'Ind.'
     SYMBOL_TO_PARTY = {
         'Aeroplane': 'NLF',
         'Bell': UNKNOWN,
@@ -21,16 +21,16 @@ class Party:
         'House': 'ITAK',
         'Key': 'LSSP',
         'Ladder': UNKNOWN,
-        'Lamp': 'BSP',
+        'Lamp': 'BSP/UNP',
         'Mortar': UNKNOWN,
         'Omnibus': UNKNOWN,
-        'Orange': UNKNOWN,
+        'Orange': 'PUF',
         'Pair Of Scales': INDEPENDENT,
         'Pair Of Spectacles': 'CIC',
         'Pineapple': 'CP',
         'Pot': UNKNOWN,
         'Rabbit': UNKNOWN,
-        'Radio': UNKNOWN,
+        'Radio': INDEPENDENT,
         'Saw': UNKNOWN,
         'Sewing Machine': UNKNOWN,
         'Ship': UNKNOWN,
@@ -56,6 +56,7 @@ class Party:
         'SLFP': '🔵',
         'TULF': '🟡',
         'UNP': '🟢',
+        'NLF': '🟣',
         INDEPENDENT: '⚪',
         UNKNOWN: '',
     }

@@ -43,7 +43,7 @@
         },
         {
           "candidate": "M.C. M. Kaleel",
-          "party_code": "Independent",
+          "party_code": "Ind.",
           "party_symbol": "Eye",
           "votes": 37486
         },
@@ -121,7 +121,7 @@
         },
         {
           "candidate": "George Jayasuriya",
-          "party_code": "Independent",
+          "party_code": "Ind.",
           "party_symbol": "Butterfly",
           "votes": 3750
         },
@@ -169,7 +169,7 @@
         },
         {
           "candidate": "D.J. Weerackody",
-          "party_code": "Independent",
+          "party_code": "Ind.",
           "party_symbol": "Butterfly",
           "votes": 94
         }
@@ -247,7 +247,7 @@
         },
         {
           "candidate": "Amarapala Ariyatillake",
-          "party_code": "Independent",
+          "party_code": "Ind.",
           "party_symbol": "Eye",
           "votes": 211
         },
@@ -775,7 +775,7 @@
       "single_results": [
         {
           "candidate": "R. Wickramanayake",
-          "party_code": "?",
+          "party_code": "PUF",
           "party_symbol": "Orange",
           "votes": 14023
         },
@@ -1165,7 +1165,7 @@
         },
         {
           "candidate": "D.H. Jayawickrema",
-          "party_code": "Independent",
+          "party_code": "Ind.",
           "party_symbol": "Butterfly",
           "votes": 14288
         },
@@ -1489,7 +1489,7 @@
         },
         {
           "candidate": "H.W. Kirinda",
-          "party_code": "Independent",
+          "party_code": "Ind.",
           "party_symbol": "Eye",
           "votes": 172
         }
@@ -1801,7 +1801,7 @@
         },
         {
           "candidate": "K.G.P. Jayatilake",
-          "party_code": "Independent",
+          "party_code": "Ind.",
           "party_symbol": "Eye",
           "votes": 1121
         }
@@ -2251,7 +2251,7 @@
         },
         {
           "candidate": "G.G. Ponnambalam",
-          "party_code": "Independent",
+          "party_code": "Ind.",
           "party_symbol": "Eye",
           "votes": 6015
         },
@@ -2695,7 +2695,7 @@
         },
         {
           "candidate": "M.A.M. Jalaldeen",
-          "party_code": "?",
+          "party_code": "Ind.",
           "party_symbol": "Radio",
           "votes": 4339
         }
@@ -2713,7 +2713,7 @@
       "single_results": [
         {
           "candidate": "M.A. Abdul Majeed",
-          "party_code": "?",
+          "party_code": "Ind.",
           "party_symbol": "Radio",
           "votes": 11591
         },
@@ -2899,7 +2899,7 @@
         },
         {
           "candidate": "J.C.W. Munasinghe",
-          "party_code": "Independent",
+          "party_code": "Ind.",
           "party_symbol": "Eye",
           "votes": 8643
         },
@@ -3511,7 +3511,7 @@
       "single_results": [
         {
           "candidate": "Kusuma Rajaratne(Mrs.)",
-          "party_code": "?",
+          "party_code": "NLF",
           "party_symbol": "Aeroplane",
           "votes": 6473
         },
@@ -3535,7 +3535,7 @@
       "single_results": [
         {
           "candidate": "K.M.P. Rajaratne",
-          "party_code": "?",
+          "party_code": "NLF",
           "party_symbol": "Aeroplane",
           "votes": 7557
         },
@@ -3751,7 +3751,7 @@
         },
         {
           "candidate": "C.R. Beligammana",
-          "party_code": "BSP",
+          "party_code": "BSP/UNP",
           "party_symbol": "Lamp",
           "votes": 3955
         }
