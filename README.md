@@ -21,7 +21,7 @@
 |---:|:---|:---|:---|:---|:---|---:|
 | 1 | 01A | Colombo North |  UNP/ACTC | `Umbrella` | George R. de Silva | 7,501 |
 | 2 | 01B | Colombo Central |  LP/ACTC | `Bicycle` | A.E. Goonasinha | 23,470 |
-| 3 | 01A | Colombo South | 🔴 LSSP | `Key` | R. A. de Mel | 6,452 |
+| 3 |  | Colombo South | 🔴 LSSP | `Key` | R. A. de Mel | 6,452 |
 | 4 |  | Wellawatta-Galkissa | 🔴 LSSP | `Key` | Colvin R. de Silva | 11,606 |
 | 5 | 02I | Ja-ela | 🔵 SLFP | `Hand` | D.P. Jayasuriya | 11,133 |
 | 6 | 02B | Negombo | ⚪ Ind. | `Butterfly` | H. de Z. Siriwardena | 10,174 |
@@ -66,7 +66,7 @@
 | 45 | 10B | Vaddukkoddai | 🟢 UNP | `Elephant` | K. Kanagaratnam | 11,721 |
 | 46 | 10C | Kankesanturai | 🔴 LSSP | `Key` | S.J.V. Chelvanayakam | 12,126 |
 | 47 | 10J | Jaffna |  LP/ACTC | `Bicycle` | G. G. Ponnambalam | 14,324 |
-| 48 | 10E | Kopai | 🟢 UNP | `Elephant` | C. Vanniasingam | 9,619 |
+| 48 |  | Kopai | 🟢 UNP | `Elephant` | C. Vanniasingam | 9,619 |
 | 49 | 10G | Point Pedro | ⚪ Ind. | `Pair Of Scales` | T. Ramalingam | 10,396 |
 | 50 | 10H | Chavakachcheri | ⚪ Ind. | `Pair Of Scales` | V. Kumarasamy | 11,813 |
 | 51 | 11A | Mannar | 🔴 LSSP | `Key` | C. Sittampalam | 5,877 |
@@ -77,7 +77,7 @@
 | 56 | 12B | Batticaloa | ⚪ Ind. | `Tree` | Ahamed lebbe Sinnalebbe | 4,740 |
 | 57 | 12C | Paddiruppu | ⚪ Ind. | `Bird` | S.U. Ethiramanasingham | 5,672 |
 | 58 | 13C | Kalmunai | 🔴 LSSP | `Key` | M.S. Kariapper | 6,886 |
-| 59 | 13D | Pottuvil | ⚪ Ind. | `Pair Of Scales` | M. M. Ibrahim | 7,407 |
+| 59 |  | Pottuvil | ⚪ Ind. | `Pair Of Scales` | M. M. Ibrahim | 7,407 |
 | 61 | 15B | Nikaweratiya | 🟢 UNP | `Elephant` | K. Herat | 7,316 |
 | 62 | 15N | Dodangaslanda | 🟢 UNP | `Elephant` | J.L. Kotelawala | 17,548 |
 | 63 | 15L | Kurunegala |  UNP/ACTC | `Umbrella` | H. Sri Nissanka | 10,188 |
@@ -88,16 +88,16 @@
 | 68 | 16C | Chilaw | 🟢 UNP | `Elephant` | J. J. Fernando | 6,270 |
 | 69 | 16D | Nattandiya |  LP/ACTC | `Bicycle` | Albert F. Peries | 11,036 |
 | 70 | 17A | Medawachchiya | 🔵 SLFP | `Hand` | M. Senanayake | 3,283 |
-| 71 | 17C | Anuradhapura | 🔵 SLFP | `Hand` | P.B. Bulankulame | 5,016 |
+| 71 |  | Anuradhapura | 🔵 SLFP | `Hand` | P.B. Bulankulame | 5,016 |
 | 72 | 17E | Kalawewa | 🟢 UNP | `Elephant` | S. H. Mahadiulwewa | 4,621 |
-| 73 | 17B | Horawupotana | 🟢 UNP | `Elephant` | T.B. Poholiyadde | 3,399 |
+| 73 |  | Horawupotana | 🟢 UNP | `Elephant` | T.B. Poholiyadde | 3,399 |
 | 74 | 18C | Polonnaruwa |  BSP/UNP | `Lamp` | P.L. Bauddhasara | 1,604 |
 | 75 |  | Alutnuwara |  BSP/UNP | `Lamp` | D. Ramanujam | 2,772 |
 | 76 | 19D | Badulla |  CIC/MEP | `Cart Wheel` | S.M. Subbaiah | 27,121 |
 | 77 | 19H | Bandarawela | 🔵 SLFP | `Hand` | K. V. Nadarajah | 5,092 |
 | 78 | 19G | Welimada |  CIC/MEP | `Cart Wheel` | K. D. Sugathadasa | 4,242 |
 | 79 | 19I | Haputale | 🔴 LSSP | `Key` | J. A. Rambukpota | 2,124 |
-| 80 | 16A | Buttala |  UNP/ACTC | `Umbrella` | W. Leo Fernando | 6,903 |
+| 80 |  | Buttala |  UNP/ACTC | `Umbrella` | W. Leo Fernando | 6,903 |
 | 81 | 22E | Mawanella |  UNP/ACTC | `Umbrella` | H. L. Ratwatte | 9,442 |
 | 82 | 22C | Kegalle | 🟢 UNP | `Elephant` | N. H. Keerthiratne | 14,550 |
 | 83 | 22A | Dedigama | 🔵 SLFP | `Hand` | Dudley Senanayake | 20,170 |
@@ -105,7 +105,7 @@
 | 85 |  | Dehiowita | 🔴 LSSP | `Chair` | Reginald Perera | 6,387 |
 | 86 |  | Kiriella |  UNP/ACTC | `Umbrella` | Florence Senanayake(Mrs.) | 5,535 |
 | 87 | 21B | Ratnapura | 🟢 UNP | `Cup` | C.E. Attygalle | 6,603 |
-| 88 | 21F | Niwitigala | 🟢 UNP | `Elephant` | D. F. Hettiarachchi. | 5,626 |
+| 88 |  | Niwitigala | 🟢 UNP | `Elephant` | D. F. Hettiarachchi. | 5,626 |
 | 89 | 21D | Balangoda | 🟡 ITAK | `House` | A. F. Molamure | 23,076 |
 
 Note: Some electorates are multi-member, and elect more than one candidate.
@@ -116,7 +116,7 @@ Note: Some electorates are multi-member, and elect more than one candidate.
 |---:|:---|:---|:---|:---|:---|---:|
 | 1 | 01A | Colombo North | 🟢 UNP | `Elephant` | Perera, Cyril E.S. | 10,630 |
 | 2 | 01B | Colombo Central |  UNP/ACTC | `Umbrella` | Keuneman, Pieter | 32,346 |
-| 3 | 01A | Colombo South | 🟢 UNP | `Elephant` | Jayawardena T.F. | 10,918 |
+| 3 |  | Colombo South | 🟢 UNP | `Elephant` | Jayawardena T.F. | 10,918 |
 | 4 |  | Wellawatte-Galkissa | 🟢 UNP | `Elephant` | Jayasinghe S. de S. | 16,388 |
 | 5 | 02I | Ja-ela | 🔴 CP | `Star` | Jayasuriya D.P. | 18,212 |
 | 6 | 02B | Negombo | 🔵 SLFP | `Hand` | Abeysinghe A.N. D.A. | 22,721 |
@@ -172,7 +172,7 @@ Note: Some electorates are multi-member, and elect more than one candidate.
 | 56 | 12B | Batticaloa | 🟢 UNP | `Elephant` | Kadramer R.B. | 11,420 |
 | 57 | 12C | Padiruppu | 🟠 CIC | `Pair Of Spectacles` | Rasamanickam, S.M. | 7,672 |
 | 58 | 13C | Kalmunai | 🔴 CP | `Star` | Merza, A.M. | 6,078 |
-| 59 | 13D | Pottuvil | ⚪ Ind. | `Pair Of Scales` | Ebrahim Hadjiar, M.M. | 8,093 |
+| 59 |  | Pottuvil | ⚪ Ind. | `Pair Of Scales` | Ebrahim Hadjiar, M.M. | 8,093 |
 | 60 | 16A | Puttalam | 🟢 UNP | `Wheel` | Ismail Hameed Hussain Sheikh | 9,117 |
 | 61 | 15B | Nikaweratiya | 🟢 UNP | `Elephant` | Herat, Kavisena | 11,999 |
 | 62 | 15N | Dodangaslanda | 🔵 SLFP | `Hand` | Kotalawala, Sir John | 21,934 |
@@ -184,7 +184,7 @@ Note: Some electorates are multi-member, and elect more than one candidate.
 | 68 | 16C | Chilaw | 🟢 UNP | `Elephant` | Corea, S. G. Shirley | 10,260 |
 | 69 | 16D | Nattandiya |  LP/ACTC | `Bicycle` | Peries, Albert F. | 14,593 |
 | 70 | 17A | Medawachchiya | 🔵 SLFP | `Hand` | Senanayake , Maithripala | 8,112 |
-| 71 | 17C | Anuradhapura | 🔵 SLFP | `Hand` | Bulankulame, Punchi Banda | 6,280 |
+| 71 |  | Anuradhapura | 🔵 SLFP | `Hand` | Bulankulame, Punchi Banda | 6,280 |
 | 72 | 17E | Kalawewa | 🟢 UNP | `Elephant` | Mahadiulwewa S.H. | 5,674 |
 | 73 | 17B | Horowupotana | 🔴 LSSP | `Key` | Poholiyadde, T.B. | 4,766 |
 | 74 | 18C | Polonnaruwa | 🟢 UNP | `Elephant` | de Silva C.P. | 5,498 |
@@ -193,7 +193,7 @@ Note: Some electorates are multi-member, and elect more than one candidate.
 | 77 | 19H | Bandarawela | 🟢 UNP | `Wheel` | Sugathadasa K. Don | 6,392 |
 | 78 | 19G | Welimada | 🔴 LSSP | `Key` | Bambarapane M.B. | 6,314 |
 | 79 | 19I | Haputale |  BSP/UNP | `Lamp` | Ratwatte, Wilfred A. | 2,444 |
-| 80 | 16A | Buttala |  UNP/ACTC | `Umbrella` | Fernando, W. Leo | 8,296 |
+| 80 |  | Buttala |  UNP/ACTC | `Umbrella` | Fernando, W. Leo | 8,296 |
 | 81 | 22E | Mawanella | 🔵 SLFP | `Hand` | Beligammana, C.R. | 14,225 |
 | 82 | 22C | Kegalle | 🔴 CP | `Star` | Keerthiratna, N.H. | 16,443 |
 | 83 | 22A | Dedigama | 🟢 UNP | `Elephant` | Senanayake, Dudley | 21,206 |
@@ -212,7 +212,7 @@ Note: Some electorates are multi-member, and elect more than one candidate.
 |---:|:---|:---|:---|:---|:---|---:|
 | 1 | 01A | Colombo North | 🔴 LSSP | `Key` | Vivienne Goonewardena (Mrs) | 16,841 |
 | 2 | 01B | Colombo Central | 🔴 CP | `Star` | P.G.B. Keuneman | 45,296 |
-| 3 | 01A | Colombo South | 🔴 LSSP | `Key` | Bernard Soysa | 14,199 |
+| 3 |  | Colombo South | 🔴 LSSP | `Key` | Bernard Soysa | 14,199 |
 | 4 |  | Wellawatta-Galkissa | 🔴 LSSP | `Key` | Colvin R. de Silva | 16,782 |
 | 5 | 02I | Ja-ela | 🔵 SLFP | `Hand` | Stanley de Soysa | 24,381 |
 | 6 | 02B | Negombo | 🔴 LSSP | `Key` | Hector Fernando | 20,892 |
@@ -268,7 +268,7 @@ Note: Some electorates are multi-member, and elect more than one candidate.
 | 56 | 12B | Batticaloa | 🟡 ITAK | `House` | C. Rajadurai | 9,300 |
 | 57 | 12C | Paddiruppu |  BSP/UNP | `Lamp` | U.S. Ethirmanasingham | 9,528 |
 | 58 | 13C | Kalmunai | 🟡 ITAK | `House` | M.S. Kariapper | 9,464 |
-| 59 | 13D | Pottuvil | 🟡 ITAK | `House` | M.M. Mustapha | 8,355 |
+| 59 |  | Pottuvil | 🟡 ITAK | `House` | M.M. Mustapha | 8,355 |
 | 60 | 16A | Puttalam |  CIC/MEP | `Cart Wheel` | H. Sheikh Ismail | 6,524 |
 | 61 | 15B | Nikaweratiya | 🔵 SLFP | `Hand` | M. Tennakoon | 15,914 |
 | 62 | 15N | Dodangaslanda | 🟢 UNP | `Elephant` | Sir John Kotalawala | 20,286 |
@@ -280,18 +280,18 @@ Note: Some electorates are multi-member, and elect more than one candidate.
 | 68 | 16C | Chilaw | 🔵 SLFP | `Hand` | W.J.C. Munasinghe | 19,565 |
 | 69 | 16D | Nattandiya | 🟢 UNP | `Flower` | W.I. Hugh Fernando | 17,607 |
 | 70 | 17A | Medawachchiya | 🔵 SLFP | `Hand` | Maithripala Senanayake | 10,829 |
-| 71 | 17C | Anuradhapura | 🔵 SLFP | `Hand` | Sirimewan Godage | 7,618 |
+| 71 |  | Anuradhapura | 🔵 SLFP | `Hand` | Sirimewan Godage | 7,618 |
 | 72 | 17E | Kalawewa | 🔵 SLFP | `Hand` | M.S. Dissanayake | 12,418 |
-| 73 | 17B | Horawupotana | 🟢 UNP | `Elephant` | E.L.B. Hurulle | 6,307 |
+| 73 |  | Horawupotana | 🟢 UNP | `Elephant` | E.L.B. Hurulle | 6,307 |
 | 74 | 18C | Polonnaruwa | 🔵 SLFP | `Hand` | C.P. de Silva | 10,072 |
 | 75 |  | Alutnuwara | 🔵 SLFP | `Hand` | K. Don Goonaratne | 5,339 |
 | 76 | 19D | Badulla | 🔴 LSSP | `Key` | J.C.T. Kotalawela | 20,908 |
 | 77 | 19H | Bandarawela | 🔴 LSSP | `Key` | Y.G. Jayasinghe | 6,805 |
 | 78 | 19G | Welimada | 🔵 SLFP | `Hand` | K.M.P. Rajaratne | 12,336 |
 | 79 | 19I | Haputale | 🔵 SLFP | `Hand` | W.P.G. Ariyadasa | 4,678 |
-| 80 | 16A | Buttala | 🔵 SLFP | `Hand` | W.G.M. Albert Silva | 7,416 |
+| 80 |  | Buttala | 🔵 SLFP | `Hand` | W.G.M. Albert Silva | 7,416 |
 | 81 | 22E | Mawanella | 🔵 SLFP | `Hand` | C.R. Beligammana | 20,125 |
-| 82 | 22C | Kegalla | 🔵 SLFP | `Hand` | P.B.G. Kalugalla | 21,754 |
+| 82 |  | Kegalla | 🔵 SLFP | `Hand` | P.B.G. Kalugalla | 21,754 |
 | 83 | 22A | Dedigama | 🔵 SLFP | `Hand` | Maitripala Herath | 22,816 |
 | 84 | 22H | Ruwanwella | 🔴 LSSP | `Key` | N.M. Perera | 14,083 |
 | 85 | 01F | Dehiwala | 🔴 LSSP | `Key` | Edmund Samarakkody | 14,954 |
@@ -309,7 +309,7 @@ Note: Some electorates are multi-member, and elect more than one candidate.
 | 1 | 01A | Colombo North | 🟢 UNP | `Elephant` | V.A.Sugathadasa | 9,446 |
 | 2 | 01B | Colombo Central | 🟠 CIC | `Pair Of Spectacles` | M.C.M. Kaleel | 33,121 |
 | 3 | 01C | Borella | 🟢 UNP | `Elephant` | R.B. Lenora | 7,261 |
-| 4 | 01A | Colombo South | 🟢 UNP | `Elephant` | Edmund Samarawickrema | 25,312 |
+| 4 |  | Colombo South | 🟢 UNP | `Elephant` | Edmund Samarawickrema | 25,312 |
 | 5 | 02A | Wattala | 🟢 UNP | `Elephant` | D. Shelton Jayasinghe | 9,665 |
 | 6 | 02B | Negombo | 🟢 UNP | `Elephant` | T. Quintin Fernando | 11,207 |
 | 7 | 02C | Katana | 🟢 UNP | `Elephant` | Wijayapala Mendis | 9,117 |
@@ -385,8 +385,8 @@ Note: Some electorates are multi-member, and elect more than one candidate.
 | 77 |  | Uduvil | 🟡 ITAK | `House` | Visuvanathar Tharmalingam | 9,033 |
 | 78 | 10J | Jaffna | 🟡 TULF | `Sun` | A.T. Durayappah | 6,201 |
 | 79 | 10I | Nallur | 🟡 ITAK | `House` | E.M.V. Naganathan | 9,651 |
-| 80 | 10E | Kopai | 🟡 ITAK | `House` | M. Balasundaram | 10,279 |
-| 81 | 10F | Uduppiddi |  LP/ACTC | `Bicycle` | M. Sivasithamparam | 7,365 |
+| 80 |  | Kopai | 🟡 ITAK | `House` | M. Balasundaram | 10,279 |
+| 81 |  | Uduppiddi |  LP/ACTC | `Bicycle` | M. Sivasithamparam | 7,365 |
 | 82 | 10G | Point Pedro | 🟡 ITAK | `House` | K. Thurairatnam | 5,679 |
 | 83 | 10H | Chavakachcheri | 🟡 ITAK | `House` | V.N. Navaratnam | 13,907 |
 | 84 | 10K | Kilinochchi | 🟡 ITAK | `House` | A. Sivasunderam | 3,741 |
@@ -400,7 +400,7 @@ Note: Some electorates are multi-member, and elect more than one candidate.
 | 92 | 12C | Paddiruppu | 🟡 ITAK | `House` | S.M.Rasamanickam | 10,799 |
 | 93 | 13C | Kalmunai |  UNP/ACTC | `Umbrella` | M.S. Kariapper | 5,743 |
 | 94 |  | Nintavur | ⚪ Ind. | `Radio` | M.I.M. Abdul Majeed | 10,017 |
-| 95 | 13D | Pottuvil |  CWC | `Cockerel` | M.A. Abdul Majeed | 9,874 |
+| 95 |  | Pottuvil |  CWC | `Cockerel` | M.A. Abdul Majeed | 9,874 |
 | 96 | 16A | Puttalam | 🟢 UNP | `Elephant` | M.H. Naina Marikkar | 7,344 |
 | 97 | 15B | Nikaweratiya | 🔵 SLFP | `Hand` | Mudiyanse Tennekoon | 13,409 |
 | 98 | 15C | Yapahuwa | 🔵 SLFP | `Hand` | R.B. Tennekoon | 8,536 |
@@ -417,7 +417,7 @@ Note: Some electorates are multi-member, and elect more than one candidate.
 | 109 | 15L | Kurunegala | 🔵 SLFP | `Hand` | D.B. Monnekulama | 8,176 |
 | 110 | 15M | Mawatagama | 🟢 UNP | `Elephant` | E.M.R.B. Ekanayake | 6,877 |
 | 111 | 15N | Dodangaslanda | 🟢 UNP | `Elephant` | A.U. Romanis | 7,571 |
-| 112 | 17C | Anuradhapura | 🔵 SLFP | `Hand` | Sirimewan Godage | 5,922 |
+| 112 |  | Anuradhapura | 🔵 SLFP | `Hand` | Sirimewan Godage | 5,922 |
 | 113 | 17A | Medawachchiya | 🔵 SLFP | `Hand` | Maithripala Senanayake | 9,475 |
 | 114 | 17B | Horowupotana | 🟢 UNP | `Elephant` | E.L.B. Hurulle | 5,120 |
 | 115 | 17F | Mihintale | 🔴 LSSP | `Key` | P.M.K. Tennakoon | 2,581 |
@@ -425,7 +425,7 @@ Note: Some electorates are multi-member, and elect more than one candidate.
 | 117 | 17G | Kekirawa | 🔵 SLFP | `Hand` | S.B. Lenawa | 4,590 |
 | 118 | 18A | Minneriya | 🔵 SLFP | `Hand` | C.P. de Silva | 9,770 |
 | 119 | 18C | Polonnaruwa | 🔵 SLFP | `Hand` | A.H. de Silva | 7,107 |
-| 120 | 19A | Mahiyangane | 🟢 UNP | `Elephant` | C.P.J. Seneviratne | 3,164 |
+| 120 |  | Mahiyangane | 🟢 UNP | `Elephant` | C.P.J. Seneviratne | 3,164 |
 | 121 | 20A | Bibile | 🟢 UNP | `Elephant` | R.M. Gunasekera | 3,361 |
 | 122 | 19C | Passara | 🟢 UNP | `Elephant` | S.A. Peeris | 3,286 |
 | 123 | 19D | Badulla | 🔵 SLFP | `Hand` | B.H. Bandara | 4,775 |
@@ -461,7 +461,7 @@ Note: Some electorates are multi-member, and elect more than one candidate.
 | 1 | 01A | Colombo North | 🟢 UNP | `Elephant` | V.A. Sugathadasa | 11,507 |
 | 2 | 01B | Colombo Central | 🔵 SLFP | `Hand` | Sir Razik Fareed | 45,342 |
 | 3 | 01C | Borella | 🔵 SLFP | `Hand` | W. Danister de Silva | 11,409 |
-| 4 | 01A | Colombo South | 🔴 LSSP | `Chair` | J.R. Jayewardene | 25,814 |
+| 4 |  | Colombo South | 🔴 LSSP | `Chair` | J.R. Jayewardene | 25,814 |
 | 5 | 02A | Wattala | 🟢 UNP | `Elephant` | D. Shelton Jayasinghe | 11,633 |
 | 6 | 02B | Negombo | 🟢 UNP | `Elephant` | T. Quintin Fernando | 14,469 |
 | 7 | 02C | Katana | 🟢 UNP | `Elephant` | Wijayapala Mendis | 10,846 |
@@ -538,7 +538,7 @@ Note: Some electorates are multi-member, and elect more than one candidate.
 | 78 | 10J | Jaffna |  LP/ACTC | `Bicycle` | A.T. Durayappah | 6,313 |
 | 79 | 10I | Nallur | 🟡 ITAK | `House` | E.M.V. Naganathan | 11,728 |
 | 80 | 10E | Kopay | 🟡 ITAK | `House` | M. Balasunderam | 12,088 |
-| 81 | 10F | Uduppiddi |  LP/ACTC | `Bicycle` | M. Sivasithamparam | 9,080 |
+| 81 |  | Uduppiddi |  LP/ACTC | `Bicycle` | M. Sivasithamparam | 9,080 |
 | 82 | 10G | Point Pedro | 🟡 ITAK | `House` | K. Thurairatnam | 8,226 |
 | 83 | 10H | Chavakachcheri | 🟡 ITAK | `House` | V.N. Navaratnam | 14,799 |
 | 84 | 10K | Kilinochchi | 🟡 ITAK | `House` | A. Shivasunderam | 5,338 |
@@ -569,7 +569,7 @@ Note: Some electorates are multi-member, and elect more than one candidate.
 | 109 | 15L | Kurunegala | 🔵 SLFP | `Hand` | D.B. Monnekulama | 10,193 |
 | 110 | 15M | Mawatagama | 🔵 SLFP | `Hand` | D.P. Wickremasinghe | 10,647 |
 | 111 | 15N | Dodangaslanda | 🟢 UNP | `Elephant` | A.U. Romanis | 8,758 |
-| 112 | 17C | Anuradhapura | 🔵 SLFP | `Hand` | Sirimewan Godage | 7,352 |
+| 112 |  | Anuradhapura | 🔵 SLFP | `Hand` | Sirimewan Godage | 7,352 |
 | 113 | 17A | Medawachchiya | 🔵 SLFP | `Hand` | Maithripala Senanayake | 9,534 |
 | 114 | 17B | Horowupothana | 🟢 UNP | `Elephant` | E.L.B. Hurulle | 5,856 |
 | 115 | 17F | Mihintale | 🔴 LSSP | `Key` | P.M.K. Tennekoon | 5,198 |
@@ -592,7 +592,7 @@ Note: Some electorates are multi-member, and elect more than one candidate.
 | 132 | 22C | Kegalle | 🔵 SLFP | `Hand` | P.B.G. Kalugalle | 11,741 |
 | 133 | 22D | Rambukkana | 🔵 SLFP | `Hand` | Asoka Karunaratne | 12,917 |
 | 134 | 22E | Mawanella | 🔵 SLFP | `Hand` | P.R. Ratnayake | 9,218 |
-| 135 | 22G | Yatiyamtota | 🔴 LSSP | `Key` | N.M. Perera | 10,311 |
+| 135 |  | Yatiyamtota | 🔴 LSSP | `Key` | N.M. Perera | 10,311 |
 | 136 | 22H | Ruwanwella | 🟢 UNP | `Elephant` | Premachandra Imbulana | 10,827 |
 | 137 |  | Dehiowita | 🔴 LSSP | `Key` | Soma Wickremanayake (Mrs.) | 8,593 |
 | 138 |  | Kiriella | 🔴 LSSP | `Key` | P.B. Wijesundara | 10,708 |
@@ -613,7 +613,7 @@ Note: Some electorates are multi-member, and elect more than one candidate.
 | 1 | 01A | Colombo North | 🟢 UNP | `Elephant` | V.A. Sugathadasa | 19,875 |
 | 2 | 01B | Colombo Central | 🔴 LSSP | `Chair` | Falil Caffoor | 68,372 |
 | 3 | 01C | Borella | 🟢 UNP | `Elephant` | M.H. Mohamed | 14,910 |
-| 4 | 01A | Colombo South |  ? | `Uncontested` | J.R. Jayawardene | 0 |
+| 4 |  | Colombo South |  ? | `Uncontested` | J.R. Jayawardene | 0 |
 | 5 | 02A | Wattala | 🟢 UNP | `Elephant` | D. Shelton Jayasinghe | 17,649 |
 | 6 | 02B | Negombo | 🟢 UNP | `Elephant` | T. Quintun Fernando | 22,056 |
 | 7 | 02C | Katana | 🟢 UNP | `Elephant` | Wijayapala Mendis | 16,469 |
@@ -689,7 +689,7 @@ Note: Some electorates are multi-member, and elect more than one candidate.
 | 77 |  | Uduvil | 🟡 ITAK | `House` | V. Dharmalingam | 11,638 |
 | 78 | 10J | Jaffna |  LP/ACTC | `Bicycle` | G.G. Ponnambalam | 9,350 |
 | 79 | 10I | Nallur | 🟡 ITAK | `House` | E.M.V. Naganathan | 10,301 |
-| 80 | 10E | Kopai | 🟡 ITAK | `House` | S. Kathiravelupillai | 12,339 |
+| 80 |  | Kopai | 🟡 ITAK | `House` | S. Kathiravelupillai | 12,339 |
 | 81 |  | Udduppiddi |  LP/ACTC | `Bicycle` | M. Sivasithamparam | 12,009 |
 | 82 | 10G | Point Pedro | 🟡 ITAK | `House` | K. Thurairatnam | 7,564 |
 | 83 | 10H | Chavakachcheri | 🟡 ITAK | `House` | V.N. Navaratnam | 16,316 |
@@ -721,7 +721,7 @@ Note: Some electorates are multi-member, and elect more than one candidate.
 | 109 | 15L | Kurunegala | 🟢 UNP | `Elephant` | D.B. Welagedara | 13,875 |
 | 110 | 15M | Mawatagama | 🟢 UNP | `Elephant` | Herath Ekanayake | 12,285 |
 | 111 | 15N | Dodangaslanda | 🔵 SLFP | `Hand` | R.R.W. Rajapakse | 13,426 |
-| 112 | 17C | Anuradhapura | 🔵 SLFP | `Hand` | K.B. Ratnayake | 9,452 |
+| 112 |  | Anuradhapura | 🔵 SLFP | `Hand` | K.B. Ratnayake | 9,452 |
 | 113 | 17A | Medawachchiya | 🔵 SLFP | `Hand` | Maithripala Senanayake | 10,839 |
 | 114 | 17B | Horowupotana | 🟢 UNP | `Elephant` | E.L.B. Hurulle | 9,072 |
 | 115 | 17F | Mihintale | 🔵 SLFP | `Hand` | P.M.K. Tennakoon | 6,233 |
@@ -765,7 +765,7 @@ Note: Some electorates are multi-member, and elect more than one candidate.
 | 1 | 01A | Colombo North | 🔴 LSSP | `Chair` | Harris Wickremetunge | 13,783 |
 | 2 | 01B | Colombo Central | 🟢 UNP | `Elephant` | R. Premadasa | 69,310 |
 | 3 | 01C | Borella | 🔴 LSSP | `Key` | Kusala Abhayawardana (Mrs.) | 16,421 |
-| 4 | 01A | Colombo South | 🟢 UNP | `Elephant` | J.R. Jayawardena | 57,609 |
+| 4 |  | Colombo South | 🟢 UNP | `Elephant` | J.R. Jayawardena | 57,609 |
 | 5 | 02A | Wattala | 🔵 SLFP | `Hand` | A.D.J.L. Leo | 21,856 |
 | 6 | 02B | Negombo | 🟢 UNP | `Elephant` | Denzil Fernando | 20,457 |
 | 7 | 02C | Katana | 🔵 SLFP | `Hand` | K.C. de Silva | 22,370 |
@@ -856,7 +856,7 @@ Note: Some electorates are multi-member, and elect more than one candidate.
 | 92 | 12C | Paddirippu | 🟢 UNP | `Elephant` | S. Thambirajah | 13,370 |
 | 93 | 13C | Kalmunai | 🔵 SLFP | `Hand` | M.C. Ahamed | 8,779 |
 | 94 |  | Nintavur | 🟢 UNP | `Elephant` | M.M. Mustapha | 13,481 |
-| 95 | 13D | Pottuvil | 🟢 UNP | `Elephant` | M.A. Abdul Majeed | 10,610 |
+| 95 |  | Pottuvil | 🟢 UNP | `Elephant` | M.A. Abdul Majeed | 10,610 |
 | 96 | 16A | Puttalam | 🔵 SLFP | `Hand` | S.M. Asenkudhoos | 10,995 |
 | 97 | 15B | Nikaweratiya | 🟢 UNP | `Flower` | M. Tennekoon | 24,163 |
 | 98 | 15C | Yapahuwa | 🔵 SLFP | `Hand` | Tissa. R. Balalle | 20,179 |
@@ -873,7 +873,7 @@ Note: Some electorates are multi-member, and elect more than one candidate.
 | 109 | 15L | Kurunegala | 🔵 SLFP | `Hand` | P. Wijesinghe | 16,672 |
 | 110 | 15M | Mawatagama | 🔵 SLFP | `Hand` | D.P. Wickramasinghe | 16,608 |
 | 111 | 15N | Dodangaslanda | 🔵 SLFP | `Hand` | S.Wijewardena | 16,991 |
-| 112 | 17C | Anuradhapura | 🔵 SLFP | `Hand` | K.B. Ratnayake | 16,438 |
+| 112 |  | Anuradhapura | 🔵 SLFP | `Hand` | K.B. Ratnayake | 16,438 |
 | 113 | 17A | Medawachchiya | 🔵 SLFP | `Hand` | Maithripala Senanayake | 17,094 |
 | 114 | 17B | Horowpathana | 🔵 SLFP | `Hand` | T.B. Herath | 11,668 |
 | 115 | 17F | Mihintale | 🔵 SLFP | `Hand` | Pathiraja Tennakoon | 9,432 |
@@ -890,7 +890,7 @@ Note: Some electorates are multi-member, and elect more than one candidate.
 | 126 | 19G | Welimada |  ? | `Uncontested` | R.M. Bandara | 0 |
 | 127 | 19H | Bandarawela | 🔵 SLFP | `Hand` | R.M. Appuhamy | 11,509 |
 | 128 | 19I | Haputale | 🔵 SLFP | `Hand` | W.P.G. Ariyadasa | 8,339 |
-| 129 | 20B | Moneragla | 🔵 SLFP | `Hand` | Rajah Welegama | 17,342 |
+| 129 |  | Moneragla | 🔵 SLFP | `Hand` | Rajah Welegama | 17,342 |
 | 130 | 22A | Dedigama | 🟢 UNP | `Elephant` | Dudley Shelton Senanayake | 19,513 |
 | 131 | 22B | Galigamuwa | 🔵 SLFP | `Hand` | B.A.P.B. Balasuriya | 17,370 |
 | 132 | 22C | Kegalle | 🔵 SLFP | `Hand` | P.B.G. Kalugalla | 21,009 |
@@ -922,7 +922,7 @@ Note: Some electorates are multi-member, and elect more than one candidate.
 | 6 | 01F | Dehiwala | 🟢 UNP | `Elephant` | S. de S. Jayasinghe | 22,364 |
 | 7 | 01G | Ratmalana | 🟢 UNP | `Elephant` | Lalith Athulathmudali | 19,972 |
 | 8 | 02A | Wattala | 🟢 UNP | `Elephant` | D. Shelton Jayasinghe | 26,355 |
-| 9 | 02B | Negambo | 🟢 UNP | `Elephant` | N. Denzil Fernando | 28,470 |
+| 9 |  | Negambo | 🟢 UNP | `Elephant` | N. Denzil Fernando | 28,470 |
 | 10 | 02C | Katana | 🟢 UNP | `Elephant` | Wijayapala Mendis | 23,950 |
 | 11 | 02D | Divulapitiya | 🟢 UNP | `Elephant` | Ariyaratne Jayatillake | 24,554 |
 | 12 | 02E | Mirigama | 🟢 UNP | `Elephant` | Mahendra Wijeratne | 30,877 |
@@ -977,7 +977,7 @@ Note: Some electorates are multi-member, and elect more than one candidate.
 | 61 | 07D | Bentara-Elpitiya | 🟢 UNP | `Elephant` | Rupasena Karunatilake | 26,679 |
 | 62 | 07E | Hiniduma | 🟢 UNP | `Elephant` | M.S. Amarasiri | 26,140 |
 | 63 | 07F | Baddegama | 🟢 UNP | `Elephant` | E.D. Wickrematilaka | 23,275 |
-| 64 | 07G | Rathgma | 🟢 UNP | `Elephant` | Edwin Thilakaratne | 22,486 |
+| 64 |  | Rathgma | 🟢 UNP | `Elephant` | Edwin Thilakaratne | 22,486 |
 | 65 | 07H | Galle | 🟢 UNP | `Elephant` | Albert de Silva | 15,861 |
 | 66 | 07I | Akmeemana | 🟢 UNP | `Elephant` | Sumanadasa Abeywickrema | 21,284 |
 | 67 | 07J | Habaraduwa | 🟢 UNP | `Elephant` | P. Sumathiratne | 20,354 |
@@ -993,10 +993,10 @@ Note: Some electorates are multi-member, and elect more than one candidate.
 | 77 | 09C | Tangalle | 🟢 UNP | `Elephant` | Jinadasa Weerasinghe | 23,456 |
 | 78 | 09D | Tissamaharama | 🟢 UNP | `Elephant` | P.M.B. Cyril | 20,879 |
 | 79 | 10A | Kayts | 🟡 TULF | `Sun` | K.P. Ratnam | 17,640 |
-| 80 | 10B | Waddukkodai | 🟡 TULF | `Sun` | T. Thirunavukarasu | 23,384 |
+| 80 |  | Waddukkodai | 🟡 TULF | `Sun` | T. Thirunavukarasu | 23,384 |
 | 81 | 10C | Kankesanthurai | 🟡 TULF | `Sun` | A. Amirthalingam | 31,155 |
-| 82 | 10D | Manipai | 🟡 TULF | `Sun` | V. Dharmalingam | 27,550 |
-| 83 | 10E | Kopai | 🟡 TULF | `Sun` | S. Kathiravelupillai | 25,840 |
+| 82 |  | Manipai | 🟡 TULF | `Sun` | V. Dharmalingam | 27,550 |
+| 83 |  | Kopai | 🟡 TULF | `Sun` | S. Kathiravelupillai | 25,840 |
 | 84 |  | Udduppidi | 🟡 TULF | `Sun` | T. Rasalingam | 18,768 |
 | 85 | 10G | Point-Pedro | 🟡 TULF | `Sun` | K. Thurairatnam | 12,989 |
 | 86 | 10H | Chavakachcheri | 🟡 TULF | `Sun` | V.N. Navaratnam | 20,028 |
@@ -1004,7 +1004,7 @@ Note: Some electorates are multi-member, and elect more than one candidate.
 | 88 | 10J | Jaffna | 🟡 TULF | `Sun` | V. Yogeswaran | 16,251 |
 | 89 | 10K | Kilinochchi | 🟡 TULF | `Sun` | V. Anandasangary | 15,607 |
 | 90 | 11A | Mannar | 🟡 TULF | `Sun` | P.S. Soosaithasan | 15,141 |
-| 91 | 11C | Mulativu | 🟡 TULF | `Sun` | X.M.Sellathambu | 10,261 |
+| 91 |  | Mulativu | 🟡 TULF | `Sun` | X.M.Sellathambu | 10,261 |
 | 92 | 11B | Vavuniya | 🟡 TULF | `Sun` | T. Sivasithamparam | 13,821 |
 | 93 | 14A | Seruvila | 🟢 UNP | `Elephant` | H.D.L. Leelaratne | 14,926 |
 | 94 | 14B | Trincomalee | 🟡 TULF | `Sun` | R. Sampathan | 15,144 |
