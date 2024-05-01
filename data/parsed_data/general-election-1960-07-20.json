@@ -604,7 +604,7 @@
     {
       "row_num": 19,
       "electorate_name": "Dehiwala-Mt. Lavinia",
-      "pd_id": "EC-01F",
+      "pd_id": "-",
       "single_results": [
         {
           "candidate": "Colvin R. de Silva",
@@ -703,7 +703,7 @@
     {
       "row_num": 22,
       "electorate_name": "Kottawa",
-      "pd_id": "EC-01I",
+      "pd_id": "-",
       "single_results": [
         {
           "candidate": "R. Gunawardena",
@@ -1156,7 +1156,7 @@
     {
       "row_num": 37,
       "electorate_name": "Wattegama",
-      "pd_id": "EC-02A",
+      "pd_id": "-",
       "single_results": [
         {
           "candidate": "A. Ratnayake",
@@ -1181,7 +1181,7 @@
     {
       "row_num": 38,
       "electorate_name": "Akurana",
-      "pd_id": "EC-08C",
+      "pd_id": "-",
       "single_results": [
         {
           "candidate": "D.G. Sirisena",
@@ -1311,7 +1311,7 @@
     {
       "row_num": 42,
       "electorate_name": "Kandy",
-      "pd_id": "EC-07C",
+      "pd_id": "-",
       "single_results": [
         {
           "candidate": "E.L. Senanayake",
@@ -1417,7 +1417,7 @@
     {
       "row_num": 46,
       "electorate_name": "Minipe",
-      "pd_id": "EC-10D",
+      "pd_id": "-",
       "single_results": [
         {
           "candidate": "R.W. Tennekoon",
@@ -1610,7 +1610,7 @@
     {
       "row_num": 53,
       "electorate_name": "Nuwara Eliya",
-      "pd_id": "EC-06A",
+      "pd_id": "-",
       "single_results": [
         {
           "candidate": "T. William Fernando",
@@ -1641,7 +1641,7 @@
     {
       "row_num": 54,
       "electorate_name": "Maskeliya",
-      "pd_id": "EC-02M",
+      "pd_id": "-",
       "single_results": [
         {
           "candidate": "Edmund Wijesuriya",
@@ -2294,7 +2294,7 @@
     {
       "row_num": 77,
       "electorate_name": "Uduvil",
-      "pd_id": "EC-10F",
+      "pd_id": "-",
       "single_results": [
         {
           "candidate": "V. Dharmalingam",
@@ -2779,7 +2779,7 @@
     {
       "row_num": 94,
       "electorate_name": "Nintavur",
-      "pd_id": "EC-10I",
+      "pd_id": "-",
       "single_results": [
         {
           "candidate": "M.I.M. Abdul Majeed",
@@ -3595,7 +3595,7 @@
     {
       "row_num": 124,
       "electorate_name": "Soranatota",
-      "pd_id": "EC-03C",
+      "pd_id": "-",
       "single_results": [
         {
           "candidate": "S.B. Ekanayake",
@@ -3956,7 +3956,7 @@
     {
       "row_num": 137,
       "electorate_name": "Dehiowita",
-      "pd_id": "EC-01F",
+      "pd_id": "-",
       "single_results": [
         {
           "candidate": "Soma Wickremanayake (Mrs.)",
@@ -3987,7 +3987,7 @@
     {
       "row_num": 138,
       "electorate_name": "Kiriella",
-      "pd_id": "EC-01C",
+      "pd_id": "-",
       "single_results": [
         {
           "candidate": "P.B. Wijesundara",
@@ -4248,9 +4248,22 @@
   "errors": [
     "[electors < polled] 74922 < 179584",
     "[electors < polled] 42367 < 61416",
+    "PD not found for Dehiwala-Mt. Lavinia",
+    "PD not found for Kottawa",
+    "PD not found for Wattegama",
     "[electors < polled] 42427 < 71918",
+    "PD not found for Akurana",
+    "PD not found for Kandy",
+    "PD not found for Minipe",
+    "PD not found for Nuwara Eliya",
+    "PD not found for Maskeliya",
     "[summary.valid != results-valid] 18670 != 18660",
+    "PD not found for Uduvil",
     "[electors < polled] 28520 < 46742",
-    "[electors < polled] 37832 < 57622"
+    "[electors < polled] 37832 < 57622",
+    "PD not found for Nintavur",
+    "PD not found for Soranatota",
+    "PD not found for Dehiowita",
+    "PD not found for Kiriella"
   ]
 }

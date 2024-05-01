@@ -356,7 +356,7 @@
     {
       "row_num": 11,
       "electorate_name": "Bandaranaike(Mrs.)",
-      "pd_id": "EC-03B",
+      "pd_id": "-",
       "single_results": [
         {
           "candidate": "J.R.P. Suriyapperuma",
@@ -574,7 +574,7 @@
     {
       "row_num": 19,
       "electorate_name": "Dehiwala-Mt.Lavinia",
-      "pd_id": "EC-01F",
+      "pd_id": "-",
       "single_results": [
         {
           "candidate": "Vivienne Goonawardene (Mrs.)",
@@ -655,7 +655,7 @@
     {
       "row_num": 22,
       "electorate_name": "Kottawa",
-      "pd_id": "EC-01I",
+      "pd_id": "-",
       "single_results": [
         {
           "candidate": "Chandrapala Gunasekera",
@@ -1084,7 +1084,7 @@
     {
       "row_num": 37,
       "electorate_name": "Wattegama",
-      "pd_id": "EC-02A",
+      "pd_id": "-",
       "single_results": [
         {
           "candidate": "A.G. Fernando",
@@ -1115,7 +1115,7 @@
     {
       "row_num": 38,
       "electorate_name": "Akurana",
-      "pd_id": "EC-08C",
+      "pd_id": "-",
       "single_results": [
         {
           "candidate": "A.C.S. Hameed",
@@ -1239,7 +1239,7 @@
     {
       "row_num": 42,
       "electorate_name": "Kandy",
-      "pd_id": "EC-07C",
+      "pd_id": "-",
       "single_results": [
         {
           "candidate": "E.L. Senanayake",
@@ -1357,7 +1357,7 @@
     {
       "row_num": 46,
       "electorate_name": "Minipe",
-      "pd_id": "EC-10D",
+      "pd_id": "-",
       "single_results": [
         {
           "candidate": "H.M. Navaratna",
@@ -1550,7 +1550,7 @@
     {
       "row_num": 53,
       "electorate_name": "Nuwara Eliya",
-      "pd_id": "EC-06A",
+      "pd_id": "-",
       "single_results": [
         {
           "candidate": "Gamini Dissanayake",
@@ -1581,7 +1581,7 @@
     {
       "row_num": 54,
       "electorate_name": "Maskeliya",
-      "pd_id": "EC-02M",
+      "pd_id": "-",
       "single_results": [
         {
           "candidate": "P.G. Ariyatillake",
@@ -2288,7 +2288,7 @@
     {
       "row_num": 77,
       "electorate_name": "Uduvil",
-      "pd_id": "EC-10F",
+      "pd_id": "-",
       "single_results": [
         {
           "candidate": "V. Dharmalingam",
@@ -2935,7 +2935,7 @@
     {
       "row_num": 94,
       "electorate_name": "Nintavur",
-      "pd_id": "EC-10I",
+      "pd_id": "-",
       "single_results": [
         {
           "candidate": "M.M. Mustapha",
@@ -3841,7 +3841,7 @@
     {
       "row_num": 124,
       "electorate_name": "Soranatota",
-      "pd_id": "EC-03C",
+      "pd_id": "-",
       "single_results": [
         {
           "candidate": "K.Y.M. Wijeratne Banda",
@@ -4220,7 +4220,7 @@
     {
       "row_num": 137,
       "electorate_name": "Dehiowita",
-      "pd_id": "EC-01F",
+      "pd_id": "-",
       "single_results": [
         {
           "candidate": "D.P.R. Weerasekera",
@@ -4251,7 +4251,7 @@
     {
       "row_num": 138,
       "electorate_name": "Kiriella",
-      "pd_id": "EC-01C",
+      "pd_id": "-",
       "single_results": [
         {
           "candidate": "Vasudeva Nanayakkara",
@@ -4508,13 +4508,27 @@
     "[electors < polled] 99265 < 240597",
     "[electors < polled] 66136 < 97928",
     "[summary.valid != results-valid] 43222 != 74834",
+    "PD not found for Bandaranaike(Mrs.)",
     "[summary.valid != results-valid] 41850 != 10238",
+    "PD not found for Dehiwala-Mt.Lavinia",
+    "PD not found for Kottawa",
     "[summary.valid != results-valid] 51829 != 31662",
+    "PD not found for Wattegama",
     "[electors < polled] 62067 < 110902",
+    "PD not found for Akurana",
+    "PD not found for Kandy",
+    "PD not found for Minipe",
+    "PD not found for Nuwara Eliya",
+    "PD not found for Maskeliya",
     "[summary.valid != results-valid] 40258 != 39580",
     "[summary.valid != results-valid] 42787 != 36868",
+    "PD not found for Uduvil",
     "[electors < polled] 44176 < 77188",
     "[electors < polled] 51524 < 84681",
-    "votes 0 <= 0"
+    "PD not found for Nintavur",
+    "PD not found for Soranatota",
+    "votes 0 <= 0",
+    "PD not found for Dehiowita",
+    "PD not found for Kiriella"
   ]
 }

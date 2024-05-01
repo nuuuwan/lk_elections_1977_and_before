@@ -3459,7 +3459,7 @@
     {
       "row_num": 84,
       "electorate_name": "Udduppidi",
-      "pd_id": "EC-10F",
+      "pd_id": "-",
       "single_results": [
         {
           "candidate": "T. Rasalingam",
@@ -6595,6 +6595,7 @@
     "[electors < polled] 54799 < 97036",
     "[electors < polled] 69295 < 123790",
     "[electors < polled] 64407 < 163533",
+    "PD not found for Udduppidi",
     "[summary.valid != results-valid] 23231 != 23291",
     "[summary.valid != results-valid] 28701 != 31701",
     "[summary.valid != results-valid] 19596 != 745146",
