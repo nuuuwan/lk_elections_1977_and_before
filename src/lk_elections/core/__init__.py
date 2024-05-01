@@ -2,3 +2,5 @@
 
 from lk_elections.core.ElectionFPTP import ElectionFPTP
 from lk_elections.core.ResultFPTP import ResultFPTP
+from lk_elections.core.SingleResultFPTP import SingleResultFPTP
+from lk_elections.core.Summary import Summary

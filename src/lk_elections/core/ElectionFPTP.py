@@ -13,12 +13,12 @@ class ElectionFPTP:
     date_str: str
     results: list[ResultFPTP]
 
-    @property
-    def data(self):
-        return {
-            'date_str': self.date_str,
-            'results': [result.__dict__ for result in self.results],
-        }
+
+    def to_dict(self):
+        return dict(
+            date_str=self.date_str,
+            results=[result.to_dict() for result in self.results],
+        )
 
     @property
     def data_path(self):
@@ -28,5 +28,5 @@ class ElectionFPTP:
         )
 
     def save(self):
-        JSONFile(self.data_path).write(self.data)
+        JSONFile(self.data_path).write(self.to_dict())
         log.info(f'Saved {self.data_path}')

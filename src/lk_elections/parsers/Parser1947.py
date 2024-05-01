@@ -3,7 +3,8 @@ import os
 import camelot
 from utils import Log
 
-from lk_elections.core import ElectionFPTP, ResultFPTP
+from lk_elections.core import (ElectionFPTP, ResultFPTP, SingleResultFPTP,
+                               Summary)
 
 log = Log('Parser1947')
 
@@ -18,7 +19,7 @@ def parse_int(x):
     return int(x)
 
 
-def isnumeric(x):
+def is_int(x):
     try:
         parse_int(x)
         return True
@@ -45,21 +46,12 @@ class Parser1947:
         for table in tables:
             table_aslist = table.df.values.tolist()
             for row in table_aslist:
-                if (
-                    row[0].startswith("No")
-                    or row[1].startswith("No")
-                    or row[0].startswith("of ")
-                    or row[3].startswith("Polled")
-                ):
-                    continue
-                if row[0] != "" or (
-                    row[0] == ""
-                    and row[1] != ""
-                    and isnumeric(row[1].split(" ")[0])
-                ):
+                valid_cells = [cell for cell in row if cell != ""]
+                first_token = valid_cells[0].split(' ')[0]
+                if is_int(first_token):
                     result_rows_list.append(current_result_rows)
                     current_result_rows = []
-                current_result_rows.append(row)
+                current_result_rows.append(valid_cells)
         result_rows_list.append(current_result_rows)
         result_rows_list = result_rows_list[1:]
         log.debug(f'Found {len(result_rows_list)} result rows')
@@ -68,74 +60,64 @@ class Parser1947:
     @staticmethod
     def parse_result_first_row(first_row):
         row_num, electorate_name = first_row[:2]
+        rejected, polled, electors = [parse_int(x) for x in first_row[-3:]]
+        first_single_result = Parser1947.parse_single_result(first_row[2:-3])
 
-        if row_num == "":
-            tokens = electorate_name.split(" ")
-            row_num = tokens[0]
-            electorate_name = " ".join(tokens[1:])
-        elif not isnumeric(row_num):
-            tokens = row_num.split(" ")
-            row_num = tokens[0]
-            electorate_name = " ".join(tokens[1:])
-
-        if len(first_row) == 8:
-            rejected, polled, electors = [
-                parse_int(x) for x in first_row[5:8]
-            ]
-        else:
-            rejected, polled, electors = [
-                parse_int(x) for x in first_row[4:7]
-            ]
+        summary = Summary(
+            electors=electors,
+            polled=polled,
+            rejected=rejected,
+            valid=polled - rejected,
+        )
 
         return [
             row_num,
             electorate_name,
-            electors,
-            rejected,
-            polled,
+            summary,
+            first_single_result,
         ]
 
     @staticmethod
+    def parse_single_result(row):
+        log.debug(f'parse_single_result: {row}')
+
+        candidate = " ".join(row[:-2])
+        party_symbol = row[-2]
+
+        if not is_int(row[-1]):
+            return None
+        votes = parse_int(row[-1])
+
+        return SingleResultFPTP(
+            candidate,
+            party_symbol,
+            votes,
+        )
+
+    @staticmethod
     def parse_result(result_rows):
-        for row in result_rows:
-            print(row)
+        for i, row in enumerate(result_rows):
+            log.debug(f'parse_result: {i}) {row}')
 
         [
             row_num,
             electorate_name,
-            electors,
-            rejected,
-            polled,
+            summary,
+            first_single_result,
         ] = Parser1947.parse_result_first_row(result_rows[0])
 
-        party_to_candidate = {}
-        party_to_votes = {}
-        for row in result_rows:
-            if row[2] == "":
-                continue
-            if len(result_rows[0]) == 8:
-                candidate, party, votes = row[2:5]
-            else:
-                candidate, party, votes = row[1:4]
-
-            party_to_candidate[party] = candidate
-
-            if votes == "":
-                continue
-
-            party_to_votes[party] = parse_int(votes)
-
-        valid = sum(party_to_votes.values())
+        single_results = [first_single_result] + [
+            single_result
+            for single_result in  [
+            Parser1947.parse_single_result(row) for row in result_rows[1:]
+            ] if single_result is not None
+        ]
 
         result = ResultFPTP(
             row_num,
             electorate_name,
-            party_to_candidate,
-            party_to_votes,
-            electors,
-            valid,
-            rejected,
-            polled,
+            single_results,
+            summary,
         )
         log.debug(result)
         return result
