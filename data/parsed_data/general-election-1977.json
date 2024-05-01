@@ -7,36 +7,43 @@
       "single_results": [
         {
           "candidate": "M. Vincent Perera",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 26759
         },
         {
           "candidate": "A.H.M.Fowzie",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 11617
         },
         {
           "candidate": "K.L.Robert Nandasiri Perera",
+          "party_code": "unknown",
           "party_symbol": "Key",
           "votes": 1321
         },
         {
           "candidate": "V.Dioynisius Wijesinghe",
+          "party_code": "unknown",
           "party_symbol": "Bell",
           "votes": 193
         },
         {
           "candidate": "Don Sirisena Mallawarachi",
+          "party_code": "unknown",
           "party_symbol": "Eye",
           "votes": 49
         },
         {
           "candidate": "E.D.Pemaratne",
+          "party_code": "unknown",
           "party_symbol": "Lamp",
           "votes": 45
         },
         {
           "candidate": "G.T.Ariyadasa",
+          "party_code": "unknown",
           "party_symbol": "Flower",
           "votes": 42
         }
@@ -54,41 +61,49 @@
       "single_results": [
         {
           "candidate": "R.Premadasa",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 94128
         },
         {
           "candidate": "M.Jabir A. Cader",
+          "party_code": "unknown",
           "party_symbol": "Eye",
           "votes": 58972
         },
         {
           "candidate": "M.Haleem Ishak",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 53777
         },
         {
           "candidate": "M.S.Sellasamay",
+          "party_code": "unknown",
           "party_symbol": "Cockerel",
           "votes": 26964
         },
         {
           "candidate": "Pieter Keuneman",
+          "party_code": "unknown",
           "party_symbol": "Star",
           "votes": 24568
         },
         {
           "candidate": "W.A.Sunil Perera",
+          "party_code": "unknown",
           "party_symbol": "Chair",
           "votes": 422
         },
         {
           "candidate": "R.Rathnasamy",
+          "party_code": "unknown",
           "party_symbol": "Flower",
           "votes": 202
         },
         {
           "candidate": "M.T.M.Saleem",
+          "party_code": "unknown",
           "party_symbol": "Table",
           "votes": 103
         }
@@ -106,16 +121,19 @@
       "single_results": [
         {
           "candidate": "M.H.Mohomed",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 19824
         },
         {
           "candidate": "B.T. Douglas Perera",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 9812
         },
         {
           "candidate": "Dharmasena de Silva Kurukulasuriya",
+          "party_code": "unknown",
           "party_symbol": "Key",
           "votes": 2304
         }
@@ -133,31 +151,37 @@
       "single_results": [
         {
           "candidate": "A.Edmund Samarawickrema",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 19721
         },
         {
           "candidate": "Vivian S. Kodikara",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 7678
         },
         {
           "candidate": "Bernard Soysa",
+          "party_code": "unknown",
           "party_symbol": "Key",
           "votes": 5951
         },
         {
           "candidate": "Gunasena Subasinghe",
+          "party_code": "unknown",
           "party_symbol": "Umbrella",
           "votes": 103
         },
         {
           "candidate": "M.H.Jayaratne Peiris",
+          "party_code": "unknown",
           "party_symbol": "Clock",
           "votes": 57
         },
         {
           "candidate": "M.P.Ariyadasa",
+          "party_code": "unknown",
           "party_symbol": "Flower",
           "votes": 56
         }
@@ -175,26 +199,31 @@
       "single_results": [
         {
           "candidate": "J.R.Jayewardene",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 21707
         },
         {
           "candidate": "M.Chandralal Salgado",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 3769
         },
         {
           "candidate": "S.D.Wijesinghe",
+          "party_code": "unknown",
           "party_symbol": "Key",
           "votes": 1803
         },
         {
           "candidate": "H.Navaratne Banda",
+          "party_code": "unknown",
           "party_symbol": "Chair",
           "votes": 70
         },
         {
           "candidate": "K.A.Thabrew",
+          "party_code": "unknown",
           "party_symbol": "Butterfly",
           "votes": 53
         }
@@ -212,21 +241,25 @@
       "single_results": [
         {
           "candidate": "S. de S. Jayasinghe",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 22364
         },
         {
           "candidate": "V. Don Alfred Perera",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 9996
         },
         {
           "candidate": "Ananda Premasinghe",
+          "party_code": "unknown",
           "party_symbol": "Key",
           "votes": 3578
         },
         {
           "candidate": "T. Upali Cooray",
+          "party_code": "unknown",
           "party_symbol": "Bell",
           "votes": 402
         }
@@ -244,21 +277,25 @@
       "single_results": [
         {
           "candidate": "Lalith Athulathmudali",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 19972
         },
         {
           "candidate": "C.V.Gooneratne",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 12141
         },
         {
           "candidate": "Vivienne Gunawardena (Mrs.)",
+          "party_code": "unknown",
           "party_symbol": "Key",
           "votes": 3055
         },
         {
           "candidate": "U.G. Gunadasa Perera",
+          "party_code": "unknown",
           "party_symbol": "Chair",
           "votes": 108
         }
@@ -276,26 +313,31 @@
       "single_results": [
         {
           "candidate": "D. Shelton Jayasinghe",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 26355
         },
         {
           "candidate": "A.D.J.L.Leo",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 14677
         },
         {
           "candidate": "D.J.R.J.Jayakody",
+          "party_code": "unknown",
           "party_symbol": "Key",
           "votes": 625
         },
         {
           "candidate": "Nelson Fernando",
+          "party_code": "unknown",
           "party_symbol": "Flower",
           "votes": 208
         },
         {
           "candidate": "B.J.M.Rodrigo",
+          "party_code": "unknown",
           "party_symbol": "Ship",
           "votes": 32
         }
@@ -313,21 +355,25 @@
       "single_results": [
         {
           "candidate": "N. Denzil Fernando",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 28470
         },
         {
           "candidate": "Ananda Munasinghe",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 13718
         },
         {
           "candidate": "W. Nelson Peiris",
+          "party_code": "unknown",
           "party_symbol": "Key",
           "votes": 1018
         },
         {
           "candidate": "Gamini Fonseka",
+          "party_code": "unknown",
           "party_symbol": "Ship",
           "votes": 124
         }
@@ -345,21 +391,25 @@
       "single_results": [
         {
           "candidate": "Wijayapala Mendis",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 23950
         },
         {
           "candidate": "Wijaya Kumaratunga",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 19738
         },
         {
           "candidate": "Nanda De Silva (Mrs.)",
+          "party_code": "unknown",
           "party_symbol": "Star",
           "votes": 1045
         },
         {
           "candidate": "Nelson de Silva",
+          "party_code": "unknown",
           "party_symbol": "Lamp",
           "votes": 195
         }
@@ -377,16 +427,19 @@
       "single_results": [
         {
           "candidate": "Ariyaratne Jayatillake",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 24554
         },
         {
           "candidate": "Lakshman Jayakody",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 21680
         },
         {
           "candidate": "Edmund Perera",
+          "party_code": "unknown",
           "party_symbol": "Key",
           "votes": 498
         }
@@ -404,21 +457,25 @@
       "single_results": [
         {
           "candidate": "Mahendra Wijeratne",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 30877
         },
         {
           "candidate": "J.P. Obeysekera",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 21080
         },
         {
           "candidate": "Narada Jayakody",
+          "party_code": "unknown",
           "party_symbol": "Key",
           "votes": 1178
         },
         {
           "candidate": "J. Jayasinghe",
+          "party_code": "unknown",
           "party_symbol": "Lamp",
           "votes": 180
         }
@@ -436,21 +493,25 @@
       "single_results": [
         {
           "candidate": "Bennet Gunasekera",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 29315
         },
         {
           "candidate": "J.R.P. Suriyapperuma",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 23212
         },
         {
           "candidate": "Ananda Dinesh Karunaratne",
+          "party_code": "unknown",
           "party_symbol": "Star",
           "votes": 603
         },
         {
           "candidate": "P.W. Jinadasa",
+          "party_code": "unknown",
           "party_symbol": "Lamp",
           "votes": 209
         }
@@ -468,16 +529,19 @@
       "single_results": [
         {
           "candidate": "Sirimavo Ratwatte Dias",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 30226
         },
         {
           "candidate": "A.W.G. Seneviratne",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 19563
         },
         {
           "candidate": "T.A.D.K. Thambugala",
+          "party_code": "unknown",
           "party_symbol": "Star",
           "votes": 335
         }
@@ -495,21 +559,25 @@
       "single_results": [
         {
           "candidate": "S.D.Bandaranayake",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 26338
         },
         {
           "candidate": "Chandra Jayakodi",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 25816
         },
         {
           "candidate": "M.A.Piyasena",
+          "party_code": "unknown",
           "party_symbol": "Key",
           "votes": 1141
         },
         {
           "candidate": "M.R. Wansus Laus Perera",
+          "party_code": "unknown",
           "party_symbol": "Butterfly",
           "votes": 124
         }
@@ -527,16 +595,19 @@
       "single_results": [
         {
           "candidate": "Joseph Michael Perera",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 31054
         },
         {
           "candidate": "Peter Mendis",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 14802
         },
         {
           "candidate": "L.D. Silva",
+          "party_code": "unknown",
           "party_symbol": "Key",
           "votes": 1737
         }
@@ -554,26 +625,31 @@
       "single_results": [
         {
           "candidate": "Tudor Gunasekera",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 25016
         },
         {
           "candidate": "S.K.K.Suriarachchi",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 22384
         },
         {
           "candidate": "J.A.K. Perera",
+          "party_code": "unknown",
           "party_symbol": "Star",
           "votes": 935
         },
         {
           "candidate": "K.P.D. Karunawansa",
+          "party_code": "unknown",
           "party_symbol": "Chair",
           "votes": 101
         },
         {
           "candidate": "Ananda Maddumage",
+          "party_code": "unknown",
           "party_symbol": "Lamp",
           "votes": 98
         }
@@ -591,21 +667,25 @@
       "single_results": [
         {
           "candidate": "Sarathchandra Rajakaruna",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 26050
         },
         {
           "candidate": "Felix R.D. Bandaranaike",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 23653
         },
         {
           "candidate": "Kulasiri Kumarage",
+          "party_code": "unknown",
           "party_symbol": "Key",
           "votes": 921
         },
         {
           "candidate": "Aloysius Fernando",
+          "party_code": "unknown",
           "party_symbol": "Lamp",
           "votes": 65
         }
@@ -623,26 +703,31 @@
       "single_results": [
         {
           "candidate": "Ranil Wickremasinghe",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 22045
         },
         {
           "candidate": "David Hapangama",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 15276
         },
         {
           "candidate": "Quintus Wickremanayake",
+          "party_code": "unknown",
           "party_symbol": "Key",
           "votes": 917
         },
         {
           "candidate": "Siripala Hettiarachchi",
+          "party_code": "unknown",
           "party_symbol": "Cart Wheel",
           "votes": 61
         },
         {
           "candidate": "Vaithy Perumal",
+          "party_code": "unknown",
           "party_symbol": "Bell",
           "votes": 36
         }
@@ -660,36 +745,43 @@
       "single_results": [
         {
           "candidate": "Kaluwadewage Cyril Mathew",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 23477
         },
         {
           "candidate": "Erin Senanayake (Mrs.)",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 16958
         },
         {
           "candidate": "L. Wewala Panditha",
+          "party_code": "unknown",
           "party_symbol": "Star",
           "votes": 1076
         },
         {
           "candidate": "H.A. Seneviratna",
+          "party_code": "unknown",
           "party_symbol": "Bell",
           "votes": 162
         },
         {
           "candidate": "R.H. Jayasekera",
+          "party_code": "unknown",
           "party_symbol": "Cart Wheel",
           "votes": 85
         },
         {
           "candidate": "M.D.H. de Silva",
+          "party_code": "unknown",
           "party_symbol": "Chair",
           "votes": 45
         },
         {
           "candidate": "V. Stephen Perera",
+          "party_code": "unknown",
           "party_symbol": "Bus",
           "votes": 29
         }
@@ -707,21 +799,25 @@
       "single_results": [
         {
           "candidate": "Weerasinghe Mallimaratchchi",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 23756
         },
         {
           "candidate": "T.B. Illangaratne",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 18538
         },
         {
           "candidate": "Batty Weerakoon",
+          "party_code": "unknown",
           "party_symbol": "Key",
           "votes": 2254
         },
         {
           "candidate": "A. Abayaratne",
+          "party_code": "unknown",
           "party_symbol": "Lamp",
           "votes": 137
         }
@@ -739,31 +835,37 @@
       "single_results": [
         {
           "candidate": "Ananda Tissa de Alwis",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 23249
         },
         {
           "candidate": "P.A.J.Niyathapala",
+          "party_code": "unknown",
           "party_symbol": "Chair",
           "votes": 15375
         },
         {
           "candidate": "K. Siriwardhana",
+          "party_code": "unknown",
           "party_symbol": "Star",
           "votes": 3772
         },
         {
           "candidate": "Kalinga Piyadasa de Silva",
+          "party_code": "unknown",
           "party_symbol": "Flower",
           "votes": 131
         },
         {
           "candidate": "Ananda Alwis",
+          "party_code": "unknown",
           "party_symbol": "Rabbit",
           "votes": 124
         },
         {
           "candidate": "Victor Amarasinghe",
+          "party_code": "unknown",
           "party_symbol": "Spoon",
           "votes": 37
         }
@@ -781,16 +883,19 @@
       "single_results": [
         {
           "candidate": "M.D.H. Jayawardana",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 28178
         },
         {
           "candidate": "Kingsly Tissa Wickremeratna",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 16383
         },
         {
           "candidate": "Vajira Pelpita",
+          "party_code": "unknown",
           "party_symbol": "Key",
           "votes": 4094
         }
@@ -808,26 +913,31 @@
       "single_results": [
         {
           "candidate": "M.D. Premaratne",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 23812
         },
         {
           "candidate": "Dinesh Rupasinghe Gunawardhana",
+          "party_code": "unknown",
           "party_symbol": "Cart Wheel",
           "votes": 17897
         },
         {
           "candidate": "W.P.Senanayake",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 4762
         },
         {
           "candidate": "Chandrapala Kumarage",
+          "party_code": "unknown",
           "party_symbol": "Key",
           "votes": 1187
         },
         {
           "candidate": "Don Pemaratne Thillakaratne",
+          "party_code": "unknown",
           "party_symbol": "Pair Of Scales",
           "votes": 282
         }
@@ -845,21 +955,25 @@
       "single_results": [
         {
           "candidate": "Gamani Jayasuriya",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 29540
         },
         {
           "candidate": "A.A.Yasaratgne Amaratunga",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 15152
         },
         {
           "candidate": "Wilfred Senanayake",
+          "party_code": "unknown",
           "party_symbol": "Key",
           "votes": 6012
         },
         {
           "candidate": "Soma Senanayake (Mrs.)",
+          "party_code": "unknown",
           "party_symbol": "Cart Wheel",
           "votes": 253
         }
@@ -877,26 +991,31 @@
       "single_results": [
         {
           "candidate": "Premaratne Gunasekera",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 24950
         },
         {
           "candidate": "Stanely Tillekeratne",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 18233
         },
         {
           "candidate": "D.L.Pathirage",
+          "party_code": "unknown",
           "party_symbol": "Key",
           "votes": 4536
         },
         {
           "candidate": "Senaratne Victor Bandara",
+          "party_code": "unknown",
           "party_symbol": "Eye",
           "votes": 479
         },
         {
           "candidate": "Don Edussoriyage Wiplulasena",
+          "party_code": "unknown",
           "party_symbol": "Lamp",
           "votes": 66
         }
@@ -914,21 +1033,25 @@
       "single_results": [
         {
           "candidate": "Dharmasena Attigalle",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 24850
         },
         {
           "candidate": "Dickson J. Perera",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 19250
         },
         {
           "candidate": "Malini Chandrasiri (Miss)",
+          "party_code": "unknown",
           "party_symbol": "Key",
           "votes": 3814
         },
         {
           "candidate": "T.N.Perera",
+          "party_code": "unknown",
           "party_symbol": "Bell",
           "votes": 298
         }
@@ -946,36 +1069,43 @@
       "single_results": [
         {
           "candidate": "Tyronne Fernando",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 28488
         },
         {
           "candidate": "Douglas Fernano",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 13614
         },
         {
           "candidate": "CPQ01/EX/PR/Parliamentary Gen Elections Result_1977-2001",
+          "party_code": "unknown",
           "party_symbol": "Key",
           "votes": 7000
         },
         {
           "candidate": "Merryl Fernando",
+          "party_code": "unknown",
           "party_symbol": "Lamp",
           "votes": 2891
         },
         {
           "candidate": "P. F. Calistus Perera",
+          "party_code": "unknown",
           "party_symbol": "Chair",
           "votes": 112
         },
         {
           "candidate": "A. Francis Fernando",
+          "party_code": "unknown",
           "party_symbol": "Umbrella",
           "votes": 111
         },
         {
           "candidate": "Nina Wijesuriya (Mrs.)",
+          "party_code": "unknown",
           "party_symbol": "Bell",
           "votes": 86
         }
@@ -993,31 +1123,37 @@
       "single_results": [
         {
           "candidate": "Neville Fernando",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 28677
         },
         {
           "candidate": "Leslie Goonawardena",
+          "party_code": "unknown",
           "party_symbol": "Key",
           "votes": 17546
         },
         {
           "candidate": "Don Piyasena Wttasinghe",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 3477
         },
         {
           "candidate": "Jitendra Weeraman",
+          "party_code": "unknown",
           "party_symbol": "Lamp",
           "votes": 751
         },
         {
           "candidate": "A.D. Sugathadasa",
+          "party_code": "unknown",
           "party_symbol": "Spoon",
           "votes": 328
         },
         {
           "candidate": "S.Jinendradasa",
+          "party_code": "unknown",
           "party_symbol": "Cart Wheel",
           "votes": 120
         }
@@ -1035,11 +1171,13 @@
       "single_results": [
         {
           "candidate": "Senaraja Samaranayake",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 28097
         },
         {
           "candidate": "Herbert Wickremasihnghe",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 19795
         }
@@ -1057,21 +1195,25 @@
       "single_results": [
         {
           "candidate": "Indradasa Hettiarachchi",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 27188
         },
         {
           "candidate": "Ratnasiri Wicremanayake",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 19453
         },
         {
           "candidate": "Premalal Gunasekera",
+          "party_code": "unknown",
           "party_symbol": "Star",
           "votes": 1090
         },
         {
           "candidate": "Jayasena Jayasinghe",
+          "party_code": "unknown",
           "party_symbol": "Lamp",
           "votes": 302
         }
@@ -1089,11 +1231,13 @@
       "single_results": [
         {
           "candidate": "O.S. Perera",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 20518
         },
         {
           "candidate": "Mangala Moonesinghe",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 16089
         }
@@ -1111,21 +1255,25 @@
       "single_results": [
         {
           "candidate": "Reginold V. Wijegooneratne",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 25484
         },
         {
           "candidate": "Dayasena T. Pasqual",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 10497
         },
         {
           "candidate": "Anil Mooneasinghe",
+          "party_code": "unknown",
           "party_symbol": "Key",
           "votes": 9932
         },
         {
           "candidate": "Thomas Kulatunga",
+          "party_code": "unknown",
           "party_symbol": "Cart Wheel",
           "votes": 196
         }
@@ -1143,21 +1291,25 @@
       "single_results": [
         {
           "candidate": "V.L.Wijemanne",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 26123
         },
         {
           "candidate": "D.S. Indrapala Abeyweera",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 11333
         },
         {
           "candidate": "Chamly Goonawardena",
+          "party_code": "unknown",
           "party_symbol": "Key",
           "votes": 10453
         },
         {
           "candidate": "K.W. Silva",
+          "party_code": "unknown",
           "party_symbol": "Lamp",
           "votes": 217
         }
@@ -1175,81 +1327,97 @@
       "single_results": [
         {
           "candidate": "Bakeer Markar Abduli",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 46883
         },
         {
           "candidate": "R.G.Samaranayake",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 19211
         },
         {
           "candidate": "G.I.D.Dharmasekera",
+          "party_code": "unknown",
           "party_symbol": "Star",
           "votes": 13231
         },
         {
           "candidate": "Jabir Nowfel Saly",
+          "party_code": "unknown",
           "party_symbol": "Cup",
           "votes": 10147
         },
         {
           "candidate": "Tudor de Silva",
+          "party_code": "unknown",
           "party_symbol": "Lamp",
           "votes": 2167
         },
         {
           "candidate": "Gunapala Senasinghe",
+          "party_code": "unknown",
           "party_symbol": "Flower",
           "votes": 1003
         },
         {
           "candidate": "D.A. Ariyananda",
+          "party_code": "unknown",
           "party_symbol": "Butterfly",
           "votes": 536
         },
         {
           "candidate": "S.E.W. Jayasuriya",
+          "party_code": "unknown",
           "party_symbol": "Umbrella",
           "votes": 478
         },
         {
           "candidate": "H. Sevin de Silva",
+          "party_code": "unknown",
           "party_symbol": "Eye",
           "votes": 452
         },
         {
           "candidate": "Karunasena Wijesundara",
+          "party_code": "unknown",
           "party_symbol": "Cart Wheel",
           "votes": 380
         },
         {
           "candidate": "D.C. Ambepitiya",
+          "party_code": "unknown",
           "party_symbol": "Pair Of Scales",
           "votes": 359
         },
         {
           "candidate": "Ariyadasa K. Vithanage",
+          "party_code": "unknown",
           "party_symbol": "Bell",
           "votes": 277
         },
         {
           "candidate": "Alston Jayasinghe",
+          "party_code": "unknown",
           "party_symbol": "Chair",
           "votes": 122
         },
         {
           "candidate": "Disineris",
+          "party_code": "unknown",
           "party_symbol": "Bird",
           "votes": 115
         },
         {
           "candidate": "Reginold Cooray",
+          "party_code": "unknown",
           "party_symbol": "Aeroplane",
           "votes": 54
         },
         {
           "candidate": "Peter Jayasuriya",
+          "party_code": "unknown",
           "party_symbol": "Book",
           "votes": 43
         }
@@ -1267,26 +1435,31 @@
       "single_results": [
         {
           "candidate": "Merill Kariyawasam",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 27181
         },
         {
           "candidate": "Colvin R. de Silva",
+          "party_code": "unknown",
           "party_symbol": "Key",
           "votes": 15805
         },
         {
           "candidate": "Ananda Pasqual",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 3918
         },
         {
           "candidate": "Titus Silva",
+          "party_code": "unknown",
           "party_symbol": "Chair",
           "votes": 358
         },
         {
           "candidate": "K.L.Premadasa Sarathkumara",
+          "party_code": "unknown",
           "party_symbol": "Cart Wheel",
           "votes": 126
         }
@@ -1304,21 +1477,25 @@
       "single_results": [
         {
           "candidate": "K.W.R.M.Ekananayake",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 24793
         },
         {
           "candidate": "Tikiribanda Tennakoon",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 15964
         },
         {
           "candidate": "D.S. Wijewardena",
+          "party_code": "unknown",
           "party_symbol": "Key",
           "votes": 745
         },
         {
           "candidate": "T.B. Tennakoon",
+          "party_code": "unknown",
           "party_symbol": "Lamp",
           "votes": 183
         }
@@ -1336,21 +1513,25 @@
       "single_results": [
         {
           "candidate": "J.G.Wijeratne Banda",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 13649
         },
         {
           "candidate": "M.C. Gopallawa",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 10254
         },
         {
           "candidate": "R.A.D.P.Ranasinghe",
+          "party_code": "unknown",
           "party_symbol": "Star",
           "votes": 215
         },
         {
           "candidate": "P.A. Karunaratne",
+          "party_code": "unknown",
           "party_symbol": "Lamp",
           "votes": 214
         }
@@ -1368,16 +1549,19 @@
       "single_results": [
         {
           "candidate": "Alick Aluvihare",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 21945
         },
         {
           "candidate": "Chandrasena  Munaweera",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 9039
         },
         {
           "candidate": "R.G.Karunaratne",
+          "party_code": "unknown",
           "party_symbol": "Eye",
           "votes": 361
         }
@@ -1395,31 +1579,37 @@
       "single_results": [
         {
           "candidate": "P.B.Kaviratne",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 22513
         },
         {
           "candidate": "S.B. Yalegama",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 10478
         },
         {
           "candidate": "Senaka Ellawala",
+          "party_code": "unknown",
           "party_symbol": "Star",
           "votes": 437
         },
         {
           "candidate": "L.M. Perera",
+          "party_code": "unknown",
           "party_symbol": "Lamp",
           "votes": 253
         },
         {
           "candidate": "Ukkubanda Tennakoon",
+          "party_code": "unknown",
           "party_symbol": "Cart Wheel",
           "votes": 159
         },
         {
           "candidate": "I.G.Jayawickrema Rupasinghe",
+          "party_code": "unknown",
           "party_symbol": "Flower",
           "votes": 78
         }
@@ -1437,16 +1627,19 @@
       "single_results": [
         {
           "candidate": "W.M.G.T. Banda",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 17092
         },
         {
           "candidate": "Thamara Kumari Illangaratne (Mrs.)",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 11219
         },
         {
           "candidate": "Nimalasiri Alahakoon",
+          "party_code": "unknown",
           "party_symbol": "Key",
           "votes": 148
         }
@@ -1464,51 +1657,61 @@
       "single_results": [
         {
           "candidate": "Abdul Cader Sahul Hameed",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 49173
         },
         {
           "candidate": "R. Premachandra Wijesiri",
+          "party_code": "unknown",
           "party_symbol": "Umbrella",
           "votes": 23943
         },
         {
           "candidate": "Heenbanda Ratnayake",
+          "party_code": "unknown",
           "party_symbol": "Pair Of Scales",
           "votes": 23671
         },
         {
           "candidate": "G.Sirisena Dayananda",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 12539
         },
         {
           "candidate": "H.M. Mauroof",
+          "party_code": "unknown",
           "party_symbol": "Lamp",
           "votes": 10854
         },
         {
           "candidate": "H. Ritigahapola",
+          "party_code": "unknown",
           "party_symbol": "Star",
           "votes": 1377
         },
         {
           "candidate": "Upali Wimalaweera",
+          "party_code": "unknown",
           "party_symbol": "Eye",
           "votes": 205
         },
         {
           "candidate": "T.G.Dayananda Gunasinghe",
+          "party_code": "unknown",
           "party_symbol": "Cart Wheel",
           "votes": 187
         },
         {
           "candidate": "M.B. Wathurakumbura",
+          "party_code": "unknown",
           "party_symbol": "Key",
           "votes": 130
         },
         {
           "candidate": "John Ariyawansa",
+          "party_code": "unknown",
           "party_symbol": "Ladder",
           "votes": 114
         }
@@ -1526,16 +1729,19 @@
       "single_results": [
         {
           "candidate": "T.B. Werapitiya",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 19936
         },
         {
           "candidate": "A.G.Fernando",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 9439
         },
         {
           "candidate": "V.W. Jayasiri Perera",
+          "party_code": "unknown",
           "party_symbol": "Star",
           "votes": 771
         }
@@ -1553,26 +1759,31 @@
       "single_results": [
         {
           "candidate": "R.B. Attanayake",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 12243
         },
         {
           "candidate": "M. Seneviratne Banda",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 9841
         },
         {
           "candidate": "Y.M.Gunatilleke",
+          "party_code": "unknown",
           "party_symbol": "Lamp",
           "votes": 543
         },
         {
           "candidate": "Piyasiri Abeykoon",
+          "party_code": "unknown",
           "party_symbol": "Key",
           "votes": 279
         },
         {
           "candidate": "W.M. Muthubanda",
+          "party_code": "unknown",
           "party_symbol": "Umbrella",
           "votes": 60
         }
@@ -1590,26 +1801,31 @@
       "single_results": [
         {
           "candidate": "Gamini Rajapakse",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 8404
         },
         {
           "candidate": "Rajapakse Kulatilleke",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 7267
         },
         {
           "candidate": "A.B.G.Seneviratne",
+          "party_code": "unknown",
           "party_symbol": "Umbrella",
           "votes": 6634
         },
         {
           "candidate": "Lionel Heenkenda",
+          "party_code": "unknown",
           "party_symbol": "Star",
           "votes": 179
         },
         {
           "candidate": "Vasantha Jayawickrema",
+          "party_code": "unknown",
           "party_symbol": "Lamp",
           "votes": 122
         }
@@ -1627,16 +1843,19 @@
       "single_results": [
         {
           "candidate": "D.M. Chandrapala",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 18918
         },
         {
           "candidate": "U.P.Y. Jinadasa",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 11732
         },
         {
           "candidate": "Udaya Senanayake",
+          "party_code": "unknown",
           "party_symbol": "Key",
           "votes": 392
         }
@@ -1654,16 +1873,19 @@
       "single_results": [
         {
           "candidate": "Anura Daniel",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 17355
         },
         {
           "candidate": "Piyasena Tennakoon",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 10605
         },
         {
           "candidate": "Jayampathi Wickremaratna",
+          "party_code": "unknown",
           "party_symbol": "Key",
           "votes": 352
         }
@@ -1681,16 +1903,19 @@
       "single_results": [
         {
           "candidate": "Shelton Ranarajah",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 17972
         },
         {
           "candidate": "Anurudha Ratwatte",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 12381
         },
         {
           "candidate": "Wijayadasa Wickremaratne",
+          "party_code": "unknown",
           "party_symbol": "Key",
           "votes": 885
         }
@@ -1708,21 +1933,25 @@
       "single_results": [
         {
           "candidate": "E.L. Senanayake",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 14154
         },
         {
           "candidate": "H.M. Navaratne",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 7043
         },
         {
           "candidate": "G.B. de Silva",
+          "party_code": "unknown",
           "party_symbol": "Pair Of Scales",
           "votes": 673
         },
         {
           "candidate": "M.B.C. Ehaleypola",
+          "party_code": "unknown",
           "party_symbol": "Cart Wheel",
           "votes": 36
         }
@@ -1740,21 +1969,25 @@
       "single_results": [
         {
           "candidate": "Sunil Subasiri Abeysundara",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 19036
         },
         {
           "candidate": "H.S.R.B.Kobbekaduwa",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 16444
         },
         {
           "candidate": "G.J.Gunapala",
+          "party_code": "unknown",
           "party_symbol": "Lamp",
           "votes": 165
         },
         {
           "candidate": "W.M.Seneviratne Banda",
+          "party_code": "unknown",
           "party_symbol": "Eye",
           "votes": 66
         }
@@ -1772,21 +2005,25 @@
       "single_results": [
         {
           "candidate": "D.B. Wijetunga",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 21766
         },
         {
           "candidate": "Mahinda Punchi Banda Senanayake",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 11013
         },
         {
           "candidate": "Milton Piyasena",
+          "party_code": "unknown",
           "party_symbol": "Star",
           "votes": 360
         },
         {
           "candidate": "M.B.Hippola",
+          "party_code": "unknown",
           "party_symbol": "Umbrella",
           "votes": 56
         }
@@ -1804,26 +2041,31 @@
       "single_results": [
         {
           "candidate": "W.P.B. Dissanayake",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 21269
         },
         {
           "candidate": "D.M.Jayaratne",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 15048
         },
         {
           "candidate": "Aanula Wanigasekera",
+          "party_code": "unknown",
           "party_symbol": "Umbrella",
           "votes": 119
         },
         {
           "candidate": "Seinual Abdeen",
+          "party_code": "unknown",
           "party_symbol": "Eye",
           "votes": 45
         },
         {
           "candidate": "Sinnathamby Shanmugam",
+          "party_code": "unknown",
           "party_symbol": "Ladder",
           "votes": 39
         }
@@ -1841,26 +2083,31 @@
       "single_results": [
         {
           "candidate": "Chandra Karunaratne",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 20946
         },
         {
           "candidate": "M.S. Aluthgamage",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 11739
         },
         {
           "candidate": "Sugathapala Wimalaratne",
+          "party_code": "unknown",
           "party_symbol": "Star",
           "votes": 950
         },
         {
           "candidate": "M.P. John",
+          "party_code": "unknown",
           "party_symbol": "Flower",
           "votes": 129
         },
         {
           "candidate": "A. Ramanathan",
+          "party_code": "unknown",
           "party_symbol": "Eye",
           "votes": 92
         }
@@ -1878,71 +2125,85 @@
       "single_results": [
         {
           "candidate": "Gamini Dissanayake",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 65903
         },
         {
           "candidate": "Anura Bandaranaike",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 48776
         },
         {
           "candidate": "S. Thondaman",
+          "party_code": "unknown",
           "party_symbol": "Cockerel",
           "votes": 35743
         },
         {
           "candidate": "T.Ariyadurai",
+          "party_code": "unknown",
           "party_symbol": "Ladder",
           "votes": 3026
         },
         {
           "candidate": "P. Gamini Ariyatilleke",
+          "party_code": "unknown",
           "party_symbol": "Star",
           "votes": 2949
         },
         {
           "candidate": "H.M. Abayasinghe",
+          "party_code": "unknown",
           "party_symbol": "Pair Of Scales",
           "votes": 1175
         },
         {
           "candidate": "A. Aziz",
+          "party_code": "unknown",
           "party_symbol": "Tree",
           "votes": 916
         },
         {
           "candidate": "K.G. Ratnapala",
+          "party_code": "unknown",
           "party_symbol": "Bell",
           "votes": 691
         },
         {
           "candidate": "Robert Perera",
+          "party_code": "unknown",
           "party_symbol": "Chair",
           "votes": 604
         },
         {
           "candidate": "C.R. Taldena",
+          "party_code": "unknown",
           "party_symbol": "Rabbit",
           "votes": 556
         },
         {
           "candidate": "G.P.W. Pathirana",
+          "party_code": "unknown",
           "party_symbol": "Lamp",
           "votes": 210
         },
         {
           "candidate": "R.E. Jayatileka",
+          "party_code": "unknown",
           "party_symbol": "Umbrella",
           "votes": 94
         },
         {
           "candidate": "J.K.G.Shanta Cyril",
+          "party_code": "unknown",
           "party_symbol": "Eye",
           "votes": 91
         },
         {
           "candidate": "Asoka Atapattu",
+          "party_code": "unknown",
           "party_symbol": "Flower",
           "votes": 87
         }
@@ -1960,36 +2221,43 @@
       "single_results": [
         {
           "candidate": "Ananda Dassanayake",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 11505
         },
         {
           "candidate": "D.B.Samaratunga",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 7640
         },
         {
           "candidate": "Wijesundare Bandara Ranatunge",
+          "party_code": "unknown",
           "party_symbol": "Umbrella",
           "votes": 7536
         },
         {
           "candidate": "G. Rajagopal",
+          "party_code": "unknown",
           "party_symbol": "Tree",
           "votes": 113
         },
         {
           "candidate": "W.B. Ranatunge",
+          "party_code": "unknown",
           "party_symbol": "Lamp",
           "votes": 99
         },
         {
           "candidate": "P. Kandiah",
+          "party_code": "unknown",
           "party_symbol": "Eye",
           "votes": 67
         },
         {
           "candidate": "O.M. Wijayawardena",
+          "party_code": "unknown",
           "party_symbol": "Cart Wheel",
           "votes": 59
         }
@@ -2007,31 +2275,37 @@
       "single_results": [
         {
           "candidate": "George Abeygoonasekera",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 17750
         },
         {
           "candidate": "P.B.Unantenne",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 10750
         },
         {
           "candidate": "V.T.Wijekoon",
+          "party_code": "unknown",
           "party_symbol": "Butterfly",
           "votes": 499
         },
         {
           "candidate": "S.B. Dissanayaka",
+          "party_code": "unknown",
           "party_symbol": "Star",
           "votes": 422
         },
         {
           "candidate": "Alfred Karunatileke",
+          "party_code": "unknown",
           "party_symbol": "Chair",
           "votes": 175
         },
         {
           "candidate": "Nimal Gunasekera",
+          "party_code": "unknown",
           "party_symbol": "Lamp",
           "votes": 121
         }
@@ -2049,26 +2323,31 @@
       "single_results": [
         {
           "candidate": "Renuka Herath (Mrs.)",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 15162
         },
         {
           "candidate": "T.B.M. Herath",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 11246
         },
         {
           "candidate": "Piyadasa Karandagolla",
+          "party_code": "unknown",
           "party_symbol": "Star",
           "votes": 462
         },
         {
           "candidate": "R.D. Wimalasiri",
+          "party_code": "unknown",
           "party_symbol": "Lamp",
           "votes": 173
         },
         {
           "candidate": "D.M.W. Ukkubanda Dissanayake",
+          "party_code": "unknown",
           "party_symbol": "Umbrella",
           "votes": 52
         }
@@ -2086,31 +2365,37 @@
       "single_results": [
         {
           "candidate": "Norman Waidyaratna",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 15745
         },
         {
           "candidate": "Weerasinghe de Silva",
+          "party_code": "unknown",
           "party_symbol": "Key",
           "votes": 6803
         },
         {
           "candidate": "Ruwanpura Lakshman de Silva",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 4556
         },
         {
           "candidate": "H.P. Sudarman de Silva",
+          "party_code": "unknown",
           "party_symbol": "Eye",
           "votes": 343
         },
         {
           "candidate": "W.S.M.M. Abeysekera",
+          "party_code": "unknown",
           "party_symbol": "Table",
           "votes": 156
         },
         {
           "candidate": "S. de S. Alankara",
+          "party_code": "unknown",
           "party_symbol": "Lamp",
           "votes": 128
         }
@@ -2128,26 +2413,31 @@
       "single_results": [
         {
           "candidate": "Raitor Thilakasekara",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 17829
         },
         {
           "candidate": "L. C. de Silva",
+          "party_code": "unknown",
           "party_symbol": "Key",
           "votes": 9654
         },
         {
           "candidate": "A.M. Karunaratne",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 6748
         },
         {
           "candidate": "S.M. Weihena",
+          "party_code": "unknown",
           "party_symbol": "Cart Wheel",
           "votes": 111
         },
         {
           "candidate": "A.D. Peiris",
+          "party_code": "unknown",
           "party_symbol": "Chair",
           "votes": 58
         }
@@ -2165,31 +2455,37 @@
       "single_results": [
         {
           "candidate": "Bandulahewa Senadheera",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 17790
         },
         {
           "candidate": "Wilson Wijetunga",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 10887
         },
         {
           "candidate": "Henry Wilson Karunaratne",
+          "party_code": "unknown",
           "party_symbol": "Star",
           "votes": 950
         },
         {
           "candidate": "Francis Tudawe",
+          "party_code": "unknown",
           "party_symbol": "Lamp",
           "votes": 274
         },
         {
           "candidate": "Pinikahane Saddhatissa Thero",
+          "party_code": "unknown",
           "party_symbol": "Chair",
           "votes": 198
         },
         {
           "candidate": "Ananda Wijeratne",
+          "party_code": "unknown",
           "party_symbol": "Umbrella",
           "votes": 138
         }
@@ -2207,31 +2503,37 @@
       "single_results": [
         {
           "candidate": "Rupasena Karunatilake",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 26679
         },
         {
           "candidate": "Albert Kariyawasam",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 14825
         },
         {
           "candidate": "Peter Jayasekera",
+          "party_code": "unknown",
           "party_symbol": "Star",
           "votes": 2842
         },
         {
           "candidate": "Sirisena Jayasekera",
+          "party_code": "unknown",
           "party_symbol": "Lamp",
           "votes": 109
         },
         {
           "candidate": "K.A. Chandrasena",
+          "party_code": "unknown",
           "party_symbol": "Eye",
           "votes": 97
         },
         {
           "candidate": "Ariyadasa P. Thanthrige",
+          "party_code": "unknown",
           "party_symbol": "Umbrella",
           "votes": 76
         }
@@ -2249,31 +2551,37 @@
       "single_results": [
         {
           "candidate": "M.S. Amarasiri",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 26140
         },
         {
           "candidate": "Henry William Dissanayake",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 15111
         },
         {
           "candidate": "P. Alahapperuma",
+          "party_code": "unknown",
           "party_symbol": "Star",
           "votes": 575
         },
         {
           "candidate": "K.J.A. Hinniappuhamy",
+          "party_code": "unknown",
           "party_symbol": "Lamp",
           "votes": 150
         },
         {
           "candidate": "Henry Anbeywickrama",
+          "party_code": "unknown",
           "party_symbol": "Umbrella",
           "votes": 132
         },
         {
           "candidate": "Lionel Ratnapala",
+          "party_code": "unknown",
           "party_symbol": "Tree",
           "votes": 111
         }
@@ -2291,31 +2599,37 @@
       "single_results": [
         {
           "candidate": "E.D. Wickrematilaka",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 23275
         },
         {
           "candidate": "Neel de Alwis",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 17778
         },
         {
           "candidate": "Piyadasa A. Ratnapala",
+          "party_code": "unknown",
           "party_symbol": "Key",
           "votes": 3123
         },
         {
           "candidate": "Edwin Jayawickrema",
+          "party_code": "unknown",
           "party_symbol": "Chair",
           "votes": 498
         },
         {
           "candidate": "E.M. Dayawansa",
+          "party_code": "unknown",
           "party_symbol": "Umbrella",
           "votes": 101
         },
         {
           "candidate": "Mendis Tennakoon",
+          "party_code": "unknown",
           "party_symbol": "Cart Wheel",
           "votes": 71
         }
@@ -2333,21 +2647,25 @@
       "single_results": [
         {
           "candidate": "Edwin Thilakaratne",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 22486
         },
         {
           "candidate": "M.G. Mendis",
+          "party_code": "unknown",
           "party_symbol": "Star",
           "votes": 15734
         },
         {
           "candidate": "M.P. de Zoysa",
+          "party_code": "unknown",
           "party_symbol": "Eye",
           "votes": 3449
         },
         {
           "candidate": "E.H. Panditharatne",
+          "party_code": "unknown",
           "party_symbol": "Pair Of Scales",
           "votes": 446
         }
@@ -2365,21 +2683,25 @@
       "single_results": [
         {
           "candidate": "Albert de Silva",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 15861
         },
         {
           "candidate": "Wijayananda Dahanayake",
+          "party_code": "unknown",
           "party_symbol": "Umbrella",
           "votes": 10852
         },
         {
           "candidate": "Raja Kulatilleke",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 6448
         },
         {
           "candidate": "Mansoor Marikkar",
+          "party_code": "unknown",
           "party_symbol": "Key",
           "votes": 4314
         }
@@ -2397,31 +2719,37 @@
       "single_results": [
         {
           "candidate": "Sumanadasa Abeywickrema",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 21284
         },
         {
           "candidate": "Senapala Samarasekera",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 15170
         },
         {
           "candidate": "Amarasiri Dodangoda",
+          "party_code": "unknown",
           "party_symbol": "Star",
           "votes": 1235
         },
         {
           "candidate": "Edward Atukorala",
+          "party_code": "unknown",
           "party_symbol": "Rabbit",
           "votes": 223
         },
         {
           "candidate": "N.D. Kalansuriya",
+          "party_code": "unknown",
           "party_symbol": "Lamp",
           "votes": 129
         },
         {
           "candidate": "S. Samarasekera",
+          "party_code": "unknown",
           "party_symbol": "Clock",
           "votes": 54
         }
@@ -2439,16 +2767,19 @@
       "single_results": [
         {
           "candidate": "P. Sumathiratne",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 20354
         },
         {
           "candidate": "Sarath Wickrama Dias",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 15855
         },
         {
           "candidate": "George Ratnayaka",
+          "party_code": "unknown",
           "party_symbol": "Star",
           "votes": 4475
         }
@@ -2466,16 +2797,19 @@
       "single_results": [
         {
           "candidate": "Keerthisena Abeywickrama",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 20365
         },
         {
           "candidate": "Edward R. Gunatilaka",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 15032
         },
         {
           "candidate": "Hattotuwa Gamage Weerasinghe",
+          "party_code": "unknown",
           "party_symbol": "Key",
           "votes": 390
         }
@@ -2493,31 +2827,37 @@
       "single_results": [
         {
           "candidate": "Harshanath Wanigasekera",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 22253
         },
         {
           "candidate": "Ariyaratne Bulegoda",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 14747
         },
         {
           "candidate": "Samarasinghe Eugin Alwis",
+          "party_code": "unknown",
           "party_symbol": "Star",
           "votes": 2364
         },
         {
           "candidate": "Ranjit Don Rajapakse",
+          "party_code": "unknown",
           "party_symbol": "Cart Wheel",
           "votes": 1339
         },
         {
           "candidate": "Rubasin Jayasekera Robert",
+          "party_code": "unknown",
           "party_symbol": "Bell",
           "votes": 723
         },
         {
           "candidate": "R.G.A. Andrayas",
+          "party_code": "unknown",
           "party_symbol": "Chair",
           "votes": 233
         }
@@ -2535,16 +2875,19 @@
       "single_results": [
         {
           "candidate": "Dayananda Wickremasinghe",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 25739
         },
         {
           "candidate": "S.A. Wickremasinghe",
+          "party_code": "unknown",
           "party_symbol": "Star",
           "votes": 16436
         },
         {
           "candidate": "H.G. Sirisena",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 2836
         }
@@ -2562,16 +2905,19 @@
       "single_results": [
         {
           "candidate": "D.E. Malawaraarachchi",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 22306
         },
         {
           "candidate": "Aelian Mahanaga Nanayakkara",
+          "party_code": "unknown",
           "party_symbol": "Star",
           "votes": 12630
         },
         {
           "candidate": "Percy Wickremasinghe  Abeywardhana",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 7539
         }
@@ -2589,21 +2935,25 @@
       "single_results": [
         {
           "candidate": "Ronnie de Mel",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 23776
         },
         {
           "candidate": "H.W. Dickson",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 14337
         },
         {
           "candidate": "Mahindapala Wijesekera",
+          "party_code": "unknown",
           "party_symbol": "Star",
           "votes": 4163
         },
         {
           "candidate": "S.E. Wijesuriya",
+          "party_code": "unknown",
           "party_symbol": "Lamp",
           "votes": 198
         }
@@ -2621,26 +2971,31 @@
       "single_results": [
         {
           "candidate": "S.K. Piyadasa",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 23222
         },
         {
           "candidate": "B.Y. Thudawe",
+          "party_code": "unknown",
           "party_symbol": "Star",
           "votes": 12585
         },
         {
           "candidate": "Bandula Abeysuriya",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 4781
         },
         {
           "candidate": "V.P.S. Abeysinghe",
+          "party_code": "unknown",
           "party_symbol": "Eye",
           "votes": 623
         },
         {
           "candidate": "Nandasiri Hettiarachchi",
+          "party_code": "unknown",
           "party_symbol": "Flower",
           "votes": 201
         }
@@ -2658,16 +3013,19 @@
       "single_results": [
         {
           "candidate": "Montague Jayawickrema",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 25440
         },
         {
           "candidate": "Chulpathmendra Dahanayake",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 16343
         },
         {
           "candidate": "H.G.S. Ratnaweera",
+          "party_code": "unknown",
           "party_symbol": "Star",
           "votes": 3560
         }
@@ -2685,26 +3043,31 @@
       "single_results": [
         {
           "candidate": "T.D.Fransisku",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 22638
         },
         {
           "candidate": "Basil Rajapakse",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 17700
         },
         {
           "candidate": "Neel Rajapakse",
+          "party_code": "unknown",
           "party_symbol": "Cart Wheel",
           "votes": 425
         },
         {
           "candidate": "Amara Wellappili",
+          "party_code": "unknown",
           "party_symbol": "Key",
           "votes": 297
         },
         {
           "candidate": "K.V.A.Kulatunga",
+          "party_code": "unknown",
           "party_symbol": "Rabbit",
           "votes": 143
         }
@@ -2722,16 +3085,19 @@
       "single_results": [
         {
           "candidate": "Ranjith Atapattu",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 24289
         },
         {
           "candidate": "Mahendra Rajapakse",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 17896
         },
         {
           "candidate": "Wimaladasa Jayawardana",
+          "party_code": "unknown",
           "party_symbol": "Key",
           "votes": 766
         }
@@ -2749,21 +3115,25 @@
       "single_results": [
         {
           "candidate": "Jinadasa Weerasinghe",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 23456
         },
         {
           "candidate": "H.S. de Silva",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 11673
         },
         {
           "candidate": "D.E.W. Gunasekera",
+          "party_code": "unknown",
           "party_symbol": "Star",
           "votes": 3831
         },
         {
           "candidate": "Vijitha Ranaweera",
+          "party_code": "unknown",
           "party_symbol": "Bell",
           "votes": 1234
         }
@@ -2781,16 +3151,19 @@
       "single_results": [
         {
           "candidate": "P.M.B. Cyril",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 20879
         },
         {
           "candidate": "Lakshman Rajapakse",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 13109
         },
         {
           "candidate": "Tennyson Eddirisooriya",
+          "party_code": "unknown",
           "party_symbol": "Star",
           "votes": 5206
         }
@@ -2808,31 +3181,37 @@
       "single_results": [
         {
           "candidate": "K.P. Ratnam",
+          "party_code": "unknown",
           "party_symbol": "Sun",
           "votes": 17640
         },
         {
           "candidate": "V. Navaratnam",
+          "party_code": "unknown",
           "party_symbol": "Pair Of Scales",
           "votes": 8673
         },
         {
           "candidate": "M. Amirthalingam",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 661
         },
         {
           "candidate": "Y. Duraiswamy",
+          "party_code": "unknown",
           "party_symbol": "Chair",
           "votes": 279
         },
         {
           "candidate": "Thambiah Paranirupasingam",
+          "party_code": "unknown",
           "party_symbol": "Bell",
           "votes": 185
         },
         {
           "candidate": "K. Kanagaratnam",
+          "party_code": "unknown",
           "party_symbol": "Key",
           "votes": 103
         }
@@ -2850,36 +3229,43 @@
       "single_results": [
         {
           "candidate": "T. Thirunavukarasu",
+          "party_code": "unknown",
           "party_symbol": "Sun",
           "votes": 23384
         },
         {
           "candidate": "A. Thiagarajah",
+          "party_code": "unknown",
           "party_symbol": "Umbrella",
           "votes": 5176
         },
         {
           "candidate": "V. Rattai",
+          "party_code": "unknown",
           "party_symbol": "Eye",
           "votes": 3187
         },
         {
           "candidate": "V. Rajasundaram",
+          "party_code": "unknown",
           "party_symbol": "Pair Of Scales",
           "votes": 837
         },
         {
           "candidate": "N. Ratnasingam",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 480
         },
         {
           "candidate": "V. Tharumalingam",
+          "party_code": "unknown",
           "party_symbol": "Flower",
           "votes": 150
         },
         {
           "candidate": "M. Ambalavanar",
+          "party_code": "unknown",
           "party_symbol": "Ship",
           "votes": 107
         }
@@ -2897,11 +3283,13 @@
       "single_results": [
         {
           "candidate": "A. Amirthalingam",
+          "party_code": "unknown",
           "party_symbol": "Sun",
           "votes": 31155
         },
         {
           "candidate": "Sivapiragasam Sritharan",
+          "party_code": "unknown",
           "party_symbol": "Pair Of Scales",
           "votes": 5322
         }
@@ -2919,21 +3307,25 @@
       "single_results": [
         {
           "candidate": "V. Dharmalingam",
+          "party_code": "unknown",
           "party_symbol": "Sun",
           "votes": 27550
         },
         {
           "candidate": "R.S. Aloysious",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 3300
         },
         {
           "candidate": "C.P.V.M.K. Muthaliar",
+          "party_code": "unknown",
           "party_symbol": "Umbrella",
           "votes": 1065
         },
         {
           "candidate": "K.N. Ratnavel",
+          "party_code": "unknown",
           "party_symbol": "Ladder",
           "votes": 887
         }
@@ -2951,21 +3343,25 @@
       "single_results": [
         {
           "candidate": "S. Kathiravelupillai",
+          "party_code": "unknown",
           "party_symbol": "Sun",
           "votes": 25840
         },
         {
           "candidate": "V. Nadarajah",
+          "party_code": "unknown",
           "party_symbol": "Key",
           "votes": 3487
         },
         {
           "candidate": "S. Jeganathan",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 2699
         },
         {
           "candidate": "V.T. Jeyadevan",
+          "party_code": "unknown",
           "party_symbol": "Ship",
           "votes": 1444
         }
@@ -2983,46 +3379,55 @@
       "single_results": [
         {
           "candidate": "T. Rasalingam",
+          "party_code": "unknown",
           "party_symbol": "Sun",
           "votes": 18768
         },
         {
           "candidate": "R.R. Dharmaratnam",
+          "party_code": "unknown",
           "party_symbol": "Lamp",
           "votes": 4021
         },
         {
           "candidate": "C. Motilal Nehru",
+          "party_code": "unknown",
           "party_symbol": "Pair Of Scales",
           "votes": 2798
         },
         {
           "candidate": "S.S Sundaram",
+          "party_code": "unknown",
           "party_symbol": "Omnibus",
           "votes": 1478
         },
         {
           "candidate": "K. C. Mahathevan",
+          "party_code": "unknown",
           "party_symbol": "Umbrella",
           "votes": 1188
         },
         {
           "candidate": "K. Pillainar",
+          "party_code": "unknown",
           "party_symbol": "Ladder",
           "votes": 517
         },
         {
           "candidate": "M.Thurairajah",
+          "party_code": "unknown",
           "party_symbol": "Eye",
           "votes": 437
         },
         {
           "candidate": "P. Kanagarasa",
+          "party_code": "unknown",
           "party_symbol": "Chair",
           "votes": 251
         },
         {
           "candidate": "M Gnanachandran",
+          "party_code": "unknown",
           "party_symbol": "Clock",
           "votes": 125
         }
@@ -3040,26 +3445,31 @@
       "single_results": [
         {
           "candidate": "K. Thurairatnam",
+          "party_code": "unknown",
           "party_symbol": "Sun",
           "votes": 12989
         },
         {
           "candidate": "N. Nadarajah",
+          "party_code": "unknown",
           "party_symbol": "Umbrella",
           "votes": 6419
         },
         {
           "candidate": "M.P. Veeravagu",
+          "party_code": "unknown",
           "party_symbol": "Pair Of Scales",
           "votes": 3065
         },
         {
           "candidate": "K.T. Rajasingham",
+          "party_code": "unknown",
           "party_symbol": "Eye",
           "votes": 614
         },
         {
           "candidate": "K.S. Muthukumarasamy",
+          "party_code": "unknown",
           "party_symbol": "Ship",
           "votes": 204
         }
@@ -3077,26 +3487,31 @@
       "single_results": [
         {
           "candidate": "V.N. Navaratnam",
+          "party_code": "unknown",
           "party_symbol": "Sun",
           "votes": 20028
         },
         {
           "candidate": "V. Kumaraswamy",
+          "party_code": "unknown",
           "party_symbol": "Pair Of Scales",
           "votes": 10810
         },
         {
           "candidate": "S.P. Mailvaganam",
+          "party_code": "unknown",
           "party_symbol": "Eye",
           "votes": 419
         },
         {
           "candidate": "Kandiah Asai Jerome",
+          "party_code": "unknown",
           "party_symbol": "Omnibus",
           "votes": 289
         },
         {
           "candidate": "Sathasivam Nadarajah",
+          "party_code": "unknown",
           "party_symbol": "Lamp",
           "votes": 111
         }
@@ -3114,26 +3529,31 @@
       "single_results": [
         {
           "candidate": "M. Sivasithamparam",
+          "party_code": "unknown",
           "party_symbol": "Sun",
           "votes": 29858
         },
         {
           "candidate": "K. Ramanathan",
+          "party_code": "unknown",
           "party_symbol": "Omnibus",
           "votes": 1721
         },
         {
           "candidate": "C. Arulampalam",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 1042
         },
         {
           "candidate": "Rajah Rajeswaram Thangarajah",
+          "party_code": "unknown",
           "party_symbol": "Pair Of Scales",
           "votes": 667
         },
         {
           "candidate": "Sivakolunthu Subramaniuam",
+          "party_code": "unknown",
           "party_symbol": "Umbrella",
           "votes": 104
         }
@@ -3151,31 +3571,37 @@
       "single_results": [
         {
           "candidate": "V. Yogeswaran",
+          "party_code": "unknown",
           "party_symbol": "Sun",
           "votes": 16251
         },
         {
           "candidate": "G.G.Ponnambalam",
+          "party_code": "unknown",
           "party_symbol": "Tree",
           "votes": 9960
         },
         {
           "candidate": "A.L. Abraham",
+          "party_code": "unknown",
           "party_symbol": "Pair Of Scales",
           "votes": 4349
         },
         {
           "candidate": "C.X. Martin",
+          "party_code": "unknown",
           "party_symbol": "Umbrella",
           "votes": 900
         },
         {
           "candidate": "A.G. Rajasooriar",
+          "party_code": "unknown",
           "party_symbol": "Chair",
           "votes": 164
         },
         {
           "candidate": "A. Tharmalingham",
+          "party_code": "unknown",
           "party_symbol": "Ship",
           "votes": 77
         }
@@ -3193,26 +3619,31 @@
       "single_results": [
         {
           "candidate": "V. Anandasangary",
+          "party_code": "unknown",
           "party_symbol": "Sun",
           "votes": 15607
         },
         {
           "candidate": "C.Kumarasuriar",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 4006
         },
         {
           "candidate": "N. Kanagasuriar",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 1497
         },
         {
           "candidate": "I. Gnanasangary (Mrs.)",
+          "party_code": "unknown",
           "party_symbol": "Pair Of Scales",
           "votes": 76
         },
         {
           "candidate": "Sinnathamby Ganesu",
+          "party_code": "unknown",
           "party_symbol": "Eye",
           "votes": 72
         }
@@ -3230,26 +3661,31 @@
       "single_results": [
         {
           "candidate": "P.S. Soosaithasan",
+          "party_code": "unknown",
           "party_symbol": "Sun",
           "votes": 15141
         },
         {
           "candidate": "M.S. Abdul Raheem",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 12929
         },
         {
           "candidate": "S. Sebamalai John Mark",
+          "party_code": "unknown",
           "party_symbol": "Lamp",
           "votes": 663
         },
         {
           "candidate": "H. S. Dawood",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 478
         },
         {
           "candidate": "M. Kanthasamy",
+          "party_code": "unknown",
           "party_symbol": "Pair Of Scales",
           "votes": 141
         }
@@ -3267,21 +3703,25 @@
       "single_results": [
         {
           "candidate": "X.M.Sellathambu",
+          "party_code": "unknown",
           "party_symbol": "Sun",
           "votes": 10261
         },
         {
           "candidate": "P. Sandirasekary",
+          "party_code": "unknown",
           "party_symbol": "Pair Of Scales",
           "votes": 7632
         },
         {
           "candidate": "R. Vickkinarasa",
+          "party_code": "unknown",
           "party_symbol": "Ladder",
           "votes": 977
         },
         {
           "candidate": "V. Santhirasenan",
+          "party_code": "unknown",
           "party_symbol": "Bell",
           "votes": 726276
         }
@@ -3299,16 +3739,19 @@
       "single_results": [
         {
           "candidate": "T. Sivasithamparam",
+          "party_code": "unknown",
           "party_symbol": "Sun",
           "votes": 13821
         },
         {
           "candidate": "K.T. Pulendran",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 9444
         },
         {
           "candidate": "Udayarege Subasinghe",
+          "party_code": "unknown",
           "party_symbol": "Eye",
           "votes": 151
         }
@@ -3326,21 +3769,25 @@
       "single_results": [
         {
           "candidate": "H.D.L. Leelaratne",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 14926
         },
         {
           "candidate": "Premadasa Udagama",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 10567
         },
         {
           "candidate": "Pantis Hettihewa",
+          "party_code": "unknown",
           "party_symbol": "Key",
           "votes": 392
         },
         {
           "candidate": "Victor Perera",
+          "party_code": "unknown",
           "party_symbol": "Cart Wheel",
           "votes": 52
         }
@@ -3358,26 +3805,31 @@
       "single_results": [
         {
           "candidate": "R. Sampathan",
+          "party_code": "unknown",
           "party_symbol": "Sun",
           "votes": 15144
         },
         {
           "candidate": "V. R. Navaratnarasa",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 11823
         },
         {
           "candidate": "S. Thavarasa",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 1674
         },
         {
           "candidate": "Gunadasa Warnasuriya",
+          "party_code": "unknown",
           "party_symbol": "Butterfly",
           "votes": 565
         },
         {
           "candidate": "E.J.A.P. Babysingho",
+          "party_code": "unknown",
           "party_symbol": "Bell",
           "votes": 54
         }
@@ -3395,16 +3847,19 @@
       "single_results": [
         {
           "candidate": "M.E.H. Maharoof",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 12530
         },
         {
           "candidate": "A.L. Abdul Majeed",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 7800
         },
         {
           "candidate": "S.M. Makeen",
+          "party_code": "unknown",
           "party_symbol": "Sun",
           "votes": 7520
         }
@@ -3422,16 +3877,19 @@
       "single_results": [
         {
           "candidate": "K.W. Devanayagam",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 13140
         },
         {
           "candidate": "S. Sampanthamoorthiu",
+          "party_code": "unknown",
           "party_symbol": "Sun",
           "votes": 12595
         },
         {
           "candidate": "A.H. Macan Markar",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 3507
         }
@@ -3449,31 +3907,37 @@
       "single_results": [
         {
           "candidate": "C.Rajadurai",
+          "party_code": "unknown",
           "party_symbol": "Sun",
           "votes": 26648
         },
         {
           "candidate": "M.L. Ahamed Fareeth",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 25345
         },
         {
           "candidate": "Kasi Ananthan",
+          "party_code": "unknown",
           "party_symbol": "House",
           "votes": 22443
         },
         {
           "candidate": "Badiudin Mahmud",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 21275
         },
         {
           "candidate": "P.R. Selvanayagam",
+          "party_code": "unknown",
           "party_symbol": "Lamp",
           "votes": 11797
         },
         {
           "candidate": "Vinayagamoorthy Vettivel",
+          "party_code": "unknown",
           "party_symbol": "Umbrella",
           "votes": 383
         }
@@ -3491,21 +3955,25 @@
       "single_results": [
         {
           "candidate": "P. Ganeshalingam",
+          "party_code": "unknown",
           "party_symbol": "Sun",
           "votes": 15877
         },
         {
           "candidate": "S. Sivagurunathan",
+          "party_code": "unknown",
           "party_symbol": "Key",
           "votes": 5633
         },
         {
           "candidate": "S. Thambirajah",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 5590
         },
         {
           "candidate": "P. Retnasingham",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 5189
         }
@@ -3523,16 +3991,19 @@
       "single_results": [
         {
           "candidate": "P. Dayaratne",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 24581
         },
         {
           "candidate": "Somaratne Senarath",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 16009
         },
         {
           "candidate": "A. Seelaratne De Silva",
+          "party_code": "unknown",
           "party_symbol": "Key",
           "votes": 945
         }
@@ -3550,16 +4021,19 @@
       "single_results": [
         {
           "candidate": "M.A. Abdul Majeed",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 13642
         },
         {
           "candidate": "H.L.M. Hassim",
+          "party_code": "unknown",
           "party_symbol": "Sun",
           "votes": 8615
         },
         {
           "candidate": "Abdul Jabar",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 2605
         }
@@ -3577,21 +4051,25 @@
       "single_results": [
         {
           "candidate": "Abdul Rasak Mansoor",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 12636
         },
         {
           "candidate": "A.M. Samsudeen",
+          "party_code": "unknown",
           "party_symbol": "Sun",
           "votes": 7093
         },
         {
           "candidate": "Ahamed Mohamed Cassim",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 5922
         },
         {
           "candidate": "Thuraiappa Muthukrishnan",
+          "party_code": "unknown",
           "party_symbol": "Lamp",
           "votes": 253
         }
@@ -3609,36 +4087,43 @@
       "single_results": [
         {
           "candidate": "M.A.M. Jalaldeen",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 30315
         },
         {
           "candidate": "M.Kanagaratnam",
+          "party_code": "unknown",
           "party_symbol": "Sun",
           "votes": 23990
         },
         {
           "candidate": "M.M.Mustapha",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 22378
         },
         {
           "candidate": "Nadarajah Dharmalingam",
+          "party_code": "unknown",
           "party_symbol": "Clock",
           "votes": 7644
         },
         {
           "candidate": "Seyed Ahamed Moulana",
+          "party_code": "unknown",
           "party_symbol": "Radio",
           "votes": 2902
         },
         {
           "candidate": "P.M.S. Jananayake",
+          "party_code": "unknown",
           "party_symbol": "Lamp",
           "votes": 1458
         },
         {
           "candidate": "S.L. Abdul Sathar",
+          "party_code": "unknown",
           "party_symbol": "Star",
           "votes": 272
         }
@@ -3656,46 +4141,55 @@
       "single_results": [
         {
           "candidate": "M.H.M. Neina Marikkar",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 17583
         },
         {
           "candidate": "A.Abdul Latiff",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 8415
         },
         {
           "candidate": "I.M. Illias",
+          "party_code": "unknown",
           "party_symbol": "Sun",
           "votes": 3268
         },
         {
           "candidate": "Asoka Ranasinghe",
+          "party_code": "unknown",
           "party_symbol": "Flower",
           "votes": 803
         },
         {
           "candidate": "M.M.M.Haniffa",
+          "party_code": "unknown",
           "party_symbol": "Key",
           "votes": 534
         },
         {
           "candidate": "S.M. Uwais",
+          "party_code": "unknown",
           "party_symbol": "Butterfly",
           "votes": 210
         },
         {
           "candidate": "T. Don Augstine",
+          "party_code": "unknown",
           "party_symbol": "Chair",
           "votes": 98
         },
         {
           "candidate": "A.Y.L.M. Mansoor",
+          "party_code": "unknown",
           "party_symbol": "Lamp",
           "votes": 91
         },
         {
           "candidate": "K. Krishnapillai",
+          "party_code": "unknown",
           "party_symbol": "Eye",
           "votes": 69
         }
@@ -3713,31 +4207,37 @@
       "single_results": [
         {
           "candidate": "Saddhatissa Wadigamangawa",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 16497
         },
         {
           "candidate": "M.M. Chandrasena",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 15414
         },
         {
           "candidate": "H.M. Abhayaratne",
+          "party_code": "unknown",
           "party_symbol": "Key",
           "votes": 512
         },
         {
           "candidate": "N.K. Senanayake",
+          "party_code": "unknown",
           "party_symbol": "Chair",
           "votes": 181
         },
         {
           "candidate": "R.A.H.M. Raja Kirimetiyawa",
+          "party_code": "unknown",
           "party_symbol": "Flower",
           "votes": 175
         },
         {
           "candidate": "D.B. E. Illangakoon",
+          "party_code": "unknown",
           "party_symbol": "Lamp",
           "votes": 144
         }
@@ -3755,31 +4255,37 @@
       "single_results": [
         {
           "candidate": "Harindra Corea",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 25269
         },
         {
           "candidate": "S.D.R. Jayaratne",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 19462
         },
         {
           "candidate": "Leslie De Silva",
+          "party_code": "unknown",
           "party_symbol": "Key",
           "votes": 669
         },
         {
           "candidate": "E. de S. Amarasekara",
+          "party_code": "unknown",
           "party_symbol": "Flower",
           "votes": 133
         },
         {
           "candidate": "T. Pathiraja",
+          "party_code": "unknown",
           "party_symbol": "Umbrella",
           "votes": 48
         },
         {
           "candidate": "Wimalasiri Susewhewa",
+          "party_code": "unknown",
           "party_symbol": "Cart Wheel",
           "votes": 40
         }
@@ -3797,41 +4303,49 @@
       "single_results": [
         {
           "candidate": "Harold Herath",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 20228
         },
         {
           "candidate": "Protus Tissera",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 13780
         },
         {
           "candidate": "Hugh Fernando",
+          "party_code": "unknown",
           "party_symbol": "Flower",
           "votes": 1399
         },
         {
           "candidate": "Alex Fernando",
+          "party_code": "unknown",
           "party_symbol": "Key",
           "votes": 426
         },
         {
           "candidate": "D.M. Ariyaratne",
+          "party_code": "unknown",
           "party_symbol": "Chair",
           "votes": 237
         },
         {
           "candidate": "U.A. William",
+          "party_code": "unknown",
           "party_symbol": "Rabbit",
           "votes": 111
         },
         {
           "candidate": "Arunadeva Warnakulasuriya",
+          "party_code": "unknown",
           "party_symbol": "Cart Wheel",
           "votes": 84
         },
         {
           "candidate": "Lodwin Fernando",
+          "party_code": "unknown",
           "party_symbol": "Pair Of Scales",
           "votes": 42
         }
@@ -3849,21 +4363,25 @@
       "single_results": [
         {
           "candidate": "Festus Perera",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 26193
         },
         {
           "candidate": "Augustinu Fonseka",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 14945
         },
         {
           "candidate": "Ariyathilake Arthanayake",
+          "party_code": "unknown",
           "party_symbol": "Key",
           "votes": 513
         },
         {
           "candidate": "Edmund Fernando",
+          "party_code": "unknown",
           "party_symbol": "Lamp",
           "votes": 121
         }
@@ -3881,16 +4399,19 @@
       "single_results": [
         {
           "candidate": "H.M.A. Lokubanda",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 19733
         },
         {
           "candidate": "Tissa R. Balalla",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 14729
         },
         {
           "candidate": "Kapila Dissanayake",
+          "party_code": "unknown",
           "party_symbol": "Star",
           "votes": 770
         }
@@ -3908,16 +4429,19 @@
       "single_results": [
         {
           "candidate": "H.B. Wanninayake",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 20127
         },
         {
           "candidate": "C.P. Tennakoon",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 12223
         },
         {
           "candidate": "Mudiyanse Tennakoion",
+          "party_code": "unknown",
           "party_symbol": "Flower",
           "votes": 2124
         }
@@ -3935,11 +4459,13 @@
       "single_results": [
         {
           "candidate": "H.B. Abeyratne",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 22189
         },
         {
           "candidate": "T.B. Ekanayake",
+          "party_code": "unknown",
           "party_symbol": "Key",
           "votes": 16379
         }
@@ -3957,21 +4483,25 @@
       "single_results": [
         {
           "candidate": "S.B. Herath",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 25220
         },
         {
           "candidate": "Ivor Tittawella",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 13938
         },
         {
           "candidate": "Mohanlal Gunatillake",
+          "party_code": "unknown",
           "party_symbol": "Star",
           "votes": 576
         },
         {
           "candidate": "R.B. Dissanayake",
+          "party_code": "unknown",
           "party_symbol": "Chair",
           "votes": 234
         }
@@ -3989,21 +4519,25 @@
       "single_results": [
         {
           "candidate": "Amarawathie Piyaseeli Ratnayake (Mrs.)",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 18311
         },
         {
           "candidate": "Piyadasa Wijesinghe",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 14221
         },
         {
           "candidate": "Gunadasa Narasinghe",
+          "party_code": "unknown",
           "party_symbol": "Key",
           "votes": 155
         },
         {
           "candidate": "R.M. Seneviratne",
+          "party_code": "unknown",
           "party_symbol": "Lamp",
           "votes": 110
         }
@@ -4021,21 +4555,25 @@
       "single_results": [
         {
           "candidate": "Kalubanda Ratnayake",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 18458
         },
         {
           "candidate": "L.B. Jayasena",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 14273
         },
         {
           "candidate": "A.B. Samarasena Hidawagama",
+          "party_code": "unknown",
           "party_symbol": "Star",
           "votes": 405
         },
         {
           "candidate": "K.A. Herath banda",
+          "party_code": "unknown",
           "party_symbol": "Chair",
           "votes": 144
         }
@@ -4053,11 +4591,13 @@
       "single_results": [
         {
           "candidate": "J.L. Sirisena",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 21007
         },
         {
           "candidate": "A.M. Munidasa Premachandra",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 17620
         }
@@ -4075,16 +4615,19 @@
       "single_results": [
         {
           "candidate": "Jayawicrema Perera",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 23475
         },
         {
           "candidate": "Leelananda Weerasinghe",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 14455
         },
         {
           "candidate": "T.B. Subasinghe",
+          "party_code": "unknown",
           "party_symbol": "Star",
           "votes": 6365
         }
@@ -4102,16 +4645,19 @@
       "single_results": [
         {
           "candidate": "Lionel Jayatillake",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 26000
         },
         {
           "candidate": "Wijayasiri Samarasinghe",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 16927
         },
         {
           "candidate": "W.A. Abeysinghe",
+          "party_code": "unknown",
           "party_symbol": "Star",
           "votes": 853
         }
@@ -4129,16 +4675,19 @@
       "single_results": [
         {
           "candidate": "Ukkubanda Wijekoon",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 26089
         },
         {
           "candidate": "P.B. Wettewa",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 18232
         },
         {
           "candidate": "S.B. Vaidyaratne",
+          "party_code": "unknown",
           "party_symbol": "Star",
           "votes": 1071
         }
@@ -4156,26 +4705,31 @@
       "single_results": [
         {
           "candidate": "J.A.D.S. R. Jayakody",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 20128
         },
         {
           "candidate": "Maithripala Herath",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 15607
         },
         {
           "candidate": "Kithsiri Senaratne",
+          "party_code": "unknown",
           "party_symbol": "Key",
           "votes": 378
         },
         {
           "candidate": "A. A. Siri Amarasinghe",
+          "party_code": "unknown",
           "party_symbol": "Lamp",
           "votes": 156
         },
         {
           "candidate": "D.M. Rajapakse",
+          "party_code": "unknown",
           "party_symbol": "Chair",
           "votes": 117
         }
@@ -4193,26 +4747,31 @@
       "single_results": [
         {
           "candidate": "Dingiri Banda Welagedera",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 21005
         },
         {
           "candidate": "D.B. Monnekulama",
+          "party_code": "unknown",
           "party_symbol": "Chair",
           "votes": 13550
         },
         {
           "candidate": "Charles Vitharana",
+          "party_code": "unknown",
           "party_symbol": "Key",
           "votes": 436
         },
         {
           "candidate": "Siripala Wedisinghe",
+          "party_code": "unknown",
           "party_symbol": "Rabbit",
           "votes": 152
         },
         {
           "candidate": "W.M. Dharmaratne",
+          "party_code": "unknown",
           "party_symbol": "Umbrella",
           "votes": 79
         }
@@ -4230,21 +4789,25 @@
       "single_results": [
         {
           "candidate": "G.M. Premachandra",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 20392
         },
         {
           "candidate": "D.P. Wicremasinghe",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 15608
         },
         {
           "candidate": "N.B. Kaluhendiwela",
+          "party_code": "unknown",
           "party_symbol": "Star",
           "votes": 237
         },
         {
           "candidate": "W. Sunil Fernando",
+          "party_code": "unknown",
           "party_symbol": "Lamp",
           "votes": 163
         }
@@ -4262,21 +4825,25 @@
       "single_results": [
         {
           "candidate": "S.W. Alawatuwala",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 16839
         },
         {
           "candidate": "M.D. Samarapala Wijewardena",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 12239
         },
         {
           "candidate": "Chandrapala Rajapakse",
+          "party_code": "unknown",
           "party_symbol": "Key",
           "votes": 739
         },
         {
           "candidate": "R.W. Munasinghe",
+          "party_code": "unknown",
           "party_symbol": "Lamp",
           "votes": 255
         }
@@ -4294,16 +4861,19 @@
       "single_results": [
         {
           "candidate": "Maithripala Senanayake",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 14228
         },
         {
           "candidate": "M Ariyadasa Dissanayake",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 13862
         },
         {
           "candidate": "Edmond Don Siyambalapitiya",
+          "party_code": "unknown",
           "party_symbol": "Book",
           "votes": 435
         }
@@ -4321,31 +4891,37 @@
       "single_results": [
         {
           "candidate": "E.L.B.Hurulle",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 13982
         },
         {
           "candidate": "H.M.T.B.Herath",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 9800
         },
         {
           "candidate": "K.I.M. Ranatunge",
+          "party_code": "unknown",
           "party_symbol": "Bell",
           "votes": 687
         },
         {
           "candidate": "Lokubanda Ekananayake",
+          "party_code": "unknown",
           "party_symbol": "Star",
           "votes": 247
         },
         {
           "candidate": "D.B.Herathbanda",
+          "party_code": "unknown",
           "party_symbol": "Lamp",
           "votes": 102
         },
         {
           "candidate": "M.I.M.Maharoof",
+          "party_code": "unknown",
           "party_symbol": "Ladder",
           "votes": 55
         }
@@ -4363,16 +4939,19 @@
       "single_results": [
         {
           "candidate": "W.Y. Herath",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 13948
         },
         {
           "candidate": "Kiri Banda Ratnayake",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 12066
         },
         {
           "candidate": "K.E. Silva",
+          "party_code": "unknown",
           "party_symbol": "Key",
           "votes": 531
         }
@@ -4390,21 +4969,25 @@
       "single_results": [
         {
           "candidate": "K.D.M.C. Bandara",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 13942
         },
         {
           "candidate": "Herath Banda Semasinghe",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 11087
         },
         {
           "candidate": "K.H.Chandrapala",
+          "party_code": "unknown",
           "party_symbol": "Bell",
           "votes": 797
         },
         {
           "candidate": "Kalu Bandage Mudiyanse",
+          "party_code": "unknown",
           "party_symbol": "Star",
           "votes": 354
         }
@@ -4422,26 +5005,31 @@
       "single_results": [
         {
           "candidate": "A.M.S. Adikari",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 15683
         },
         {
           "candidate": "Tikiribanda Dissanayake",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 13040
         },
         {
           "candidate": "W.P. Gunawardane",
+          "party_code": "unknown",
           "party_symbol": "Star",
           "votes": 477
         },
         {
           "candidate": "M.D. Gunatilake",
+          "party_code": "unknown",
           "party_symbol": "Chair",
           "votes": 144
         },
         {
           "candidate": "Jayantha Mendis",
+          "party_code": "unknown",
           "party_symbol": "Flower",
           "votes": 107
         }
@@ -4459,36 +5047,43 @@
       "single_results": [
         {
           "candidate": "Dayaratne Walagambahu",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 10839
         },
         {
           "candidate": "Pathiraja Tennakoon",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 8006
         },
         {
           "candidate": "H.M.A. Ratnayake",
+          "party_code": "unknown",
           "party_symbol": "Key",
           "votes": 385
         },
         {
           "candidate": "P.B.Kumarasekera",
+          "party_code": "unknown",
           "party_symbol": "Lamp",
           "votes": 156
         },
         {
           "candidate": "M. Tennakoon",
+          "party_code": "unknown",
           "party_symbol": "Tumbler",
           "votes": 92
         },
         {
           "candidate": "Suboratne Banda Rajakaruna",
+          "party_code": "unknown",
           "party_symbol": "Pair Of Scales",
           "votes": 78
         },
         {
           "candidate": "Wijaya Dissanayake",
+          "party_code": "unknown",
           "party_symbol": "Umbrella",
           "votes": 29
         }
@@ -4506,21 +5101,25 @@
       "single_results": [
         {
           "candidate": "G.D. Mahinsoma",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 11983
         },
         {
           "candidate": "Jinadasa Mudiyanselage",
+          "party_code": "unknown",
           "party_symbol": "Star",
           "votes": 6520
         },
         {
           "candidate": "Abeyratne Bandara Ekanayake",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 2436
         },
         {
           "candidate": "E.M.Jinadasa",
+          "party_code": "unknown",
           "party_symbol": "Lamp",
           "votes": 74
         }
@@ -4538,26 +5137,31 @@
       "single_results": [
         {
           "candidate": "Merril de Silva",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 14513
         },
         {
           "candidate": "Ratna Deshapriya Senanayake",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 9930
         },
         {
           "candidate": "Percy Wickremasekera",
+          "party_code": "unknown",
           "party_symbol": "Key",
           "votes": 263
         },
         {
           "candidate": "P.B.Wattegedera",
+          "party_code": "unknown",
           "party_symbol": "Eye",
           "votes": 131
         },
         {
           "candidate": "M.A.A. Udagedera",
+          "party_code": "unknown",
           "party_symbol": "Clock",
           "votes": 98
         }
@@ -4575,26 +5179,31 @@
       "single_results": [
         {
           "candidate": "A.D.B. Ekanayake",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 13843
         },
         {
           "candidate": "Yasaratne Tennakoon",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 9447
         },
         {
           "candidate": "D.K.Dhanapala",
+          "party_code": "unknown",
           "party_symbol": "Bell",
           "votes": 458
         },
         {
           "candidate": "W.G.Jayawickrema",
+          "party_code": "unknown",
           "party_symbol": "Chair",
           "votes": 433
         },
         {
           "candidate": "C.B. Gankewela",
+          "party_code": "unknown",
           "party_symbol": "Key",
           "votes": 240
         }
@@ -4612,36 +5221,43 @@
       "single_results": [
         {
           "candidate": "H.G.P. Nelson",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 14941
         },
         {
           "candidate": "Leelaratne Wijesinghe",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 9926
         },
         {
           "candidate": "M.M.A. Shelton Moraes",
+          "party_code": "unknown",
           "party_symbol": "Ladder",
           "votes": 219
         },
         {
           "candidate": "H.A. Wipulasena",
+          "party_code": "unknown",
           "party_symbol": "Star",
           "votes": 120
         },
         {
           "candidate": "G.A.K. Arnolis Appu",
+          "party_code": "unknown",
           "party_symbol": "Lamp",
           "votes": 67
         },
         {
           "candidate": "D.G.Saranelis Dayawansa",
+          "party_code": "unknown",
           "party_symbol": "Tree",
           "votes": 37
         },
         {
           "candidate": "L.S. Wimalasekera Silva",
+          "party_code": "unknown",
           "party_symbol": "Clock",
           "votes": 32
         }
@@ -4659,26 +5275,31 @@
       "single_results": [
         {
           "candidate": "C.P.J.Seneviratne",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 14105
         },
         {
           "candidate": "Navaratna Banda Galketiya",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 5304
         },
         {
           "candidate": "Kiribanda Herath",
+          "party_code": "unknown",
           "party_symbol": "Cart Wheel",
           "votes": 257
         },
         {
           "candidate": "K.H.M. Apopuhamy  Piyarapana",
+          "party_code": "unknown",
           "party_symbol": "Lamp",
           "votes": 188
         },
         {
           "candidate": "Kingsley Kodippili",
+          "party_code": "unknown",
           "party_symbol": "Key",
           "votes": 74
         }
@@ -4696,26 +5317,31 @@
       "single_results": [
         {
           "candidate": "Weerawanni Samaraweera",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 9084
         },
         {
           "candidate": "D.D. Edwin Wicremaratne",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 8673
         },
         {
           "candidate": "Don Edmond Rajapakse",
+          "party_code": "unknown",
           "party_symbol": "Spoon",
           "votes": 241
         },
         {
           "candidate": "Gunasena Fernando",
+          "party_code": "unknown",
           "party_symbol": "Key",
           "votes": 107
         },
         {
           "candidate": "D.M. Karunatilake",
+          "party_code": "unknown",
           "party_symbol": "Lamp",
           "votes": 47
         }
@@ -4733,31 +5359,37 @@
       "single_results": [
         {
           "candidate": "W.M. Karunaratne",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 10451
         },
         {
           "candidate": "S. Seneviratne",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 5993
         },
         {
           "candidate": "R.B. Dissanayake",
+          "party_code": "unknown",
           "party_symbol": "Star",
           "votes": 402
         },
         {
           "candidate": "A. Ratnayake",
+          "party_code": "unknown",
           "party_symbol": "Lamp",
           "votes": 362
         },
         {
           "candidate": "P. Wimalasuriya",
+          "party_code": "unknown",
           "party_symbol": "Omnibus",
           "votes": 186
         },
         {
           "candidate": "R.M. Punchibanda",
+          "party_code": "unknown",
           "party_symbol": "Flower",
           "votes": 95
         }
@@ -4775,21 +5407,25 @@
       "single_results": [
         {
           "candidate": "D. Vincent Perera",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 10490
         },
         {
           "candidate": "B.H.Bandara",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 6784
         },
         {
           "candidate": "Charles Senanayake",
+          "party_code": "unknown",
           "party_symbol": "Key",
           "votes": 1320
         },
         {
           "candidate": "T.S. Miskin",
+          "party_code": "unknown",
           "party_symbol": "Lamp",
           "votes": 103
         }
@@ -4807,21 +5443,25 @@
       "single_results": [
         {
           "candidate": "R.M. Abeykoon",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 12846
         },
         {
           "candidate": "K.Y.M. Wijeratne Banda",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 8241
         },
         {
           "candidate": "B.A. Wilson",
+          "party_code": "unknown",
           "party_symbol": "Star",
           "votes": 487
         },
         {
           "candidate": "J.S.Vithanage",
+          "party_code": "unknown",
           "party_symbol": "Flower",
           "votes": 147
         }
@@ -4839,41 +5479,49 @@
       "single_results": [
         {
           "candidate": "R.M. Karunaratne",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 15108
         },
         {
           "candidate": "S.B.Delungahawatte",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 8134
         },
         {
           "candidate": "Karunapala aRatnayake",
+          "party_code": "unknown",
           "party_symbol": "Key",
           "votes": 260
         },
         {
           "candidate": "Gamini Samaranayake",
+          "party_code": "unknown",
           "party_symbol": "Umbrella",
           "votes": 190
         },
         {
           "candidate": "M.D. Perera",
+          "party_code": "unknown",
           "party_symbol": "Aeroplane",
           "votes": 141
         },
         {
           "candidate": "Tissa Deshapriya Herath",
+          "party_code": "unknown",
           "party_symbol": "Lamp",
           "votes": 130
         },
         {
           "candidate": "Nissanaka Bandaranayake",
+          "party_code": "unknown",
           "party_symbol": "Cart Wheel",
           "votes": 45
         },
         {
           "candidate": "Gunapala Badrage",
+          "party_code": "unknown",
           "party_symbol": "Pair Of Scales",
           "votes": 40
         }
@@ -4891,21 +5539,25 @@
       "single_results": [
         {
           "candidate": "Percy Samaraweera",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 16314
         },
         {
           "candidate": "R.M.Bandara",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 8633
         },
         {
           "candidate": "B.M.M.Banda",
+          "party_code": "unknown",
           "party_symbol": "Star",
           "votes": 386
         },
         {
           "candidate": "A.R.Wijesinghe",
+          "party_code": "unknown",
           "party_symbol": "Cart Wheel",
           "votes": 106
         }
@@ -4923,21 +5575,25 @@
       "single_results": [
         {
           "candidate": "R.M.Apphamy",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 14106
         },
         {
           "candidate": "R.M.Appuhamy",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 9529
         },
         {
           "candidate": "D.S.Wickremasinghe",
+          "party_code": "unknown",
           "party_symbol": "Key",
           "votes": 605
         },
         {
           "candidate": "K.A.Karunaratne",
+          "party_code": "unknown",
           "party_symbol": "Eye",
           "votes": 132
         }
@@ -4955,21 +5611,25 @@
       "single_results": [
         {
           "candidate": "W.J.M.Lokubandara",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 10818
         },
         {
           "candidate": "H.M.C.Dissanayake",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 7446
         },
         {
           "candidate": "L.A. Gunawardena",
+          "party_code": "unknown",
           "party_symbol": "Key",
           "votes": 274
         },
         {
           "candidate": "S. Hemadasa",
+          "party_code": "unknown",
           "party_symbol": "Lamp",
           "votes": 226
         }
@@ -4987,21 +5647,25 @@
       "single_results": [
         {
           "candidate": "R.M.Dharmadasa banda",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 15077
         },
         {
           "candidate": "D.M.Gunasekera",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 8717
         },
         {
           "candidate": "H.B.Premaratne",
+          "party_code": "unknown",
           "party_symbol": "Omnibus",
           "votes": 148
         },
         {
           "candidate": "K.A.D. Gunasekera",
+          "party_code": "unknown",
           "party_symbol": "Key",
           "votes": 127
         }
@@ -5019,31 +5683,37 @@
       "single_results": [
         {
           "candidate": "R.M. Punchi Bandara",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 12316
         },
         {
           "candidate": "Raja Welegama",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 10371
         },
         {
           "candidate": "Ratnayake Keerthisinghe",
+          "party_code": "unknown",
           "party_symbol": "Star",
           "votes": 881
         },
         {
           "candidate": "E.W. Ariyapala",
+          "party_code": "unknown",
           "party_symbol": "Lamp",
           "votes": 492
         },
         {
           "candidate": "W.G.M. Albert Silva",
+          "party_code": "unknown",
           "party_symbol": "Cart Wheel",
           "votes": 297
         },
         {
           "candidate": "R.M. Somaratne",
+          "party_code": "unknown",
           "party_symbol": "Umbrella",
           "votes": 78
         }
@@ -5061,21 +5731,25 @@
       "single_results": [
         {
           "candidate": "J.M. Kumaradasa",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 12589
         },
         {
           "candidate": "Wilfred Ratnayake",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 10796
         },
         {
           "candidate": "Kattadige Piyasena",
+          "party_code": "unknown",
           "party_symbol": "Butterfly",
           "votes": 534
         },
         {
           "candidate": "B. Vithanage",
+          "party_code": "unknown",
           "party_symbol": "Key",
           "votes": 313
         }
@@ -5093,26 +5767,31 @@
       "single_results": [
         {
           "candidate": "Nissanka Parakrama Wijayaratne",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 24436
         },
         {
           "candidate": "Dharmasiri Senanayake",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 17704
         },
         {
           "candidate": "A.R. Victor Rajapakse",
+          "party_code": "unknown",
           "party_symbol": "Chair",
           "votes": 2071
         },
         {
           "candidate": "M.J.F. Ratnayake",
+          "party_code": "unknown",
           "party_symbol": "Key",
           "votes": 829
         },
         {
           "candidate": "A.R.Wijeratne",
+          "party_code": "unknown",
           "party_symbol": "Ladder",
           "votes": 152
         }
@@ -5130,26 +5809,31 @@
       "single_results": [
         {
           "candidate": "Wimala Kannangara (Mrs.)",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 18608
         },
         {
           "candidate": "Jagathsiri Balasuriya",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 14853
         },
         {
           "candidate": "Alexander Basnayake",
+          "party_code": "unknown",
           "party_symbol": "Key",
           "votes": 1041
         },
         {
           "candidate": "Hubert Karunaratne",
+          "party_code": "unknown",
           "party_symbol": "Bird",
           "votes": 137
         },
         {
           "candidate": "Panditharatne Bandara",
+          "party_code": "unknown",
           "party_symbol": "Umbrella",
           "votes": 73
         }
@@ -5167,16 +5851,19 @@
       "single_results": [
         {
           "candidate": "N.A. Seneviratne",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 17403
         },
         {
           "candidate": "P.B.G. Kalugalla",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 15339
         },
         {
           "candidate": "P.M.G.Wijesuriya",
+          "party_code": "unknown",
           "party_symbol": "Key",
           "votes": 1021
         }
@@ -5194,26 +5881,31 @@
       "single_results": [
         {
           "candidate": "Asoka Karunaratne",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 18538
         },
         {
           "candidate": "Ananda Sirisena",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 12556
         },
         {
           "candidate": "Senaka Mapitigama",
+          "party_code": "unknown",
           "party_symbol": "Key",
           "votes": 327
         },
         {
           "candidate": "Piyatissa Ratnayake",
+          "party_code": "unknown",
           "party_symbol": "Star",
           "votes": 135
         },
         {
           "candidate": "Rani Wimalasena (Mrs.)",
+          "party_code": "unknown",
           "party_symbol": "Cart Wheel",
           "votes": 59
         }
@@ -5231,16 +5923,19 @@
       "single_results": [
         {
           "candidate": "C.R. Beligammana",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 21211
         },
         {
           "candidate": "P.R. Ratnayake",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 14632
         },
         {
           "candidate": "P.P. Victor",
+          "party_code": "unknown",
           "party_symbol": "Key",
           "votes": 981
         }
@@ -5258,21 +5953,25 @@
       "single_results": [
         {
           "candidate": "Wasantha Udayaratne",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 15758
         },
         {
           "candidate": "A. Muthunayake",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 9578
         },
         {
           "candidate": "T. Piyadasa",
+          "party_code": "unknown",
           "party_symbol": "Key",
           "votes": 300
         },
         {
           "candidate": "H.G. Gunaratna",
+          "party_code": "unknown",
           "party_symbol": "Lamp",
           "votes": 127
         }
@@ -5290,31 +5989,37 @@
       "single_results": [
         {
           "candidate": "K. Vincent Perera",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 17545
         },
         {
           "candidate": "N.M. Perera",
+          "party_code": "unknown",
           "party_symbol": "Key",
           "votes": 15028
         },
         {
           "candidate": "Dharmasiri Muthuthanthirige",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 897
         },
         {
           "candidate": "T.D.S. Wickrema",
+          "party_code": "unknown",
           "party_symbol": "Book",
           "votes": 122
         },
         {
           "candidate": "Dharmasri Fonseka",
+          "party_code": "unknown",
           "party_symbol": "Flower",
           "votes": 77
         },
         {
           "candidate": "Vijaya Ratnayake",
+          "party_code": "unknown",
           "party_symbol": "Cart Wheel",
           "votes": 48
         }
@@ -5332,21 +6037,25 @@
       "single_results": [
         {
           "candidate": "P.C. Imbulana",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 19989
         },
         {
           "candidate": "Athauda Seneviratne",
+          "party_code": "unknown",
           "party_symbol": "Key",
           "votes": 15922
         },
         {
           "candidate": "G.L. Samaratunga",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 673
         },
         {
           "candidate": "B. Samarasekera",
+          "party_code": "unknown",
           "party_symbol": "Spoon",
           "votes": 529
         }
@@ -5364,21 +6073,25 @@
       "single_results": [
         {
           "candidate": "A.K.D. Wanigaratne",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 17515
         },
         {
           "candidate": "Dhanapala Weerasekera",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 7275
         },
         {
           "candidate": "Neil Dias",
+          "party_code": "unknown",
           "party_symbol": "Key",
           "votes": 5485
         },
         {
           "candidate": "A.G. Thilakasiri Gamage",
+          "party_code": "unknown",
           "party_symbol": "Cart Wheel",
           "votes": 50
         }
@@ -5396,31 +6109,37 @@
       "single_results": [
         {
           "candidate": "Mervyn Kularatne",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 21776
         },
         {
           "candidate": "Wasudewa Nanayakkara",
+          "party_code": "unknown",
           "party_symbol": "Umbrella",
           "votes": 14804
         },
         {
           "candidate": "Dharmaprema Jayawardena",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 6128
         },
         {
           "candidate": "T. Dharmapala",
+          "party_code": "unknown",
           "party_symbol": "Tree",
           "votes": 211
         },
         {
           "candidate": "Rohana Wijesighe",
+          "party_code": "unknown",
           "party_symbol": "Lamp",
           "votes": 103
         },
         {
           "candidate": "Wickremasinghe Jayasekera",
+          "party_code": "unknown",
           "party_symbol": "Bell",
           "votes": 42
         }
@@ -5438,21 +6157,25 @@
       "single_results": [
         {
           "candidate": "G.V. Punchinilame",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 23525
         },
         {
           "candidate": "Nanda Ellawala",
+          "party_code": "unknown",
           "party_symbol": "Star",
           "votes": 16002
         },
         {
           "candidate": "Piyadasa Pelendagama",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 5000
         },
         {
           "candidate": "Mahinda Aabeysekera",
+          "party_code": "unknown",
           "party_symbol": "Pair Of Scales",
           "votes": 157
         }
@@ -5470,21 +6193,25 @@
       "single_results": [
         {
           "candidate": "Chandrasekera Gankanda",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 15233
         },
         {
           "candidate": "Dharmadasa Wanniarachchi",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 12676
         },
         {
           "candidate": "H.K. Chandradasa",
+          "party_code": "unknown",
           "party_symbol": "Key",
           "votes": 552
         },
         {
           "candidate": "W.M. Lesley Perera",
+          "party_code": "unknown",
           "party_symbol": "Bell",
           "votes": 63
         }
@@ -5502,21 +6229,25 @@
       "single_results": [
         {
           "candidate": "M.L.M.Aboosally",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 19502
         },
         {
           "candidate": "Mallika Ratwatte (Mrs.)",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 15829
         },
         {
           "candidate": "A. William",
+          "party_code": "unknown",
           "party_symbol": "Star",
           "votes": 1676
         },
         {
           "candidate": "W.S. Arachchi",
+          "party_code": "unknown",
           "party_symbol": "Orange",
           "votes": 258
         }
@@ -5534,21 +6265,25 @@
       "single_results": [
         {
           "candidate": "H. Kularatne",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 21511
         },
         {
           "candidate": "V.T.G. Karunaratne",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 14633
         },
         {
           "candidate": "A.G.B. Amarasinghe",
+          "party_code": "unknown",
           "party_symbol": "Key",
           "votes": 1278
         },
         {
           "candidate": "A.S. Piyasinghe",
+          "party_code": "unknown",
           "party_symbol": "Lamp",
           "votes": 171
         }
@@ -5566,31 +6301,37 @@
       "single_results": [
         {
           "candidate": "Gamini Athukorale",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 17450
         },
         {
           "candidate": "Piyadasa Harischandra",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 15795
         },
         {
           "candidate": "Upali Rajapakse",
+          "party_code": "unknown",
           "party_symbol": "Star",
           "votes": 896
         },
         {
           "candidate": "B.B. Marapana",
+          "party_code": "unknown",
           "party_symbol": "Key",
           "votes": 450
         },
         {
           "candidate": "L.P. Wimalasena",
+          "party_code": "unknown",
           "party_symbol": "Lamp",
           "votes": 183
         },
         {
           "candidate": "Anton Senanayake",
+          "party_code": "unknown",
           "party_symbol": "Cart Wheel",
           "votes": 96
         }
@@ -5608,21 +6349,25 @@
       "single_results": [
         {
           "candidate": "Abeyratna Pilapitiya",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 12098
         },
         {
           "candidate": "Sarathchandra Muttetuwegama",
+          "party_code": "unknown",
           "party_symbol": "Star",
           "votes": 10436
         },
         {
           "candidate": "S.S. Gauthamadasa",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 1668
         },
         {
           "candidate": "H.R.S. de Zoysa",
+          "party_code": "unknown",
           "party_symbol": "Chair",
           "votes": 86
         }
@@ -5640,26 +6385,31 @@
       "single_results": [
         {
           "candidate": "Caluwadewage Nanda Mathew",
+          "party_code": "unknown",
           "party_symbol": "Elephant",
           "votes": 20378
         },
         {
           "candidate": "D.J.R. Dissanayake",
+          "party_code": "unknown",
           "party_symbol": "Hand",
           "votes": 12903
         },
         {
           "candidate": "P.O.Wimalanaga",
+          "party_code": "unknown",
           "party_symbol": "Key",
           "votes": 1339
         },
         {
           "candidate": "W.A. Seni Wijesinghe",
+          "party_code": "unknown",
           "party_symbol": "Lamp",
           "votes": 500
         },
         {
           "candidate": "S.D. Wanigatilaka",
+          "party_code": "unknown",
           "party_symbol": "Chair",
           "votes": 249
         }

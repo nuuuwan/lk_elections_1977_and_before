@@ -1,5 +1,7 @@
 from dataclasses import dataclass
+from functools import cached_property
 
+from lk_elections.core.Party import Party
 from lk_elections.core.Validatable import Validatable
 
 
@@ -9,55 +11,14 @@ class SingleResultFPTP(Validatable):
     party_symbol: str
     votes: int
 
-    KNOWN_PARTY_SYMBOLS = [
-        'Aeroplane',
-        'Bell',
-        'Bicycle',
-        'Bird',
-        'Book',
-        'Bus',
-        'Butterfly',
-        'Cart Wheel',
-        'Chair',
-        'Clock',
-        'Cockerel',
-        'Cup',
-        'Elephant',
-        'Eye',
-        'Flower',
-        'Hand',
-        'House',
-        'Key',
-        'Key',
-        'Ladder',
-        'Lamp',
-        'Mortar',
-        'Omnibus',
-        'Orange',
-        'Pair Of Scales',
-        'Pair Of Spectacles',
-        'Pineapple',
-        'Pot',
-        'Rabbit',
-        'Radio',
-        'Saw',
-        'Sewing Machine',
-        'Ship',
-        'Spoon',
-        'Star',
-        'Sun',
-        'Table',
-        'Tree',
-        'Tumbler',
-        'Umbrella',
-        'Wheel',
-        'Window',
-        'Uncontested',
-    ]
+    @cached_property
+    def party_code(self):
+        return Party.SYMBOL_TO_PARTY[self.party_symbol]
 
     def to_dict(self):
         return dict(
             candidate=self.candidate,
+            party_code=self.party_code,
             party_symbol=self.party_symbol,
             votes=self.votes,
         )
@@ -68,7 +29,7 @@ class SingleResultFPTP(Validatable):
         if self.votes <= MIN_VOTES:
             errors.append(f"votes {self.votes} <= 0")
 
-        if self.party_symbol not in SingleResultFPTP.KNOWN_PARTY_SYMBOLS:
+        if self.party_symbol not in Party.SYMBOL_TO_PARTY:
             errors.append(f"unknown party_symbol {self.party_symbol}")
 
         MIN_NAME_LEN = 5
