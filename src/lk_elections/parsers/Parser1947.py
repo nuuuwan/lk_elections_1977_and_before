@@ -46,6 +46,7 @@ def clean(s):
         ['Pair if Scakes', 'Pair Of Scales'],
         ['Pair Of Scacles', 'Pair Of Scales'],
         ['Pine-Apple', 'Pineapple'],
+        ['Pine Apple', 'Pineapple'],
         ['Winnow', 'Window'],
         ['Sweing Machine', 'Sewing Machine'],
     ]:
