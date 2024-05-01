@@ -97,7 +97,7 @@
         },
         {
           "candidate": "Abdul Aziz",
-          "party_code": "?",
+          "party_code": "Independent",
           "party_symbol": "Tree",
           "votes": 4635
         },
@@ -2353,7 +2353,7 @@
         },
         {
           "candidate": "W.G. Ratnayake",
-          "party_code": "?",
+          "party_code": "Independent",
           "party_symbol": "Tree",
           "votes": 525
         },
@@ -2647,7 +2647,7 @@
         },
         {
           "candidate": "S. Thondaman",
-          "party_code": "?",
+          "party_code": "Independent",
           "party_symbol": "Tree",
           "votes": 1940
         },
@@ -2719,7 +2719,7 @@
         },
         {
           "candidate": "V.K. Vellayan",
-          "party_code": "?",
+          "party_code": "Independent",
           "party_symbol": "Tree",
           "votes": 1349
         },
@@ -3763,7 +3763,7 @@
       "single_results": [
         {
           "candidate": "V. A. Kandiah",
-          "party_code": "?",
+          "party_code": "ITAK",
           "party_symbol": "House",
           "votes": 10820
         },
@@ -3793,7 +3793,7 @@
       "single_results": [
         {
           "candidate": "A. Amirthalingam",
-          "party_code": "?",
+          "party_code": "ITAK",
           "party_symbol": "House",
           "votes": 11524
         },
@@ -3811,7 +3811,7 @@
         },
         {
           "candidate": "M.P. Sangarapillai",
-          "party_code": "LP",
+          "party_code": "LP/ACTC",
           "party_symbol": "Bicycle",
           "votes": 2955
         },
@@ -3835,7 +3835,7 @@
       "single_results": [
         {
           "candidate": "S.J.V. Chelvanayakam",
-          "party_code": "?",
+          "party_code": "ITAK",
           "party_symbol": "House",
           "votes": 13545
         },
@@ -3847,7 +3847,7 @@
         },
         {
           "candidate": "R.N. Sivapirakasam",
-          "party_code": "LP",
+          "party_code": "LP/ACTC",
           "party_symbol": "Bicycle",
           "votes": 1448
         }
@@ -3865,7 +3865,7 @@
       "single_results": [
         {
           "candidate": "Visuvanathar Tharmalingam",
-          "party_code": "?",
+          "party_code": "ITAK",
           "party_symbol": "House",
           "votes": 9033
         },
@@ -3925,13 +3925,13 @@
         },
         {
           "candidate": "G.G. Ponnambalam",
-          "party_code": "LP",
+          "party_code": "LP/ACTC",
           "party_symbol": "Bicycle",
           "votes": 5312
         },
         {
           "candidate": "S. Kathiravelupillai",
-          "party_code": "?",
+          "party_code": "ITAK",
           "party_symbol": "House",
           "votes": 5101
         },
@@ -3955,13 +3955,13 @@
       "single_results": [
         {
           "candidate": "E.M.V. Naganathan",
-          "party_code": "?",
+          "party_code": "ITAK",
           "party_symbol": "House",
           "votes": 9651
         },
         {
           "candidate": "C. Arulampalam",
-          "party_code": "LP",
+          "party_code": "LP/ACTC",
           "party_symbol": "Bicycle",
           "votes": 6808
         },
@@ -4003,13 +4003,13 @@
       "single_results": [
         {
           "candidate": "M. Balasundaram",
-          "party_code": "?",
+          "party_code": "ITAK",
           "party_symbol": "House",
           "votes": 10279
         },
         {
           "candidate": "T. Gunaratnam",
-          "party_code": "LP",
+          "party_code": "LP/ACTC",
           "party_symbol": "Bicycle",
           "votes": 4936
         },
@@ -4051,7 +4051,7 @@
       "single_results": [
         {
           "candidate": "M. Sivasithamparam",
-          "party_code": "LP",
+          "party_code": "LP/ACTC",
           "party_symbol": "Bicycle",
           "votes": 7365
         },
@@ -4069,7 +4069,7 @@
         },
         {
           "candidate": "Kandappa Jeyakody",
-          "party_code": "?",
+          "party_code": "ITAK",
           "party_symbol": "House",
           "votes": 3860
         }
@@ -4087,13 +4087,13 @@
       "single_results": [
         {
           "candidate": "K. Thurairatnam",
-          "party_code": "?",
+          "party_code": "ITAK",
           "party_symbol": "House",
           "votes": 5679
         },
         {
           "candidate": "N. Nadarajah",
-          "party_code": "LP",
+          "party_code": "LP/ACTC",
           "party_symbol": "Bicycle",
           "votes": 2521
         },
@@ -4135,13 +4135,13 @@
       "single_results": [
         {
           "candidate": "V.N. Navaratnam",
-          "party_code": "?",
+          "party_code": "ITAK",
           "party_symbol": "House",
           "votes": 13907
         },
         {
           "candidate": "V. Kumaraswamy",
-          "party_code": "LP",
+          "party_code": "LP/ACTC",
           "party_symbol": "Bicycle",
           "votes": 6930
         },
@@ -4165,7 +4165,7 @@
       "single_results": [
         {
           "candidate": "A. Sivasunderam",
-          "party_code": "?",
+          "party_code": "ITAK",
           "party_symbol": "House",
           "votes": 3741
         },
@@ -4207,7 +4207,7 @@
       "single_results": [
         {
           "candidate": "V.A. Alegacone",
-          "party_code": "?",
+          "party_code": "ITAK",
           "party_symbol": "House",
           "votes": 6463
         },
@@ -4261,7 +4261,7 @@
         },
         {
           "candidate": "S. Subramaniam",
-          "party_code": "?",
+          "party_code": "ITAK",
           "party_symbol": "House",
           "votes": 1338
         }
@@ -4279,7 +4279,7 @@
       "single_results": [
         {
           "candidate": "N.R. Rajavarothiam",
-          "party_code": "?",
+          "party_code": "ITAK",
           "party_symbol": "House",
           "votes": 8872
         },
@@ -4315,7 +4315,7 @@
       "single_results": [
         {
           "candidate": "T. Ahambaram",
-          "party_code": "?",
+          "party_code": "ITAK",
           "party_symbol": "House",
           "votes": 10685
         },
@@ -4381,7 +4381,7 @@
       "single_results": [
         {
           "candidate": "P. Manicavasagam",
-          "party_code": "?",
+          "party_code": "ITAK",
           "party_symbol": "House",
           "votes": 7318
         },
@@ -4411,7 +4411,7 @@
       "single_results": [
         {
           "candidate": "C. Rajadurai",
-          "party_code": "?",
+          "party_code": "ITAK",
           "party_symbol": "House",
           "votes": 28309
         },
@@ -4501,7 +4501,7 @@
       "single_results": [
         {
           "candidate": "S.M.Rasamanickam",
-          "party_code": "?",
+          "party_code": "ITAK",
           "party_symbol": "House",
           "votes": 10799
         },
@@ -4531,7 +4531,7 @@
         },
         {
           "candidate": "S.Z. M.M. Moulana",
-          "party_code": "?",
+          "party_code": "ITAK",
           "party_symbol": "House",
           "votes": 5520
         },
@@ -6265,7 +6265,7 @@
         },
         {
           "candidate": "M. Arunasalam",
-          "party_code": "?",
+          "party_code": "Independent",
           "party_symbol": "Tree",
           "votes": 428
         },

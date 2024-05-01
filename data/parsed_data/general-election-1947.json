@@ -25,7 +25,7 @@
         },
         {
           "candidate": "A.P. de Zoysa",
-          "party_code": "?",
+          "party_code": "ITAK",
           "party_symbol": "House",
           "votes": 429
         },
@@ -49,7 +49,7 @@
       "single_results": [
         {
           "candidate": "A.E. Goonasinha",
-          "party_code": "LP",
+          "party_code": "LP/ACTC",
           "party_symbol": "Bicycle",
           "votes": 23470
         },
@@ -67,13 +67,13 @@
         },
         {
           "candidate": "M.H.M. Munas",
-          "party_code": "?",
+          "party_code": "ITAK",
           "party_symbol": "House",
           "votes": 8600
         },
         {
           "candidate": "Mrs. Ayisha Rauff",
-          "party_code": "?",
+          "party_code": "Independent",
           "party_symbol": "Tree",
           "votes": 8486
         },
@@ -265,7 +265,7 @@
         },
         {
           "candidate": "F. Nettisinghe",
-          "party_code": "?",
+          "party_code": "ITAK",
           "party_symbol": "House",
           "votes": 777
         }
@@ -361,7 +361,7 @@
         },
         {
           "candidate": "F. Obeyasekera",
-          "party_code": "LP",
+          "party_code": "LP/ACTC",
           "party_symbol": "Bicycle",
           "votes": 1333
         },
@@ -487,7 +487,7 @@
         },
         {
           "candidate": "C.A. Boteju",
-          "party_code": "?",
+          "party_code": "ITAK",
           "party_symbol": "House",
           "votes": 215
         }
@@ -691,7 +691,7 @@
         },
         {
           "candidate": "D.D. Athulathmudali",
-          "party_code": "LP",
+          "party_code": "LP/ACTC",
           "party_symbol": "Bicycle",
           "votes": 3356
         },
@@ -715,7 +715,7 @@
         },
         {
           "candidate": "Percy Corea",
-          "party_code": "?",
+          "party_code": "ITAK",
           "party_symbol": "House",
           "votes": 644
         }
@@ -865,7 +865,7 @@
         },
         {
           "candidate": "V.H. Gunasekera",
-          "party_code": "?",
+          "party_code": "ITAK",
           "party_symbol": "House",
           "votes": 7682
         },
@@ -985,7 +985,7 @@
         },
         {
           "candidate": "B.H. Dunuwila",
-          "party_code": "?",
+          "party_code": "ITAK",
           "party_symbol": "House",
           "votes": 1345
         }
@@ -1117,7 +1117,7 @@
         },
         {
           "candidate": "H.V. Ram Iswera",
-          "party_code": "LP",
+          "party_code": "LP/ACTC",
           "party_symbol": "Bicycle",
           "votes": 801
         },
@@ -1225,7 +1225,7 @@
         },
         {
           "candidate": "B.D.W. Gunapala",
-          "party_code": "?",
+          "party_code": "ITAK",
           "party_symbol": "House",
           "votes": 3949
         },
@@ -1267,7 +1267,7 @@
         },
         {
           "candidate": "P. de S. Kularatne",
-          "party_code": "?",
+          "party_code": "ITAK",
           "party_symbol": "House",
           "votes": 17520
         },
@@ -1369,7 +1369,7 @@
         },
         {
           "candidate": "P.L.N. Raddalgoda",
-          "party_code": "?",
+          "party_code": "Independent",
           "party_symbol": "Tree",
           "votes": 2003
         },
@@ -1717,7 +1717,7 @@
         },
         {
           "candidate": "W. Duraisamy",
-          "party_code": "LP",
+          "party_code": "LP/ACTC",
           "party_symbol": "Bicycle",
           "votes": 2438
         },
@@ -1819,7 +1819,7 @@
       "single_results": [
         {
           "candidate": "G. G. Ponnambalam",
-          "party_code": "LP",
+          "party_code": "LP/ACTC",
           "party_symbol": "Bicycle",
           "votes": 14324
         },
@@ -1915,7 +1915,7 @@
         },
         {
           "candidate": "C.R. Thambiah",
-          "party_code": "?",
+          "party_code": "ITAK",
           "party_symbol": "House",
           "votes": 2002
         }
@@ -1963,7 +1963,7 @@
       "single_results": [
         {
           "candidate": "C. Suntharalingam",
-          "party_code": "?",
+          "party_code": "Independent",
           "party_symbol": "Tree",
           "votes": 4026
         },
@@ -1987,7 +1987,7 @@
       "single_results": [
         {
           "candidate": "S. Sivapalam",
-          "party_code": "?",
+          "party_code": "ITAK",
           "party_symbol": "House",
           "votes": 5252
         },
@@ -2059,13 +2059,13 @@
         },
         {
           "candidate": "K.W. Devanayagam",
-          "party_code": "?",
+          "party_code": "Independent",
           "party_symbol": "Bird",
           "votes": 3176
         },
         {
           "candidate": "Meeralebbe",
-          "party_code": "?",
+          "party_code": "ITAK",
           "party_symbol": "House",
           "votes": 2411
         },
@@ -2089,7 +2089,7 @@
       "single_results": [
         {
           "candidate": "Ahamed lebbe Sinnalebbe",
-          "party_code": "?",
+          "party_code": "Independent",
           "party_symbol": "Tree",
           "votes": 4740
         },
@@ -2131,7 +2131,7 @@
       "single_results": [
         {
           "candidate": "S.U. Ethiramanasingham",
-          "party_code": "?",
+          "party_code": "Independent",
           "party_symbol": "Bird",
           "votes": 5672
         },
@@ -2478,7 +2478,7 @@
       "single_results": [
         {
           "candidate": "Albert F. Peries",
-          "party_code": "LP",
+          "party_code": "LP/ACTC",
           "party_symbol": "Bicycle",
           "votes": 11036
         },
@@ -2604,7 +2604,7 @@
         },
         {
           "candidate": "P.M.K. Tennakoon",
-          "party_code": "LP",
+          "party_code": "LP/ACTC",
           "party_symbol": "Bicycle",
           "votes": 1820
         },
@@ -2640,7 +2640,7 @@
         },
         {
           "candidate": "R.B. Wijeratne",
-          "party_code": "?",
+          "party_code": "ITAK",
           "party_symbol": "House",
           "votes": 830
         },
@@ -2832,7 +2832,7 @@
         },
         {
           "candidate": "A.D. Sengamalai",
-          "party_code": "?",
+          "party_code": "ITAK",
           "party_symbol": "House",
           "votes": 1753
         },
@@ -2874,13 +2874,13 @@
         },
         {
           "candidate": "T.D. Alexander",
-          "party_code": "LP",
+          "party_code": "LP/ACTC",
           "party_symbol": "Bicycle",
           "votes": 1395
         },
         {
           "candidate": "G.P. Perera",
-          "party_code": "?",
+          "party_code": "ITAK",
           "party_symbol": "House",
           "votes": 385
         }
@@ -2982,7 +2982,7 @@
       "single_results": [
         {
           "candidate": "N. M. Perera",
-          "party_code": "?",
+          "party_code": "ITAK",
           "party_symbol": "House",
           "votes": 10065
         },
@@ -3030,7 +3030,7 @@
         },
         {
           "candidate": "H. Jayawardena",
-          "party_code": "?",
+          "party_code": "ITAK",
           "party_symbol": "House",
           "votes": 909
         },
@@ -3072,7 +3072,7 @@
         },
         {
           "candidate": "A.E.B. Kiriella",
-          "party_code": "?",
+          "party_code": "Independent",
           "party_symbol": "Tree",
           "votes": 2439
         },
@@ -3192,7 +3192,7 @@
       "single_results": [
         {
           "candidate": "A. F. Molamure",
-          "party_code": "?",
+          "party_code": "ITAK",
           "party_symbol": "House",
           "votes": 23076
         },
