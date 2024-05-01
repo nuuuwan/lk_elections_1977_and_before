@@ -19,6 +19,10 @@ class ResultFPTP(Validatable):
             return '-'
         return pd_list[0].id
     
+    @property
+    def pd_id_short(self):
+        return self.pd_id.split('-')[1]
+    
     def to_dict(self):
         return dict(
             row_num=self.row_num,
