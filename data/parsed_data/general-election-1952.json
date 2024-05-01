@@ -127,7 +127,7 @@
     {
       "row_num": 4,
       "electorate_name": "Wellawatte-Galkissa",
-      "pd_id": null,
+      "pd_id": "EC-20C",
       "single_results": [
         {
           "candidate": "Jayasinghe S. de S.",
@@ -158,7 +158,7 @@
     {
       "row_num": 5,
       "electorate_name": "Ja-ela",
-      "pd_id": null,
+      "pd_id": "EC-02I",
       "single_results": [
         {
           "candidate": "Jayasuriya D.P.",
@@ -690,7 +690,7 @@
     {
       "row_num": 21,
       "electorate_name": "Minipe",
-      "pd_id": null,
+      "pd_id": "EC-10D",
       "single_results": [
         {
           "candidate": "Rambukwelle Dissawa, H.B.",
@@ -721,7 +721,7 @@
     {
       "row_num": 22,
       "electorate_name": "Wattegama",
-      "pd_id": null,
+      "pd_id": "EC-02A",
       "single_results": [
         {
           "candidate": "Ratnayake, A.",
@@ -752,7 +752,7 @@
     {
       "row_num": 23,
       "electorate_name": "Kadugannawa",
-      "pd_id": null,
+      "pd_id": "EC-01J",
       "single_results": [
         {
           "candidate": "Nugawela, E.A.",
@@ -801,7 +801,7 @@
     {
       "row_num": 24,
       "electorate_name": "Kandy",
-      "pd_id": null,
+      "pd_id": "EC-07C",
       "single_results": [
         {
           "candidate": "Senanayake, E.L.",
@@ -832,7 +832,7 @@
     {
       "row_num": 25,
       "electorate_name": "Galaha",
-      "pd_id": null,
+      "pd_id": "EC-02H",
       "single_results": [
         {
           "candidate": "Panabokke, Theodore Braybrooke",
@@ -918,7 +918,7 @@
     {
       "row_num": 27,
       "electorate_name": "Maturata",
-      "pd_id": null,
+      "pd_id": "EC-08F",
       "single_results": [
         {
           "candidate": "Banda, M.D.",
@@ -955,7 +955,7 @@
     {
       "row_num": 28,
       "electorate_name": "Nuwara-Eliya",
-      "pd_id": null,
+      "pd_id": "EC-06A",
       "single_results": [
         {
           "candidate": "Sumanatilaka, P.P.",
@@ -992,7 +992,7 @@
     {
       "row_num": 29,
       "electorate_name": "Talawakele",
-      "pd_id": null,
+      "pd_id": "EC-06D",
       "single_results": [
         {
           "candidate": "De Mel, H.E.P.",
@@ -1023,7 +1023,7 @@
     {
       "row_num": 30,
       "electorate_name": "Kotagala",
-      "pd_id": null,
+      "pd_id": "EC-05B",
       "single_results": [
         {
           "candidate": "Unamboowe, U.B.",
@@ -1091,7 +1091,7 @@
     {
       "row_num": 32,
       "electorate_name": "Maskeliya",
-      "pd_id": null,
+      "pd_id": "EC-02M",
       "single_results": [
         {
           "candidate": "Silva P.H.C.",
@@ -1134,7 +1134,7 @@
     {
       "row_num": 33,
       "electorate_name": "Ambalangoda-Balapitiya",
-      "pd_id": null,
+      "pd_id": "EC-07B",
       "single_results": [
         {
           "candidate": "De Zoysa, Ian",
@@ -1232,7 +1232,7 @@
     {
       "row_num": 35,
       "electorate_name": "Udugama",
-      "pd_id": null,
+      "pd_id": "EC-22A",
       "single_results": [
         {
           "candidate": "De Alwis, William Neal",
@@ -1462,7 +1462,7 @@
     {
       "row_num": 43,
       "electorate_name": "Hambantota",
-      "pd_id": null,
+      "pd_id": "EC-08B",
       "single_results": [
         {
           "candidate": "Edirisuriya, Charles",
@@ -2157,7 +2157,7 @@
     {
       "row_num": 66,
       "electorate_name": "Dandagamuwa",
-      "pd_id": null,
+      "pd_id": "EC-03B",
       "single_results": [
         {
           "candidate": "Iriyagolla, I.M.R.A.",
@@ -2448,7 +2448,7 @@
     {
       "row_num": 75,
       "electorate_name": "Alutnuwara",
-      "pd_id": null,
+      "pd_id": "EC-04K",
       "single_results": [
         {
           "candidate": "Rambukpota, J.A.",
@@ -2824,7 +2824,7 @@
     {
       "row_num": 85,
       "electorate_name": "Dehiowita",
-      "pd_id": null,
+      "pd_id": "EC-01F",
       "single_results": [
         {
           "candidate": "Samarakkody, Edmund",
@@ -2855,7 +2855,7 @@
     {
       "row_num": 86,
       "electorate_name": "Kiriella",
-      "pd_id": null,
+      "pd_id": "EC-01C",
       "single_results": [
         {
           "candidate": "Kiriella, A.E.B.",
@@ -2973,29 +2973,10 @@
   ],
   "errors": [
     "[electors < polled] 58400 < 122788",
-    "PD not found for Wellawatte-Galkissa",
-    "PD not found for Ja-ela",
-    "PD not found for Minipe",
-    "PD not found for Wattegama",
     "[electors < polled] 68444 < 90745",
-    "PD not found for Kadugannawa",
-    "PD not found for Kandy",
-    "PD not found for Galaha",
-    "PD not found for Maturata",
-    "PD not found for Nuwara-Eliya",
-    "PD not found for Talawakele",
-    "PD not found for Kotagala",
-    "PD not found for Maskeliya",
     "[electors < polled] 92398 < 130096",
-    "PD not found for Ambalangoda-Balapitiya",
-    "PD not found for Udugama",
-    "PD not found for Hambantota",
-    "PD not found for Dandagamuwa",
     "[summary.valid != results-valid] 25834 != 20807",
-    "PD not found for Alutnuwara",
     "[electors < polled] 28151 < 39753",
-    "PD not found for Dehiowita",
-    "PD not found for Kiriella",
     "[electors < polled] 56096 < 76573"
   ]
 }

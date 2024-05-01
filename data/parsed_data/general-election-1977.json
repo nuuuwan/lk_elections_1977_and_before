@@ -607,7 +607,7 @@
     {
       "row_num": 16,
       "electorate_name": "Ja-ela",
-      "pd_id": null,
+      "pd_id": "EC-02I",
       "single_results": [
         {
           "candidate": "Joseph Michael Perera",
@@ -3459,7 +3459,7 @@
     {
       "row_num": 84,
       "electorate_name": "Udduppidi",
-      "pd_id": null,
+      "pd_id": "EC-10F",
       "single_results": [
         {
           "candidate": "T. Rasalingam",
@@ -5575,7 +5575,7 @@
     {
       "row_num": 136,
       "electorate_name": "Hali-ela",
-      "pd_id": null,
+      "pd_id": "EC-19E",
       "single_results": [
         {
           "candidate": "R.M. Abeykoon",
@@ -6587,7 +6587,6 @@
     "[summary.valid != results-valid] 32028 != 31940",
     "[summary.valid != results-valid] 43230 != 43330",
     "[summary.valid != results-valid] 51191 != 50124",
-    "PD not found for Ja-ela",
     "[summary.valid != results-valid] 38336 != 38335",
     "[summary.valid != results-valid] 41891 != 41832",
     "[summary.valid != results-valid] 50529 != 48655",
@@ -6596,13 +6595,11 @@
     "[electors < polled] 54799 < 97036",
     "[electors < polled] 69295 < 123790",
     "[electors < polled] 64407 < 163533",
-    "PD not found for Udduppidi",
     "[summary.valid != results-valid] 23231 != 23291",
     "[summary.valid != results-valid] 28701 != 31701",
     "[summary.valid != results-valid] 19596 != 745146",
     "[electors < polled] 63039 < 109509",
     "[electors < polled] 49691 < 89871",
-    "[summary.valid != results-valid] 18872 != 18152",
-    "PD not found for Hali-ela"
+    "[summary.valid != results-valid] 18872 != 18152"
   ]
 }
