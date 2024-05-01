@@ -45,8 +45,12 @@ class Parser1947:
         for table in tables:
             table_aslist = table.df.values.tolist()
             for row in table_aslist:
-  
-                if row[0].startswith("No") or row[1].startswith("No") or row[0].startswith("of ") or row[3].startswith("Polled"):
+                if (
+                    row[0].startswith("No")
+                    or row[1].startswith("No")
+                    or row[0].startswith("of ")
+                    or row[3].startswith("Polled")
+                ):
                     continue
                 if row[0] != "" or (
                     row[0] == ""
@@ -74,7 +78,6 @@ class Parser1947:
             row_num = tokens[0]
             electorate_name = " ".join(tokens[1:])
 
-
         if len(first_row) == 8:
             rejected, polled, electors = [
                 parse_int(x) for x in first_row[5:8]
@@ -94,7 +97,6 @@ class Parser1947:
 
     @staticmethod
     def parse_result(result_rows):
-
         for row in result_rows:
             print(row)
 
@@ -117,7 +119,7 @@ class Parser1947:
                 candidate, party, votes = row[1:4]
 
             party_to_candidate[party] = candidate
-            
+
             if votes == "":
                 continue
 
@@ -145,10 +147,8 @@ class Parser1947:
             for result_rows in self.result_rows_list
         ]
 
-        election =  ElectionFPTP(
+        election = ElectionFPTP(
             date_str=self.id,
             results=results,
         )
         election.save()
-
-

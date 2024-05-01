@@ -1,23 +1,26 @@
 import os
 from dataclasses import dataclass
-from lk_elections.core.ResultFPTP import ResultFPTP
+
 from utils import JSONFile, Log
 
+from lk_elections.core.ResultFPTP import ResultFPTP
+
 log = Log('ElectionFPTP')
+
 
 @dataclass
 class ElectionFPTP:
     date_str: str
     results: list[ResultFPTP]
 
-    @property 
+    @property
     def data(self):
         return {
             'date_str': self.date_str,
             'results': [result.__dict__ for result in self.results],
         }
 
-    @property 
+    @property
     def data_path(self):
         return os.path.join(
             'parsed_data',
