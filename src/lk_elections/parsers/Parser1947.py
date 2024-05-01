@@ -98,19 +98,22 @@ class Parser1947:
                 ' '.join(first_row_tokens[1:]),
             ] + first_row[1:]
 
-
-        
         row_num, electorate_name = first_row[:2]
         row_num = parse_int(row_num)
-        
 
         if 'Uncontested' in first_row:
-            rejected, polled = [0,0]
+            rejected, polled = [0, 0]
             electors = parse_int(first_row[-1])
-            first_single_result = Parser1947.parse_single_result([first_row[2], 'Uncontested', '0'])   
+            first_single_result = Parser1947.parse_single_result(
+                [first_row[2], 'Uncontested', '0']
+            )
         else:
-            rejected, polled, electors = [parse_int(x) for x in first_row[-3:]]
-            first_single_result = Parser1947.parse_single_result(first_row[2:-3])
+            rejected, polled, electors = [
+                parse_int(x) for x in first_row[-3:]
+            ]
+            first_single_result = Parser1947.parse_single_result(
+                first_row[2:-3]
+            )
 
         summary = Summary(
             electors=electors,
@@ -128,8 +131,6 @@ class Parser1947:
 
     @staticmethod
     def parse_single_result(row):
-   
-
         if len(row) < 3:
             return None
 
@@ -160,9 +161,8 @@ class Parser1947:
 
         single_results = [
             single_result
-            for single_result in  [first_single_result] +[
-                Parser1947.parse_single_result(row) for row in result_rows[1:]
-            ]
+            for single_result in [first_single_result]
+            + [Parser1947.parse_single_result(row) for row in result_rows[1:]]
             if single_result is not None
         ]
 
