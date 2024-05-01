@@ -2438,11 +2438,11 @@
     "[electors < polled] 77486 < 105392",
     "row_num 30 missing",
     "[electors < polled] 100326 < 129652",
-    "[summary.valid != results-valid]30123 != 28386",
+    "[summary.valid != results-valid] 30123 != 28386",
     "row_num 36 missing",
     "[electors < polled] 100326 < 129652",
     "[electors < polled] 35607 < 45104",
-    "[summary.valid != results-valid]29271 != 30584",
+    "[summary.valid != results-valid] 29271 != 30584",
     "[electors < polled] 64273 < 89846"
   ]
 }

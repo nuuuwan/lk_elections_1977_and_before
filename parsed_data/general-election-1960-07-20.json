@@ -2433,7 +2433,7 @@
         },
         {
           "candidate": "M.A.M. Jalaldeen",
-          "party_symbol": "Radio Set",
+          "party_symbol": "Radio",
           "votes": 4339
         }
       ],
@@ -2450,7 +2450,7 @@
       "single_results": [
         {
           "candidate": "M.A. Abdul Majeed",
-          "party_symbol": "Radio Set",
+          "party_symbol": "Radio",
           "votes": 11591
         },
         {
@@ -3711,7 +3711,7 @@
     "[electors < polled] 74922 < 179584",
     "[electors < polled] 42367 < 61416",
     "[electors < polled] 42427 < 71918",
-    "[summary.valid != results-valid]18670 != 18660",
+    "[summary.valid != results-valid] 18670 != 18660",
     "[electors < polled] 28520 < 46742",
     "[electors < polled] 37832 < 57622"
   ]

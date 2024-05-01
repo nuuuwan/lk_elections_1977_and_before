@@ -39,7 +39,7 @@ class SingleResultFPTP(Validatable):
         'Pineapple',
         'Pot',
         'Rabbit',
-        'Radio Set',
+        'Radio',
         'Saw',
         'Sewing Machine',
         'Ship',

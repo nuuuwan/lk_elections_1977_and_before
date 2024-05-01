@@ -41,12 +41,14 @@ def clean(s):
         ['Chai', 'Chair'],
         ['Chairr', 'Chair'],
         ['Coclerel', 'Cockerel'],
+        ['Elepnant', 'Elephant'],
         ['Housse', 'House'],
         ['Pair Of Scaless', 'Pair Of Scales'],
-        ['Pair if Scakes', 'Pair Of Scales'],
+        ['Pair If Scakes', 'Pair Of Scales'],
         ['Pair Of Scacles', 'Pair Of Scales'],
         ['Pine-Apple', 'Pineapple'],
         ['Pine Apple', 'Pineapple'],
+        ['Radio Set', 'Radio'],
         ['Winnow', 'Window'],
         ['Sweing Machine', 'Sewing Machine'],
     ]:
@@ -156,9 +158,9 @@ class Parser1947:
             first_single_result,
         ] = Parser1947.parse_result_first_row(result_rows[0])
 
-        single_results = [first_single_result] + [
+        single_results = [
             single_result
-            for single_result in [
+            for single_result in  [first_single_result] +[
                 Parser1947.parse_single_result(row) for row in result_rows[1:]
             ]
             if single_result is not None

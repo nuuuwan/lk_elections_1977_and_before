@@ -13,6 +13,7 @@ class Validatable:
         if not errors:
             log.debug('No errors.')
         else:
+            log.error(f'Found {len(errors)} errors:')
             for i_error, error in enumerate(errors, start=1):
-                log.error(f'{i_error}) {error}')
+                log.error(f'\t{i_error}) {error}')
         return errors

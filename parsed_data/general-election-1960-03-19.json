@@ -3199,7 +3199,7 @@
         },
         {
           "candidate": "J.M.M. Bandara",
-          "party_symbol": "Radio Set",
+          "party_symbol": "Radio",
           "votes": 632
         },
         {
@@ -3993,7 +3993,7 @@
       "single_results": [
         {
           "candidate": "M.I.M. Abdul Majeed",
-          "party_symbol": "Radio Set",
+          "party_symbol": "Radio",
           "votes": 10017
         },
         {
@@ -6234,11 +6234,11 @@
   ],
   "errors": [
     "[electors < polled] 74922 < 178735",
-    "[summary.valid != results-valid]20557 != 28081",
+    "[summary.valid != results-valid] 20557 != 28081",
     "[electors < polled] 42367 < 60758",
-    "[summary.valid != results-valid]27199 != 27899",
+    "[summary.valid != results-valid] 27199 != 27899",
     "[electors < polled] 42427 < 71014",
-    "[summary.valid != results-valid]19551 != 19601",
+    "[summary.valid != results-valid] 19551 != 19601",
     "[electors < polled] 28520 < 41127",
     "[electors < polled] 37832 < 60408"
   ]

@@ -2584,7 +2584,7 @@
     "[electors < polled] 58400 < 122788",
     "[electors < polled] 68444 < 90745",
     "[electors < polled] 92398 < 130096",
-    "[summary.valid != results-valid]25834 != 20807",
+    "[summary.valid != results-valid] 25834 != 20807",
     "[electors < polled] 28151 < 39753",
     "[electors < polled] 56096 < 76573"
   ]

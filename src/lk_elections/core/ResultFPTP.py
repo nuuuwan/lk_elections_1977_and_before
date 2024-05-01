@@ -40,7 +40,7 @@ class ResultFPTP(Validatable):
         )
         if self.summary.valid != exp_valid:
             errors.append(
-                '[summary.valid != results-valid]'
+                '[summary.valid != results-valid] '
                 + f"{self.summary.valid} != {exp_valid}"
             )
 

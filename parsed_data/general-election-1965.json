@@ -2735,7 +2735,7 @@
       "single_results": [
         {
           "candidate": "M.A. Abdul Majeed",
-          "party_symbol": "Radio Set",
+          "party_symbol": "Radio",
           "votes": 6768
         },
         {
@@ -4215,9 +4215,9 @@
   "errors": [
     "[electors < polled] 93468 < 221446",
     "votes 0 <= 0",
-    "[summary.valid != results-valid]39152 != 39149",
+    "[summary.valid != results-valid] 39152 != 39149",
     "[electors < polled] 54950 < 96535",
-    "[summary.valid != results-valid]22866 != 22870",
+    "[summary.valid != results-valid] 22866 != 22870",
     "[electors < polled] 38516 < 58129",
     "[electors < polled] 45078 < 67882"
   ]
