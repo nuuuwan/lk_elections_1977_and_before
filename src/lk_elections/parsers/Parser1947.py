@@ -1,4 +1,5 @@
 import os
+import re
 
 import camelot
 from utils import Log
@@ -26,7 +27,17 @@ def is_int(x):
     except BaseException:
         return False
 
-
+def clean(s):
+    s = re.sub(r'\s+', ' ', s).strip()
+    for before, after in [
+        ['U:mbrella', 'Umbrella'],
+        ['Housse', 'House'],
+        ['Cart wheel', 'Cart Wheel'],
+        ['Pair if Scakes', 'Pair of Scales'],
+        
+    ]:
+        s = s.replace(before, after)
+    return s
 class Parser1947:
     def __init__(self, id):
         self.id = id
@@ -47,6 +58,7 @@ class Parser1947:
             table_aslist = table.df.values.tolist()
             for row in table_aslist:
                 valid_cells = [cell for cell in row if cell != ""]
+
                 first_token = valid_cells[0].split(' ')[0]
                 if is_int(first_token):
                     result_rows_list.append(current_result_rows)
@@ -68,6 +80,7 @@ class Parser1947:
             ] + first_row[1:]
 
         row_num, electorate_name = first_row[:2]
+        row_num = parse_int(row_num)
         rejected, polled, electors = [parse_int(x) for x in first_row[-3:]]
         first_single_result = Parser1947.parse_single_result(first_row[2:-3])
 
@@ -87,10 +100,10 @@ class Parser1947:
 
     @staticmethod
     def parse_single_result(row):
-        log.debug(f'parse_single_result: {row}')
+        # log.debug(f'parse_single_result: {row}')
 
         candidate = " ".join(row[:-2])
-        party_symbol = row[-2]
+        party_symbol = clean(row[-2])
 
         if not is_int(row[-1]):
             return None
@@ -104,8 +117,8 @@ class Parser1947:
 
     @staticmethod
     def parse_result(result_rows):
-        for i, row in enumerate(result_rows):
-            log.debug(f'parse_result: {i}) {row}')
+        # for i, row in enumerate(result_rows):
+        #     log.debug(f'parse_result: {i}) {row}')
 
         [
             row_num,
@@ -128,7 +141,7 @@ class Parser1947:
             single_results,
             summary,
         )
-        log.debug(result)
+        # log.debug(result)
         return result
 
     def parse(self):
