@@ -72,4 +72,8 @@ class SingleResultFPTP(Validatable):
             # errors.append(f"unknown party_symbol {self.party_symbol}")
             print(self.party_symbol)
 
+        MIN_NAME_LEN = 5
+        if len(self.candidate) < MIN_NAME_LEN:
+            errors.append(f"c: {self.candidate}")
+
         return errors
