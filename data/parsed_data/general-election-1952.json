@@ -49,7 +49,7 @@
         },
         {
           "candidate": "Kaleel, M. C. M.",
-          "party_code": "unknown",
+          "party_code": "?",
           "party_symbol": "House",
           "votes": 25647
         },
@@ -169,7 +169,7 @@
         },
         {
           "candidate": "Anthony, S. Stock",
-          "party_code": "unknown",
+          "party_code": "?",
           "party_symbol": "House",
           "votes": 5790
         },
@@ -331,7 +331,7 @@
         },
         {
           "candidate": "Goonawardene, Vivienne(Mrs.)",
-          "party_code": "unknown",
+          "party_code": "?",
           "party_symbol": "House",
           "votes": 4857
         },
@@ -421,7 +421,7 @@
         },
         {
           "candidate": "Senanayake, Wilfred",
-          "party_code": "unknown",
+          "party_code": "?",
           "party_symbol": "Bird",
           "votes": 7367
         },
@@ -553,7 +553,7 @@
         },
         {
           "candidate": "Athulathmudali",
-          "party_code": "unknown",
+          "party_code": "LSSP",
           "party_symbol": "Chair",
           "votes": 15666
         }
@@ -571,7 +571,7 @@
       "single_results": [
         {
           "candidate": "Kannangara C.W.W.",
-          "party_code": "unknown",
+          "party_code": "LSSP",
           "party_symbol": "Chair",
           "votes": 13659
         },
@@ -613,7 +613,7 @@
       "single_results": [
         {
           "candidate": "Tenne, H.B.",
-          "party_code": "unknown",
+          "party_code": "Independent",
           "party_symbol": "Eye",
           "votes": 8294
         },
@@ -649,13 +649,13 @@
       "single_results": [
         {
           "candidate": "Aluwihare Bernard",
-          "party_code": "unknown",
+          "party_code": "?",
           "party_symbol": "Flower",
           "votes": 12314
         },
         {
           "candidate": "Nanayakkara, V.T.",
-          "party_code": "unknown",
+          "party_code": "?",
           "party_symbol": "House",
           "votes": 8898
         }
@@ -709,7 +709,7 @@
         },
         {
           "candidate": "Dharmasena, P.N.",
-          "party_code": "unknown",
+          "party_code": "?",
           "party_symbol": "Wheel",
           "votes": 5381
         },
@@ -781,7 +781,7 @@
       "single_results": [
         {
           "candidate": "Senanayake, E.L.",
-          "party_code": "unknown",
+          "party_code": "?",
           "party_symbol": "Wheel",
           "votes": 11349
         },
@@ -811,7 +811,7 @@
       "single_results": [
         {
           "candidate": "Panabokke, Theodore Braybrooke",
-          "party_code": "unknown",
+          "party_code": "?",
           "party_symbol": "House",
           "votes": 10962
         },
@@ -847,7 +847,7 @@
       "single_results": [
         {
           "candidate": "De Silva, M.W.R.",
-          "party_code": "unknown",
+          "party_code": "?",
           "party_symbol": "House",
           "votes": 7950
         },
@@ -1003,7 +1003,7 @@
         },
         {
           "candidate": "Weerasekera, J.D.",
-          "party_code": "unknown",
+          "party_code": "?",
           "party_symbol": "Wheel",
           "votes": 1577
         },
@@ -1063,7 +1063,7 @@
       "single_results": [
         {
           "candidate": "Silva P.H.C.",
-          "party_code": "unknown",
+          "party_code": "?",
           "party_symbol": "House",
           "votes": 3415
         },
@@ -1111,7 +1111,7 @@
         },
         {
           "candidate": "De Silva , Peduru Hewa William",
-          "party_code": "unknown",
+          "party_code": "Independent",
           "party_symbol": "Eye",
           "votes": 33803
         },
@@ -1633,7 +1633,7 @@
       "single_results": [
         {
           "candidate": "Ramalingam T.",
-          "party_code": "unknown",
+          "party_code": "Independent",
           "party_symbol": "Eye",
           "votes": 11609
         },
@@ -1651,7 +1651,7 @@
         },
         {
           "candidate": "Balasingham, Coomaraswamy",
-          "party_code": "unknown",
+          "party_code": "?",
           "party_symbol": "Wheel",
           "votes": 2208
         }
@@ -1735,7 +1735,7 @@
         },
         {
           "candidate": "Vellupillai, K.",
-          "party_code": "unknown",
+          "party_code": "LSSP",
           "party_symbol": "Chair",
           "votes": 93
         }
@@ -1753,7 +1753,7 @@
       "single_results": [
         {
           "candidate": "Rajavarothiam, N.R.",
-          "party_code": "unknown",
+          "party_code": "?",
           "party_symbol": "House",
           "votes": 4450
         },
@@ -1837,7 +1837,7 @@
         },
         {
           "candidate": "Ahamedlebbe Sinna Lebbe",
-          "party_code": "unknown",
+          "party_code": "?",
           "party_symbol": "Tree",
           "votes": 7960
         }
@@ -1861,7 +1861,7 @@
         },
         {
           "candidate": "Ethirmanasingham, U.S.",
-          "party_code": "unknown",
+          "party_code": "?",
           "party_symbol": "Bird",
           "votes": 7198
         },
@@ -1939,7 +1939,7 @@
       "single_results": [
         {
           "candidate": "Ismail Hameed Hussain Sheikh",
-          "party_code": "unknown",
+          "party_code": "?",
           "party_symbol": "Wheel",
           "votes": 9117
         },
@@ -2131,7 +2131,7 @@
       "single_results": [
         {
           "candidate": "Subasinghe, T.B.",
-          "party_code": "unknown",
+          "party_code": "LSSP",
           "party_symbol": "Chair",
           "votes": 16426
         },
@@ -2143,7 +2143,7 @@
         },
         {
           "candidate": "Gunaratbanda, S.M.",
-          "party_code": "unknown",
+          "party_code": "?",
           "party_symbol": "Clock",
           "votes": 689
         }
@@ -2167,7 +2167,7 @@
         },
         {
           "candidate": "Munasinghe J.C.",
-          "party_code": "unknown",
+          "party_code": "?",
           "party_symbol": "Wheel",
           "votes": 10206
         },
@@ -2431,13 +2431,13 @@
         },
         {
           "candidate": "Peeris, S.A.",
-          "party_code": "unknown",
+          "party_code": "?",
           "party_symbol": "Wheel",
           "votes": 12047
         },
         {
           "candidate": "Ekanayake, S.B.",
-          "party_code": "unknown",
+          "party_code": "CP",
           "party_symbol": "Pineapple",
           "votes": 6559
         },
@@ -2473,7 +2473,7 @@
       "single_results": [
         {
           "candidate": "Sugathadasa K. Don",
-          "party_code": "unknown",
+          "party_code": "?",
           "party_symbol": "Wheel",
           "votes": 6392
         },
@@ -2605,7 +2605,7 @@
         },
         {
           "candidate": "Jayawardena, S.M.",
-          "party_code": "unknown",
+          "party_code": "?",
           "party_symbol": "Wheel",
           "votes": 1029
         },
@@ -2641,7 +2641,7 @@
         },
         {
           "candidate": "Seelawathie, N.H. (Mrs.)",
-          "party_code": "unknown",
+          "party_code": "?",
           "party_symbol": "Wheel",
           "votes": 739
         }
@@ -2719,7 +2719,7 @@
       "single_results": [
         {
           "candidate": "Perera N.M.",
-          "party_code": "unknown",
+          "party_code": "?",
           "party_symbol": "House",
           "votes": 10601
         },
@@ -2749,7 +2749,7 @@
         },
         {
           "candidate": "Gunasekera Somaweera",
-          "party_code": "unknown",
+          "party_code": "?",
           "party_symbol": "Tree",
           "votes": 8766
         },
@@ -2773,7 +2773,7 @@
       "single_results": [
         {
           "candidate": "Kiriella, A.E.B.",
-          "party_code": "unknown",
+          "party_code": "LSSP",
           "party_symbol": "Chair",
           "votes": 9978
         },
@@ -2857,7 +2857,7 @@
         },
         {
           "candidate": "Mathew E.W.",
-          "party_code": "unknown",
+          "party_code": "?",
           "party_symbol": "House",
           "votes": 20710
         },

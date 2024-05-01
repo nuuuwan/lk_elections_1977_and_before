@@ -7,13 +7,13 @@
       "single_results": [
         {
           "candidate": "Harris Wickremetunge",
-          "party_code": "unknown",
+          "party_code": "LSSP",
           "party_symbol": "Chair",
           "votes": 13783
         },
         {
           "candidate": "W.I.A. Corsby Fernando",
-          "party_code": "unknown",
+          "party_code": "?",
           "party_symbol": "Ship",
           "votes": 164
         },
@@ -43,7 +43,7 @@
         },
         {
           "candidate": "Falil Caffoor",
-          "party_code": "unknown",
+          "party_code": "LSSP",
           "party_symbol": "Chair",
           "votes": 63624
         },
@@ -67,13 +67,13 @@
         },
         {
           "candidate": "M. Haroun Careem",
-          "party_code": "unknown",
+          "party_code": "?",
           "party_symbol": "Bell",
           "votes": 413
         },
         {
           "candidate": "Poopathy Saravanamuttu",
-          "party_code": "unknown",
+          "party_code": "?",
           "party_symbol": "Ship",
           "votes": 396
         },
@@ -139,13 +139,13 @@
         },
         {
           "candidate": "Ratnasabapathy Wijaya Indra",
-          "party_code": "unknown",
+          "party_code": "Independent",
           "party_symbol": "Eye",
           "votes": 1166
         },
         {
           "candidate": "Ariyadasa Peiris",
-          "party_code": "unknown",
+          "party_code": "?",
           "party_symbol": "Bell",
           "votes": 561
         },
@@ -157,13 +157,13 @@
         },
         {
           "candidate": "Mudalige Justin Perera",
-          "party_code": "unknown",
+          "party_code": "?",
           "party_symbol": "Flower",
           "votes": 165
         },
         {
           "candidate": "Joseph Beling",
-          "party_code": "unknown",
+          "party_code": "LSSP",
           "party_symbol": "Chair",
           "votes": 164
         },
@@ -271,7 +271,7 @@
         },
         {
           "candidate": "Sri C.S. Dagonna",
-          "party_code": "unknown",
+          "party_code": "?",
           "party_symbol": "Bell",
           "votes": 252
         }
@@ -325,7 +325,7 @@
         },
         {
           "candidate": "Dharmasiri Wijetunga",
-          "party_code": "unknown",
+          "party_code": "?",
           "party_symbol": "Bell",
           "votes": 252
         },
@@ -355,7 +355,7 @@
         },
         {
           "candidate": "R.A.D. W. Ratnasekera",
-          "party_code": "unknown",
+          "party_code": "?",
           "party_symbol": "Ship",
           "votes": 349
         }
@@ -385,7 +385,7 @@
         },
         {
           "candidate": "S.D. Bandaranayake",
-          "party_code": "unknown",
+          "party_code": "Independent",
           "party_symbol": "Butterfly",
           "votes": 3485
         }
@@ -493,7 +493,7 @@
         },
         {
           "candidate": "M.D.H. de Silva",
-          "party_code": "unknown",
+          "party_code": "?",
           "party_symbol": "Bell",
           "votes": 348
         }
@@ -595,7 +595,7 @@
         },
         {
           "candidate": "G.K. Nina Wijesuriya(Mrs.)",
-          "party_code": "unknown",
+          "party_code": "?",
           "party_symbol": "Bell",
           "votes": 252
         }
@@ -667,7 +667,7 @@
         },
         {
           "candidate": "Somapala Mayadunnage",
-          "party_code": "unknown",
+          "party_code": "?",
           "party_symbol": "Bell",
           "votes": 320
         }
@@ -697,7 +697,7 @@
         },
         {
           "candidate": "Siripala Padukka",
-          "party_code": "unknown",
+          "party_code": "LSSP",
           "party_symbol": "Chair",
           "votes": 2883
         }
@@ -745,7 +745,7 @@
         },
         {
           "candidate": "S. de S. Ranasinghe",
-          "party_code": "unknown",
+          "party_code": "LSSP",
           "party_symbol": "Chair",
           "votes": 8121
         },
@@ -757,7 +757,7 @@
         },
         {
           "candidate": "Siripala Hettiarachchi",
-          "party_code": "unknown",
+          "party_code": "?",
           "party_symbol": "Bell",
           "votes": 133
         }
@@ -787,7 +787,7 @@
         },
         {
           "candidate": "P.R. Ranaraja",
-          "party_code": "unknown",
+          "party_code": "?",
           "party_symbol": "Bell",
           "votes": 521
         }
@@ -817,7 +817,7 @@
         },
         {
           "candidate": "Jayasiri Hirimuthugoda",
-          "party_code": "unknown",
+          "party_code": "?",
           "party_symbol": "Bell",
           "votes": 529
         }
@@ -871,7 +871,7 @@
         },
         {
           "candidate": "D.F. Galhena",
-          "party_code": "unknown",
+          "party_code": "?",
           "party_symbol": "Flower",
           "votes": 274
         }
@@ -925,7 +925,7 @@
         },
         {
           "candidate": "A.D.P. Karunatilleke",
-          "party_code": "unknown",
+          "party_code": "?",
           "party_symbol": "Bell",
           "votes": 154
         }
@@ -985,7 +985,7 @@
         },
         {
           "candidate": "Rambanda Wijekoon",
-          "party_code": "unknown",
+          "party_code": "?",
           "party_symbol": "Bell",
           "votes": 150
         }
@@ -1063,7 +1063,7 @@
         },
         {
           "candidate": "C. Ratnayake",
-          "party_code": "unknown",
+          "party_code": "?",
           "party_symbol": "Ladder",
           "votes": 2598
         }
@@ -1093,7 +1093,7 @@
         },
         {
           "candidate": "H.B. Ratnayake",
-          "party_code": "unknown",
+          "party_code": "?",
           "party_symbol": "Ladder",
           "votes": 21466
         },
@@ -1105,7 +1105,7 @@
         },
         {
           "candidate": "Wijekoon D. Hearth",
-          "party_code": "unknown",
+          "party_code": "?",
           "party_symbol": "Bell",
           "votes": 561
         }
@@ -1159,7 +1159,7 @@
         },
         {
           "candidate": "Cyril S. Ketakumbura",
-          "party_code": "unknown",
+          "party_code": "?",
           "party_symbol": "Bell",
           "votes": 184
         }
@@ -1237,7 +1237,7 @@
         },
         {
           "candidate": "M.B.C.E. SIriwardhana",
-          "party_code": "unknown",
+          "party_code": "?",
           "party_symbol": "Bell",
           "votes": 68
         }
@@ -1267,7 +1267,7 @@
         },
         {
           "candidate": "Lionel Kulatunge",
-          "party_code": "unknown",
+          "party_code": "?",
           "party_symbol": "Bell",
           "votes": 116
         }
@@ -1297,7 +1297,7 @@
         },
         {
           "candidate": "K.B. Rambukwella",
-          "party_code": "unknown",
+          "party_code": "?",
           "party_symbol": "Bell",
           "votes": 176
         }
@@ -1423,7 +1423,7 @@
         },
         {
           "candidate": "Anuladasa Wanigasekera",
-          "party_code": "unknown",
+          "party_code": "?",
           "party_symbol": "Flower",
           "votes": 150
         }
@@ -1453,7 +1453,7 @@
         },
         {
           "candidate": "A.R.M. Abdul Cader",
-          "party_code": "unknown",
+          "party_code": "?",
           "party_symbol": "Bell",
           "votes": 95
         }
@@ -1483,7 +1483,7 @@
         },
         {
           "candidate": "O.M. Wijewardhana",
-          "party_code": "unknown",
+          "party_code": "?",
           "party_symbol": "Bell",
           "votes": 235
         }
@@ -1549,7 +1549,7 @@
         },
         {
           "candidate": "D.J. Ranaweera",
-          "party_code": "unknown",
+          "party_code": "Independent",
           "party_symbol": "Butterfly",
           "votes": 1289
         }
@@ -1579,13 +1579,13 @@
         },
         {
           "candidate": "E.M.M. Wijerama",
-          "party_code": "unknown",
+          "party_code": "?",
           "party_symbol": "Bell",
           "votes": 951
         },
         {
           "candidate": "Jayasena Munasinghe",
-          "party_code": "unknown",
+          "party_code": "?",
           "party_symbol": "Ship",
           "votes": 169
         }
@@ -1615,7 +1615,7 @@
         },
         {
           "candidate": "U.D. Kulasinghe",
-          "party_code": "unknown",
+          "party_code": "?",
           "party_symbol": "Bell",
           "votes": 544
         }
@@ -1669,7 +1669,7 @@
         },
         {
           "candidate": "Don Piyasena Edirisinghe",
-          "party_code": "unknown",
+          "party_code": "?",
           "party_symbol": "Bell",
           "votes": 251
         }
@@ -1759,13 +1759,13 @@
         },
         {
           "candidate": "Bentis Kulasinghe",
-          "party_code": "unknown",
+          "party_code": "?",
           "party_symbol": "Bell",
           "votes": 287
         },
         {
           "candidate": "K.H. Sugathadasa",
-          "party_code": "unknown",
+          "party_code": "Independent",
           "party_symbol": "Eye",
           "votes": 188
         }
@@ -1795,7 +1795,7 @@
         },
         {
           "candidate": "J..R.G. Abeywickreme",
-          "party_code": "unknown",
+          "party_code": "?",
           "party_symbol": "Bell",
           "votes": 113
         }
@@ -1825,7 +1825,7 @@
         },
         {
           "candidate": "V. Palliyaguru",
-          "party_code": "unknown",
+          "party_code": "?",
           "party_symbol": "Bell",
           "votes": 176
         }
@@ -1981,7 +1981,7 @@
         },
         {
           "candidate": "E.P. Wijethunga",
-          "party_code": "unknown",
+          "party_code": "?",
           "party_symbol": "Bell",
           "votes": 160
         }
@@ -2011,7 +2011,7 @@
         },
         {
           "candidate": "H.P.D. Weerasinghe",
-          "party_code": "unknown",
+          "party_code": "?",
           "party_symbol": "Bell",
           "votes": 263
         }
@@ -2089,19 +2089,19 @@
         },
         {
           "candidate": "Thassim Mohamed Riyal",
-          "party_code": "unknown",
+          "party_code": "LSSP",
           "party_symbol": "Chair",
           "votes": 2733
         },
         {
           "candidate": "Weerasin Gunasekera Edmund",
-          "party_code": "unknown",
+          "party_code": "Independent",
           "party_symbol": "Butterfly",
           "votes": 2269
         },
         {
           "candidate": "Ubewarna NImal Rohana",
-          "party_code": "unknown",
+          "party_code": "?",
           "party_symbol": "Bell",
           "votes": 169
         }
@@ -2119,7 +2119,7 @@
       "single_results": [
         {
           "candidate": "K.P. Ratnam",
-          "party_code": "unknown",
+          "party_code": "?",
           "party_symbol": "House",
           "votes": 13079
         },
@@ -2161,7 +2161,7 @@
         },
         {
           "candidate": "A. Amirthalingam",
-          "party_code": "unknown",
+          "party_code": "?",
           "party_symbol": "House",
           "votes": 13634
         }
@@ -2179,7 +2179,7 @@
       "single_results": [
         {
           "candidate": "S.J.V. Chelvanayakam",
-          "party_code": "unknown",
+          "party_code": "?",
           "party_symbol": "House",
           "votes": 13520
         },
@@ -2215,7 +2215,7 @@
       "single_results": [
         {
           "candidate": "V. Dharmalingam",
-          "party_code": "unknown",
+          "party_code": "?",
           "party_symbol": "House",
           "votes": 14120
         },
@@ -2257,7 +2257,7 @@
       "single_results": [
         {
           "candidate": "C.X. Martyn",
-          "party_code": "unknown",
+          "party_code": "?",
           "party_symbol": "House",
           "votes": 8848
         },
@@ -2293,7 +2293,7 @@
         },
         {
           "candidate": "E.M.V. Naganathan",
-          "party_code": "unknown",
+          "party_code": "?",
           "party_symbol": "House",
           "votes": 12508
         },
@@ -2335,7 +2335,7 @@
       "single_results": [
         {
           "candidate": "S. Kathiravelupillai",
-          "party_code": "unknown",
+          "party_code": "?",
           "party_symbol": "House",
           "votes": 16428
         },
@@ -2371,7 +2371,7 @@
       "single_results": [
         {
           "candidate": "K. Jeyakkody",
-          "party_code": "unknown",
+          "party_code": "?",
           "party_symbol": "House",
           "votes": 12918
         },
@@ -2419,7 +2419,7 @@
       "single_results": [
         {
           "candidate": "K. Thurairatnam",
-          "party_code": "unknown",
+          "party_code": "?",
           "party_symbol": "House",
           "votes": 9217
         },
@@ -2455,7 +2455,7 @@
       "single_results": [
         {
           "candidate": "V.N. Navaratnam",
-          "party_code": "unknown",
+          "party_code": "?",
           "party_symbol": "House",
           "votes": 15473
         },
@@ -2485,7 +2485,7 @@
         },
         {
           "candidate": "M. Alalasundaram",
-          "party_code": "unknown",
+          "party_code": "?",
           "party_symbol": "House",
           "votes": 8392
         },
@@ -2497,7 +2497,7 @@
         },
         {
           "candidate": "A. Shivasunderam",
-          "party_code": "unknown",
+          "party_code": "Independent",
           "party_symbol": "Eye",
           "votes": 196
         },
@@ -2521,7 +2521,7 @@
       "single_results": [
         {
           "candidate": "V.A. Alegacone",
-          "party_code": "unknown",
+          "party_code": "?",
           "party_symbol": "House",
           "votes": 10697
         },
@@ -2551,7 +2551,7 @@
       "single_results": [
         {
           "candidate": "X.M. Sellathambu",
-          "party_code": "unknown",
+          "party_code": "?",
           "party_symbol": "House",
           "votes": 10947
         },
@@ -2575,7 +2575,7 @@
         },
         {
           "candidate": "A.D.A. Seneviratne",
-          "party_code": "unknown",
+          "party_code": "?",
           "party_symbol": "Tree",
           "votes": 137
         }
@@ -2593,7 +2593,7 @@
       "single_results": [
         {
           "candidate": "B. Neminathan",
-          "party_code": "unknown",
+          "party_code": "?",
           "party_symbol": "House",
           "votes": 12395
         },
@@ -2611,7 +2611,7 @@
         },
         {
           "candidate": "R.G.Senanayake",
-          "party_code": "unknown",
+          "party_code": "?",
           "party_symbol": "Bell",
           "votes": 601
         }
@@ -2635,13 +2635,13 @@
         },
         {
           "candidate": "A. Thangathurai",
-          "party_code": "unknown",
+          "party_code": "?",
           "party_symbol": "House",
           "votes": 19787
         },
         {
           "candidate": "H.D.L. Leelaratne",
-          "party_code": "unknown",
+          "party_code": "?",
           "party_symbol": "Ladder",
           "votes": 18698
         },
@@ -2677,7 +2677,7 @@
         },
         {
           "candidate": "P. Manicavasagam",
-          "party_code": "unknown",
+          "party_code": "?",
           "party_symbol": "House",
           "votes": 8420
         },
@@ -2713,7 +2713,7 @@
       "single_results": [
         {
           "candidate": "C. Rajadurai",
-          "party_code": "unknown",
+          "party_code": "?",
           "party_symbol": "House",
           "votes": 27661
         },
@@ -2773,7 +2773,7 @@
         },
         {
           "candidate": "Y.S. Minoris",
-          "party_code": "unknown",
+          "party_code": "LSSP",
           "party_symbol": "Chair",
           "votes": 414
         }
@@ -2797,7 +2797,7 @@
         },
         {
           "candidate": "S.M. Rasamanickam",
-          "party_code": "unknown",
+          "party_code": "?",
           "party_symbol": "House",
           "votes": 12723
         }
@@ -2827,7 +2827,7 @@
         },
         {
           "candidate": "A. Udumalebbe",
-          "party_code": "unknown",
+          "party_code": "?",
           "party_symbol": "House",
           "votes": 4960
         }
@@ -2851,7 +2851,7 @@
         },
         {
           "candidate": "M.I.M. Abdul Majeed",
-          "party_code": "unknown",
+          "party_code": "?",
           "party_symbol": "Radio",
           "votes": 13406
         },
@@ -2917,7 +2917,7 @@
         },
         {
           "candidate": "T. Don Augustine",
-          "party_code": "unknown",
+          "party_code": "LSSP",
           "party_symbol": "Chair",
           "votes": 2209
         },
@@ -2941,7 +2941,7 @@
       "single_results": [
         {
           "candidate": "M. Tennekoon",
-          "party_code": "unknown",
+          "party_code": "?",
           "party_symbol": "Flower",
           "votes": 24163
         },
@@ -2953,7 +2953,7 @@
         },
         {
           "candidate": "D.R.M. Panditha Koralage",
-          "party_code": "unknown",
+          "party_code": "LSSP",
           "party_symbol": "Chair",
           "votes": 1633
         },
@@ -2971,7 +2971,7 @@
         },
         {
           "candidate": "O.N. Wanduragala",
-          "party_code": "unknown",
+          "party_code": "Independent",
           "party_symbol": "Butterfly",
           "votes": 612
         }
@@ -3001,7 +3001,7 @@
         },
         {
           "candidate": "H.M.P.K. B. Herath",
-          "party_code": "unknown",
+          "party_code": "?",
           "party_symbol": "Bell",
           "votes": 359
         }
@@ -3061,7 +3061,7 @@
         },
         {
           "candidate": "Ariyadasa Sikurajapati",
-          "party_code": "unknown",
+          "party_code": "?",
           "party_symbol": "Bell",
           "votes": 223
         }
@@ -3091,7 +3091,7 @@
         },
         {
           "candidate": "Allan Edward Fernando",
-          "party_code": "unknown",
+          "party_code": "?",
           "party_symbol": "Bell",
           "votes": 240
         }
@@ -3145,7 +3145,7 @@
         },
         {
           "candidate": "W. George Fernando",
-          "party_code": "unknown",
+          "party_code": "?",
           "party_symbol": "Bell",
           "votes": 131
         }
@@ -3199,7 +3199,7 @@
         },
         {
           "candidate": "K.B. Dharmadasa",
-          "party_code": "unknown",
+          "party_code": "LSSP",
           "party_symbol": "Chair",
           "votes": 413
         }
@@ -3253,7 +3253,7 @@
         },
         {
           "candidate": "R.G. Senanayake",
-          "party_code": "unknown",
+          "party_code": "?",
           "party_symbol": "Bell",
           "votes": 6017
         }
@@ -3307,7 +3307,7 @@
         },
         {
           "candidate": "R.M.P.R. Lionel Kehelwatugoda",
-          "party_code": "unknown",
+          "party_code": "?",
           "party_symbol": "Bell",
           "votes": 94
         }
@@ -3361,7 +3361,7 @@
         },
         {
           "candidate": "C.A. Mathew",
-          "party_code": "unknown",
+          "party_code": "?",
           "party_symbol": "Bell",
           "votes": 383
         }
@@ -3391,13 +3391,13 @@
         },
         {
           "candidate": "M.H.Y. Ariyapala",
-          "party_code": "unknown",
+          "party_code": "?",
           "party_symbol": "Flower",
           "votes": 62
         },
         {
           "candidate": "G.A.W. Alwis",
-          "party_code": "unknown",
+          "party_code": "?",
           "party_symbol": "Bell",
           "votes": 61
         }
@@ -3427,7 +3427,7 @@
         },
         {
           "candidate": "W.S. Abhayasinghe",
-          "party_code": "unknown",
+          "party_code": "?",
           "party_symbol": "Bell",
           "votes": 135
         }
@@ -3481,7 +3481,7 @@
         },
         {
           "candidate": "M.W.K. Pandula",
-          "party_code": "unknown",
+          "party_code": "?",
           "party_symbol": "Ship",
           "votes": 126
         }
@@ -3535,7 +3535,7 @@
         },
         {
           "candidate": "R.D.B. Jayasundara",
-          "party_code": "unknown",
+          "party_code": "?",
           "party_symbol": "Bell",
           "votes": 750
         },
@@ -3619,7 +3619,7 @@
         },
         {
           "candidate": "L.R.M.G. Ratnayake",
-          "party_code": "unknown",
+          "party_code": "LSSP",
           "party_symbol": "Chair",
           "votes": 219
         }
@@ -3673,13 +3673,13 @@
         },
         {
           "candidate": "Pin Siri Fernando",
-          "party_code": "unknown",
+          "party_code": "?",
           "party_symbol": "Bell",
           "votes": 176
         },
         {
           "candidate": "Ratnam Kumaravel",
-          "party_code": "unknown",
+          "party_code": "?",
           "party_symbol": "Sewing Machine",
           "votes": 114
         }
@@ -3769,13 +3769,13 @@
         },
         {
           "candidate": "W.D. Jothiratne'",
-          "party_code": "unknown",
+          "party_code": "?",
           "party_symbol": "Bell",
           "votes": 249
         },
         {
           "candidate": "E.B. Dimbulana",
-          "party_code": "unknown",
+          "party_code": "LSSP",
           "party_symbol": "Chair",
           "votes": 245
         },
@@ -3799,7 +3799,7 @@
       "single_results": [
         {
           "candidate": "R.M. Bandara",
-          "party_code": "unknown",
+          "party_code": "?",
           "party_symbol": "Uncontested",
           "votes": 0
         }
@@ -3883,7 +3883,7 @@
         },
         {
           "candidate": "B.A.L. Wijewardhana",
-          "party_code": "unknown",
+          "party_code": "?",
           "party_symbol": "Ship",
           "votes": 468
         }
@@ -3937,7 +3937,7 @@
         },
         {
           "candidate": "P.R. Navaratne",
-          "party_code": "unknown",
+          "party_code": "?",
           "party_symbol": "Bell",
           "votes": 297
         }
@@ -3967,7 +3967,7 @@
         },
         {
           "candidate": "M. Athurupana",
-          "party_code": "unknown",
+          "party_code": "?",
           "party_symbol": "Bell",
           "votes": 239
         }
@@ -4021,7 +4021,7 @@
         },
         {
           "candidate": "M.I.M. Maujoud",
-          "party_code": "unknown",
+          "party_code": "?",
           "party_symbol": "Bell",
           "votes": 475
         }
@@ -4099,7 +4099,7 @@
         },
         {
           "candidate": "T.H. Fernando (Mrs.)",
-          "party_code": "unknown",
+          "party_code": "?",
           "party_symbol": "Bell",
           "votes": 355
         }
@@ -4129,13 +4129,13 @@
         },
         {
           "candidate": "A.E. B. Kiriella",
-          "party_code": "unknown",
+          "party_code": "LSSP",
           "party_symbol": "Chair",
           "votes": 300
         },
         {
           "candidate": "Arthur Daundasekera",
-          "party_code": "unknown",
+          "party_code": "?",
           "party_symbol": "Bell",
           "votes": 153
         }
@@ -4165,13 +4165,13 @@
         },
         {
           "candidate": "K.V. Dharmadasa",
-          "party_code": "unknown",
+          "party_code": "LSSP",
           "party_symbol": "Chair",
           "votes": 190
         },
         {
           "candidate": "K.T. Manis Singho",
-          "party_code": "unknown",
+          "party_code": "?",
           "party_symbol": "Bell",
           "votes": 159
         }
@@ -4225,13 +4225,13 @@
         },
         {
           "candidate": "S. Srikandam",
-          "party_code": "unknown",
+          "party_code": "Independent",
           "party_symbol": "Eye",
           "votes": 222
         },
         {
           "candidate": "B. Delgoda",
-          "party_code": "unknown",
+          "party_code": "LSSP",
           "party_symbol": "Chair",
           "votes": 176
         }
@@ -4285,7 +4285,7 @@
         },
         {
           "candidate": "D.M.S. Dharmatillake (Mrs.)",
-          "party_code": "unknown",
+          "party_code": "?",
           "party_symbol": "Bell",
           "votes": 368
         }
@@ -4315,7 +4315,7 @@
         },
         {
           "candidate": "P. Soma Mathew (Mrs.)",
-          "party_code": "unknown",
+          "party_code": "?",
           "party_symbol": "Bell",
           "votes": 85
         }
