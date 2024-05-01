@@ -16,7 +16,7 @@ class ResultFPTP(Validatable):
     def pd_id(self):
         pd_list = Ent.list_from_name_fuzzy(self.electorate_name, EntType.PD, None, 1, 0.7)
         if not pd_list:
-            return None
+            return '-'
         return pd_list[0].id
     
     def to_dict(self):
@@ -43,7 +43,7 @@ class ResultFPTP(Validatable):
             errors += single_result.validate()
         errors += self.summary.validate()
 
-        if self.pd_id is None:
+        if self.pd_id == '-':
             errors.append(f"PD not found for {self.electorate_name}")
 
         exp_valid = sum(
