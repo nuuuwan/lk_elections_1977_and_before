@@ -36,4 +36,4 @@ class Delimitation:
     
     @staticmethod
     def get_pd_id_list(year, electorate_name):
-        return Delimitation.from_year(year).name_to_pd_list[electorate_name]
+        return Delimitation.from_year(year).name_to_pd_list.get(electorate_name, [])

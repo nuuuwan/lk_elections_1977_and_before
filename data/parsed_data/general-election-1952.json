@@ -4,7 +4,9 @@
     {
       "row_num": 1,
       "electorate_name": "Colombo North",
-      "pd_id": "EC-01A",
+      "pd_id_list": [
+        "EC-01A"
+      ],
       "single_results": [
         {
           "candidate": "Perera, Cyril E.S.",
@@ -41,7 +43,10 @@
     {
       "row_num": 2,
       "electorate_name": "Colombo Central",
-      "pd_id": "EC-01B",
+      "pd_id_list": [
+        "EC-01B",
+        "EC-01C"
+      ],
       "single_results": [
         {
           "candidate": "Keuneman, Pieter",
@@ -96,7 +101,10 @@
     {
       "row_num": 3,
       "electorate_name": "Colombo South",
-      "pd_id": "-",
+      "pd_id_list": [
+        "EC-01D",
+        "EC-01E"
+      ],
       "single_results": [
         {
           "candidate": "Jayawardena T.F.",
@@ -127,7 +135,7 @@
     {
       "row_num": 4,
       "electorate_name": "Wellawatte-Galkissa",
-      "pd_id": "-",
+      "pd_id_list": [],
       "single_results": [
         {
           "candidate": "Jayasinghe S. de S.",
@@ -158,7 +166,10 @@
     {
       "row_num": 5,
       "electorate_name": "Ja-ela",
-      "pd_id": "EC-02I",
+      "pd_id_list": [
+        "EC-02A",
+        "EC-02I"
+      ],
       "single_results": [
         {
           "candidate": "Jayasuriya D.P.",
@@ -195,7 +206,10 @@
     {
       "row_num": 6,
       "electorate_name": "Negombo",
-      "pd_id": "EC-02B",
+      "pd_id_list": [
+        "EC-02B",
+        "EC-02C"
+      ],
       "single_results": [
         {
           "candidate": "Abeysinghe A.N. D.A.",
@@ -238,7 +252,11 @@
     {
       "row_num": 7,
       "electorate_name": "Mirigama",
-      "pd_id": "EC-02E",
+      "pd_id_list": [
+        "EC-02D",
+        "EC-02E",
+        "EC-02F"
+      ],
       "single_results": [
         {
           "candidate": "Amaratunga, John Edmund",
@@ -263,7 +281,10 @@
     {
       "row_num": 8,
       "electorate_name": "Gampaha",
-      "pd_id": "EC-02H",
+      "pd_id_list": [
+        "EC-02H",
+        "EC-02J"
+      ],
       "single_results": [
         {
           "candidate": "Bandaranayake, S. Dias",
@@ -300,7 +321,10 @@
     {
       "row_num": 9,
       "electorate_name": "Attanagalla",
-      "pd_id": "EC-02G",
+      "pd_id_list": [
+        "EC-02G",
+        "EC-02K"
+      ],
       "single_results": [
         {
           "candidate": "Bandaranaike, S.W.R.D.",
@@ -325,7 +349,10 @@
     {
       "row_num": 10,
       "electorate_name": "Kelaniya",
-      "pd_id": "EC-02M",
+      "pd_id_list": [
+        "EC-02L",
+        "EC-02M"
+      ],
       "single_results": [
         {
           "candidate": "Jayawardena J.R.",
@@ -362,7 +389,11 @@
     {
       "row_num": 11,
       "electorate_name": "Avissawella",
-      "pd_id": "EC-01K",
+      "pd_id_list": [
+        "EC-01K",
+        "EC-01J",
+        "EC-01H"
+      ],
       "single_results": [
         {
           "candidate": "Gunawardena, Kusumasiri (Mrs)",
@@ -387,7 +418,11 @@
     {
       "row_num": 12,
       "electorate_name": "Kotte",
-      "pd_id": "EC-01I",
+      "pd_id_list": [
+        "EC-01I",
+        "EC-01N",
+        "EC-01M"
+      ],
       "single_results": [
         {
           "candidate": "Gunawardena, R.",
@@ -418,7 +453,10 @@
     {
       "row_num": 13,
       "electorate_name": "Horana",
-      "pd_id": "EC-03C",
+      "pd_id_list": [
+        "EC-03C",
+        "EC-03D"
+      ],
       "single_results": [
         {
           "candidate": "Jayawardena M.D.H.",
@@ -455,7 +493,10 @@
     {
       "row_num": 14,
       "electorate_name": "Moratuwa",
-      "pd_id": "EC-01O",
+      "pd_id_list": [
+        "EC-01O",
+        "EC-01G"
+      ],
       "single_results": [
         {
           "candidate": "Somaweera, Chandrasiri",
@@ -486,7 +527,10 @@
     {
       "row_num": 15,
       "electorate_name": "Panadura",
-      "pd_id": "EC-03A",
+      "pd_id_list": [
+        "EC-03A",
+        "EC-03B"
+      ],
       "single_results": [
         {
           "candidate": "Kannangara D.C.W.",
@@ -523,7 +567,10 @@
     {
       "row_num": 16,
       "electorate_name": "Kalutara",
-      "pd_id": "EC-03F",
+      "pd_id_list": [
+        "EC-03F",
+        "EC-03G"
+      ],
       "single_results": [
         {
           "candidate": "Cooray , P.A.",
@@ -560,7 +607,9 @@
     {
       "row_num": 17,
       "electorate_name": "Matugama",
-      "pd_id": "EC-03E",
+      "pd_id_list": [
+        "EC-03E"
+      ],
       "single_results": [
         {
           "candidate": "Perera Wilmot A.",
@@ -585,7 +634,9 @@
     {
       "row_num": 18,
       "electorate_name": "Agalawatta",
-      "pd_id": "EC-03H",
+      "pd_id_list": [
+        "EC-03H"
+      ],
       "single_results": [
         {
           "candidate": "Kannangara C.W.W.",
@@ -628,7 +679,10 @@
     {
       "row_num": 19,
       "electorate_name": "Dambulla",
-      "pd_id": "EC-05A",
+      "pd_id_list": [
+        "EC-05A",
+        "EC-05B"
+      ],
       "single_results": [
         {
           "candidate": "Tenne, H.B.",
@@ -665,7 +719,10 @@
     {
       "row_num": 20,
       "electorate_name": "Matale",
-      "pd_id": "EC-05C",
+      "pd_id_list": [
+        "EC-05C",
+        "EC-05D"
+      ],
       "single_results": [
         {
           "candidate": "Aluwihare Bernard",
@@ -690,7 +747,10 @@
     {
       "row_num": 21,
       "electorate_name": "Minipe",
-      "pd_id": "-",
+      "pd_id_list": [
+        "EC-04D",
+        "EC-04E"
+      ],
       "single_results": [
         {
           "candidate": "Rambukwelle Dissawa, H.B.",
@@ -721,7 +781,10 @@
     {
       "row_num": 22,
       "electorate_name": "Wattegama",
-      "pd_id": "-",
+      "pd_id_list": [
+        "EC-04B",
+        "EC-04C"
+      ],
       "single_results": [
         {
           "candidate": "Ratnayake, A.",
@@ -752,7 +815,11 @@
     {
       "row_num": 23,
       "electorate_name": "Kadugannawa",
-      "pd_id": "-",
+      "pd_id_list": [
+        "EC-04A",
+        "EC-04J",
+        "EC-04K"
+      ],
       "single_results": [
         {
           "candidate": "Nugawela, E.A.",
@@ -801,7 +868,11 @@
     {
       "row_num": 24,
       "electorate_name": "Kandy",
-      "pd_id": "-",
+      "pd_id_list": [
+        "EC-04F",
+        "EC-04H",
+        "EC-04I"
+      ],
       "single_results": [
         {
           "candidate": "Senanayake, E.L.",
@@ -832,7 +903,9 @@
     {
       "row_num": 25,
       "electorate_name": "Galaha",
-      "pd_id": "-",
+      "pd_id_list": [
+        "EC-04G"
+      ],
       "single_results": [
         {
           "candidate": "Panabokke, Theodore Braybrooke",
@@ -869,7 +942,9 @@
     {
       "row_num": 26,
       "electorate_name": "Gampola",
-      "pd_id": "EC-04L",
+      "pd_id_list": [
+        "EC-04L"
+      ],
       "single_results": [
         {
           "candidate": "De Silva, M.W.R.",
@@ -918,7 +993,11 @@
     {
       "row_num": 27,
       "electorate_name": "Maturata",
-      "pd_id": "-",
+      "pd_id_list": [
+        "EC-06B",
+        "EC-06C",
+        "EC-06D"
+      ],
       "single_results": [
         {
           "candidate": "Banda, M.D.",
@@ -955,7 +1034,7 @@
     {
       "row_num": 28,
       "electorate_name": "Nuwara-Eliya",
-      "pd_id": "-",
+      "pd_id_list": [],
       "single_results": [
         {
           "candidate": "Sumanatilaka, P.P.",
@@ -992,7 +1071,7 @@
     {
       "row_num": 29,
       "electorate_name": "Talawakele",
-      "pd_id": "-",
+      "pd_id_list": [],
       "single_results": [
         {
           "candidate": "De Mel, H.E.P.",
@@ -1023,7 +1102,9 @@
     {
       "row_num": 30,
       "electorate_name": "Kotagala",
-      "pd_id": "-",
+      "pd_id_list": [
+        "EC-06A23"
+      ],
       "single_results": [
         {
           "candidate": "Unamboowe, U.B.",
@@ -1060,7 +1141,9 @@
     {
       "row_num": 31,
       "electorate_name": "Nawalapitiya",
-      "pd_id": "EC-04M",
+      "pd_id_list": [
+        "EC-04M"
+      ],
       "single_results": [
         {
           "candidate": "Jayatilaka, Robert Edward",
@@ -1091,7 +1174,9 @@
     {
       "row_num": 32,
       "electorate_name": "Maskeliya",
-      "pd_id": "-",
+      "pd_id_list": [
+        "EC-06A21"
+      ],
       "single_results": [
         {
           "candidate": "Silva P.H.C.",
@@ -1134,7 +1219,13 @@
     {
       "row_num": 33,
       "electorate_name": "Ambalangoda-Balapitiya",
-      "pd_id": "-",
+      "pd_id_list": [
+        "EC-07A",
+        "EC-07B",
+        "EC-07C",
+        "EC-07D",
+        "EC-07G"
+      ],
       "single_results": [
         {
           "candidate": "De Zoysa, Ian",
@@ -1189,7 +1280,9 @@
     {
       "row_num": 34,
       "electorate_name": "Baddegama",
-      "pd_id": "EC-07F",
+      "pd_id_list": [
+        "EC-07F"
+      ],
       "single_results": [
         {
           "candidate": "Abeywickrema, Henry",
@@ -1232,7 +1325,9 @@
     {
       "row_num": 35,
       "electorate_name": "Udugama",
-      "pd_id": "-",
+      "pd_id_list": [
+        "EC-07E"
+      ],
       "single_results": [
         {
           "candidate": "De Alwis, William Neal",
@@ -1263,7 +1358,11 @@
     {
       "row_num": 36,
       "electorate_name": "Galle",
-      "pd_id": "EC-07H",
+      "pd_id_list": [
+        "EC-07H",
+        "EC-07I",
+        "EC-07J"
+      ],
       "single_results": [
         {
           "candidate": "Dahanayake, Wijayananda",
@@ -1294,7 +1393,9 @@
     {
       "row_num": 37,
       "electorate_name": "Weligama",
-      "pd_id": "EC-08G",
+      "pd_id_list": [
+        "EC-08G"
+      ],
       "single_results": [
         {
           "candidate": "Jayawickrema, Montague",
@@ -1319,7 +1420,10 @@
     {
       "row_num": 38,
       "electorate_name": "Akuressa",
-      "pd_id": "EC-08C",
+      "pd_id_list": [
+        "EC-08C",
+        "EC-08D"
+      ],
       "single_results": [
         {
           "candidate": "Wickremasinghe, Doreen(Mrs)",
@@ -1344,7 +1448,10 @@
     {
       "row_num": 39,
       "electorate_name": "Matara",
-      "pd_id": "EC-08F",
+      "pd_id_list": [
+        "EC-08E",
+        "EC-08F"
+      ],
       "single_results": [
         {
           "candidate": "Samaraweera, Mahanama",
@@ -1381,7 +1488,9 @@
     {
       "row_num": 40,
       "electorate_name": "Hakmana",
-      "pd_id": "EC-08B",
+      "pd_id_list": [
+        "EC-08B"
+      ],
       "single_results": [
         {
           "candidate": "Dharmapala, C.A.",
@@ -1412,7 +1521,9 @@
     {
       "row_num": 41,
       "electorate_name": "Deniyaya",
-      "pd_id": "EC-08A",
+      "pd_id_list": [
+        "EC-08A"
+      ],
       "single_results": [
         {
           "candidate": "Ratnayake, Victor",
@@ -1437,7 +1548,10 @@
     {
       "row_num": 42,
       "electorate_name": "Beliatta",
-      "pd_id": "EC-09B",
+      "pd_id_list": [
+        "EC-09A",
+        "EC-09B"
+      ],
       "single_results": [
         {
           "candidate": "Rajapaksa D.A.",
@@ -1462,7 +1576,10 @@
     {
       "row_num": 43,
       "electorate_name": "Hambantota",
-      "pd_id": "-",
+      "pd_id_list": [
+        "EC-09C",
+        "EC-09D"
+      ],
       "single_results": [
         {
           "candidate": "Edirisuriya, Charles",
@@ -1505,7 +1622,9 @@
     {
       "row_num": 44,
       "electorate_name": "Kayts",
-      "pd_id": "EC-10A",
+      "pd_id_list": [
+        "EC-10A"
+      ],
       "single_results": [
         {
           "candidate": "Thambiayah, Alfred",
@@ -1548,7 +1667,7 @@
     {
       "row_num": 45,
       "electorate_name": "Vaddukoddai",
-      "pd_id": "EC-10B",
+      "pd_id_list": [],
       "single_results": [
         {
           "candidate": "Veerasingam, V.",
@@ -1597,7 +1716,7 @@
     {
       "row_num": 46,
       "electorate_name": "Kankesanturai",
-      "pd_id": "EC-10C",
+      "pd_id_list": [],
       "single_results": [
         {
           "candidate": "Natesan, Subbaiya",
@@ -1622,7 +1741,10 @@
     {
       "row_num": 47,
       "electorate_name": "Jaffna",
-      "pd_id": "EC-10J",
+      "pd_id_list": [
+        "EC-10I",
+        "EC-10J"
+      ],
       "single_results": [
         {
           "candidate": "Ponnambalam, G.G.",
@@ -1647,7 +1769,10 @@
     {
       "row_num": 48,
       "electorate_name": "Kopay",
-      "pd_id": "EC-10E",
+      "pd_id_list": [
+        "EC-10D",
+        "EC-10E"
+      ],
       "single_results": [
         {
           "candidate": "Vanniasingam, C.",
@@ -1678,7 +1803,10 @@
     {
       "row_num": 49,
       "electorate_name": "Point Pedro",
-      "pd_id": "EC-10G",
+      "pd_id_list": [
+        "EC-10F",
+        "EC-10G"
+      ],
       "single_results": [
         {
           "candidate": "Ramalingam T.",
@@ -1715,7 +1843,10 @@
     {
       "row_num": 50,
       "electorate_name": "Chavakachcheri",
-      "pd_id": "EC-10H",
+      "pd_id_list": [
+        "EC-10H",
+        "EC-10K"
+      ],
       "single_results": [
         {
           "candidate": "Kumarasamy V.",
@@ -1740,7 +1871,9 @@
     {
       "row_num": 51,
       "electorate_name": "Mannar",
-      "pd_id": "EC-11A",
+      "pd_id_list": [
+        "EC-11A"
+      ],
       "single_results": [
         {
           "candidate": "Sittampalam, Cathiravelu",
@@ -1765,7 +1898,10 @@
     {
       "row_num": 52,
       "electorate_name": "Vavuniya",
-      "pd_id": "EC-11B",
+      "pd_id_list": [
+        "EC-11B",
+        "EC-11C"
+      ],
       "single_results": [
         {
           "candidate": "Suntharalingam, C.",
@@ -1802,7 +1938,10 @@
     {
       "row_num": 53,
       "electorate_name": "Trincomalee",
-      "pd_id": "EC-14B",
+      "pd_id_list": [
+        "EC-14A",
+        "EC-14B"
+      ],
       "single_results": [
         {
           "candidate": "Rajavarothiam, N.R.",
@@ -1833,7 +1972,9 @@
     {
       "row_num": 54,
       "electorate_name": "Mutur",
-      "pd_id": "EC-14C",
+      "pd_id_list": [
+        "EC-14C"
+      ],
       "single_results": [
         {
           "candidate": "Mohamed Ali, M.E.H.",
@@ -1858,7 +1999,9 @@
     {
       "row_num": 55,
       "electorate_name": "Kalkudah",
-      "pd_id": "EC-12A",
+      "pd_id_list": [
+        "EC-12A"
+      ],
       "single_results": [
         {
           "candidate": "Nalliah, V.",
@@ -1883,7 +2026,9 @@
     {
       "row_num": 56,
       "electorate_name": "Batticaloa",
-      "pd_id": "EC-12B",
+      "pd_id_list": [
+        "EC-12B"
+      ],
       "single_results": [
         {
           "candidate": "Kadramer R.B.",
@@ -1908,7 +2053,7 @@
     {
       "row_num": 57,
       "electorate_name": "Padiruppu",
-      "pd_id": "EC-12C",
+      "pd_id_list": [],
       "single_results": [
         {
           "candidate": "Rasamanickam, S.M.",
@@ -1939,7 +2084,9 @@
     {
       "row_num": 58,
       "electorate_name": "Kalmunai",
-      "pd_id": "EC-13C",
+      "pd_id_list": [
+        "EC-13C"
+      ],
       "single_results": [
         {
           "candidate": "Merza, A.M.",
@@ -1970,7 +2117,11 @@
     {
       "row_num": 59,
       "electorate_name": "Pottuvil",
-      "pd_id": "EC-13D",
+      "pd_id_list": [
+        "EC-13A",
+        "EC-13B",
+        "EC-13D"
+      ],
       "single_results": [
         {
           "candidate": "Ebrahim Hadjiar, M.M.",
@@ -1995,7 +2146,10 @@
     {
       "row_num": 60,
       "electorate_name": "Puttalam",
-      "pd_id": "EC-16A",
+      "pd_id_list": [
+        "EC-16A",
+        "EC-16B"
+      ],
       "single_results": [
         {
           "candidate": "Ismail Hameed Hussain Sheikh",
@@ -2020,7 +2174,12 @@
     {
       "row_num": 61,
       "electorate_name": "Nikaweratiya",
-      "pd_id": "EC-15B",
+      "pd_id_list": [
+        "EC-15A",
+        "EC-15B",
+        "EC-15C",
+        "EC-15D"
+      ],
       "single_results": [
         {
           "candidate": "Herat, Kavisena",
@@ -2045,7 +2204,9 @@
     {
       "row_num": 62,
       "electorate_name": "Dodangaslanda",
-      "pd_id": "EC-15N",
+      "pd_id_list": [
+        "EC-15N"
+      ],
       "single_results": [
         {
           "candidate": "Kotalawala, Sir John",
@@ -2070,7 +2231,10 @@
     {
       "row_num": 63,
       "electorate_name": "Kurunegala",
-      "pd_id": "EC-15L",
+      "pd_id_list": [
+        "EC-15L",
+        "EC-15M"
+      ],
       "single_results": [
         {
           "candidate": "Welagedera, D.B.",
@@ -2095,7 +2259,9 @@
     {
       "row_num": 64,
       "electorate_name": "Dambadeniya",
-      "pd_id": "EC-15J",
+      "pd_id_list": [
+        "EC-15J.15K"
+      ],
       "single_results": [
         {
           "candidate": "Senanayake , R.G.",
@@ -2126,7 +2292,10 @@
     {
       "row_num": 65,
       "electorate_name": "Wariyapola",
-      "pd_id": "EC-15E",
+      "pd_id_list": [
+        "EC-15E",
+        "EC-15F"
+      ],
       "single_results": [
         {
           "candidate": "Dasanayaike, Ivan T.",
@@ -2157,7 +2326,9 @@
     {
       "row_num": 66,
       "electorate_name": "Dandagamuwa",
-      "pd_id": "-",
+      "pd_id_list": [
+        "EC-15I"
+      ],
       "single_results": [
         {
           "candidate": "Iriyagolla, I.M.R.A.",
@@ -2194,7 +2365,10 @@
     {
       "row_num": 67,
       "electorate_name": "Bingiriya",
-      "pd_id": "EC-15G",
+      "pd_id_list": [
+        "EC-15G",
+        "EC-15H"
+      ],
       "single_results": [
         {
           "candidate": "Subasinghe, T.B.",
@@ -2225,7 +2399,9 @@
     {
       "row_num": 68,
       "electorate_name": "Chilaw",
-      "pd_id": "EC-16C",
+      "pd_id_list": [
+        "EC-16C"
+      ],
       "single_results": [
         {
           "candidate": "Corea, S. G. Shirley",
@@ -2256,7 +2432,10 @@
     {
       "row_num": 69,
       "electorate_name": "Nattandiya",
-      "pd_id": "EC-16D",
+      "pd_id_list": [
+        "EC-16D",
+        "EC-16E"
+      ],
       "single_results": [
         {
           "candidate": "Peries, Albert F.",
@@ -2281,7 +2460,9 @@
     {
       "row_num": 70,
       "electorate_name": "Medawachchiya",
-      "pd_id": "EC-17A",
+      "pd_id_list": [
+        "EC-17A"
+      ],
       "single_results": [
         {
           "candidate": "Senanayake , Maithripala",
@@ -2306,7 +2487,10 @@
     {
       "row_num": 71,
       "electorate_name": "Anuradhapura",
-      "pd_id": "-",
+      "pd_id_list": [
+        "EC-17C",
+        "EC-17D"
+      ],
       "single_results": [
         {
           "candidate": "Bulankulame, Punchi Banda",
@@ -2343,7 +2527,10 @@
     {
       "row_num": 72,
       "electorate_name": "Kalawewa",
-      "pd_id": "EC-17E",
+      "pd_id_list": [
+        "EC-17E",
+        "EC-17G"
+      ],
       "single_results": [
         {
           "candidate": "Mahadiulwewa S.H.",
@@ -2380,7 +2567,7 @@
     {
       "row_num": 73,
       "electorate_name": "Horowupotana",
-      "pd_id": "EC-17B",
+      "pd_id_list": [],
       "single_results": [
         {
           "candidate": "Poholiyadde, T.B.",
@@ -2417,7 +2604,9 @@
     {
       "row_num": 74,
       "electorate_name": "Polonnaruwa",
-      "pd_id": "EC-18C",
+      "pd_id_list": [
+        "EC-18C"
+      ],
       "single_results": [
         {
           "candidate": "de Silva C.P.",
@@ -2448,7 +2637,10 @@
     {
       "row_num": 75,
       "electorate_name": "Alutnuwara",
-      "pd_id": "-",
+      "pd_id_list": [
+        "EC-18A",
+        "EC-18B"
+      ],
       "single_results": [
         {
           "candidate": "Rambukpota, J.A.",
@@ -2497,7 +2689,13 @@
     {
       "row_num": 76,
       "electorate_name": "Badulla",
-      "pd_id": "EC-19D",
+      "pd_id_list": [
+        "EC-19A",
+        "EC-19B",
+        "EC-19C",
+        "EC-19D",
+        "EC-19E"
+      ],
       "single_results": [
         {
           "candidate": "Kotalawala, J.C.T.",
@@ -2546,7 +2744,9 @@
     {
       "row_num": 77,
       "electorate_name": "Bandarawela",
-      "pd_id": "EC-19H",
+      "pd_id_list": [
+        "EC-19H"
+      ],
       "single_results": [
         {
           "candidate": "Sugathadasa K. Don",
@@ -2583,7 +2783,10 @@
     {
       "row_num": 78,
       "electorate_name": "Welimada",
-      "pd_id": "EC-19G",
+      "pd_id_list": [
+        "EC-19F",
+        "EC-19G"
+      ],
       "single_results": [
         {
           "candidate": "Bambarapane M.B.",
@@ -2620,7 +2823,9 @@
     {
       "row_num": 79,
       "electorate_name": "Haputale",
-      "pd_id": "EC-19I",
+      "pd_id_list": [
+        "EC-19I"
+      ],
       "single_results": [
         {
           "candidate": "Ratwatte, Wilfred A.",
@@ -2669,7 +2874,10 @@
     {
       "row_num": 80,
       "electorate_name": "Buttala",
-      "pd_id": "-",
+      "pd_id_list": [
+        "EC-21A",
+        "EC-21B.21C"
+      ],
       "single_results": [
         {
           "candidate": "Fernando, W. Leo",
@@ -2706,7 +2914,10 @@
     {
       "row_num": 81,
       "electorate_name": "Mawanella",
-      "pd_id": "EC-22E",
+      "pd_id_list": [
+        "EC-22D",
+        "EC-22E"
+      ],
       "single_results": [
         {
           "candidate": "Beligammana, C.R.",
@@ -2737,7 +2948,7 @@
     {
       "row_num": 82,
       "electorate_name": "Kegalle",
-      "pd_id": "EC-22C",
+      "pd_id_list": [],
       "single_results": [
         {
           "candidate": "Keerthiratna, N.H.",
@@ -2768,7 +2979,10 @@
     {
       "row_num": 83,
       "electorate_name": "Dedigama",
-      "pd_id": "EC-22A",
+      "pd_id_list": [
+        "EC-22A",
+        "EC-22B"
+      ],
       "single_results": [
         {
           "candidate": "Senanayake, Dudley",
@@ -2799,7 +3013,11 @@
     {
       "row_num": 84,
       "electorate_name": "Ruwanwella",
-      "pd_id": "EC-22H",
+      "pd_id_list": [
+        "EC-22G",
+        "EC-22H",
+        "EC-22I"
+      ],
       "single_results": [
         {
           "candidate": "Perera N.M.",
@@ -2824,7 +3042,7 @@
     {
       "row_num": 85,
       "electorate_name": "Dehiowita",
-      "pd_id": "-",
+      "pd_id_list": [],
       "single_results": [
         {
           "candidate": "Samarakkody, Edmund",
@@ -2855,7 +3073,9 @@
     {
       "row_num": 86,
       "electorate_name": "Kiriella",
-      "pd_id": "-",
+      "pd_id_list": [
+        "EC-21A"
+      ],
       "single_results": [
         {
           "candidate": "Kiriella, A.E.B.",
@@ -2886,7 +3106,11 @@
     {
       "row_num": 87,
       "electorate_name": "Ratnapura",
-      "pd_id": "EC-21B",
+      "pd_id_list": [
+        "EC-21B",
+        "EC-21C",
+        "EC-21D"
+      ],
       "single_results": [
         {
           "candidate": "Attygalle, Cyril Eugene",
@@ -2911,7 +3135,12 @@
     {
       "row_num": 88,
       "electorate_name": "Nivitigala",
-      "pd_id": "EC-21F",
+      "pd_id_list": [
+        "EC-21E",
+        "EC-21F",
+        "EC-21G",
+        "EC-21H"
+      ],
       "single_results": [
         {
           "candidate": "Weragama, Harold",
@@ -2936,7 +3165,7 @@
     {
       "row_num": 89,
       "electorate_name": "Balangoda",
-      "pd_id": "EC-21D",
+      "pd_id_list": [],
       "single_results": [
         {
           "candidate": "Molamure A.F.",
@@ -2973,31 +3202,20 @@
   ],
   "errors": [
     "[electors < polled] 58400 < 122788",
-    "PD not found for Colombo South",
     "PD not found for Wellawatte-Galkissa",
-    "PD not found for Minipe",
-    "PD not found for Wattegama",
     "[electors < polled] 68444 < 90745",
-    "PD not found for Kadugannawa",
-    "PD not found for Kandy",
-    "PD not found for Galaha",
-    "PD not found for Maturata",
     "PD not found for Nuwara-Eliya",
     "PD not found for Talawakele",
-    "PD not found for Kotagala",
-    "PD not found for Maskeliya",
     "[electors < polled] 92398 < 130096",
-    "PD not found for Ambalangoda-Balapitiya",
-    "PD not found for Udugama",
-    "PD not found for Hambantota",
-    "PD not found for Dandagamuwa",
+    "PD not found for Vaddukoddai",
+    "PD not found for Kankesanturai",
+    "PD not found for Padiruppu",
     "[summary.valid != results-valid] 25834 != 20807",
-    "PD not found for Anuradhapura",
-    "PD not found for Alutnuwara",
+    "PD not found for Horowupotana",
     "[electors < polled] 28151 < 39753",
-    "PD not found for Buttala",
+    "PD not found for Kegalle",
     "PD not found for Dehiowita",
-    "PD not found for Kiriella",
-    "[electors < polled] 56096 < 76573"
+    "[electors < polled] 56096 < 76573",
+    "PD not found for Balangoda"
   ]
 }
