@@ -12,6 +12,10 @@ class Parser:
     def __init__(self, id):
         self.id = id
 
+    @property 
+    def year(self):
+        return int(self.id[:4])
+
     @property
     def pdf_path(self):
         return os.path.join(

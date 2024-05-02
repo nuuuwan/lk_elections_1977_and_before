@@ -22,7 +22,7 @@ class ElectionFPTP(Validatable):
     def to_dict(self):
         return dict(
             date_str=self.date_str,
-            results=[result.to_dict() for result in self.results],
+            results=[result.to_dict(self) for result in self.results],
         )
 
     def validate(self, context=None):

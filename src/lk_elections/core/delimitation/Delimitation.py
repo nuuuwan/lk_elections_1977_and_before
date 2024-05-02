@@ -17,11 +17,10 @@ class Delimitation:
             1959: Delimitation('1959', DELIMITATION_1959),
             1976: Delimitation('1976', DELIMITATION_1976),
         }
-
+    
     @staticmethod
-    def from_election(election):
-        year = election.year
-        delim = {
+    def get_delim_id_for_year(year):
+        return  {
             1947: 1946,
             1952: 1946,
             1956: 1946,
@@ -30,4 +29,11 @@ class Delimitation:
             1970: 1959,
             1977: 1976,
         }.get(year)
-        return Delimitation.idx()[delim]
+    
+    @staticmethod
+    def from_year(year):
+        return Delimitation.idx()[Delimitation.get_delim_id_for_year(year)]
+    
+    @staticmethod
+    def get_pd_id_list(year, electorate_name):
+        return Delimitation.from_year(year).name_to_pd_list[electorate_name]

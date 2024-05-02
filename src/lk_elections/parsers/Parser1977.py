@@ -3,6 +3,7 @@ from utils import Log
 
 from lk_elections.core import ResultFPTP, SingleResultFPTP, Summary
 from lk_elections.parsers.Parser import Parser
+from lk_elections.core.delimitation import Delimitation
 from utils_future import Int
 
 log = Log('Parser1977')
@@ -104,9 +105,12 @@ class Parser1977(Parser):
             if single_result is not None
         ]
 
+        pd_id_list= Delimitation.get_pd_id_list(self.year, electorate_name)
+
         result = ResultFPTP(
             row_num,
             electorate_name,
+            pd_id_list,
             single_results,
             summary,
         )

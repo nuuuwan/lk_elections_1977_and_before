@@ -11,20 +11,11 @@ from lk_elections.core.delimitation import Delimitation
 class ResultFPTP(Validatable):
     row_num: int
     electorate_name: str
+    pd_id_list: list[str]
     single_results: list[SingleResultFPTP]
     summary: Summary
 
-    @property
-    def pd_id_list(self):
-        search_key = self.electorate_name.replace('-', ' ').title()
-        delim = Delimitation.from_election(self)
-        idx = delim.name_to_pd_list
-        return idx.get(search_key, [])
-
-    @property
-    def pd_id_short(self):
-        return ','.join([pd_id[-2:] for pd_id in self.pd_id_list])
-    def to_dict(self):
+    def to_dict(self, election):
         return dict(
             row_num=self.row_num,
             electorate_name=self.electorate_name,
@@ -67,6 +58,7 @@ class ResultFPTP(Validatable):
         return ResultFPTP(
             row_num=result_data['row_num'],
             electorate_name=result_data['electorate_name'],
+            pd_id_list=result_data['pd_id_list'],
             single_results=[
                 SingleResultFPTP.from_dict(single_result_data)
                 for single_result_data in result_data['single_results']
