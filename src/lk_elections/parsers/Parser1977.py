@@ -87,7 +87,7 @@ class Parser1977(Parser):
         )
 
     @staticmethod
-    def parse_result(result_rows):
+    def parse_result(year, result_rows):
         # for i, row in enumerate(result_rows):
         #     log.debug(f'parse_result: {i}) {row}')
 
@@ -105,7 +105,7 @@ class Parser1977(Parser):
             if single_result is not None
         ]
 
-        pd_id_list= Delimitation.get_pd_id_list(self.year, electorate_name)
+        pd_id_list= Delimitation.get_pd_id_list(year, electorate_name)
 
         result = ResultFPTP(
             row_num,
@@ -120,6 +120,6 @@ class Parser1977(Parser):
     @property
     def results(self):
         return [
-            Parser1977.parse_result(result_rows)
+            Parser1977.parse_result(self.year, result_rows)
             for result_rows in self.result_rows_list
         ]
