@@ -14,7 +14,7 @@ class Parser:
 
     @property 
     def year(self):
-        return int(self.id[:4])
+        return int(str(self.id)[:4])
 
     @property
     def pdf_path(self):
