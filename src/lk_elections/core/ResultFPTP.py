@@ -17,8 +17,12 @@ class ResultFPTP(Validatable):
 
     @property 
     def pds_short(self):
-        return ' '.join([pd_id.split('-')[1] for pd_id in self.pd_id_list])
-
+        short_pd_id_list = []
+        for pd_id in self.pd_id_list:
+            short_pd_id = pd_id[-1:] if short_pd_id_list else pd_id[-3:]
+            short_pd_id_list.append(short_pd_id)
+        return ','.join(short_pd_id_list)
+    
     def to_dict(self, election):
         return dict(
             row_num=self.row_num,
