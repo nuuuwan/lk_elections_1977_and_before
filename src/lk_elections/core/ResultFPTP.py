@@ -48,7 +48,7 @@ class ResultFPTP(Validatable):
             errors += single_result.validate()
         errors += self.summary.validate()
 
-        if self.pd_id == '-':
+        if self.pd_id_list == []:
             errors.append(f"PD not found for {self.electorate_name}")
 
         exp_valid = sum(
