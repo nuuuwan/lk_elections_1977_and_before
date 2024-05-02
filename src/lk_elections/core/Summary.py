@@ -10,6 +10,10 @@ class Summary(Validatable):
     rejected: int
     valid: int
 
+    @property 
+    def p_turnout(self):
+        return self.polled / self.electors
+
     def to_dict(self):
         return dict(
             electors=self.electors,
