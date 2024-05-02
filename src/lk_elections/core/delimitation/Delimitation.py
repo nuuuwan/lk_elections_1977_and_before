@@ -5,7 +5,6 @@ from lk_elections.core.delimitation.DELIMITATION_1959 import DELIMITATION_1959
 from lk_elections.core.delimitation.DELIMITATION_1976 import DELIMITATION_1976
 
 
-
 @dataclass
 class Delimitation:
     id: str
