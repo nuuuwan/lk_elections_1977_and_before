@@ -15,6 +15,10 @@ class ResultFPTP(Validatable):
     single_results: list[SingleResultFPTP]
     summary: Summary
 
+    @property 
+    def pds_short(self):
+        return ' '.join([pd_id.split('-')[1] for pd_id in self.pd_id_list])
+
     def to_dict(self, election):
         return dict(
             row_num=self.row_num,
