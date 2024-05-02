@@ -1,8 +1,10 @@
 from dataclasses import dataclass
-from gig import Ent, EntType
+
+
 from lk_elections.core.SingleResultFPTP import SingleResultFPTP
 from lk_elections.core.Summary import Summary
 from lk_elections.core.Validatable import Validatable
+from lk_elections.core.delimitation import Delimitation
 
 
 @dataclass
@@ -12,25 +14,21 @@ class ResultFPTP(Validatable):
     single_results: list[SingleResultFPTP]
     summary: Summary
 
-    @property 
-    def pd_id(self):
+    @property
+    def pd_id_list(self):
         search_key = self.electorate_name.replace('-', ' ').title()
+        delim = Delimitation.from_election(self)
+        idx = delim.name_to_pd_list
+        return idx.get(search_key, [])
 
-        
-        pd_list = Ent.list_from_name_fuzzy(search_key, EntType.PD, None, 1, 85 )
-        if not pd_list:
-            return '-'
-        return pd_list[0].id
-    
     @property
     def pd_id_short(self):
-        return self.pd_id.split('-')[1]
-    
+        return ','.join([pd_id[-2:] for pd_id in self.pd_id_list])
     def to_dict(self):
         return dict(
             row_num=self.row_num,
             electorate_name=self.electorate_name,
-            pd_id=self.pd_id,
+            pd_id_list=self.pd_id_list,
             single_results=[
                 single_result.to_dict()
                 for single_result in self.single_results

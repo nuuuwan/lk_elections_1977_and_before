@@ -14,11 +14,11 @@ class SingleResultFPTP(Validatable):
     @cached_property
     def party_code(self):
         return Party.SYMBOL_TO_PARTY[self.party_symbol]
-    
+
     @cached_property
     def party_emoji(self):
         return Party.PARTY_TO_EMOJI.get(self.party_code, '')
-    
+
     @cached_property
     def party_emoji_and_code(self):
         return f"{self.party_emoji} {self.party_code}"
