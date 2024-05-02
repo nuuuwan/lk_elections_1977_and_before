@@ -49,6 +49,7 @@ class ResultFPTP(Validatable):
 
         if self.pd_id_list == []:
             errors.append(f"PD not found for {self.electorate_name}")
+            print(f"'{self.electorate_name}': '{self.electorate_name}',")
 
         exp_valid = sum(
             single_result.votes for single_result in self.single_results
