@@ -1,10 +1,8 @@
 from dataclasses import dataclass
 
-
 from lk_elections.core.SingleResultFPTP import SingleResultFPTP
 from lk_elections.core.Summary import Summary
 from lk_elections.core.Validatable import Validatable
-from lk_elections.core.delimitation import Delimitation
 
 
 @dataclass
@@ -15,14 +13,14 @@ class ResultFPTP(Validatable):
     single_results: list[SingleResultFPTP]
     summary: Summary
 
-    @property 
+    @property
     def pds_short(self):
         short_pd_id_list = []
         for pd_id in self.pd_id_list:
             short_pd_id = pd_id[-1:] if short_pd_id_list else pd_id[-3:]
             short_pd_id_list.append(short_pd_id)
         return ','.join(short_pd_id_list)
-    
+
     def to_dict(self, election):
         return dict(
             row_num=self.row_num,

@@ -2,8 +2,8 @@ import camelot
 from utils import Log
 
 from lk_elections.core import ResultFPTP, SingleResultFPTP, Summary
-from lk_elections.parsers.Parser import Parser
 from lk_elections.core.delimitation import Delimitation
+from lk_elections.parsers.Parser import Parser
 from utils_future import Int
 
 log = Log('Parser1947')
@@ -93,7 +93,7 @@ class Parser1947(Parser):
         )
 
     @staticmethod
-    def parse_result(year,result_rows):
+    def parse_result(year, result_rows):
         # for i, row in enumerate(result_rows):
         #     log.debug(f'parse_result: {i}) {row}')
 

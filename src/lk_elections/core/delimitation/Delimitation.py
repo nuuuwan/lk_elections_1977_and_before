@@ -5,6 +5,7 @@ from lk_elections.core.delimitation.DELIMITATION_1959 import DELIMITATION_1959
 from lk_elections.core.delimitation.DELIMITATION_1976 import DELIMITATION_1976
 
 
+
 @dataclass
 class Delimitation:
     id: str
@@ -17,10 +18,10 @@ class Delimitation:
             1959: Delimitation('1959', DELIMITATION_1959),
             1976: Delimitation('1976', DELIMITATION_1976),
         }
-    
+
     @staticmethod
     def get_delim_id_for_year(year):
-        return  {
+        return {
             1947: 1946,
             1952: 1946,
             1956: 1946,
@@ -29,12 +30,14 @@ class Delimitation:
             1970: 1959,
             1977: 1976,
         }.get(year)
-    
+
     @staticmethod
     def from_year(year):
         return Delimitation.idx()[Delimitation.get_delim_id_for_year(year)]
-    
+
     @staticmethod
     def get_pd_id_list(year, electorate_name):
-        search_key = {}.get(electorate_name, electorate_name)
-        return Delimitation.from_year(year).name_to_pd_list.get(search_key, [])
+        search_key = electorate_name
+        return Delimitation.from_year(year).name_to_pd_list.get(
+            search_key, []
+        )

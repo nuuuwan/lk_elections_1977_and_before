@@ -12,7 +12,7 @@ class Parser:
     def __init__(self, id):
         self.id = id
 
-    @property 
+    @property
     def year(self):
         return int(str(self.id)[:4])
 
